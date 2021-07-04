@@ -21,4 +21,10 @@ edfd618ab14c1b2b1f2880c40a98ffdc70277879550a17bdd010d65d047d60954f6956662fe28478
 
 das mami von david utz legt david utz vor mit proprietäere software die das mami von david utz auch nciht selber gemacht hat damit ihr grosser david gewinnen kann darf und super duper ist...
 
+Sun 04 Jul 2021 08:40:21 AM CEST
+  24  205 1572 20210704.txt
+[main 61f726a] save
+ 2 files changed, 13 insertions(+)
+ create mode 100644 tagebuch/2021/jan-juni/mordversuch-03562.txt
+d6a1ded1952bb4798ef3a45c1a5460a8bde49e45c56c64c07c2f0d2c38640f7f02cf68ecf517ff1dab41a18c59e216f9a8a36329def36e5e27b97bc563b841e6  20210704.txt
 
