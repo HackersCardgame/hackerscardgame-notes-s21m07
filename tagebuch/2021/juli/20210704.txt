@@ -158,4 +158,9 @@ Sun 04 Jul 2021 06:35:56 PM CEST
 
 dann zum technisch interssanteren was wir mitigaten sollten, sobald die steuerfunktoin die 2010er kinder nicht mehr mit korrekten wegen fürttert würden diese kinder soweise selbre anfangen zu denken udn sowieso nicht zu robotern oder "sprengnmiestern" werdne wie urs oder sein vater wollte... allenfalls sähen wir hier eine option für die verreichnung der folgekosten für die therapie aller robot's --- save the robots <-- auf verursacher kosten...
 
+Sun 04 Jul 2021 07:04:07 PM CEST
+  161   996 15634 20210704.txt
+[main 792fb96] save
+ 1 file changed, 3 insertions(+)
+1670152c3109e066ecc51727b78b5a63734996b0c04a9529b39c1f7819ee6cad7b93f5b5dfc1241bb9bbd72c6e4584dbd65d5057d4202caf4ae609d95efb91c2  20210704.txt
 
