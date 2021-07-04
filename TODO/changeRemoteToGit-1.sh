@@ -24,4 +24,16 @@ also urs adaptiert mein verhalten und verfüttert es kind/ern von melanie, verge
 
 zum glück spinne ich nur...
 
+hypthese:
+p1: viele jüdische informatik professoren in der geschichtsschreibung
+p2: juden waren z.B. bei den römern ... sklaven
+
+p1 + p2 = p3
+
+p3: urs blum sieht es als legitim mir meine immateriellen güter die ich selber erarbeitet habe zu rauben, so zu unkosheren immatereillen gütern zu machen und diese an kinder zu füttern: mutter-vergiftung / vater-vergiftung, bzw. wenn die hyphtese stimmt wäre es grossvater-vergiftung und grossmutter-vergiftung
+
+grossvater-vergiftung könnte auf zwei arten gedeutet werden
+A) den grossvater vergiften
+B) der grossvater vergiftet die immateriellen güter <- ich meine diese variante was man aber sowieso schon aus dem obigen text entnehmen könnte AUSSER urs blum hat z.b. von irgend wem anderem rechstverwurschtel software geraubt...
+
 
