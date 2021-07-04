@@ -150,4 +150,9 @@ der spruch "wie kan nich nnach punkten..." ist ja eignetlcih schon ein punkt
 ihc:
 ja ABER auch nur defence und der verzweiflete versuch den FAN so los zu werden mit aversion, somit wäre der mitpatient mit seinem "die geben mir gift" auch nur bei mir temporär zwischengelagert wordne und eigentlich für urs blum gedacht gewesen?
 
+Sun 04 Jul 2021 06:35:56 PM CEST
+  153   909 14918 20210704.txt
+[main e377a55] save
+ 1 file changed, 7 insertions(+)
+6097233bde238006639b44db2e3573aa6c6001c36b2693fcbfecb30030d2fe8381d9334f56210e0ef7f7e7e57b7a5989b1a9503fbf5a71f5ccc17a2f0bdd7263  20210704.txt
 
