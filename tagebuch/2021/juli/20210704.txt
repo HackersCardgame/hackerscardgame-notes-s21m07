@@ -460,4 +460,9 @@ Sun Jul  4 23:57:22 CEST 2021
 
 die eltern von david utz, markus belser ... reden den kindern ein nimm es dir einfach, raube einfach... solange die rauben protokollieren die eltern akribisch für den (runter kommen sie alle) rechtsfall wo dann das ganze erwirtschaftete geld an die eltern geht. selbst wenn man nur software für 10'000 Fr. raubkopiert hat kassieren dann die eltern die ganzen erwirtschafteten 100'000.-- der letzten 20 jahre...
 
+Mon Jul  5 00:42:24 CEST 2021
+  463  3913 37117 20210704.txt
+[main 2d012e6] save
+ 1 file changed, 4 insertions(+)
+675bd68c2e347d83645d74393888d9ff02d10067c0d0dcfa21f508a591f16df9d4830fb0cf65715055a3c897e3fa4633e2cf6d33b125ce8f31571a265eb4d795  20210704.txt
 
