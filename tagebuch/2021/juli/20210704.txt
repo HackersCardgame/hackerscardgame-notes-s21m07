@@ -28,3 +28,75 @@ Sun 04 Jul 2021 08:40:21 AM CEST
  create mode 100644 tagebuch/2021/jan-juni/mordversuch-03562.txt
 d6a1ded1952bb4798ef3a45c1a5460a8bde49e45c56c64c07c2f0d2c38640f7f02cf68ecf517ff1dab41a18c59e216f9a8a36329def36e5e27b97bc563b841e6  20210704.txt
 
+marc@debian:~/hackerscardgame-notes-s21m07$ figlet -f banner ' Good Morning CyberVietnam ' -w 200 | sed -e "s/ /☆/g" | sed -e "s/#/★/g"
+☆☆☆☆★★★★★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆★☆☆☆☆☆★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆★★★★★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆★☆☆☆☆☆★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆★★★★☆☆☆★★★★☆☆★★★★★☆☆☆☆☆★★☆☆☆★★☆☆★★★★☆☆★★★★★☆☆★☆☆☆☆★☆★☆★☆☆☆☆★☆☆★★★★☆☆☆☆☆★☆☆☆☆☆★☆★☆☆☆★☆★★★★★☆☆★★★★★★☆★★★★★☆☆★☆☆☆☆☆★☆★☆★★★★★★☆★★★★★☆★☆☆☆☆★☆☆☆★★☆☆☆★☆☆☆☆★☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆☆☆☆★☆★☆★☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★★☆☆☆★☆★☆★★☆☆☆★☆★☆☆☆☆★☆☆☆☆★☆☆☆☆☆☆☆☆★☆★☆☆★☆☆☆☆★☆★☆☆☆☆☆☆★☆☆☆☆★☆★☆☆☆☆☆★☆★☆★☆☆☆☆☆☆☆☆★☆☆☆★★☆☆☆★☆☆★☆☆★☆☆★★☆☆★★☆☆☆☆
+☆☆☆★☆☆★★★★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆☆☆☆★☆☆★☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆★☆☆★☆★☆★☆★☆☆★☆★☆☆☆☆☆☆☆☆☆★☆☆☆☆☆☆☆☆☆★☆☆☆★★★★★☆☆★★★★★☆☆★☆☆☆☆★☆★☆☆☆☆☆★☆★☆★★★★★☆☆☆☆★☆☆☆★☆★☆☆★☆★☆☆☆☆★☆★☆★★☆★☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆☆☆☆★☆☆☆☆☆★☆★☆☆☆☆★☆★★★★★☆☆★☆☆★☆★☆★☆★☆☆★☆★☆★☆☆★★★☆☆☆☆★☆☆☆☆☆☆☆☆☆★☆☆☆★☆☆☆☆★☆★☆☆☆☆☆☆★★★★★☆☆☆★☆☆☆★☆☆★☆★☆☆☆☆☆☆☆☆★☆☆☆★☆☆★☆★☆★★★★★★☆★☆☆☆☆★☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆☆☆☆★☆☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆★☆☆★☆☆☆★★☆★☆★☆☆☆★★☆★☆☆☆☆★☆☆☆☆★☆☆☆☆☆★☆☆☆★☆☆☆★☆☆☆☆★☆★☆☆☆☆☆☆★☆☆☆★☆☆☆☆★☆★☆☆☆★☆★☆☆☆☆☆☆☆☆★☆☆☆★☆☆☆★★☆★☆☆☆☆★☆★☆☆☆☆★☆☆☆☆
+☆☆☆☆★★★★★☆☆☆★★★★☆☆☆★★★★☆☆★★★★★☆☆☆☆☆★☆☆☆☆☆★☆☆★★★★☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆★☆☆☆☆★☆☆★★★★☆☆☆☆☆☆★★★★★☆☆☆☆★☆☆☆★★★★★☆☆★★★★★★☆★☆☆☆☆★☆☆☆☆★☆☆☆☆★☆★★★★★★☆☆☆★☆☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+
+
+
+
+Richtigstellung an Adrian Bühler v/o Chlaph:
+
+Chlaph damals: "Aquila was hast du mit Floppy gemacht" (betont klagend betont)
+
+ich: richtigstellung "lieber" adrîan Bühler: die aquila ist nur der sündenbock dafür dass urs blum gerne den 20 Jährigen infromatiker zerfetzt hätte, der schon damals gedroht hat damit das puzzle der drei morde bei ABB CHFAC aufuzdecken, dank urs blum und seinen mittäter wie der gabriel riela der gemäs business-(a)social-Media auch bei der Zürich versichrung gearbeitet hat erst 20 jahre später fertig zusammen gepuzzled worden ist von mir, trotz der 20 jahre graylisting der morde bringt das eigentlich den 1970er und ältern herren ncihts, denn gemäss schweizer rechtssprechung verjährt mord ncith, also wurde 2013 noch eine weitere klage eröffnet gegen mich durch herr urs blum (StGB 180, beim gekauften Staatsanwalt aktenkundig) was >>>GARANTIERT NICHTS MIT DEN SNOWDNE LEAKS ZU TUN HAT<<<< (sagt satan) die "zufällig" genau auch zu diesem zeipunkt waren...
+
+
+p1: infiltration der computer netzwerke einem täter zuordnen können
+p2: ableger dieser organistion in der schweiz identifiziert
+p3: der floppy (ich) wird wieder mal weggesperrt in die psychiatrie um so mit "marc jr landolt ist ein schizo spinner" wider alles an den gerichten vorbei zu schmuggeln
+
+p1 + p2 => p3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
