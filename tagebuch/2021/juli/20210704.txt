@@ -274,4 +274,9 @@ Sun Jul  4 22:32:45 CEST 2021
 seit der beiziehung mit claudine bzw allenfalls auch schon seit beilser und utz im soundrümli sind die mein ganzes leben am auslesen, am adaptieren und am sabotieren wie der stefan bader gesagt hat "ich werde überall dran sauen"... bzw. ist das vermutlich die nearest match named entity einer person ungefähr gliehcaltrig um von urs, martin und astrid blum, pfisterer und riela abzulenken...
 
 
+Sun Jul  4 22:35:28 CEST 2021
+  277  1847 22581 20210704.txt
+[main 30637d9] save
+ 1 file changed, 4 insertions(+)
+534c704d9b91b543bd3c6b911a578b016acb7e012227702227d7d24e29e128ec7ce51d7339631438a659705507c7ef4e415ef34bcbf05ae668d7b5fccced3e50  20210704.txt
 
