@@ -219,4 +219,10 @@ windows / micorosft bietet somit der shcweizer armee eine option zeugen über wi
 
 Sun Jul  4 21:26:33 CEST 2021
   220  1347 18645 20210704.txt
+[main 1d5c878] save
+ 1 file changed, 11 insertions(+)
+74d2868cacd949e7f2d9bdb56b5379b1417dcc4b0923d4768cd0c1bf1cb3ab6a38adeb83d612fd7d9a6e6b768bcdcd45c007e521fb2dbe98164c8c8dd3972e25  20210704.txt
+
+ich habe sogar das gefühl, dass windows den stärkeren sendepegel für die epielpsie infrastruktur hat und schneller suzidi induziert als linux...
+
 
