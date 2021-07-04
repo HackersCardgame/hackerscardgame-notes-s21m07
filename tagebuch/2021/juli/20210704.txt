@@ -3,4 +3,14 @@ Sun 04 Jul 2021 08:15:45 AM CEST
 
 was das herz begehrt --- zumindest redet das system den konstumenten das ein, und im hintergrund lauern die mörder welche die 3 abb mitarbeiter umgebracht haben und versuchen im hintergurndrauchen die tagebücher zu lsöchen
 
+Sun 04 Jul 2021 08:15:54 AM CEST
+  6  45 281 20210704.txt
+[main 484329d] save
+ 2 files changed, 6 insertions(+), 713 deletions(-)
+ copy tagebuch/2021/juli/{20210704.txt => 20210703.txt} (100%)
+ rewrite tagebuch/2021/juli/20210704.txt (99%)
+a2470ebf8dc7dea8f46fb0eab29227398c19b798711b52659e0b8b5cb71c362b27d4746845fa169acfe352f21d845c1ba22e9e4c621c0c76160e472c0dae29cb  20210704.txt
+
+das was pfisterer mit "sie haben schizophrenie apellativ" (was so tönt wie ein hund der apportieren und stöckchen holen muss) war allenfalls auch zu urs blum und gar nicht zu mir und pfistererer hat dem urs blum gesagt, dass er jetzt bissig fauf meine tagebücher sein muss, fass meine tagebücher, beiss dich darin fest und fahr zur hölle weil du meine privatsphäre respektieren solltest. also der pfisterer macht sihc auch über urs blum lustig...
+
 
