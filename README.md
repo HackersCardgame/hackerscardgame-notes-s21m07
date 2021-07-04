@@ -1,0 +1,1 @@
+# hackerscardgame-notes-s21m07
