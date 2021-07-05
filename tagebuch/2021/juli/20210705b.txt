@@ -399,4 +399,9 @@ gewinn sei eine kleine weisse schachtel (der sprengzünder) auf einer grossen sc
 
 überstetzt heisst das dass die firma brack (ein studeinkollege von härdi simon) produkte mit sprengfallen erweiter und so jeden kunden ermorden kann wenn er nicht gut in psychologsicher selbstverteidingung ist wie marc jr landolt?
 
+Mon Jul  5 22:13:22 CEST 2021
+  402  3100 23921 20210705b.txt
+[main 438992f] save
+ 1 file changed, 16 insertions(+)
+0bb0b2a0c5e5c3e49aecd6bd75b42312f7924c22eab0ef9971166a017f112eb6567eb48a42f6241d765ce621591872b911351c424104ad4ae0e78670d9716280  20210705b.txt
 
