@@ -201,4 +201,9 @@ das heisst diese herren <-
 
 [DELETED] [REBUILT] dies muss als morddrohung durch mutmasslich der zürich verischrung als us ableger gegne marc jr landolt aufgesfasst werden und verschleiert die fragestellung: kennen die rielas die truffers (afaik beide usa, somit wäre der Gauleiter ein zweifach off by one: der gauLEITER würde von einem team ablenken, das wort ist auf "die bösen deutschen" geprägt und würde von einem us gauleiter - team ablenken...
 
+Tue Jul  6 01:37:00 CEST 2021
+  204  1544 11425 20210706.txt
+[main 57eecb1] save
+ 1 file changed, 8 insertions(+)
+ca3ba0f8a748a3e6b475970ac55ffb4d829c2f652aa425a657209227a946855a13408df2b07c063c02984460fa4f8e8031a9828648f6ff972588991958f139e4  20210706.txt
 
