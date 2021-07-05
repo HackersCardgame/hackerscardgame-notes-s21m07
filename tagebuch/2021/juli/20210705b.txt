@@ -416,4 +416,9 @@ Mon Jul  5 22:36:54 CEST 2021
 kinder die piraterisierte software brauchen wären somit weniger gefährdet so von der armee schweiz ermordet zu werden, bzw. hat der shrike gesagt, dass er jemanden kenne, der diese ganze vst's software immer kaufe aber dennoch die illegale kopie leeche (scene wort für raubkopieren) damit er nicht den ganzen ärger mit dem lizenzieren am hals hat... was irgendwie meiner meinung nach gar keine so blöde idee ist...
 
 
+Mon Jul  5 22:40:22 CEST 2021
+  419  3302 25498 20210705b.txt
+[main 821375c] save
+ 1 file changed, 9 insertions(+)
+b73304c337f452916a699cbe80e5ee067e48556875a4e3da6623963f890cb8dae32d003881939d1ee8bd7d316062ebb3b3fdf16dcf64f8c03005e576da63d173  20210705b.txt
 
