@@ -96,4 +96,9 @@ da müsse ich allenfalls mal den truppen koch fragen ob er mal der statemachine 
 unknown:
 hypotehse: der Truppen-Koch ist Kanibale und heist Truppen-Koch weil er die Truppe kocht?
 
+Tue Jul  6 00:49:23 CEST 2021
+  99  685 4854 20210706.txt
+[main aebc7c7] save
+ 1 file changed, 4 insertions(+), 5 deletions(-)
+c8f4a3b555eb03e2c43eee166042f65a2eafb6e0003aff4ba83ea6c66ac803fb60f46bbf2025cda98f70135e4ef910a89ba50b0bfbd77e2c6e5c8ec2b8f92cf4  20210706.txt
 
