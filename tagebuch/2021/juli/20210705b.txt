@@ -435,4 +435,9 @@ f4c22a598d944e2938677c6f572282aef9289128d4a384de110061ea98df5489a80e32377839630d
 dann schalten auch schon wieder die vorschläge für die falschen lösungswege mit sackgassen udn weiteren mini-end-gegnern ein...
 
 
+Mon Jul  5 22:50:36 CEST 2021
+  438  3402 26428 20210705b.txt
+[main 530f9a5] save
+ 1 file changed, 10 insertions(+)
+ed2387dfd70d3c6fed6f56f0715325bff8a8939e4ae77708044f030a8c26ce98d5cd4acd73a55a93a7e70ab5a885760c20d513aff090ad8a0f0efb475426bf6a  20210705b.txt
 
