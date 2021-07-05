@@ -350,4 +350,9 @@ und schon sagt twitter ich sei ein terrorist udn ich könne nciht ohne handy ein
 
 also alle twitter accounts werden mit entity realtion ship model aggregated und dem zeugen zugeordnet und so die zensur ausgeweitet, also vermutlcih shcon etwas wie algorithmen für militärsiche absichrmdieste die vorallem leute abschirmen möchten die zu morden durch die jeweilige armee aussagen können
 
+Mon Jul  5 21:10:59 CEST 2021
+  353  2680 20726 20210705b.txt
+[main 4f5cb34] save
+ 1 file changed, 8 insertions(+)
+3b6f42eda33b9ae43ee393cc2834f6db12db72027c2f1ecf80abcc93b83685652f62998a50b036aca6113db0990ced164e38a341b68d9bb706359497c290474a  20210705b.txt
 
