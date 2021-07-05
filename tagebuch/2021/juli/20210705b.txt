@@ -153,4 +153,9 @@ Mon Jul  5 19:52:28 CEST 2021
 
 sample scarlin/benister FHA 2001: resetup test <- test obfuscated den code red bzw. code red wird verwendet um einen mord als "lizenz zum töten" euphemismus bzw. als "lawful murder" darzustellen...
 
+Mon Jul  5 19:55:14 CEST 2021
+ 156 1166 8923 20210705b.txt
+[main 64bcba1] save
+ 1 file changed, 4 insertions(+)
+d4809695467d9e4f1ea09c4366f37998ba5d03627d6e91b72c89e1589d5db4baf55d9c2c5561b8fc808018b6ae0e7a42b497fbc373817aa0d56ac0f638fc8673  20210705b.txt
 
