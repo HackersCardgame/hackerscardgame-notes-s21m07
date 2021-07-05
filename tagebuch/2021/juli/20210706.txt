@@ -42,15 +42,14 @@ SELECT * FROM kinder die "the saw" gesehen haben
 
 src1
 
-
 [1] *und mochmals*
 
 [3] einbeldung baumkletterer brechen in meinen blakon ein
 
 
-Tue Jul  6 00:35:56 CEST 2021
-  51  421 2864 20210706.txt
-[main d471f3c] save
- 1 file changed, 18 insertions(+)
-82b40dabca08af3088d0c27ba13321a2dd3e9c96ecd3c48849d7fe791bb9c8636d5e4b72df9dac71b263f1bd4fd0a611fa45ec35c553c46350d38a2e491622dd  20210706.txt
+metapattern: jetzt die chance jüngeren zu helfen, und so würde die infrastruktur und die möglcihkeit dass so bei vormietern krebs erzeugt wurde in der leigenschaft neuenburgerstrasse 6, 10 stock, 3.5 zimmer wohnung ausgeschlichen... vorbereitete exitStrategie
+
+the saw part 1: bedrängung
+the saw part 2: den schachzug verpetzen
+
 
