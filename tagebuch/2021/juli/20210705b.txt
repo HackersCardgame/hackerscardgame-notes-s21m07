@@ -359,4 +359,9 @@ Mon Jul  5 21:10:59 CEST 2021
 
 exploerer.exe (deskotp nicht file browser) grad gecrasht, allenfalls wurde ich jetzt redirected auf ein MTS
 
+Mon Jul  5 21:11:53 CEST 2021
+  362  2715 21096 20210705b.txt
+[main 8a43c0b] save
+ 1 file changed, 4 insertions(+)
+597fd95a7c8383dc8a2f09b080b37f7589920280b22d54b88ba0e0fd03ed819357c6ed4d497f57064abcbf50d7c2984e0067d9e2528254e8dd9ca6890c0fd533  20210705b.txt
 
