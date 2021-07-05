@@ -92,4 +92,9 @@ mein "Phylogenetischer Miliö DNA Baum" von mir vorher haben die glaub nicht ert
 
 da müsse ich allenfalls mal den truppen koch fragen ob er mal der statemachine truppenmoral einen ... in den hintern geben kann
 
+Tue Jul  6 00:47:31 CEST 2021
+  95  671 4753 20210706.txt
+[main 6c57f58] save
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+eb6124a6617fbd9ae0a46b3df577417468517da3c9ebeea7bc02384fc9f08e5491088aede0c1d0f7745352d0dda355d4130583dd82620522c9c4a0899f843a34  20210706.txt
 
