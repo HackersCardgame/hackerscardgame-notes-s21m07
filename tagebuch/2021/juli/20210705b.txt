@@ -378,4 +378,9 @@ pfisterer: das ist psycholgische kriegsfurhgn <- ich: hat pfisterer ein problem 
 da ist aber dann zu erwarten, dass die labors mit Satans personal besetzt werden, aber wenn jetzt jemand solche dinge whitehat hacker style selber sequenzeieren könnte und z.B. die software selber geschirebne hat........
 
 
+Mon Jul  5 21:42:55 CEST 2021
+  381  2947 22776 20210705b.txt
+[main a468db2] save
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+6769bd4f450dbeae8f597e02241a0293fc2306eeab566d8179d4dbfb4684f529eb8904b58c8fc11e9dd0df8eca27ac8df3f5451d5040c9c89cb71126e128a5bb  20210705b.txt
 
