@@ -185,4 +185,9 @@ Mon Jul  5 20:02:34 CEST 2021
 
 bei ableton kann das auch gemacht werden, also obwohl das damals ncoh nciht so schlimm war mit dem installieren von musik software sollte man das der fabienne roos sagen, bzw. auch der hinweis, dass man auch z.B. gratis midi eingabe software verwenen kann.
 
+Mon Jul  5 20:12:03 CEST 2021
+  188  1526 11663 20210705b.txt
+[main 842d4b0] save
+ 1 file changed, 3 insertions(+)
+e0737809d1f435ad622a5534afc655aef62b3a465af865d8e795ee245cdab89f80bb18655761a2e2668f9d6b2b8a9a3efcfb762b4b8c521cf2436e45b22e8ad1  20210705b.txt
 
