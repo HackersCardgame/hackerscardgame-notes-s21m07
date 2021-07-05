@@ -280,4 +280,9 @@ urs blum: der tonetto hat eine gelatene pistole am kopf <- über mein sprachzenr
 
 achtung, die täterschfat versucht grad wieder die situation eskalieren zu lassen, so ein bisschen hilfe von fedpol wäre toll...
 
+Mon Jul  5 20:43:54 CEST 2021
+  283  2203 16841 20210705b.txt
+[main 6462007] save
+ 1 file changed, 10 insertions(+)
+be3ca0bb12e07392df003eeab85291f2364c59bc7351875652da8c59d86e7bdc349f50cc29da11c3e10cbbfad1581616a75434426f323d5c30d175660ace7276  20210705b.txt
 
