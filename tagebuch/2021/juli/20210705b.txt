@@ -425,4 +425,14 @@ b73304c337f452916a699cbe80e5ee067e48556875a4e3da6623963f890cb8dae32d003881939d1e
 
 dann scheint der account von meiner Audio thing hats lizenz abhanden gekommen zu sein und alle mails fehlen auch diesbvezüglcih und es ist so ungefähr das letzte vst, so wäre diese hohle gasse vermutlich implementiert mit etwas wie eine endgegner des täternetzwerks ...
 
+Mon Jul  5 22:49:39 CEST 2021
+  428  3365 26034 20210705b.txt
+[main 4c541a2] save
+ 1 file changed, 4 insertions(+)
+f4c22a598d944e2938677c6f572282aef9289128d4a384de110061ea98df5489a80e32377839630df468727f22117007cb34863a4eda045877752038ce08eb70  20210705b.txt
+
+
+dann schalten auch schon wieder die vorschläge für die falschen lösungswege mit sackgassen udn weiteren mini-end-gegnern ein...
+
+
 
