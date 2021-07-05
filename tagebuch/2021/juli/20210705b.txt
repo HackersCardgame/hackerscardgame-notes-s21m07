@@ -177,4 +177,9 @@ vereine, bzw. elternräte der vereine wären vermutlcih interessant für die arm
 
 otto fischer ist vermutlich schon ein bisschen kleiner als abb... dann hätte es solche aktiionen allenfalls auch in anderen subsidiarys von abb gegeben...
 
+Mon Jul  5 20:02:34 CEST 2021
+  180  1463 11145 20210705b.txt
+[main 6a31bf8] save
+ 1 file changed, 2 insertions(+)
+7a1a9dd633dcc3295dee68d1e71b7312d733b7517440b65f5c3cc6191e85535eb37b57ae33ec82dd81c305494789db0713769f6249809350414960cfecf07f17  20210705b.txt
 
