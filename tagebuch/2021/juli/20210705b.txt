@@ -337,4 +337,9 @@ die argovier studentenverbindung ist somit ein auftragskiiller und vermutlcih au
 ebd. die machen einen auf "alle täter jetzt verpetzne" das heisst die zürcih versicherung hat nun alle strafakten zu dne auftragnehmenr die den auftrag den marc jr landoltt zu ermorden angenommen haben frei geschaltet um die täter bzw. "auftragnehmer" so zu motivieren "fürschi mache" <----- 
 
 
+Mon Jul  5 20:53:04 CEST 2021
+  340  2593 19991 20210705b.txt
+[main 10d2df3] save
+ 1 file changed, 3 insertions(+)
+d7f7b8651c3b53db04e00d62a0bd9696367b748c1e5ccce61d04e40696aa811c5978aa1ab9bc1c462764d794da6f32679852d8a57e972d56066d300cd059f195  20210705b.txt
 
