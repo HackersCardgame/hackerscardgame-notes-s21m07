@@ -118,4 +118,9 @@ analyse der malware die auch auf körperfunktionen und iunduzierte epilepsie zug
 
 achtung aufpassen, da wäre gar nicht die sache mit synapse audio wichtig, sondern wie der/die täter auf die epilepsie und körperfunktoinen zugreifen können, ebd SIMULATION. das technische problme zu nennen wäre nur die ExitStrategie um das eigentle täternetzwerk zu shcützten.
 
+Mon Jul  5 19:47:17 CEST 2021
+ 121  989 7306 20210705b.txt
+[main f882acf] save
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+b41c2983f32bba5e46bb47563c9ca8909eba521ea6969ba24ac69e165298078db5a28f80d27234583056e72bdd60397aa3292b13a2ebbf649fa6bd5d112e38b5  20210705b.txt
 
