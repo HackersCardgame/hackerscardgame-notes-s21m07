@@ -304,4 +304,9 @@ Mon Jul  5 20:47:39 CEST 2021
 
 das wäre das, dass die irgend 3-10 offizier brauche um einen "lawful morder" aktiierne zu können
 
+Mon Jul  5 20:48:13 CEST 2021
+  307  2375 18243 20210705b.txt
+[main 07e82e0] save
+ 1 file changed, 4 insertions(+)
+124c61917608128646cad38df9d7ec59c169bdc7eba7a0b95544f323500a05dc6f3a8326d876b8a73bf5680fa27d1e0e6f260ce3502f574e5f61974eff29dd5a  20210705b.txt
 
