@@ -124,3 +124,13 @@ Mon Jul  5 19:47:17 CEST 2021
  1 file changed, 2 insertions(+), 5 deletions(-)
 b41c2983f32bba5e46bb47563c9ca8909eba521ea6969ba24ac69e165298078db5a28f80d27234583056e72bdd60397aa3292b13a2ebbf649fa6bd5d112e38b5  20210705b.txt
 
+generisch:
+serien nummer = unique identifier
+aktivierung = situation in der man zielpersonen rage quitten kann
+
+dominik brändli sprachsample: liz
+verbale vortkette: lizenz als machtmittel -> das rechnungswesen als fürhungsinstrument -> FHA ... <- alles falsche spuren hätte ich gesagt
+
+wichtiger: GENERISCH && SIMULATION
+
+
