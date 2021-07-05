@@ -1,0 +1,29 @@
+Mon Jul  5 18:16:48 CEST 2021
+  73  604 4251 20210705.txt
+
+
+marc@DESKTOP-B99KF62:~$ figlet PRiO LEBENSGEFAHR
+ ____  ____  _  ___  
+|  _ \|  _ \(_)/ _ \ 
+| |_) | |_) | | | | |
+|  __/|  _ <| | |_| |
+|_|   |_| \_\_|\___/ 
+                     
+ _     _____ ____  _____ _   _ ____   ____ _____ _____ _    _   _ ____  
+| |   | ____| __ )| ____| \ | / ___| / ___| ____|  ___/ \  | | | |  _ \ 
+| |   |  _| |  _ \|  _| |  \| \___ \| |  _|  _| | |_ / _ \ | |_| | |_) |
+| |___| |___| |_) | |___| |\  |___) | |_| | |___|  _/ ___ \|  _  |  _ < 
+|_____|_____|____/|_____|_| \_|____/ \____|_____|_|/_/   \_\_| |_|_| \_\
+                                                                        
+marc@DESKTOP-B99KF62:~$ 
+
+
+
+Fälle am durchdenken und ich komme zum Schluss dass die Patientin "Fabienne Roos" in Lebensgefahr ist.
+
+Da gibt es meiner Meinung nach einen Mordauftrag gegen Fabienne Ross (gerupftes Huhn, bzw. zu rupfendes Huhn um es mit Formulierungen der 1950er zu formulieren)
+
+
+Scans mti Herleitung im selben git commit.
+
+
