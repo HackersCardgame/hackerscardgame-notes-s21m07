@@ -448,4 +448,12 @@ ich hätte gesagt, da lagert google falsche webseiten vor, selbst ab neu install
 
 zusammenfassend: ICH BIN NICHT BEHINDERT, ich werde behindert, und da man jetzt ungefähr weiss wer das ist, könnte man ja da regress machen... aber das ist dann wieder nicht meine baustelle und müssen andere entscheiden...
 
+Mon Jul  5 22:58:10 CEST 2021
+  451  3478 27070 20210705b.txt
+[main 4926235] save
+ 4 files changed, 8 insertions(+)
+ create mode 100755 PRIO/gitCommit-kaputt-auf-neuem-windows.PNG
+ create mode 100755 TODO/aproposRoteGestaltungsPsychologie.PNG
+ create mode 100755 TODO/vorgelagerte-webseite.PNG
+7762d651632d393e7d2e450b41aff9bbba81d450a1c0091baa318c9248c8cd942e3ce583c5d6ce8d0cdececaa19a6b2b17e875f50ba9086d1523ed479d15d80c  20210705b.txt
 
