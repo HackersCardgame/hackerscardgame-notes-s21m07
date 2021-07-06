@@ -281,4 +281,9 @@ der git commit wird herausgezögert = statemachine truppenmoral für die truppen
 
 
 
+Tue Jul  6 02:08:10 CEST 2021
+  284  2091 15828 20210706.txt
+[main 61d9031] save
+ 1 file changed, 4 insertions(+), 5 deletions(-)
+8a87fce3e7c66bb9e9d9d742d4aa150ea92c70535ea2d62db37e3b00260c845e76389060658caba1e359e1de73f2c855ed14bb3314a97dd45d685ed9e14f8b2c  20210706.txt
 
