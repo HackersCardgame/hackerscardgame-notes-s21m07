@@ -280,4 +280,9 @@ pavlov stimuli / cyberwürgekette bei marc jr landolt = statemachine truppen mor
 der git commit wird herausgezögert = statemachine truppenmoral für die truppenmoral der gehülfen satans
 
 
+Tue Jul  6 02:08:27 CEST 2021
+  283  2091 15827 20210706.txt
+[main 7eb9327] save
+ 1 file changed, 6 deletions(-)
+f199f55f773e478014193013841897a9b7d6cc44319415e9459e7e8fe7d71752332d6c7d84142d85ca766e613ec8d084cbab06872c87e23da4102bdc18543058  20210706.txt
 
