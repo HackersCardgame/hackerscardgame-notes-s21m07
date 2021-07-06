@@ -307,4 +307,9 @@ da würde mcih interessieren ob das beim fedpol oder der kapo auch passiert solc
 
 also im pädophilenring muss man dann das eigene kind ermorden, was dann perfekt von einem militärischen terrornetzwerk und miltiärischer sigint / cominint ablenken würde weil "pädophilen ring >>> NIHCT <<< militär" aber die scg1 karte deckt dann das irgendwie auf...
 
+Tue Jul  6 04:34:00 CEST 2021
+  310  2343 17859 20210706.txt
+[main a3bd1e9] save
+ 1 file changed, 12 insertions(+)
+271f39eca2d04281e8c4da90876666c858783d4d301fc071fbcc37fbb1c52e29dacadf16476948af4bd299f8289e0817dad12e32a0a2b1d9eb9bdfc4002fd18b  20210706.txt
 
