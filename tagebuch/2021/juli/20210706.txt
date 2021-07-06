@@ -258,4 +258,9 @@ b93cf10aa3e3130bc095b45c47a1b208fc287b168d60244b235e1173ffd3320ab7facaf0ba018f66
 meine meinung:
 falls nur die hälfte von dem stimmt ist zu erwarten, dass diese sorte von amerikanern dann schlusesndlich alle mitwisser "abräumen" und dass es in diese richtung geht beweisen die Snowden leaks und der artikel "us agents feel comfortable in switzerland"
 
+Tue Jul  6 02:03:01 CEST 2021
+  261  1891 14291 20210706.txt
+[main a3f3898] save
+ 1 file changed, 5 insertions(+)
+c623c1267dd93ed36763716a00fda27e781c300fa1db72e6ab0b55c783124a7b2156b92cf45df1bd9f8936f4f15c83b174c244ef4ac246f8324d3898d6167f5b  20210706.txt
 
