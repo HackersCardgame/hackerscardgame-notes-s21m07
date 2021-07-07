@@ -411,4 +411,9 @@ sfc
 so zu sagen der scanner der überprüft ob alle dateien richtig sind auch ersetzt so dass die malware geheim bleibt...
 
 
+Wed Jul  7 21:40:06 CEST 2021
+  414  2996 22984 20210707.txt
+[main fcb7c6e] save
+ 1 file changed, 21 insertions(+)
+f1c848c184e6d2cc59ba5c335ca17be18ea9d29024ba2bd954c36d283d1bd0f181f31be8746a8407c04bcf315f20239998975198f833ba06156c09148e3edf32  20210707.txt
 
