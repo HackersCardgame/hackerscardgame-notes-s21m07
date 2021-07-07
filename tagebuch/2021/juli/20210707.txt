@@ -514,4 +514,9 @@ allenfalls treibt urs bulm und gabriel riela diese menschen mit dem Konzept an: 
 [2] injected urs bulm: wirklich das ist die wahrheit, nein wirklich die wahrheit <- ...
 
 
+Wed Jul  7 23:09:09 CEST 2021
+  517  3745 29424 20210707.txt
+[main bf78e9a] save
+ 1 file changed, 11 insertions(+)
+fdc65f34f1ea5c57f8614b692d21bd87f74cc9ee2de947d0cb8548f6a633990a65dbbbb5ae02e7804ffa03df886c7025fe179d94daf1295f44d8c91055404ad0  20210707.txt
 
