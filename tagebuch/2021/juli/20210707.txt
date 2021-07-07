@@ -447,4 +447,9 @@ die zwei speziell gesicherten termials sind somit vermutlich zugänge zum us waf
 
 wir danken urs blum für den verrat der funktionsweise des amerikantischen militär backbones...
 
+Wed Jul  7 21:58:17 CEST 2021
+  450  3240 24999 20210707.txt
+[main fe926f5] save
+ 1 file changed, 18 insertions(+)
+c342878b3c7e43b58692155cd20595eb3380e3871db2eae3a604fb1ad9f929e46312a1eae5d87b1aa99a5caf27599721c4d7b5ce77afc7b96699f68fc6c6b289  20210707.txt
 
