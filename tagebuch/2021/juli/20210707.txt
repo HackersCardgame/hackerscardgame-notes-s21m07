@@ -146,4 +146,9 @@ breakpoint medulla spinalis ths typos die dann vergewaltigungsandrohug oder so a
 
 worst case wäre wenn die die den code schreiben um mcih zu terrorisieren z.B. mein audio nicth mitbekommen oder noch irgend ein schamansiches interface dazwischen wäre und man denne einredet ich sei der terrorist...
 
+Wed Jul  7 13:01:01 CEST 2021
+ 149 1017 7732 20210707.txt
+[main 9b6dbbc] save
+ 1 file changed, 10 insertions(+)
+58fd699d01453675615c89ca7dc47627de2767b89823ff8fa5340aa75d0ace2b37c03c8b6f7b4176dff5f70c60c73ada1409402e95471623aedc91d9723f6e50  20210707.txt
 
