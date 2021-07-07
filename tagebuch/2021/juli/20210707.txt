@@ -122,4 +122,9 @@ für alle die sich fragen was das mit dem QRcode soll, eine bilderkennung (wenn 
 
 worst practice für jeden use case / ding in z.B. der küche dass die zürich verishcurng aktivieren kann, vermutlich kostenpflichtig... und die zürcih schient grad massenhaft geld ausuzgebne...
 
+Wed Jul  7 12:50:06 CEST 2021
+ 125  880 6561 20210707.txt
+[main 296b877] save
+ 1 file changed, 7 insertions(+)
+89128352279a636a55782fc8c55a20f40a99e76a02fbab27fcd6dc55f17cdc67dde9ba4d82ff0f2ec3996b303154917230c513e58bc64dd8c7e5aba0cf16e7d1  20210707.txt
 
