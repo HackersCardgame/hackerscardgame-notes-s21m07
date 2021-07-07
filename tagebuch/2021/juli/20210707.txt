@@ -107,4 +107,12 @@ morddrohung durch marc jr landolt in dem er mit der hand zur pistole geformt auf
 ich starr mal auf diesen qrCode um den menschen zu finden der mich stalkt (selber git commit)
 
 
+Wed Jul  7 12:36:59 CEST 2021
+ 110  777 5658 20210707.txt
+[main 2b83016] save
+ 4 files changed, 12 insertions(+)
+ create mode 100755 PRIO/list.PNG
+ create mode 100755 PRIO/retinaCCDqrcode.PNG
+ create mode 100755 PRIO/wenns-stimmt-bekomm-ich-dafuer-vermutlich-wieder-richtig-viel-aerger.PNG
+1dd92282d8d1933753c8845b9db6d58164d71c037878fbb7e0360f3b63940e6ae77a9286ffe5ff277ac33addbcabd17cab0142eedec439b106b5b75c83abc5c9  20210707.txt
 
