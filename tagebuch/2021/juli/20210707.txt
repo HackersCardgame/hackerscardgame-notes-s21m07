@@ -19,3 +19,9 @@ Wed Jul  7 10:20:20 CEST 2021
  create mode 100644 tagebuch/2021/juli/20210707.txt
 6477cd1e58652499793c87c7a63cab0ea4f3d9e41ce1dd9e4c1c51a81d53383d1185dbcc5f16f659c6b06fb56a9740e0b38c0c725a1f352a3f735a911a2592ed  20210707.txt
 
+
+die erkennen TODO's auf meinem THS/EEG und löschen die dann ganz sekeltiv...
+
+Wed Jul  7 10:46:36 CEST 2021
+  25  210 1288 20210707.txt
+
