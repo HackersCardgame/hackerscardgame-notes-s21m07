@@ -382,4 +382,12 @@ Wed Jul  7 21:16:46 CEST 2021
 oder es hat ein sperrfeld um den eintrag, bzw. 2 screenshots im selben git commit, die such funktion von thunderbird zensiert das...
 count dass die suchfunktoin schiess macht:  >20
 
+Wed Jul  7 21:24:49 CEST 2021
+  385  2751 21109 20210707.txt
+[main 407ec99] save
+ 4 files changed, 10 insertions(+)
+ create mode 100755 PRIO/hmmmm---skype.PNG
+ create mode 100755 TODO/lizenzen-diebstal-trigger-01.PNG
+ create mode 100755 TODO/lizenzen-diebstal-trigger-02.PNG
+dd51c1e152c33e52de3950ddc93039c89c665cb65cd3ac1581a34ad78de5a504851c54f4e229196418403b6bbf506179287e2ed7f362cb2576db75e59a0bc27d  20210707.txt
 
