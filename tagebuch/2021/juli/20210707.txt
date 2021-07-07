@@ -159,4 +159,9 @@ somit hätte myrtha und pfsiterer das angepsasst als weitere cyberwaffe, diese w
 
 dann mein "das dümmste was ich jetzt grad machen kann falls die raumüberwhcung nicht nur unidirektional ist wäre kochen, aber ich hab jetzt halt hunger..." ---> rösti verröschtet und dann kommt dann da das sprachsample von urs blum "friss scheisse landolt" <- gibt's halt reis...
 
+Wed Jul  7 13:08:07 CEST 2021
+ 162 1160 8783 20210707.txt
+[main 35086b7] save
+ 1 file changed, 8 insertions(+)
+74396c227a0b0cd3b30d2c28e633618815d63c706c6e1af27cd7c2822ca353daa5ac18e8ed764f33e186a8de00a4ff561e94d9d1dea7846b7f444e28a88eeb03  20210707.txt
 
