@@ -409,4 +409,10 @@ ausserdem will die statemachine truppenmoral will immer nocht nicht zu unterst h
 mein "Phylogenetischer Miliö DNA Baum" von mir vorher haben die glaub nicht ertragen
       ===============================
 
+Tue Jul  6 17:02:38 CEST 2021
+  412  3060 23264 20210706.txt
+[main 259e8d6] save
+ 2 files changed, 52 insertions(+)
+ create mode 100755 scans/BRN3C2AF421298E_014044.pdf
+cf4abc50234701a1a0c165feec9806619ca0ab388396e1bb7657d0bd9502bf842fd58bd79ad39d58acb76d5b8b6061d52cb96fc0401ad0a6bb32e36fe70b5794  20210706.txt
 
