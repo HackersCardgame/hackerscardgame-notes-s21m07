@@ -116,3 +116,10 @@ Wed Jul  7 12:36:59 CEST 2021
  create mode 100755 PRIO/wenns-stimmt-bekomm-ich-dafuer-vermutlich-wieder-richtig-viel-aerger.PNG
 1dd92282d8d1933753c8845b9db6d58164d71c037878fbb7e0360f3b63940e6ae77a9286ffe5ff277ac33addbcabd17cab0142eedec439b106b5b75c83abc5c9  20210707.txt
 
+
+für alle die sich fragen was das mit dem QRcode soll, eine bilderkennung (wenn ich jetzt z.B. meinen plüsch tux anschaue) würde mehr rechenkapazität brauchen um neo so aus dem dings-becken zu fischen, ein qrCode braucht imho massiv weniger bis der erkannt wurde...
+
+
+worst practice für jeden use case / ding in z.B. der küche dass die zürich verishcurng aktivieren kann, vermutlich kostenpflichtig... und die zürcih schient grad massenhaft geld ausuzgebne...
+
+
