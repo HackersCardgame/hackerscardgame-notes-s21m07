@@ -241,4 +241,9 @@ urs blum: das ksa hat marc jr landiolt nach dem slebben konzept sprengfallen udn
 
 also urs blum bildet sich reserve sprengfallen?
 
+Wed Jul  7 16:58:42 CEST 2021
+  244  1666 12646 20210707.txt
+[main 89546c9] save
+ 1 file changed, 11 insertions(+)
+cf2200ba833ecc5f922f7781396e82ae8ee71ed05bb043fcec6727ce25eb197044625650824deb4d7ad06d8618d663414deee34ec75ac6f72aa37881522f62df  20210707.txt
 
