@@ -1,0 +1,70 @@
+@vera
+
+- Die "Suizid Versuche" wurden bei mir dann irgendwann auch zu "Unfällen" upgegraded
+
+- Elektronik und Wasser = kein Problem
+** Elektronik wird meist von nicht mehr als 12V betrieben die ungefährlich sind, man findet das unter dem Schlüsselwort Kleinspannubng [1] was man aber nicht mit Niederspanung [1] verwechseln sollte
+** wenn man rechnen möchte, gemäss Literatur sind 30mA Tödlich [2] und wenn man jedes Körperteil als einzelnen Widerstand betrachtet [3] kann man das auch ausrechen
+** U = R × I
+** U = 230 V
+*** Gebt solchen Rat nicht wenn Ihr selber keine solche Ausbildung habt
+**** das ist auch der Grund, weshalb man zwar seine USB Lautsprecher selber mit dem Handy verkabeln darf aber z.B. nicht selber Steckdosen, Lichtschalter oder Wachmaschinen verkabeln darf, zumindest nach Schweizer Rechtssprechung
+
+- Hat Dein Freund eine Ausbildung in diese Richtung?
+
+- Sich selber zum Studienobjekt zu machen kostet bei mir immer immens Karma-Energie Punkte, ich hoffe mein Mangesplaine belastet Dich nicht zu fest.
+(z.B. Meine El(s)tern™ haben immer uns Kinder als LaborRatten missbraucht, und auch z.B. in Big Bang Theorie wird in der letzten Staffel gesagt "Dieses Buch mit Baby-Experimenten ist ja toll" was aber allenfalls suboptimaler rat ist weil irgendwelche (vermutlich meist die Väter) dann auf so "glorreiche" Ideen kommen wie mit mir und meinem gleichaltrigen Kollegen etwas wie Robot-Rumble [6] zu spielen 
+
+Disassembly:
+1. Das Überwachungssystem weiss [4], dass grad Waschen suboptimal wäre
+(HackerJeapordy: Was ist eine Game Engine mit Überwachung gepaart)
+
+2. Rawhammer Attack of the mind (also endlos loop auf dem "GeisterKanal" [5]) "mach jetzt genau das" statt die nicht nur lesend zugreifende Überwachung so zu verwenden wie sie gedacht wäre, Menschen an solchem hindern.
+
+3. Steh jetzt genau da hinein
+
+4. Schalte Deinen Freund in Panik-Mudos der die Sicherung heraus nimmt
+(meiner Meinung eine gute Entscheidung, weil wenn Du dann z.B. einen Metall-Wasserhanen [7] angefasst hättest hättest Du irgend etwas zwischen einem Spitalaufenthalt mit Blutverdünner und dem Hauptgast an einer Beerdigung gehabt.)
+
+
+
+
+[1] https://www.google.com/search?q=kleinspannung+vs+niederspannung
+-> dass aber 120V Gleichspannung unproblematisch sein soll halte ich für ein Gerücht.
+
+[2] https://www.google.com/search?q=strom+mensch+gefahr+grafik&source=lnms&tbm=isch&sa=X
+
+[3] https://www.google.com/search?q=widerstandsmodell+mensch&source=lnms&tbm=isch&sa=X
+
+[4] so formuliert muss man dem ArrayList<unnette worte> der das Überwachungssytem missbraucht und das vermutlich auch noch lustig findet
+
+[5] eigentlich auch Technik, aber wenn man die Patentnummern z.B. sagt *HUST US4877027* hat man dann wieder Ärger mit ArrayList<unnette worte> 
+
+[6] https://www.google.com/search?q=big+bang+theory+robot+rumble
+
+[7] Das Wasserletungssystem ist meist direkt oder indirekt mit der PotentialAusgleichsSchiene im Haus verbunden und dann hättest Du einen geschlossenen Stromkreis von zwei Füssen (Parallel-Schaltung [9]) auf L1 und und der Hand übers Herz auf N
+
+[8] https://www.google.com/search?q=potentialausgleichsschiene&source=lnms&tbm=isch&sa=X
+machterhalt
+
+[9] wenn man das noch ausrechenen möchte braucht man noch die Formel R[total] = 1 / ( (1 / R[1]) + (1 / R[2]) )
+
+
+
+
+
+
+
+
+
+Halli Hallo @Salvogo 
+
+Du hast noch eine Frage gestellt zu ArrayList's, ich antworte hier, weil das könnte allenfalls auch andere interssieren:
+
+Eine ArrayList ist eine stark typisierte [1] Klasse bzw. Abstrakte-Klasse [2] die auch noch Interfaces [3] benutzt. Also eher mässig toll für Anfänger um das ganz zu durchschauen, aber die Anwendung ist relativ einfach. Ich verwende das ArrayList's wohl für's Programmieren als auch um Psychologische Dinge zu erklären. wenn ich jetzt zB. im Letzten Post zu @veramariamagie einfach "Liste Unnette Worte" geschrieben hätte käme man nicht unbedingt auf die Idee so etwas in Software zu schreiben, also habe ich "ArrayList<unnette worte>" verwendet, wo mir klar ist dass das sowohl semantisch als auch syntaktisch falsch wäre für die Programmiersprache bin ich mir sicher, dass das Gehirn derer, die sich mit Programmieren auskennen dann sofort diese zwei Dinge intern verknüpft, also Psychologie mit Informatik
+
+[1] https://www.java-forum.org/thema/collections-list-arraylist-kombination-was-fuer-ein-sinn-hat-das.95246/
+
+[2] https://developer.classpath.org/doc/java/util/ArrayList-source.html (Zeile 84 bis)
+
+[3] https://developer.classpath.org/doc/java/util/ArrayList-source.html (Zeile 85)
