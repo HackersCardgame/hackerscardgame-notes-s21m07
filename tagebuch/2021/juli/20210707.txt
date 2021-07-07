@@ -317,4 +317,11 @@ anderes thema: vermutlcih hat peter engel mich als supperter gewollt weil er wus
 
 und es ging dieser sorte von amerikanern gar nicht so durm da den adrian herzog für 200'000 pro jahr satt mich für 50'000 pro jahr anzustellen, es geht um macht, access codes und da vermuctlih auch um scada syteme somit stuxnet...
 
+Wed Jul  7 19:10:00 CEST 2021
+  320  2316 17583 20210707.txt
+[main 796a3c7] save
+ 4 files changed, 160 insertions(+), 1 deletion(-)
+ create mode 100755 del-empty-comilations.sh
+ create mode 100644 empty-compilations
+4aa0e007e93ee2787be3d771116d296207363c25c9d8b396e764abdb7b5000a9085e690d99e31a31fdbd6e0d7df7221b7379834163a17fd47b9d93cf321daf50  20210707.txt
 
