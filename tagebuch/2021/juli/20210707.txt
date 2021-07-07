@@ -168,6 +168,6 @@ Wed Jul  7 13:08:07 CEST 2021
 das mit dem kochen ist hier noch detailiert ausgeführt:
 https://www.youtube.com/watch?v=a-DlCdhsIIU
 
-dieser git commit
+screenshot dieser git commit
 
 
