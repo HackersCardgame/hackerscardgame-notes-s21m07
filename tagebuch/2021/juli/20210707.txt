@@ -287,4 +287,9 @@ Wed Jul  7 17:29:45 CEST 2021
 
 mit diesem schachzug reduziert urs blum meine einkaufsmöglichekiten auf nur noch den bahnhof, somit ist der bahnof urs / martin blums sniper stellung der wahl für morde, und die polizei dort ist gekauft und hilft beim vertuschen...
 
+Wed Jul  7 17:35:28 CEST 2021
+  290  2073 15704 20210707.txt
+[main 278284e] save
+ 1 file changed, 8 insertions(+)
+d673525989abff63c335a6fb383b6938e695b5d4f2738b524598b53893ad1bd12666019628c9327946b8d1d48851d9ef1518c8f91ac085914a01b0655d4d06ea  20210707.txt
 
