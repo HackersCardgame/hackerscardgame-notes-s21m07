@@ -372,4 +372,14 @@ raub ist hohn, urs blum weiss dass das meinen neocortex teilwesie sabotiert weil
 [1] weine landolt
 
 
+Wed Jul  7 21:16:46 CEST 2021
+  375  2702 20667 20210707.txt
+[main d609c54] save
+ 1 file changed, 17 insertions(+)
+591243a8aa5743c510ac30a88274e571ef49dc8bad705f3bab3ae7f04420da38d7def181da46e9446d5326d025baae553e8fc5354f1eeebfad70b7947fdac537  20210707.txt
+
+
+oder es hat ein sperrfeld um den eintrag, bzw. 2 screenshots im selben git commit, die such funktion von thunderbird zensiert das...
+count dass die suchfunktoin schiess macht:  >20
+
 
