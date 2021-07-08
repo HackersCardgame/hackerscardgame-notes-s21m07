@@ -1,6 +1,6 @@
 <!DOCTYPE SamplerBank>
 <samplerbank>
- <sampler location="D:/Music.noDupes/Dimensions In Ambience/05 Eclipsed (LFO Mix).mp3" group="[Sampler1]"/>
+ <sampler group="[Sampler1]" location="D:/Music.noDupes/Dimensions In Ambience/05 Eclipsed (LFO Mix).mp3"/>
  <sampler group="[Sampler2]"/>
  <sampler group="[Sampler3]"/>
  <sampler group="[Sampler4]"/>
