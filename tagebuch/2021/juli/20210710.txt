@@ -36,4 +36,10 @@ wir danken diesem Bully im aldi für den verrat an der schweizer armee, danach k
 [3] urs bulm: es sind die amerikaner <- ich: jhawol urs, die offiziere schweiz würden freiwillige ihre macht abgeben (zynismus)
 
 
+Sat 10 Jul 2021 12:57:13 AM CEST
+  39  423 2701 20210710.txt
+[main ac0f929] save
+ 1 file changed, 39 insertions(+)
+ create mode 100644 tagebuch/2021/juli/20210710.txt
+21900a5e2b90b3200ffb60aaf028d2dc9297c5b68e00c2409cf6d648bab180e3d850e32fc49a7a90c5268471c360f6455a6952d6ce8cd9ca32d41761cd347922  20210710.txt
 
