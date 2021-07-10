@@ -398,4 +398,9 @@ c238aed187b05952ee40a2ab14d91bc09332f45b82c2330652cfea791ccf8c76a4119f8db5c65540
 in solchen situationen versuchen meinenr meinung die täterschaft um urs bulm, gabriel riela und pfisterer jeweils alle situationen maximal eskalierien zu lassen... und suchen selber irgend den schutzbunker auf, also allenfalls "nur" eine state machine bzw. automated targeting...
 
 
+Sat Jul 10 21:24:00 CEST 2021
+  401  3390 25025 20210710.txt
+[main 98e1c02] save
+ 1 file changed, 5 insertions(+)
+7106759eeb771a1ec455eb1dbc00b6f143db654d68620f27d12c6cb34fc82d4e9b4a03d52566c90630232111f72a961220ecd83c5a1aff2286901879109039c7  20210710.txt
 
