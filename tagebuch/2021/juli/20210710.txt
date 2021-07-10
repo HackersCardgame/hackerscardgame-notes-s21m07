@@ -211,4 +211,9 @@ wir haben karli schwarz versprochen [1] dass karli dann irgendwann mal seine toc
 ich:
 ich übersettze, urs veruscht die unterwanderung der polizei gehim zu halten in dem er mit einem amoklauf durch karli schwarz droht weil afaik wird dieses versprechen nie eintreten weil sonst kann der fehlbare nciht mehr angetieben werdne mit "der weg war um sonsts" bzw. "allenfalls musst du noch dies und das machen" und die "hoffnung stirbt zulestzt"
 
+Sat Jul 10 17:13:28 CEST 2021
+  214  2116 14262 20210710.txt
+[main 0ee19ce] save
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+92b946ee0ce50c305841f6b7736787d0f2fdc886cca2f93b0c0a9de7b656a4704e86760eb1dff6ff5480946241c3e83772f99bc5329184ffcf710d355f573e49  20210710.txt
 
