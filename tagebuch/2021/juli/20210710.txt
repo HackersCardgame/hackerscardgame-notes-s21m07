@@ -184,4 +184,12 @@ der Herr Polizist
 [3] UNBEKNANT: und ihr geht alle in den knast <- prism <-> prison
 
 
+Sat Jul 10 16:54:38 CEST 2021
+  187  1924 12690 20210710.txt
+[main 0c6ba0f] save
+ 4 files changed, 46 insertions(+), 1885 deletions(-)
+ create mode 100755 TODO/.~lock.iss.odt#
+ create mode 100755 TODO/iss.odt
+ rewrite music/Mixxx.old/mixxx.log.3 (100%)
+ab0495ba5d4b9daa56c9386d672ce1b71fd85e276dc8c104d7fc4bc92e5e63e5a67840e7d139fe0345bae84c43169b5355ac7314ef1136bfec6649a14b64e76f  20210710.txt
 
