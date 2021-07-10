@@ -19,4 +19,10 @@ und gabriel riela hätte sich im 1999 selber belastet
 
 ich hätte gesagt, das reicht für eine Schwellentheorie für Sprengfallendrohunen durch gabriel riela mit vorsatz, der wusste das seit 1999 und somit wäre dann auch klar dass die 3 administratoren von urs blum und gabriel riela (damals mitarbeiter allenfalls noch heute Mitarbeiter von der zürcih versichrung) ermordet haben
 
+Sat Jul 10 22:47:27 CEST 2021
+  22  241 1410 20210711.txt
+[main 5b0e567] save
+ 2 files changed, 27 insertions(+)
+ create mode 100644 tagebuch/2021/juli/20210711.txt
+b22d5c4c3eedc25a451bd186436fae6b06c7c346c44127d100265ef9edf902dcbd43963e606dbdd30bef526dfe2e860e81ea39881fbba6e7a6c11a1da21c8d72  20210711.txt
 
