@@ -449,4 +449,12 @@ Behauptung [1]: die Wohung Neuenburgerstrasse 6, 10 Stock, 3.5 zimmerwohnung ist
 
 [1] da geht es um aussagenlogik, mathe und boolsche algebra
 
+Sat Jul 10 21:54:29 CEST 2021
+  452  3692 27734 20210710.txt
+[main 5ed45dd] save
+ 1 file changed, 2 insertions(+), 4 deletions(-)
+5d54c59265e6c23dd2467fd00964b3c03c84a304a053174bc384ce5df4876f8e07b37ce6829560230cc445e5d28fa229f6f6a4592bc8138c95de1e97fa4d80bb  20210710.txt
+
+logischerweise bin ich eingeblidet genug das zu schlucken... und logischerweise gibt es keinen zynismus, und logischerwese wenn es doch zynismus gäbe sicher nciht von mir, wirklich ganz sicher nicht...
+
 
