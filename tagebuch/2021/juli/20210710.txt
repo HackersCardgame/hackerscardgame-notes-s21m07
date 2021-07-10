@@ -414,4 +414,9 @@ disassembly der handy geschichte so weit, ich hätte gesagt die WiKo Lenny2 hand
 urs blum: <- ich: das seid ihr diesre sorte von militärs wert...
 -> herr sprengWüRSTEN braucht somit sprengfallen drohungen zum verhör? 
 
+Sat Jul 10 21:35:39 CEST 2021
+  417  3533 26127 20210710.txt
+[main fa0b0aa] save
+ 1 file changed, 11 insertions(+)
+41da2b10d744be193b7a5b020b9f0f64d60fbafa5cb33adc4cd23be93ab74a842a44f104566de9729681131601a227e9bc5c937d0317951f779d9c3ec8df5f74  20210710.txt
 
