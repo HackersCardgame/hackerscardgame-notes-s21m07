@@ -442,12 +442,10 @@ Sat Jul 10 21:38:06 CEST 2021
  1 file changed, 4 insertions(+)
 147d66086550c06710b4885e5eab8c9ec5ced533b9272ac99ccc4cb952f63ffef873376133a756227f434b2d7e540d86bbb895d548249fc492a8730ca761950c  20210710.txt
 
-
-leicht modifizierte spruch von tacier @FHA:
+Sample:
+leicht modifizierte spruch von prof tacier @FHA:
 
 Behauptung [1]: die Wohung Neuenburgerstrasse 6, 10 Stock, 3.5 zimmerwohnung ist die Hauptstatt der schweiz
-
-
 
 [1] da geht es um aussagenlogik, mathe und boolsche algebra
 
