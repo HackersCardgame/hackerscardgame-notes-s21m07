@@ -367,4 +367,16 @@ Sat Jul 10 21:14:26 CEST 2021
 [main b216caa] save
  1 file changed, 18 insertions(+)
 523a67c5c04b57efaf9574f7db4521bdc385e4e16fd4c6b008d920b764a930c5bc7babfabeb93712d6f645200088f520a6f2a3619480388b77954610e40b8db9  20210710.txt
+Sat Jul 10 21:14:31 CEST 2021
+  370  3227 23517 20210710.txt
+[main 5ea3203] save
+ 1 file changed, 5 insertions(+)
+d24c7c436ac2ca3c510dcb9ceb704b9ab22cc7f4061e239c610411e7bcb13c74a6002d6de5a4a9f68fb0902f4eb60059c981a2e3cec6d6484134d7908d081037  20210710.txt
+
+
+Endpoint malware auf neumen windows computer... 
+
+urs blum: es ist markus belser weil er das "nicht shcon wieder informatiker blut comic mit kokain gecraftet hat" <- wir übersetzen: markus belser muss jetzt marc jr landolt umbringen oder geht in den knast...
+
+
 
