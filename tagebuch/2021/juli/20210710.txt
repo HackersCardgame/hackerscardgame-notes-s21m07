@@ -108,15 +108,7 @@ p10: die Stadt Aarau vermietet/e der Pfadi Adler Aarau das Pfadilokal ca 200m² 
 
 p[n]!  <- das Ausrufezeichen ist in der Mathematik der Fakultäts-Operator, hier wäre aber kombinationen und "Subsets" gemeint, bzw "Subset" wäre binomial
 
-binomial(p[n];p[m])   | Subset für n = {1,2...10}
-                        Subset für m = {1,2...10}
+binomial(p[n];p[m])   | m Subset für M = {1,2...10}
+                        n Subset für N = {1,2...10}
 
-Sat Jul 10 04:00:17 CEST 2021
- 114 1004 6742 20210710.txt
-[main 99bba5d] save
- 4 files changed, 42 insertions(+)
- create mode 100644 xaa
- create mode 100644 xab
- create mode 100644 xac
-5efb1a7351cc83a927dce2a6a73984c7f99037727435c5adda2cc3d1b410d03faa873db556786ce50abe4201ec09ac2a184d95ab37d77d3242639306b1fcd6ce  20210710.txt
 
