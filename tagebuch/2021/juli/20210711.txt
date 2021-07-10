@@ -31,4 +31,9 @@ dann das mit dem WiKO Lenny2 Handy, das ist allenfalls ein Tiefentladungs-Ding, 
 somit könnte man den user dazu bringen das selber zu bricken, dennoch obwohl ich das original ladegärät von WiKO (sogar mehrere) angeschlossen habe mötzelt das wiko, dass ich das original netzgerät anschliessen soll, hab jetzt 1A lade dings und das geht immer noch nicht, ich lass das jetzt mal ein paar stunden dran, allenfalls kommt das wieder...
 
 
+Sat Jul 10 23:01:17 CEST 2021
+  34  361 2325 20210711.txt
+[main 4b3a7af] save
+ 1 file changed, 6 insertions(+)
+69ddf6bcc10fd773aac0ad4c06aa64740a1b5911d8c74ee612f3ac6559a9f5a8abf4df61000f17bbf86072befd7efef16c80bfbf74b41208b7691e52d2a2d6e2  20210711.txt
 
