@@ -111,4 +111,9 @@ p[n]!  <- das Ausrufezeichen ist in der Mathematik der Fakultäts-Operator, hier
 binomial(p[n];p[m])   | m Subset für M = {1,2...10}
                         n Subset für N = {1,2...10}
 
+Sat Jul 10 04:02:16 CEST 2021
+ 114 1006 6746 20210710.txt
+[main f989a48] save
+ 1 file changed, 3 insertions(+), 11 deletions(-)
+0ba2f38df9cf2e24b9ddbbe92fd48bfa6811b8249fe5d7ded3734993c6e4d1ec44fff872fa1edd2b247679f748cba75943730dcca3f5f26609e9fe78801d2faf  20210710.txt
 
