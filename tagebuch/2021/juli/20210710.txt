@@ -379,4 +379,9 @@ Endpoint malware auf neumen windows computer...
 urs blum: es ist markus belser weil er das "nicht shcon wieder informatiker blut comic mit kokain gecraftet hat" <- wir übersetzen: markus belser muss jetzt marc jr landolt umbringen oder geht in den knast...
 
 
+Sat Jul 10 21:15:39 CEST 2021
+  382  3288 24038 20210710.txt
+[main 9039a5a] save
+ 1 file changed, 12 insertions(+)
+d85c23d315897011e06326c8393e53be6a2a2d3ab4211bdf8211635c8acfa05c8251907c1307e089b782899cd8121e34ea018cc0b11ee9edc083660938e82494  20210710.txt
 
