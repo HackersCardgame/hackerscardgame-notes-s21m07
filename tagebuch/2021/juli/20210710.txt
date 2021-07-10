@@ -295,4 +295,9 @@ Sat Jul 10 18:28:37 CEST 2021
 
 betrachent wir den verlauf ist eigentlcih aufgeflogen, dass die kapo oder zumidnest einige mitarbeiter von dieser sorte von amerikanern mordaufträge annehmen also wird der lokale us-gauleiter (mutmasslich urs blum und pfisterer) ans messer gelifert?
 
+Sat Jul 10 18:30:10 CEST 2021
+  298  2789 19714 20210710.txt
+[main 9076e43] save
+ 1 file changed, 3 insertions(+)
+03a76bccd9185cd7ff2c359e873ef4324ad3376018852246d086acae78a2e5e343dee9c674347c5b5641f9e5d8ad317332f21b4211c400d0811fa156cc9bd96a  20210710.txt
 
