@@ -33,4 +33,9 @@ somit könnte man den user dazu bringen das selber zu bricken, dennoch obwohl ic
 
 bzw. kabellänge <-> Spannungsabfall... mal noch kürzeres suchen...
 
+Sat Jul 10 23:02:37 CEST 2021
+  36  369 2395 20210711.txt
+[main b09e00e] save
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+bf43a3d6af5089feb5f0e103cb968899e6f53d7718921d05da6e6253e8711362b970126520f9dec11bdf71ccf453b01a5307d499fc1b475151a1ff1abd63c8d4  20210711.txt
 
