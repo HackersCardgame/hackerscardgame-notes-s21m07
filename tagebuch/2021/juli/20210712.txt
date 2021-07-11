@@ -59,4 +59,9 @@ Mathe Aufgaben: Schnittmenge -> Brainwash / FNORDs / NEUSPRECH?
 
 relicensing
 
+Mon Jul 12 01:27:05 CEST 2021
+  62  712 4205 20210712.txt
+[main e89d514] save
+ 1 file changed, 32 insertions(+)
+a32fb9ef1c4a9dfb14e28a5de3699ffe8ba0ea4df2f5c4cd1a624b98f3aab7a64f2194daa6054939ff2f30449afa1b8192ebe849dbaa356066da9f67599f25ba  20210712.txt
 
