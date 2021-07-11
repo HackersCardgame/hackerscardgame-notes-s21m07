@@ -99,4 +99,9 @@ DEFCON2
 
 [0] -> [1,2,3,4,5,...] <- somit wäre der satz oben dran relewant
 
+Sun 11 Jul 2021 03:59:41 AM CEST
+ 102  835 6070 20210711.txt
+[main 596c748] save
+ 1 file changed, 25 insertions(+)
+f9d1adf46b38973e43055bcb3159d82d3996beabccf7f1c3ccfc477fbeb6036bdb0f6e44d202055f15d7132c7c54c01a8026438a1abb21947f030c37a06c32fe  20210711.txt
 
