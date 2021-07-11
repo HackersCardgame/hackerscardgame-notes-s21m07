@@ -176,4 +176,9 @@ HTL Forensik Scanner <- und wir haben einen gewinner, der simon härdi ist poliz
 ---> links zu syrien, die berserker welche rana erwähnt hat waren somit allenfalls auch mal polzisiten <- allenfalls mal besprechen falls es menschen mti mehr geopolitik, geschichts und historik zeugns hintergrund hat...
 
 
+Sun Jul 11 05:49:43 CEST 2021
+  179  1482 10839 20210711.txt
+[main c342e91] save
+ 1 file changed, 21 insertions(+)
+045d4f8b7fc75d0296995cba86c5cb13fb0a760ae524812903170e135f80e1221be9d7aa6fc18ebde75c0a2000af7ba1d6a7b6251d635abe87f1f549023f6743  20210711.txt
 
