@@ -1,0 +1,68 @@
+marc@DESKTOP-999KF62:~/hackerscardgame-notes-s21m07/tagebuch$ figlet -f banner ' moin ' -w 200 | sed -e "s/ /☆/g" | sed -e "s/#/★/g"
+
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆★☆☆★★★★☆☆★☆★☆☆☆☆★☆☆☆☆
+☆☆☆★★☆☆★★☆★☆☆☆☆★☆★☆★★☆☆☆★☆☆☆☆
+☆☆☆★☆★★☆★☆★☆☆☆☆★☆★☆★☆★☆☆★☆☆☆☆
+☆☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆★☆☆★☆★☆☆☆☆
+☆☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆★☆☆☆★★☆☆☆☆
+☆☆☆★☆☆☆☆★☆☆★★★★☆☆★☆★☆☆☆☆★☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+
+Frage an #Science:
+Herr #HTL hat mal etwas von #Laminarem #Wasserstrahl gefaselt, somit wäre es allenfalls möglich, dass diese Sorte von Menschen im Reservoir eine GiftKapsel ähm DrogenKapsel einspeisen und diese in eine spezifische Wohnung triezen könnte. Deren äussere Hülle würde sich erst nach 24h auflösen und im Neoperl landen. Prärequisit wären genug deterministischen Bürgern in Aarau und ein 3D Modell / Game Engine von Aarau.
+
+Kurze Recherche im Internet ergibt dt = 3 Min:
+
+... YAY, ich hab von Phyisk keinen Plan ...
+
+marc@DESKTOP-999KF62:~/hackerscardgame-notes-s21m07/tagebuch$ figlet -f banner ' moin ' -w 200 | sed -e "s/ /☆/g" | sed -e "s/#/★/g"
+
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆★☆☆★★★★☆☆★☆★☆☆☆☆★☆☆☆☆
+☆☆☆★★☆☆★★☆★☆☆☆☆★☆★☆★★☆☆☆★☆☆☆☆
+☆☆☆★☆★★☆★☆★☆☆☆☆★☆★☆★☆★☆☆★☆☆☆☆
+☆☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆★☆☆★☆★☆☆☆☆
+☆☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆★☆☆☆★★☆☆☆☆
+☆☆☆★☆☆☆☆★☆☆★★★★☆☆★☆★☆☆☆☆★☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+
+Frage an #Science:
+Herr #HTL hat mal etwas von #Laminarem #Wasserstrahl gefaselt, somit wäre es allenfalls möglich, dass diese Sorte von Menschen im Reservoir eine GiftKapsel ähm DrogenKapsel einspeisen und diese in eine spezifische Wohnung triezen könnte. Deren äussere Hülle würde sich erst nach 24h auflösen und im Neoperl landen. Prärequisit wären genug deterministischen Bürgern in Aarau und ein 3D Modell / Game Engine von Aarau.
+
+Kurze Recherche im Internet ergibt dt = 3 Min:
+
+... YAY, ich hab von Phyisk keinen Plan ...
+
+... aber von InterNETz habe ich einen Plan
+
+Somit würde man wenn man eine Fahndung gegen sie einleiten möchte müsste man vermutlich eine Fahndung wegen #Physik-#Angeberei && #Medizin-#Angeberei (weil Neocortex->Spinalis->Lungen->Druck) einleiten um sie in ein Zwangsmassnahmensystem zu wurschteln ...
+
+
+
+
+
+
+marc@DESKTOP-999KF62:~/hackerscardgame-notes-s21m07/tagebuch$ figlet -f banner ' moin ' -w 200 | sed -e "s/ /☆/g" | sed -e "s/#/★/g"
+
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆★☆☆★★★★☆☆★☆★☆☆☆☆★☆☆☆☆
+☆☆☆★★☆☆★★☆★☆☆☆☆★☆★☆★★☆☆☆★☆☆☆☆
+☆☆☆★☆★★☆★☆★☆☆☆☆★☆★☆★☆★☆☆★☆☆☆☆
+☆☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆★☆☆★☆★☆☆☆☆
+☆☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆★☆☆☆★★☆☆☆☆
+☆☆☆★☆☆☆☆★☆☆★★★★☆☆★☆★☆☆☆☆★☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+
+Frage an #Science:
+Herr #HTL hat mal etwas von #Laminarem #Wasserstrahl gefaselt, somit wäre es allenfalls möglich, dass diese Sorte von Menschen im Reservoir eine GiftKapsel ähm DrogenKapsel einspeisen und diese in eine spezifische Wohnung triezen könnte. Deren äussere Hülle würde sich erst nach 24h auflösen und im Neoperl landen. Prärequisit wären genug deterministischen Bürgern in Aarau und ein 3D Modell / Game Engine von Aarau.
+
+Kurze Recherche im Internet ergibt dt = 3 Min:
+
+... YAY, ich hab von Phyisk keinen Plan ...
+
+... aber von InterNETz habe ich einen Plan:
+Würde man sie in ein ZwangsmassnahmenSystem wurschteln wollen, müsste man sie wegen #Physik-#Angeberei && #Medizin-#Angeberei (weil Neocortex->Spinalis->Lungen->Druck) anklagen ...
+
+
+
