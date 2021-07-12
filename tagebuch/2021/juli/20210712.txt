@@ -85,4 +85,9 @@ p3: vom Kind gibt es ein "Mindmap" in einem Computer mit einer Funktion "Jetzt e
 [1] Kinder zu triggern ist meiner Meinung nach keine Wissenschaft, und für mich ist das Wort "Behavioral Sciences Spezialist" synonym zu verwenden zu "Misshandlung"
 
 
+Mon Jul 12 03:01:15 CEST 2021
+  88  898 5682 20210712.txt
+[main 64aad01] save
+ 1 file changed, 21 insertions(+)
+bc1bfbaa94dcb629832804b0be69ccc04208756ec6a933ad4613ef620894f17d585b66ae42a2f3318830533a5516b8adb57b6f625021b02be7b5ad43215f4b69  20210712.txt
 
