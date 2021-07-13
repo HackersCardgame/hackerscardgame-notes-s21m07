@@ -22,4 +22,9 @@ Tue Jul 13 04:28:20 CEST 2021
 
 dann versuchen die alten triebgesteuerten menschen jetzt die verschiedenen räume so zu rendern, dass es keine option mehr für mich gibt nonverbal / gestaltungspsychologisch auszudrücken, dass ich nicht von alten menschen vergewlatigt werden will
 
+Tue Jul 13 06:07:10 CEST 2021
+  25  130 1027 20210713.txt
+[main 6d81fce] save
+ 1 file changed, 4 insertions(+)
+3a77304bebdf779fddb4bceaafc40273c9a721fb3ca35125d75a26fb50181528777683c590acdd25d6a91387d640a1ded7d7fade700d895bbd3831f1a847de5d  20210713.txt
 
