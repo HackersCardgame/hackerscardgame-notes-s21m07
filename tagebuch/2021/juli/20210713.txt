@@ -30,3 +30,79 @@ Tue Jul 13 06:08:53 CEST 2021
  1 file changed, 2 insertions(+), 5 deletions(-)
 687f73da1b056dd2b3af1d9b3f814e8cd87a76f1fcf39af91445472c159d7a2664c83e7218251ee40a4347b9c1f37ccdf576f839915804b7fccb284ba60585a4  20210713.txt
 
+
+Halli Hallo Thomas
+
+(ich schick das auch noch per Mail weil FB kann man definitiv nicht mehr trauen, siehe EuGH GerichtsUrteil zu "Safe Habor", wäre eher ein "unSafe Habor")
+
+Du hast mir ja mal von einer Kundin die so ein riesen Kasten zum entstören der so eine grüne und rote Lampe hatte die grüne hat dann angezeigt, dass alle Signale entstört waren. Technisch hast Du recht, so etwas funktioniert logischerweise nicht, ABER das Ding wird eine spezifische akkustische Signatur haben, also einen eindeutigen akkustischen Fingerabdruck den man z.B. mit Fourier Transformation (FFT) erkennen kann und der dann auf der Überwachung von der wir dank Snowden wissen etwas aus auslösen kann oder "Firewall Regel: FilterAll.enable()" aktivieren.
+
+Technisch kannst Du auch Raumüberwachung bereits mit 2 Mikrophonen bewerkstelligen. Bei einer Geschwindigkeit von 300m/s haben logischerweise die Signale zum einen und zum anderen Mikrophon unterschiedliche Zeiten und dann ist es eigentlich eine simple Geometrie Aufgabe herauszufinden wo in Deiner Wohung Deine Füsse grad akkustische Signale von sich geben.
+
+Technisch implementieren könnte man das z.B. mit dem IEEE 1588 (Precision Time Protocol), bzw. da reicht auch etwas was 10x weniger genau ist, aber die Algorithmen wären die selben. Ich hab noch ein paar Lernkarten von mir angehängt. Ich hab nicht Schizophrenie sondern Autismus. Die URL ist auf den Karten.
+
+Dann ist das vermutlich in ein grösseres System eingebunden wie im Film "Eagle Eye" den ich bei Euch schauen durfte integriert. Echt einer der tollsten Filme aus technischer Perspektive den ich je gesehen habe.
+
+Das was ich eigentlich wissen wollte sind Details zum vorhergehende Chef der sich (hören sagen) das leben genommen hat bei Ziknet. Da gehe ich davon aus dass das mit den Snwoden Leaks zu tun hat und dass man geschaut hat dass alle die Details wissen schon mal über die nicht-nur-lesend-zugreifende Überwachungsinfrastruktur ein schlechtes Gewissen eingeredet wird, irgend etwas schwachsinniges wie loop { "Er ist gestorben weil Du geniesst hast" } (Technich etwas wie die t10 Karte)
+
+
+MfG
+Marc jr. Landolt
+(jr. schreib ich jeweils daran weil mein Vater auch Marc heisst, dass es keine Verwechslungen gibt)
+
+
+
+Guten Tag
+
+bitte dies an den CEO weiterleiten und bitte rasch Empfangsbestätigung klicken...
+
+Besten Dank und freundliche Grüsse
+
+Marc jr. Landolt
+eidg. dipl. Informatiker HF
+
+
+-------- Weitergeleitete Nachricht --------
+Betreff: Kundin bei Ziknet...
+Datum: Tue, 13 Jul 2021 18:04:03 +0200
+Von: Marc jr. Landolt <mail@marclandolt.ch>
+An: Thomas.Berger@localnet.ch, urs.schaeppi@localnet.ch
+Kopie (CC): Stefan Ott <stefan@ott.net>, claudine.blum@ksa.ch, ursula@away.ch, matthias.berner@kapo.ag.ch, marc.landolt@0x8.ch
+
+Halli Hallo Thomas
+
+@ Herr Schäppi:
+falls meine Herleitung stimmt macht das vermutlich Ihr leben nicht einfacher oder sogar so mühsam wie meins...
+
+(ich schick das auch noch per Mail weil FB kann man definitiv nicht mehr trauen, siehe EuGH GerichtsUrteil zu "Safe Habor", wäre eher ein "unSafe Habor", hoffentlich ist das die richtige EMail..., best guess)
+
+Du hast mir ja mal von einer Kundin die so ein riesen Kasten [1] zum entstören der so eine grüne und rote Lampe hatte die grüne hat dann angezeigt, dass alle Signale entstört waren. Technisch hast Du recht, so etwas funktioniert logischerweise nicht, ABER das Ding wird eine spezifische akkustische Signatur haben, also einen eindeutigen akkustischen Fingerabdruck den man z.B. mit Fourier Transformation (FFT) erkennen kann und der dann auf der Überwachung von der wir dank Snowden wissen etwas aus auslösen kann oder "Firewall Regel: FilterAll.enable()" aktivieren.
+
+[1] https://hoaxilla.com/wildmics-special-46-pseudomedizin/
+
+Technisch kannst Du auch Raumüberwachung bereits mit 2 Mikrophonen bewerkstelligen. Bei einer Geschwindigkeit von 300m/s haben logischerweise die Signale zum einen und zum anderen Mikrophon unterschiedliche Zeiten und dann ist es eigentlich eine simple Geometrie Aufgabe herauszufinden wo in Deiner Wohung Deine Füsse grad akkustische Signale von sich geben.
+
+Technisch implementieren könnte man das z.B. mit dem IEEE 1588 (Precision Time Protocol), bzw. da reicht auch etwas was 10x weniger genau ist, aber die Algorithmen wären die selben. Ich hab noch ein paar Lernkarten von mir angehängt. Ich hab nicht Schizophrenie sondern Autismus. Die URL ist auf den Karten.
+
+Dann ist das vermutlich in ein grösseres System eingebunden wie im Film "Eagle Eye" den ich bei Euch schauen durfte integriert. Echt einer der tollsten Filme aus technischer Perspektive den ich je gesehen habe.
+
+Das was ich eigentlich wissen wollte sind Details zum vorhergehende Chef der sich (hören sagen) das leben genommen hat bei Ziknet. Da gehe ich davon aus dass das mit den Snwoden Leaks zu tun hat und dass man geschaut hat dass alle die Details wissen schon mal über die nicht-nur-lesend-zugreifende Überwachungsinfrastruktur ein schlechtes Gewissen eingeredet wird, irgend etwas schwachsinniges wie loop { "Er ist gestorben weil Du geniesst hast" } (Technich etwas wie die t10 Karte)
+
+
+MfG
+Marc jr. Landolt
+(jr. schreib ich jeweils daran weil mein Vater auch Marc heisst, dass es keine Verwechslungen gibt)
+
+
+t55.jpg
+
+t54.jpg
+
+t53.jpg
+
+t48.jpg
+
+e5.jpg
+
+
+
