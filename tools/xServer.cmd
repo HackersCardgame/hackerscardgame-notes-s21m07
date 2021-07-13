@@ -12,7 +12,7 @@ REM wsl -d Ubuntu-18.04 -u marc -e "gnome-terminal &"
 REM export DISPLAY=192.168.1.233:0
 
 
-start cmd.exe /c wsl -d Ubuntu-18.04 -u marc -e "DISPLAY=192.168.1.233 gnome-terminal"
-start cmd.exe /c wsl -d Ubuntu-18.04 -u marc
+REM start cmd.exe /c wsl -d Ubuntu-18.04 -u marc -e "DISPLAY=192.168.1.233 gnome-terminal"
+REM start cmd.exe /c wsl -d Ubuntu-18.04 -u marc
 
 REM export DISPLAY="$(ipconfig.exe  |grep 192 |head -n1|cut -d: -f2 |cut -c 2-|tr -d '\r')"":0"
