@@ -1950,4 +1950,9 @@ Tue Jul 13 21:24:37 CEST 2021
 
 dann das mit den injecteten medulla spinalis typos wäre "Schlüssiges verlaten" was afaik gemäss OR auch vertragliche bindung haben kann, somit würde ich etwas anderes übermittelt bekommen über irgend ein brainjacking und dann behauptet ich hätte ja zugestimmt von alten menschen vergewalitgt zu werden, was ich definitiv nicht habe... da müsste es jemand geben der das auswerten und ausweisen kann, das sind dann vermutlcih die staatsanwälte und richter die aber selber straffällig sind
 
+Tue Jul 13 21:39:19 CEST 2021
+  1953  15427 189991 20210713.txt
+[main c5ad257] save
+ 1 file changed, 3 insertions(+)
+9c11b4f5e7a177fe1958b181d6135dc8636f84ed7facfca64b0574f9f0891c7f4b3bb57fcc48eec1b5db80954ac45fdc3bd53e7e715fb8dc7f20afd4f22ded3c  20210713.txt
 
