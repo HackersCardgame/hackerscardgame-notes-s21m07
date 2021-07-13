@@ -7,4 +7,11 @@ also ein team von meinschen die in treu und glauben einen terroristen ermordet h
 
 all deren anklage schrift muss somit von fahrlässige tötung jetzt auf vorsätzlichen mord gewechselt werden, bzw. wenn ich tod bin wären dann all diejenigen die sich mit fahrlässiger tötung oder unfall herausgeredet haben vor gericht wegen vorsätzlichem mord.
 
+Wed Jul 14 00:11:44 CEST 2021
+  10  177 1124 20210714.txt
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+c9ba8473c1835178e2af95106c7598aa7c6179c7df4b3ea700760cbe5a0e092e28ea5ef76f161f6320579576a330ed1c0305118580a1a3767cab245c300eb9de  20210714.txt
 
