@@ -1929,4 +1929,9 @@ ff004c8026ff60b65dbd4123e3f215ab135653cb14880135d17e42b5b9c47007b5687f60350bf643
 
 stimmt diese herleitung, dann greift die zürich versichrung explizit internet service proveider an, isp sind das prerequisit für cyber-war
 
+Tue Jul 13 19:15:19 CEST 2021
+  1932  15260 188586 20210713.txt
+[main a460157] save
+ 1 file changed, 1805 insertions(+)
+e68d8e07c7826d3941d194bfc5936a086fe532eaf8f85db84b026fc0eaa5c5c87a725768139e1815367c994544b0ea0910625f6f59f127dd691d0f2be741a91f  20210713.txt
 
