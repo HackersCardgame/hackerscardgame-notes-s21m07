@@ -12,4 +12,10 @@ jeweils rawhammer attack of the mind im kontext
 
 -> ich hätte gesagt das macht die zürich [role toggler flag im brain flag register eingschaltet worden] versichrung jeweils bevor die wieder versuchen mich in den suizid zu treiben
 
+Tue Jul 13 04:28:20 CEST 2021
+ 15  72 471 20210713.txt
+[main e3ec3ef] save
+ 1 file changed, 15 insertions(+)
+ create mode 100644 tagebuch/2021/juli/20210713.txt
+2efc193884244fe7ab45706d6f3f2e5c853009e9881c155dc510e9554631fbf146ab404e28051e08a5af459cb68c5898bf295db8297097ec2f2a25989fe5e6d4  20210713.txt
 
