@@ -114,3 +114,11 @@ Wed Jul 14 03:46:06 CEST 2021
  1 file changed, 2 insertions(+), 5 deletions(-)
 ea1942d0302ddbf44425618475f7f8e85949439b0c93829879656cac2c4f2a0745ffe2a748f29f7355ffc4c5979c436327420f6dcaeab5a6a215d58a185fdc7b  20210714.txt
 
+Aufstellung der KSA Neurologie Blackhats 
+
+
+- team dass das hackt
+- team dass versucht zu verhindern dass "guards" das melden (die verwenden medulla spinalis ths typo malware) <-- 
+- team das das schönredet mit jus titel oder so?
+
+
