@@ -144,3 +144,7 @@ Thu Jul 15 01:25:02 CEST 2021
  1 file changed, 8 insertions(+)
 3b77592efae1b3913af0f24975a0a83a918638e13486ad0ea5e2ba12f3d3d104dbf2ac2a314d621be3fc2f76da984e9c9424c7ad43fb5f151769567f55d77b5a  20210715.txt
 
+
+kann jemand mal einen query machen in der datenbank der unsichtbaren universität, ob da die steifel jeweils ca um 03:00 nachts abhanden kommen?
+
+
