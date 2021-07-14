@@ -73,4 +73,9 @@ Wegen der sache mit Markus Belser (wo lustigerweise jetzt der David Utz überhau
 
 Die Vulnerability "Mitgefühl weil Markus Belser seinen Vater verloren hat" hat dabei geholfen, dass markus belser zugang zu meiner psyche bekommen hat [oben korrigieren ** **] also das würde allenfalls auch schon jemanden implzieiren der das wusste und z.B. einen Psychiater Dr. Titel hat(te)
 
+Thu Jul 15 00:31:03 CEST 2021
+  76  704 5316 20210715.txt
+[main 39937b3] save
+ 1 file changed, 8 insertions(+), 5 deletions(-)
+019839952fd66283fd336902f3ff550be7742e65f089e9f111f2e454bcad81d3eb5838df18ac6bbba3b0e93f944d4a04ed9c615f8411aa7b09e0668ea8ec8628  20210715.txt
 
