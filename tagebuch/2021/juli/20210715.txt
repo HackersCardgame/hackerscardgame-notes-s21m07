@@ -47,4 +47,9 @@ nicht schon wieder informatiker blut [1] was der vampir sagt [2] ist etwas womit
 [1]  (campaq prospekt des kleinen krieslis das oben am grossen kreisli antzpft)
 [2] [DELETED] [REBUILT] wo der markus belser so ein fruedeli an diesem prospekt hatte
 
+Thu Jul 15 00:02:38 CEST 2021
+  50  419 3277 20210715.txt
+[main 9388271] save
+ 1 file changed, 7 insertions(+)
+d06e32953d31ea1c630ba0791c2c42ecf07fe9a40ae2044caa95b8af5b4f699ae6df97919ee6ef9762f247e7cb9c29f378bc98cb4efbe38087bd1235de5f4d5f  20210715.txt
 
