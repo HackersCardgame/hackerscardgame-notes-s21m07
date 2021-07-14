@@ -106,4 +106,9 @@ dann relevanter wäre dass die auf das medulla spinalis zugriff haben, also da m
 
 [1] *chemitrode linke schulter aktiviert worden* 
 
+Wed Jul 14 03:45:14 CEST 2021
+ 109  827 6406 20210714.txt
+[main e77793b] save
+ 1 file changed, 10 insertions(+)
+f232247b5273aa4ae028a040139a941cb87c4a6ea2bdeff1e785d640f8a2a18fdf21eefcc2440d057da6cdea46a02a73dedf0e9c9f26ad5b5e7d528318962a8a  20210714.txt
 
