@@ -156,4 +156,9 @@ Wed Jul 14 05:00:49 CEST 2021
 
 content brainjacking hat jetzt schienbar in einen modus gewechselt mit mehr "incentives" also dingen die ich sowieso auf meine todo liste genommen habe freizuschalten (siehe rosa arrayList karte hackerscardgame) der weniger auffällig ist, und einem dann aber mit dem geklaugten zuckerbrot dazu bringt dennoch das zu tun was die gerne htäten...
 
+Wed Jul 14 05:20:54 CEST 2021
+ 159 1181 9316 20210714.txt
+[main 6be4b24] save
+ 1 file changed, 4 insertions(+)
+4cc558f76a74585edaf0aee61560a3fed240405ba66d78302112c9b31e224ab1f33d384a5b6289bb91db205ed0815a844803e9d6adf5e02053db19b32f492763  20210714.txt
 
