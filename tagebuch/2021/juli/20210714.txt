@@ -121,4 +121,9 @@ Aufstellung der KSA Neurologie Blackhats
 - team dass versucht zu verhindern dass "guards" das melden (die verwenden medulla spinalis ths typo malware) <-- 
 - team das das schönredet mit jus titel oder so?
 
+Wed Jul 14 03:47:42 CEST 2021
+ 124  902 7017 20210714.txt
+[main d9d90a6] save
+ 1 file changed, 8 insertions(+)
+50fbab97c5179dbb4478f77eafea04ea5c0cbd4246495b521dc63e13f598bcb0c4c9c3155eeda4a1acf8b56e65db32c42169ed46f68370f320edcb0778f5b6b0  20210714.txt
 
