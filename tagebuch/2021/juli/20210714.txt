@@ -131,4 +131,9 @@ Wed Jul 14 03:47:42 CEST 2021
 ab dem ersten git push medulla spinalis ths typo könnte man z.B. gutartige whitehats auf mein spinalis ths lassen, dann traceback ksa, dann traceback woher das auch immer kommt...
 aber das geht nur mit einem medic vor ort weil so etwas würde man bleading edge nennen und wenn ich dabei drauf gehe wäre das auch nciht so toll...
 
+Wed Jul 14 03:51:20 CEST 2021
+ 134  980 7605 20210714.txt
+[main ab47fb6] save
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+059271fafa041e5c319b1d9445ef0b2b11f13963cd8c2087bfe7ff8452d6795acc7dc79854e53f6206babf1e45ab7474e7d072f3245575f18522c8e9d0d83266  20210714.txt
 
