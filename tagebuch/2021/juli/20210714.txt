@@ -91,4 +91,9 @@ wichtiger wäre ein statistik modell / simlation welche die vernetzung simuliert
 
 >> berühtungsfläche <<  <- pfsiterer formulierung   <- da wurde jetzt "wenn ich das so stehen lasse würde ich vergewlatigt werden wollen von den alten leuten (was ich immer noch nciht will) somit wäre das pfisterer und der "zustimmung zu vergewaltigung" - Spell wäre eine von pfisterers haupt-zensurwaffen
 
+Wed Jul 14 03:42:57 CEST 2021
+  94  717 5524 20210714.txt
+[main 40337e4] save
+ 1 file changed, 15 insertions(+)
+f7ee7b10b3608bffbd12d2d384a2375c490cc3b8d7b6388b02066a8a4b424cc3e59e972df8c4af726d79aeedcb338f5a05136301489a8742fea1975f48835ef9  20210714.txt
 
