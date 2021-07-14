@@ -4,4 +4,10 @@ Wed Jul 14 23:36:57 CEST 2021
 
 stimmt meine herleitung und meine lösung des puzzles, dann muss die zürich verischrung (urs Blum und gabriel riela) zwingend den Staatsanwalt marco spring und den polizisten michael ritter der das protokoll gefälscht hat vorm auffliegne schützen, den wären diese beide herren vor gereiht würden dann bulm urs und riela auffliegen wegen den 3 morden und wirst case wenn die zürich versichrung grossflächig edv ctf (capture the flag - eigentlich ein euphemismus) gespielt hat allenfalls sogar ein massengrab...
 
+Wed Jul 14 23:38:46 CEST 2021
+  7  87 570 20210715.txt
+[main edcdaa5] save
+ 1 file changed, 7 insertions(+)
+ create mode 100644 tagebuch/2021/juli/20210715.txt
+a1173f4cfba61a5b02a2440969882bec394875b5b2d62a5b2f68f03fe1e76093ff036c7bf150082ce6ed854a0095748f6a3e7fb0ccbfe60ee7e1e666fcaf9b0e  20210715.txt
 
