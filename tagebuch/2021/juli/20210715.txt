@@ -6,4 +6,9 @@ stimmt meine herleitung und meine lösung des puzzles, dann muss die zürich ver
 
 wenn das stimmt wird die zürich versicherung da in der grössenordnung von millionen investieren um mich anzugreifen, da muss ich mir zumindest moralisch keine vorwürfe mache, dass ich da als einzelner unterlegen bin, und sorry, die gehen gegen 20 jährige als grösseres hacking-team, das war sowieso nie als fairplay vorgesehen...
 
+Wed Jul 14 23:40:04 CEST 2021
+  9 137 906 20210715.txt
+[main e1da1c7] save
+ 1 file changed, 2 insertions(+), 6 deletions(-)
+ceb15151b478b34bfccd3e556aeb4f1714f46878acb685eece1562742424155cd1d139278582074bb064482ea7a84a658a79c8a359bad1d8fd24622d78745e8a  20210715.txt
 
