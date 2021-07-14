@@ -94,4 +94,9 @@ unbeknannt:
 => marc jr landolt hat gesagt, er wolle ncith entscheiden ob marksu belser jetzt auch diesen wege genen werden soll -> da sit jetzt ein eventtriger eingerichtet, falls die stichwaffe nicht in 5 minuten weg ist wird markus belser als eventtrigger ohne dass das jemand entscheidet auc hdedn wege gehen müssen...
 
 
+Thu Jul 15 00:48:18 CEST 2021
+  97  896 6822 20210715.txt
+[main 7e9c354] save
+ 1 file changed, 16 insertions(+)
+b84074ae62a697938acb8bfa46e2b80e7ea0c1b99d3ef6ab0e0fc8954a9e370df2a690eb98ef453c89caa4c40485790927d7bea1bece507eac9762a177a0beac  20210715.txt
 
