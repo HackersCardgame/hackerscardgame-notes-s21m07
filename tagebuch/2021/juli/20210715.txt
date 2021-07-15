@@ -272,4 +272,9 @@ f3d7a419e0e4635f4066fbdd67d84fd6d5e8831a2a22da2b3ef139df55a13344cf2923b2539d544d
 synchron zu solchen dingen werden dann auch die blackhat's die auf meinem windows endpoint und m160 / spinalis ths terror machen wieder aktiviert 
 
 
+Thu Jul 15 09:44:40 CEST 2021
+  275  2145 16952 20210715.txt
+[main 01accad] save
+ 1 file changed, 4 insertions(+)
+b245c9b39daf5cd6de0e9a601a06c52e8336f69dc87c4204ab32838c6d893f688478990823286e2425e3acfe064fac9c639bed16942c3c0650a8db5baa9a006a  20210715.txt
 
