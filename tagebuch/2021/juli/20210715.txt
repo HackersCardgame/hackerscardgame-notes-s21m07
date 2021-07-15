@@ -288,4 +288,9 @@ Thu Jul 15 12:04:02 CEST 2021
 
 bzw. ich hab auch noch das octenisept verwendet zum desinfizieren, allenfalls auch von dem bzw. wenn das ein 43Mia firma ist wird das vermutlich mit etwas wie m123 karte sein, verschiedene ursachen, selbes resultat um vorsätlzlich obfuscation zu produzieren...
 
+Thu Jul 15 12:08:43 CEST 2021
+  291  2283 18136 20210715.txt
+[main 101f6aa] save
+ 1 file changed, 3 insertions(+)
+5d1a193721cddfa6ac052dbfb82356ba34872c136db27cb4186594afc5c0a68c143fef6e6d7cb76cf52aa929e12a9c0aa9df2b1de3e34481a2cf91a13ffbef16  20210715.txt
 
