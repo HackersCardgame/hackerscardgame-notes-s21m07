@@ -211,4 +211,9 @@ Thu Jul 15 02:26:39 CEST 2021
 
 falls das stimmt ist/wäre ein Kopftuch oder ein Himmelbett (meins ist aus billigen 20.-- Decken aus dem aldi) sicherheits-vorrichtungen, somit wäre die frage, weshalb würde jemand sicherheits-vorkehrungen verbieten wollen???
 
+Thu Jul 15 03:15:50 CEST 2021
+  214  1661 13263 20210715.txt
+[main 1641605] save
+ 1 file changed, 4 insertions(+)
+f26dc75b545171edf18f18e6629ab47517226fa34e84dd34013c597610b4201fbdae515ebec25dac8a1ab75ada979723fa2fd0fa561c143600a08a3d8338d80c  20210715.txt
 
