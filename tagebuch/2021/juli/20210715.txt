@@ -237,4 +237,9 @@ bzw. jüngere sollen das logischerweise nciht, weil ich will nicht jüngere gef�
 
 -> algorihtmus / brechnugn, wie lange hat/hatte die Zürich versicherung mit 43Mia um all diese leute aufuzkaufen oder zu schmieren?
 
+Thu Jul 15 09:19:03 CEST 2021
+  240  1867 14767 20210715.txt
+[main 5f4f98e] save
+ 1 file changed, 3 insertions(+), 5 deletions(-)
+2e4a307daaea7d0f238d64fd0e101e17d8db907e4b1bac8009bacca5e860e64389f29adbc30245be9dfec3f663f9961f8567324fccff9cc85046e6b1700da890  20210715.txt
 
