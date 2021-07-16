@@ -173,3 +173,6 @@ Fri Jul 16 22:28:24 CEST 2021
  1 file changed, 15 insertions(+)
 cf11967e691ec312037d4d4cca1e3c09c4dc028487965277b0402b3f243435c1d5feca388a978c79c50ec652bc79b5df563250f2aaca674342d37084a7796b5d  20210716.txt
 
+DEFCON bisschen weniger schlimm..., bzw. einfach im tarn / warte modus vermutlich...
+
+
