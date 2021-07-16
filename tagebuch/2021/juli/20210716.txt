@@ -147,4 +147,9 @@ Fri Jul 16 10:30:05 CEST 2021
 
 ich würde gerne dsa Beweismittel TODO/und-ja-ich-hab-mir-auch-mal-eingebildet-dass-ich-physik-studieren-koennte.PNG einreichen, wie zum geier will ich 50'000 Frauen vergewaltigt haben und dann auch noch Physik, Mathe... Zeugs gelernt und genölt habe wo das genöle seit 12 Jahren im Wikipedia drin ist?
 
+Fri Jul 16 22:09:02 CEST 2021
+ 150 1199 8587 20210716.txt
+[main 605b1750] save
+ 1 file changed, 4 insertions(+)
+3f8341f0a05b79c3776205ad49c4978283c4c79f93409abd59a2d2d0a0047b2b2cf454e6d500ad0ab199d76fd5896f537eb37e86225e103941935ef395010974  20210716.txt
 
