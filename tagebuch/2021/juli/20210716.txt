@@ -122,4 +122,9 @@ z.B. der Maler wernli würde dann irgendwelche sprayer und tagger [] bestellen d
 ja hier passt wieder die "Dr. House MEME, that escalated quickly" 
 aber leider muss man wegen dem sprengstoff der weggekommen ist und wegen z.B. dem vorfall mit dem feuerwehr mann gautschi die drohungen von urs blum und der zürich versichrung ernst nehmen
 
+Fri Jul 16 07:03:57 CEST 2021
+ 125  966 6671 20210716.txt
+[main 6e2e095] save
+ 1 file changed, 3 insertions(+)
+11f052a5949e2fac69a89fdbb0ec1818e44f427a81a1d05b490e4346a46f5be7fea37f4360745c6ac34400204720ac23ffe264c4500851e5a6ed70628c11a805  20210716.txt
 
