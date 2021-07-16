@@ -167,4 +167,9 @@ Fri Jul 16 22:26:06 CEST 2021 <<- 21:00 - 23:00 dorhen die jetzt täglich mit mo
 [2] Zürich Versichrung: Ein psychiater kann so perfekt morde tarnen
 [3] meiner meinung nach sind pfisterer und urs blum im selben täternetzwerk und shcieben die täter rolle hin und her so dass nie einer wirklcih belangt werden aknn
 
+Fri Jul 16 22:28:24 CEST 2021
+ 170 1366 9731 20210716.txt
+[main df81fba9] save
+ 1 file changed, 15 insertions(+)
+cf11967e691ec312037d4d4cca1e3c09c4dc028487965277b0402b3f243435c1d5feca388a978c79c50ec652bc79b5df563250f2aaca674342d37084a7796b5d  20210716.txt
 
