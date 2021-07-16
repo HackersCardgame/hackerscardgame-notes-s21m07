@@ -21,4 +21,10 @@ C) FNORD
 D) lustig (für das Kind eher mässig lustig)
 E) ...
 
+Sat Jul 17 00:50:53 CEST 2021
+  24   77 4327 20210717.txt
+[main 038ed67d] save
+ 1 file changed, 24 insertions(+)
+ create mode 100644 tagebuch/2021/juli/20210717.txt
+63d824e6bdc23fdbe63336a03c62743589c2f6dcc321fe15a1d39b82e6eb3bc8b0bfc04b4adf62b86eca09fdfdf5219c7867b6d57a53720fac29fef2581f3c45  20210717.txt
 
