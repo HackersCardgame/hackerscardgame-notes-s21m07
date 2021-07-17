@@ -65,4 +65,9 @@ astrid blum-truffer und madeleine-truffer werden angetrieben vom ausländischen 
 
 astrid blum und madeieline truffer bekommen vom ausländischen agressor keinen stoff mehre was die frage aufwirft, ob menshcen die keinen drogne mehr bekommen adann auch mörden würden um wieder drogen zu bekommen?
 
+Sun Jul 18 00:34:53 CEST 2021
+  68  446 3264 20210718.txt
+[main a921c0a7] save
+ 1 file changed, 18 insertions(+)
+f31bfe3adc488bfb96f9371416a213f004f72b2ca58f3e522202f466a6cdaef0820cf98308b24a2c60802c68eac46a5a849f1e0779da22bb354acc587254df11  20210718.txt
 
