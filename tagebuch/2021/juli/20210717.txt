@@ -63,4 +63,9 @@ meiner meinung ist das "übe rache"
 -> als allfällig fehlbare ärzte schützne sich mit dem ermorden des sündenbocks vor dem in den knast gehen statt halt 20h pro tag wissenschaft zu wälzne um wieder gut zu machen was sie verbrochen haben?
 
 
+Sat Jul 17 02:37:21 CEST 2021
+  66  478 7041 20210717.txt
+[main f4f7ce84] save
+ 1 file changed, 36 insertions(+)
+2cf64a854d310528bf3ead442eae8843ddf5928888372f3f58d23a97c7f5e607d59ef2f8151fe63659aa495a6e6dede2b46cf165d99cf7c1c557413e903173cc  20210717.txt
 
