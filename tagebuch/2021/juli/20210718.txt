@@ -112,4 +112,9 @@ die szene wo urs blum, martin blum und astrid blum-truffer damals wo ich gesagt 
 
 somit ist ein "megaritual" dazu da alle einzuschwören auf das land das ausgebeutet werden soll
 
+Sun Jul 18 00:46:38 CEST 2021
+ 115  692 5407 20210718.txt
+[main 9af77475] save
+ 1 file changed, 7 insertions(+)
+262941357702b5b30d7f82a48d0c7e4d9d8dfd8d6331855bdf22948cdd989371882093d1a77055b542e0690d32942d87010eb8fa78fd5942b0d8ae739bb4b6b9  20210718.txt
 
