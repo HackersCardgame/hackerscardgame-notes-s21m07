@@ -90,3 +90,12 @@ Sun Jul 18 00:40:41 CEST 2021
  1 file changed, 4 insertions(+)
 349e5d72e44e893740f9cb15fce33266af147226445c4c613ec29bbf2efce77d42a9ba35e749783a85e18eb2411c97e347d6b9a25c5ebcad5d92bbee39b0f11c  20210718.txt
 
+
+neuer problem archetyp:
+urs blum hat mit der zürich versichrung und dem ACIDpirate (Gabriel Riela) die Polizei und Justizbehörden grossflächig mit schwerst abhänig machenden drogen angefüttert ...
+
+ProblemArchetyp = Sorte von Problem
+
+ AcitPirate <- injected typo
+
+
