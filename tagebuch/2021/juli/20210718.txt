@@ -75,4 +75,9 @@ f31bfe3adc488bfb96f9371416a213f004f72b2ca58f3e522202f466a6cdaef0820cf98308b24a2c
 diese sorte von amerikanen haben urs bulm und astrid angetrieben mir das anzutun im 2001 mit der drohung dass astrid und urs blum keine drogen mehr bekommen weil markus belser und david utz den drogenring verraten hat
 
 
+Sun Jul 18 00:38:21 CEST 2021
+  78  503 3742 20210718.txt
+[main cbbc8dd8] save
+ 1 file changed, 5 insertions(+)
+80305fc7a15c43fa30b81cc16cb0f2740133ca64974bdd8259888c49a90c3f916ed9149b69f5147f4f546e55a36000c0a1f4f0fcea9f411c46184253412d5440  20210718.txt
 
