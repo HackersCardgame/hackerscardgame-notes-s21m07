@@ -121,4 +121,9 @@ Sun Jul 18 00:46:38 CEST 2021
 
 dann sit das "like ticking timebombs" von george w bush damals ein hint mit dem zaunpfahl, dass all diese leute amok laufen werden wenn sie ihren stoff nicht merh bekomen?
 
+Sun Jul 18 00:50:36 CEST 2021
+ 124  742 5837 20210718.txt
+[main 261c17a1] save
+ 1 file changed, 4 insertions(+)
+96c78d56ca5b1a2fc6a73f642f762d7b98d9e848279c365b5dce96d704c767ff6de68bb608ad03e2a313d8d4f547b324e5f76a2e3cc202dcea6d98c11f7adeaa  20210718.txt
 
