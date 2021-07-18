@@ -221,3 +221,22 @@ Sun Jul 18 10:24:32 CEST 2021
  1 file changed, 1 insertion(+), 6 deletions(-)
 97a3e85d5453abe38c9a7f676bbd2ef4d028171ff491db495523c70e29a9a1296c85829c8a7050f15c3d54cb3343f6368c94c47d89f3e6f3ddebed5288a3578c  20210718.txt
 
+
+marc@DESKTOP-B99KF62:~$ figlet -w 200 " ev interessant fuer WhiteHat's "
+               _       _                                     _      __                  __        ___     _ _       _   _       _   _      
+   _____   __ (_)_ __ | |_ ___ _ __ ___  ___ ___  __ _ _ __ | |_   / _|_   _  ___ _ __  \ \      / / |__ (_) |_ ___| | | | __ _| |_( )___  
+  / _ \ \ / / | | '_ \| __/ _ \ '__/ _ \/ __/ __|/ _` | '_ \| __| | |_| | | |/ _ \ '__|  \ \ /\ / /| '_ \| | __/ _ \ |_| |/ _` | __|// __| 
+ |  __/\ V /  | | | | | ||  __/ | |  __/\__ \__ \ (_| | | | | |_  |  _| |_| |  __/ |      \ V  V / | | | | | ||  __/  _  | (_| | |_  \__ \ 
+  \___| \_/   |_|_| |_|\__\___|_|  \___||___/___/\__,_|_| |_|\__| |_|  \__,_|\___|_|       \_/\_/  |_| |_|_|\__\___|_| |_|\__,_|\__| |___/ 
+                                                                                                                                           
+marc@DESKTOP-B99KF62:~$ 
+
+
+dann ist jetzt wahrscheinlich das blackhat team von gabriel riela (irgendwann auch mal bei der zürich verischrung) aktiviert worden und verliert jetzt den datenpunkt:
+
+IRATEMONK DROSSEL MALWARE um das sichern von daten zu verlangsamen jetzt auch auf dem endpoint / vm des computers
+
+1. Verschleierung der IRATEMONK malware
+2. weil ich einen weg gefunden habe die malware zu umgehen
+
+
