@@ -239,4 +239,9 @@ IRATEMONK DROSSEL MALWARE um das sichern von daten zu verlangsamen jetzt auch au
 1. Verschleierung der IRATEMONK malware
 2. weil ich einen weg gefunden habe die malware zu umgehen
 
+Sun Jul 18 11:11:15 CEST 2021
+  242  1621 12183 20210718.txt
+[main 97b46835] save
+ 1 file changed, 19 insertions(+)
+e395c8d6a8f040f90b046596e9fa20c1d0eb22362979a420d282b924151e924742e4eaacb19654a9b7f8ff9ea1f24166ec095b1cfbf03e23f12b24470a6efe1a  20210718.txt
 
