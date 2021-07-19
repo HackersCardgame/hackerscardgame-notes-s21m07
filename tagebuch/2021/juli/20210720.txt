@@ -1,0 +1,32 @@
+Tue Jul 20 00:32:48 CEST 2021
+0 0 0 20210720.txt
+
+marc@DESKTOP-B99KF62:~$ figlet GoodMorning Cyber
+  ____                 _ __  __                  _             
+ / ___| ___   ___   __| |  \/  | ___  _ __ _ __ (_)_ __   __ _ 
+| |  _ / _ \ / _ \ / _` | |\/| |/ _ \| '__| '_ \| | '_ \ / _` |
+| |_| | (_) | (_) | (_| | |  | | (_) | |  | | | | | | | | (_| |
+ \____|\___/ \___/ \__,_|_|  |_|\___/|_|  |_| |_|_|_| |_|\__, |
+                                                         |___/ 
+  ____      _               
+ / ___|   _| |__   ___ _ __ 
+| |  | | | | '_ \ / _ \ '__|
+| |__| |_| | |_) |  __/ |   
+ \____\__, |_.__/ \___|_|   
+      |___/                 
+
+
+ich hätte gesagt da läuft bei mir nachts wenn ich schlafe ein algoritmus
+
+EEG/THS BioFeedback - StateMachine um Information FNORD'en
+
+loop
+{
+ + relevante Information (wie diese hier)
+ - die wird dann aber grad wieder aus dem kurzzeit-gedächtns gelöscht
+ x melatonin metabolismus wir aktiviert
+ + me sleep again
+}
+
+
+
