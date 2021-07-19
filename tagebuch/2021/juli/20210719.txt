@@ -23,4 +23,12 @@ dann hätte ich drauf getippt, dass diese sorte von menschen
 
 Scan im selben git commit
 
+Mon Jul 19 03:42:13 CEST 2021
+  26  158 1189 20210719.txt
+[main 63abde05] save
+ 3 files changed, 10 insertions(+)
+ create mode 100755 scans/BRN3C2AF421298E_014456.pdf
+ create mode 100755 scans/BRN3C2AF421298E_014500.pdf
+248e7e3c33782fff4b549b90ac534f02c095c777072eeaad10bf4a5e8fd4bfcd6bd8a621a1d437163a2b39d50bb477e66c675b3d811c0ef9bdc37951a4fe944c  20210719.txt
+
 
