@@ -189,4 +189,9 @@ Mon Jul 19 12:54:04 CEST 2021
 
 allenfalls eventtrigger auf Twitter interaktion wie likes etc. die dann einen adaptiven "echo" bot aktivieren der sich dann versucht in richtung trigger thema was bei mir z.B. die Sexuelle Interigät ist hinein zu fressen. das ganze würde auch interaktiv / biofeedback mit dem EEG/THS machen und soll so Isulation unter menschen "gewährleisten" bzw. so etwas wie eine CyberIsozelle produzieren, oder militärsichen abschirmdienst (was auf englisch komplett falsch übersetzt wurde)
 
+Mon Jul 19 15:07:56 CEST 2021
+ 192 1334 9591 20210719.txt
+[main 1716140b] save
+ 1 file changed, 4 insertions(+)
+2b5f7a097afacfdbc823310d05c4f243a4de9ac25ef67e341da10b7866661114f76a3b7c99e0605a68e431859a416ce5fe0c5ad1ff6fb27f9f057401459dfdc5  20210719.txt
 
