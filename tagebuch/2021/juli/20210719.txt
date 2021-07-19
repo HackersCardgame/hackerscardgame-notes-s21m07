@@ -7,4 +7,10 @@ bzw. sie wurden mit "enhanced interrogation" von polizei und richtern befragt, h
 
 pädophilie wäre dann auch ein test der täterscahft wie gut das rechtssystem unterwandert ist
 
+Mon Jul 19 03:22:44 CEST 2021
+ 10  89 593 20210719.txt
+[main d43520cd] save
+ 1 file changed, 10 insertions(+)
+ create mode 100644 tagebuch/2021/juli/20210719.txt
+0d6412a3dc3bec9ce9c7b56fc07c3090e37272cb3f53836e615bfa739d28820aba35020864348ad0ca8208999470427f50f9a5be7b22eb62d7c4e1fa0bab03dd  20210719.txt
 
