@@ -40,4 +40,9 @@ informati kosher ist aber eigentlihc sinnvoll, spätestens wenn etwas wie neural
 dann akohol und drogen konsum redet dem möngeli ein, dass er >> SELBER <<  noch 20% besser sei als der wissenschaftler um dispensiert sich so vom eigentlichen wissen
 
 
+Mon Jul 19 04:10:11 CEST 2021
+  43  242 1944 20210719.txt
+[main 8446d567] save
+ 1 file changed, 9 insertions(+)
+aff8ee6b5177e2c7d7a41310c0ac655f68379692004027c644b0f8a14b9681fd5222b223e5eb6f94647332c4dbde7131eb4d19d82c3bfd5224f5fca731e7efa9  20210719.txt
 
