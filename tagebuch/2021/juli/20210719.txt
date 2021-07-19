@@ -108,3 +108,76 @@ Mon Jul 19 05:00:10 CEST 2021
  1 file changed, 10 insertions(+)
 9e7c5608d2c6fb038e7819989874e091baa8cdc583266a5ee0e449618adba0ee8982b820ab504c60c02966aed720010a9c30ef166cccbf665a428809be702f1e  20210719.txt
 
+
+
+Guten Tag
+
+soeben wurde wieder feige über einen mir nicht nachvollziehbaren KommunikationsKanal der Datenpunkt eingereicht, dass
+
+" S . . . . .   F . . . . . .  einen Vormund vor die Nase gesetzt bekommen hat, allenfalls damit er über die Finanzen dazu gezwungen werden kann nicht gegen z.B. die Zürich Versichrerung oder das mutmasslich amerikansiche Terrornetzwerk dass sich in der Pfadi Adler Aarau eingeschlichen hat"
+
+Rechtlich:
+Hören Sagen
+
+Plausibilitäts-Check:
+
+- Einige Pfadfinder waren öfters im OXA
+-- Drogenkonsumenten wären die Zielpersonen gewesen
+-- Die anderen hätten dort die Handhabung von Chemischer Waffen gelernt
+
+- [DELETED] [REBUILT] Pfadi durchdringt so ein bisschen alle Gesellschaftsschichten und Beziehungsnetzwerke, sowohl Paschtle-Spile-Gumpe als auch Militärisch Hierarchische Systeme, VBS
+
+- Pfadi ist z.B. mit dem Jamboree International, Pfadi wäre ausserdem eine "Geheimsprach" bzw. eine Metasprache um es wissenschaftlicher auszudrücken
+
+
+Mehrfach-Schachzug:
+1. Pfadi
+2. mit Drogen anfüttern
+-> diskreditieren
+3. Aussteuern
+-> man kann sich dann z.B. kein Messequipment mehr leisten
+4. Vormund
+-> der Vormund würde dann allenfalls sogar dafür sorgen dass der Patient nicht mal mehr Essen kaufen kann weil ${AusredenKatalog-Ausrede-Nr.611}
+
+
+Sprachsynthse(?) Claudien Blum:
+- S.F. fehlen Muskelpartien seit der Geburt, >> hat dort allenfalls schon jemand so Dinge wie CRISPR-Menschenexperimente gemacht << <-- Satzbau meiner Meinung nach wie es der Herr Dr. Pfisterer formulieren würde, aber das müssten dann schlussendlich die Natural Language Processing Spezialisten sagen.
+
+marc@DESKTOP-B99KF62:~$ figlet "  wichtigster  Datenpunkt :"
+            _      _     _   _           _
+  __      _(_) ___| |__ | |_(_) __ _ ___| |_ ___ _ __
+  \ \ /\ / / |/ __| '_ \| __| |/ _` / __| __/ _ \ '__|
+   \ V  V /| | (__| | | | |_| | (_| \__ \ ||  __/ |
+    \_/\_/ |_|\___|_| |_|\__|_|\__, |___/\__\___|_|
+                               |___/
+ ____        _                               _    _
+|  _ \  __ _| |_ ___ _ __  _ __  _   _ _ __ | | _| |_   _
+| | | |/ _` | __/ _ \ '_ \| '_ \| | | | '_ \| |/ / __| (_)
+| |_| | (_| | ||  __/ | | | |_) | |_| | | | |   <| |_   _
+|____/ \__,_|\__\___|_| |_| .__/ \__,_|_| |_|_|\_\\__| (_)
+                          |_|
+marc@DESKTOP-B99KF62:~$
+
+[DELETED] [REBUILT] wichtister Punkt:
+Falls jemand vom Fedpol, Polizei oder Gerichte da Zugriff auf Datenbanken hat, würde man mit einem Query
+
+SELECT * FROM  ...
+
+... ${Mensch mit Vormund} NEAR
+... ${Mensch der gegen [Konzern|Nat.-|Jur.-Person]}
+
+... aussagen könnte.
+
+
+Mit freundlichen Grüssen
+
+Marc jr. Landolt
+eidg. dipl. Informatiker HF
+Neuenburgerstrasse 6
+5004 Aarau
+062 822 61 31
+078 674 15 32
+
+
+
+
