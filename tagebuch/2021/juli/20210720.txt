@@ -417,4 +417,9 @@ direkte rede zu Urs Blum: "Lieber" urs blum, hör entlich auf zeugen ermorden zu
 
 
 
+Tue Jul 20 07:14:24 CEST 2021
+  420  2478 19721 20210720.txt
+[main 71823006] save
+ 1 file changed, 13 insertions(+)
+1ae7ddad9b0d6d7e2b4b66a72756c92830f1f0529f168032d6d6e32dfa434ab79197ee58951be39396b08273f33af8b9c4cd3de44f760f08040ba5a757c9cf7a  20210720.txt
 
