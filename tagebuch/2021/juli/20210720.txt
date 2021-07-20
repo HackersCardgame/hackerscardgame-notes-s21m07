@@ -581,4 +581,9 @@ wenn man aber sagt: so einer firma kann man sowieso nicht rauen weil chemie und 
 
 somit müsste die Formulierung "Der Teufel steckt im Detail" geändert werden in "Der Teufel steckt angeberich im Detail (Kleingedruckt: und überführt sich so wieder mal selber)"
 
+Tue Jul 20 09:27:18 CEST 2021
+  584  3878 30569 20210720.txt
+[main 61654509] save
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+8143844c0513c40628c3e3bd54f29e4bd75bb1e8fb4e4f0600162c20d10e4c21439068a5252fdb00d1ec72916cd9bab8f8358dc8e193342f84d17f9cccc01d88  20210720.txt
 
