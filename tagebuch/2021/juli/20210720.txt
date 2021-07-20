@@ -306,4 +306,9 @@ bartpflege / chemitrode / eingewachene haare im gescht entfernen + spinalis ths 
 
 dann machne die den offset im arm und nicht in der hand, so dass der offset nicht auffallen würde...
 
+Tue Jul 20 04:08:44 CEST 2021
+  309  1838 14469 20210720.txt
+[main 9bcf4fe4] save
+ 1 file changed, 5 insertions(+)
+7004b902721e486acdde16cb8b261dd4aea80d3d3f3d0e127726d85045a61653accdc764a4d4b6662723c28cfe6be3dcfcaed2cb767887c5e012f67437f93d0e  20210720.txt
 
