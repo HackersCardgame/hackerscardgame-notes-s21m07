@@ -722,4 +722,9 @@ dabei fällt mir auf, dass der kleber / siegel schon mal offen war [1] ich mach 
 
 [1] urs blum: georg landolt war an der post telli dran
 
+Tue Jul 20 14:43:49 CEST 2021
+  725  4897 38997 20210720.txt
+[main 48384e5e] save
+ 1 file changed, 8 insertions(+)
+f94b658c91b93945696bf8663cf8539a2b7c53e1fdd6322a2b237ae39d387674d6bccc56cad43898d037425c734eca22f669161b8b6aa15685931a1ebb5ae9c2  20210720.txt
 
