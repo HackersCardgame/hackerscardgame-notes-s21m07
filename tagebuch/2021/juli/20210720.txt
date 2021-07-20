@@ -697,9 +697,6 @@ v      v              v          v             ------------  v    \
 
 Fazit: wir suchen einen täter der von Mechanik und Bilologie eine Ahnung hat.
 
-Tue Jul 20 11:10:01 CEST 2021
-  700  4725 37625 20210720.txt
-[main 096e2b1b] save
- 1 file changed, 25 insertions(+)
-6015d12d61c5fc0b3f12725d4dc42a531e7a1e69a18226fedf3a7c1c0fd88ed19e08dc9d0c08fdd192b3d5ae49adaeea6624a8cef167a963eefc666ed535877c  20210720.txt
+das mit dem ICD10 F44.x beim entfernen scheint nicht auf der einzelnen chemitrode zu sein sondern jetzt auf generell alle (die abstakte klasse) chemitroden aktiviert worden zu sein...
+
 
