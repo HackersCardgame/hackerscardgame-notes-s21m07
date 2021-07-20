@@ -271,4 +271,9 @@ dann die mac beth malware wäre von jean rene furrer in uns 1979-f-klasse der be
 FUNFACT:
 der jean-rene Furrer hatte damals jeweils so ein Grinsen auf den Stockzäehnen wie wenn er wegen uns kinder jetzt dann gleich durchdreht und amok läuft, scheinbar wird das jetzt über mein medullla spinalis ths (forward/reverse cinemactics, bespeicherte 3D posoition wie man bei abb robotern eine position der achsen speichern kann aber allenfalls sogar in abhängigeit der zeit M(x) | M = Matrix
 
+Tue Jul 20 03:35:52 CEST 2021
+  274  1637 12739 20210720.txt
+[main a3885970] save
+ 1 file changed, 3 insertions(+), 5 deletions(-)
+a9ce44d4e6593253ffe836b7d0eea12965e08a51f089555f80e7e8d43488df4e8396b3669ef11fb2c8978f9195f2dcb1051c0f815663be5ce76fa1fac8459762  20210720.txt
 
