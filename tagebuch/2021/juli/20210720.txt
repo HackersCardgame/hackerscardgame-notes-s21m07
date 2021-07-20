@@ -709,4 +709,9 @@ time slots sperre / loschen im kurzzeitgedächtnis wurde allenfalls auch abstrak
 relevantes da geheim gehalten werden soll
 weiteres relevantes danach <- wird hervorgehoben und das erste gelösdcht und dann auch das "duble time slotting & dDOS
 
+Tue Jul 20 11:43:48 CEST 2021
+  712  4814 38351 20210720.txt
+[main c63fb5ce] save
+ 1 file changed, 1 deletion(-)
+92c5904c21f6f54023fc16005c7a69322683105933a2a5c393668395ab20c6b208bc63a935764cf7ed138b64abedebaabd4eebacd228382d95a9c5b81f63b157  20210720.txt
 
