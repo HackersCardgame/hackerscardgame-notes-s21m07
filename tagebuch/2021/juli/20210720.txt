@@ -119,3 +119,6 @@ Tue Jul 20 02:27:28 CEST 2021
  1 file changed, 3 insertions(+)
 2050a998a757cac8612b919f80402c7949ab01f0f5333f4aca824f3f54e886ca83fb9fa1fee5efc949e33a27611eec0fdc9e6647e99c60f9d7f2426b7e15430e  20210720.txt
 
+gedankenprotokoll ist am laufen und auf dem THS2 versucht pfisterer und urs blum sich als heiliger einzuschleichen... was ich dann mit "einem typo / bestätigung" bestätigen würde, aber meist resetTE ich dann das terminal...
+
+
