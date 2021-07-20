@@ -394,4 +394,9 @@ f193aef0db0840a286a5a426d4d5c8e92d81a7d69f8b4210430eae6491f4f88e725500d948e3b621
 einfach andere pinzette bestellen, aber man will ja eigentlich die algis so schreiben, dass das auch unterschicht kinder die sich nicht noch extra spezial pinzetten bestellen können leisten lösen können...
 
 
+Tue Jul 20 07:02:14 CEST 2021
+  397  2387 18823 20210720.txt
+[main 43bd7442] save
+ 1 file changed, 10 insertions(+)
+e3c4872f069f81aa3059e4d2c8b041a920f57b4e28676cb90530ae5c308a583e91bc44217d9282086ed976e5205c696143361cb382bad6feff72d8fd2302c0df  20210720.txt
 
