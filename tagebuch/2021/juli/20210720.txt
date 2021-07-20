@@ -577,4 +577,9 @@ Tue Jul 20 09:12:21 CEST 2021
 
 dann falls das als medikament vertickt wird müsste ja der beweis des herstellers erbracht werden können dass das behebbar ist, weil sonst der hersteller nicht reversible urteile aussrpicht und somit hat der hersteller nichts mit recht oder gereichtigkeit zu tun sondern ist ein auftragskiller.
 
+Tue Jul 20 09:13:45 CEST 2021
+  580  3781 29898 20210720.txt
+[main 31cc3e31] save
+ 1 file changed, 3 insertions(+)
+496a48eb032911da62422ed45922feb818db479c1bb920d4af9642471ce8577742eeda95920bd1369f4ea952f2cf870677161eea2d29ebfaf68c015be383ac8e  20210720.txt
 
