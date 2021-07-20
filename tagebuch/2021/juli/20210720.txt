@@ -554,11 +554,14 @@ Tue Jul 20 09:01:27 CEST 2021
  1 file changed, 5 insertions(+), 5 deletions(-)
 4278c446fc692290c5586efb14beaac7249263fd49f35448829a78e7f2390e523157471154cd43068af174ad9d170a9b6120bb4ca097299f4e85847c3e0fc38e  20210720.txt
 
-       Relevante Info1
-       |              Relevante Info2
-       |              |          Relevante Info3            wiederhaken, remote lösbar...
-       |              |          |                          |
-       v              v          v             ------------ v    \
+rahmenerzählung / aversionsarchetyp: wenn ich dies nciht nicht entfernen würde hiesse das zustimmung, das mich ein älterer gewalttäter (in diesem fall marc-georg landolt, 1950) vergewaltigen dürfe was er nicht darf... -> hiesse dann dass der marc-georg landolt mit solchen waffen so "einvernehmlichen" sex erzwingt..., vermtulcih wurde das zum glück redirected von 1980er mädchen auf mich...
+[WEGGELAUIFEN und git commit ncith gemacht, georg landolt 1950 ist mich somit am stalken]
+|
+|      Relevante Info1
+|      |              Relevante Info2
+|      |              |          Relevante Info3            wiederhaken, remote lösbar...
+|      |              |          |                          |
+v      v              v          v             ------------ v    \
  ======================================================== |-------)
     ^      ^       ^        ^         ^        ------------      /
     |      |       |        |         |
@@ -605,4 +608,8 @@ Tue Jul 20 10:15:28 CEST 2021
 [main e177f702] save
  1 file changed, 1 insertion(+), 7 deletions(-)
 244b424a3c12ecc8f2ac2f2ea73a612aec67da00c9283c79c56786dcdd75b2ff81bda1be1b8cfc1219879a8faaaeddecaf985a6ba8fe77c5a85600c2320a1c2b  20210720.txt
+
+HASH MODED
+
+
 
