@@ -728,3 +728,13 @@ Tue Jul 20 14:43:49 CEST 2021
  1 file changed, 8 insertions(+)
 f94b658c91b93945696bf8663cf8539a2b7c53e1fdd6322a2b237ae39d387674d6bccc56cad43898d037425c734eca22f669161b8b6aa15685931a1ebb5ae9c2  20210720.txt
 
+
+SO ich muss wieder mal ein paar blackhat dinge verpetzen die ich grad rausgefunden habe, das problem dabei ist dass sich diese dinge wechseln, dass sich die angriffsvektoren gegenseitig tarnen, abwechseln, verschlieiern
+
+hackerscardgame hält die formulierung "Hacking Team" für einen Euphemismus, es müsste "Hacking teamS" heissen
+
+scan selber git commit
+
+die datei BRN3C2AF421298E_013027.pdf
+
+
