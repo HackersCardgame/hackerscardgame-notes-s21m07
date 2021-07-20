@@ -21,4 +21,16 @@ GUID "schauen ob ich nciht mal eine SWANDIVE CD hatte"  -> GUID wird von meinem 
 
 "was das herz begehrt" oder der kompass der anzeigt wo das ding ist was man haben möchte bzw in meinem fall wissen möchte <- da könnte man das dann rauben und tuer verkaufen oder zur rosa-arraylist-karte umfunktionern als waffe
 
+Tue Jul 20 23:26:50 CEST 2021
+  24  206 1137 20210721.txt
+[main 7aab2c70] save
+ 1 file changed, 24 insertions(+)
+ create mode 100644 tagebuch/2021/juli/20210721.txt
+e0a0606a8c896751e6ba784109734d5f811745c4b3b2b5189539bf16166ff5dd3e8a37ae372ba2229454aaeaddf81701d77e4d14c772cbe703e8be3da33b079c  20210721.txt
+
+
+mutmassung: dominic zschokke ist seit ein paar stundne tagschef im mich terroriseierin
+
+wenn ich mit direkter rede in meinem privaten schlafzimmer den dominic zschokke anspreche wird mit datenpunkten der 1979er bez aarau klassen gespamt, somit hätte der dominic zschokke eine vermutlich illegale datenbank über die 1979 Klassen der bez aarau
+
 
