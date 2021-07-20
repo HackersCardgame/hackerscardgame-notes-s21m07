@@ -654,4 +654,9 @@ vor dem oberen satz war noch
 david utz: margrit landolt hat auch XCT konsumeirt, XTC macht aufdringlich
 -> david utz hat somit als füsilier access codes darauf und gard die armee schweiz als terrornetzwerk überführt
 
+Tue Jul 20 10:44:46 CEST 2021
+  657  4354 34449 20210720.txt
+[main 12552702] save
+ 1 file changed, 5 insertions(+)
+1078d9336906ec707b79049442050747173874e8a3d6c1b844e6fc49ff1b7cd540764cd88aa231f0a22c82ff671afcc9897ec26f01d1c2940159b805ebe8ba96  20210720.txt
 
