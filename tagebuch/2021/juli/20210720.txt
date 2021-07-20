@@ -343,4 +343,9 @@ jeweilige offender archetypen
 
 pfisterer: bewiesmittel landolts.ch: georg landolt hat sich an der cousine monik von marc jr landolt vergriffen <- triggert erstens, zweitens GENERIC SURGIAN CARBON UNIT ??? dann wäre das myrha pfisterer und nciht der hansjürg pfisterer?
 
+Tue Jul 20 04:33:34 CEST 2021
+  346  2044 16068 20210720.txt
+[main c21330a7] save
+ 1 file changed, 16 insertions(+)
+945c366bc11f86f289a94c5f7f95ad9360eb1f6473b687e111be4c51c0e52bb99bd3e7a671342353816556645da48beae79e92a4220868f936955ec85a46e42a  20210720.txt
 
