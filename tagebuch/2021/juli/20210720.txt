@@ -644,4 +644,9 @@ e638833463f029a034be7d044e0ed13e7ee578f8e6338f85477fd7c667247ee555af1483d8f9001a
 
 wenn das mit dem ICD10 F44.x stimmt wäre das vermutlcih militärisch um z.B. zu verhindern dass ein gutartiger mensch tretminen etc entschären kann...
 
+Tue Jul 20 10:42:07 CEST 2021
+  647  4299 33970 20210720.txt
+[main dc56774e] save
+ 1 file changed, 4 insertions(+)
+361cc5b884e354bc42574fa2a1b1bd56547577df8bf9fdf856bd24a43701177d11cb20d729e29919ec56e306acfff1780f699e3e3bd454b2399c4c00cd68d0d5  20210720.txt
 
