@@ -100,3 +100,9 @@ Tue Jul 20 02:20:44 CEST 2021
  1 file changed, 6 insertions(+)
 c886f254c17904f99de2bc8494101c0c7c39fc26be4c45120bfebd01b24fc8130a5e15adf1ed9e7f19b28c2371fb64d652b4afea77e6dbcce55ac1a325c90419  20210720.txt
 
+
+alle todos die mein m160 erkennt die ich erledigen möchte (und somit vermutlcih auch nachrichten, messages von gelichatrigen...) gehen scheinbar in eine "rosa arraylist karte messaging" queue und werden jeweils zum dümmsten zeitpunkt wieder ent-blockert
+
+SF-DRS "DER SCHALTER"
+
+
