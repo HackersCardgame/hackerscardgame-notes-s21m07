@@ -641,3 +641,7 @@ Tue Jul 20 10:32:27 CEST 2021
  1 file changed, 2 insertions(+), 5 deletions(-)
 e638833463f029a034be7d044e0ed13e7ee578f8e6338f85477fd7c667247ee555af1483d8f9001a81c2c31f4f7212347fc07ba2299c6c15f60401af1a78d64b  20210720.txt
 
+
+wenn das mit dem ICD10 F44.x stimmt wäre das vermutlcih militärisch um z.B. zu verhindern dass ein gutartiger mensch tretminen etc entschären kann...
+
+
