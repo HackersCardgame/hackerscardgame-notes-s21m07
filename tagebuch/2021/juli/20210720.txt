@@ -357,4 +357,6 @@ QUERY: corona <-> zürich versichrung
 
 git commit nicht gemacht -> Zürich versichreung als agierender Täter aufgelfogen...
 
+urs blum: sprgnefallen aktkvieren
+
 
