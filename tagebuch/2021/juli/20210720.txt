@@ -542,10 +542,10 @@ dann overall hat das ding dann zur behebung ca. eine einwirkungsdauer von 5h um 
 
 kombination zugfestigkeit bis es reisst <-> wiederhaken stärke => impliziert dass es solche gibt die nicht mehr lösbar sind, somit ist zu erwarten dass die zürich verischrung ihre mordopfer = zeugen gerne noch misshandelt und quält bis die zürich ihre zeugen ermordet -> psychologie profil dieser mitarbeiter der zürich verischvutgn
 
+das wäre eine "blaming the user" karte, die darauf abzielt mit "hahaha selber schuld" / "hahaha unfähig" rage, suizid oder amoklauf zu iunduzieren... zu wissen dass es solche unlösbaren kombinationen [1] (die nciht lösbar sind) [2] behebt das mit der "blaming the user" Karte, kein fair game, was dann auch implziert, dass marc jr landolt das puzzle mit den 3 morden an abb mitarbeitern durch mutamasslich urs blum und gabriel riela für ein EDV-CTF korrekt zusammengesetzt hat [3]
 
-Tue Jul 20 08:56:04 CEST 2021
-  546  3511 27554 20210720.txt
-[main 54fa1201] save
- 1 file changed, 5 insertions(+), 6 deletions(-)
-d4cd35f547a26d00462e6b3c1039197cfa489f20e6e0822854ee7915b4f264739f843c73805a5f8d42e32a150e8240cc7d29a85a7c6fdaae02ab02f4ce3c3e89  20210720.txt
+[1] cAPI <- statemachine shclechte truppenmoral bei den brafen schafen?
+[2] pfsiterer damals: "blums wurden vor ein unlösbares problem gestellt
+[3] zürich verischrung: zürich versichrung versifft <- das wäre somit die astrid blum...
+
 
