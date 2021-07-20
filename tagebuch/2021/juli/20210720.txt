@@ -548,4 +548,9 @@ das wäre eine "blaming the user" karte, die darauf abzielt mit "hahaha selber s
 [2] pfsiterer damals: "blums wurden vor ein unlösbares problem gestellt
 [3] zürich verischrung: zürich versichrung versifft <- das wäre somit die astrid blum...
 
+Tue Jul 20 09:01:27 CEST 2021
+  551  3622 28278 20210720.txt
+[main 77ca470d] save
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+4278c446fc692290c5586efb14beaac7249263fd49f35448829a78e7f2390e523157471154cd43068af174ad9d170a9b6120bb4ca097299f4e85847c3e0fc38e  20210720.txt
 
