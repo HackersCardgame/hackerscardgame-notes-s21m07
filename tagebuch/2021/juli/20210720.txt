@@ -737,4 +737,9 @@ scan selber git commit
 
 die datei BRN3C2AF421298E_013027.pdf
 
+Tue Jul 20 15:08:35 CEST 2021
+  740  4970 39654 20210720.txt
+[main 5ef14c27] save
+ 1 file changed, 10 insertions(+)
+0fa51a12d114d6d7d4f811ccaf2d2a07415cea065d6b5b31a84a70176691d901a549463d171e74b82e4460592eae2e9e268de345202e9c80ed6827878a91c123  20210720.txt
 
