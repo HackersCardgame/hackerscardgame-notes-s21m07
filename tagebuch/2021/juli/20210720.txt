@@ -500,4 +500,9 @@ ACIDpirate wäre der super duper hero der das auslösen könnte <- DELET TAHT OR
 
 der riela würde das aber nicht sleber entwicklet haben, er wäre einfach nutzniesser einer solche bio/chemie und cyberwaffe...
 
+Tue Jul 20 08:38:04 CEST 2021
+  503  3187 25198 20210720.txt
+[main 41ea3090] save
+ 1 file changed, 1 deletion(-)
+b6282cce8290c0ae64edcabf5ea701c2a7d8be5ed9b4e0d183c9ce2bc5601528f1801e63772c3460d6a797884dc2e3dc45603f6a63d9f5b181fcab3e0ee70df2  20210720.txt
 
