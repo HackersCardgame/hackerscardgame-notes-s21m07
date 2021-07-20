@@ -484,3 +484,6 @@ Tue Jul 20 08:13:35 CEST 2021
  1 file changed, 8 insertions(+), 5 deletions(-)
 654d1284fef3cbd89e202bcfb3e37ef0530b667fb5139c184193cfeb2f01e86a02449d96c52b7134828e198cfadbceb37fce18d53ad73896e483893f602de818  20210720.txt
 
+diese parametrisierbaren "medikamente" (bio - chemitroden) hätten auf dem überwachungssystem auch eine reinforcement learning software die jeden durchgang noch mühsamer macht...
+
+
