@@ -241,4 +241,9 @@ corona tracing malware wäre somit etwas wie eine kleinst malware die scheinbar 
 
 das gibt introspektion in dsa verteilen dieser "permanent records" was auch besser permaenent 3d raum malware betitelt 
 
+Tue Jul 20 03:03:32 CEST 2021
+  244  1399 10967 20210720.txt
+[main 1bbd65e5] save
+ 1 file changed, 6 insertions(+)
+2e8bd59f58d7c43750381477900805ff96d066f494d0672ec52edc28e20bc2509f8636c706dceb863d20e7264725fe59523c1077e1829a15ebb718d06985df01  20210720.txt
 
