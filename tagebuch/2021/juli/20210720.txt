@@ -537,4 +537,9 @@ Chemitrode StateMachine mit
 
 -> chemitroden sind somit dazu da belastungs-zeugen zu amokläufern oder suizidaten umzuprogrammieren, aber das scheitert irgendwie bei autsiten, hihihi
 
+Tue Jul 20 08:49:11 CEST 2021
+  540  3408 26855 20210720.txt
+[main b9e6405c] save
+ 1 file changed, 25 insertions(+)
+17b82a5c650d9ec715d102a124c712b56df1d0143773e52a2b11b5e0c6a625c27775657eda79286c4e2dba364fdc949c21d355035a3c950fece03ac82139fb11  20210720.txt
 
