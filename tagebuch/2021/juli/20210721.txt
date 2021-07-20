@@ -42,4 +42,9 @@ da734db610f8ba3bf426d5c0c4f7f329caecbd41fa074baed9e321808ac245e4fecd6eeba7c45d0e
 
 der dominic zschokke mit seiem "Leben heisst sterben zu lernen" ist eigentlich noch gemeiner als der (lateinisch Consolatio philosophiae; auch De consolatione philosophiae „Über den Trost der Philosophie“) i
 
+Wed Jul 21 00:09:22 CEST 2021
+  45  329 2264 20210721.txt
+[main 321a12df] save
+ 1 file changed, 4 insertions(+)
+39c9906d9ac32db344c04d25f8897635ad791385bfd4fa7cec1fc89941600c019e5aa0004c535c4bdf3854bc713f477f0160c188dc0793f72bc739b7523288ad  20210721.txt
 
