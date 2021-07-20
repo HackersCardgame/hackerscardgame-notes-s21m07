@@ -705,3 +705,9 @@ Tue Jul 20 11:15:25 CEST 2021
  1 file changed, 2 insertions(+), 5 deletions(-)
 2f229abd76a21d66b9a7e2ef2e9b96804e40fd4b989597eadbd98df1a6916ce230fa6d5604d00658cbe1afa8f09729deed9420e2d6a8835c322cae52ec5219b4  20210720.txt
 
+time slots sperre / loschen im kurzzeitgedächtnis wurde allenfalls auch abstrakte klasse geändert ->
+relevantes da geheim gehalten werden soll
+weiteres relevantes danach <- wird hervorgehoben und das erste gelösdcht und dann auch das "duble time slotting & dDOS
+
+
+
