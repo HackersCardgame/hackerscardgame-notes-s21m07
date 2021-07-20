@@ -216,4 +216,9 @@ so dinge sind dann auch ein indiz, dass das mainframe wieder mal gehackt wurde, 
 
 -> "3D modell tracing malware auf dem militärsichen 3d modell" wäre irgendwie sinnvoller als "Dark Patterns"
 
+Tue Jul 20 02:57:54 CEST 2021
+ 219 1272 9840 20210720.txt
+[main 0b65a53e] save
+ 1 file changed, 14 insertions(+)
+b2af02163d2e245a8734a4b207f93ab56b836cf8c691105c62b67f092861cb71a6ccd76e456b1dd3bf1e5cc7dafe6c6082a8fda52e2f302d2e198139ed7e296c  20210720.txt
 
