@@ -247,4 +247,9 @@ introspektion
 - Verteilung
 - woher wissen die an wen? (vermutlcih GUID Todesliste)
 
+Tue Jul 20 03:05:04 CEST 2021
+  250  1418 11066 20210720.txt
+[main 72726ffd] save
+ 1 file changed, 6 insertions(+), 5 deletions(-)
+0e0e9fae4160dcc8fc603a2fb4a6b4a993cf0722619bd75c6ae6240fd105c84b45d11db5c78816a612c3b2cebc8eceefe5919c348c55dae8c0bc95f5338d5768  20210720.txt
 
