@@ -507,4 +507,9 @@ CEO DER ZüRICH VERSICHRERUNG: SPRENGFALLEN IM GANZHEN KANTON AARGAU UNTER DER K
 
 urs blum hat jetzt somit den CEO mit ins sinkende bot genommen?
 
+Tue Jul 20 08:43:42 CEST 2021
+  510  3246 25602 20210720.txt
+[main 2e9cc08d] save
+ 1 file changed, 2 insertions(+)
+5d2dc9af10c6e070cd8660917b973f15b8612bb7b6ae0d27b0dd6e2ead516a966b02fa7596a24d2173e271631f1230611e74d4ef8c6d168dc5fa3a0ad495e2fc  20210720.txt
 
