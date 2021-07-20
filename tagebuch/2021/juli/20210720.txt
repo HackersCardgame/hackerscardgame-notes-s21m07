@@ -153,4 +153,9 @@ algorithus vermutlcih m160 EEG / THS Biofeedback
 
 FALLS GUTARTIGE MENSCHEN >> LEBENSMüDE << SIND wäre es allenfalls sinnvoll den algi im detail zu disassemblieren, auserdem könnte man da mit action recog das auch erkennen und hilfe herbei rufen...
 
+Tue Jul 20 02:36:34 CEST 2021
+ 156  888 6898 20210720.txt
+[main f23bba55] save
+ 1 file changed, 11 insertions(+)
+afc8baa6844c0e1a58ad87c67ff7f8654650e3926468194880162fdcb00d72927a3abd55f7c7814b78ddabcbd713006fb30647d724bc2c3cd576c6a61429fc98  20210720.txt
 
