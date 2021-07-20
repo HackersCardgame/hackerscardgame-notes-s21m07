@@ -533,15 +533,14 @@ Chemitrode StateMachine mit
 - parametrisierbarer inhalt
 - parametrisierbare wiederhaken stärke
 - parametrisierbare kleinstkapsel mit z.B. säure wo die füllmänge mehr oder weniger
-- 
+- zugfestigkeit bis es reisst
+
 
 -> chemitroden sind somit dazu da belastungs-zeugen zu amokläufern oder suizidaten umzuprogrammieren, aber das scheitert irgendwie bei autsiten, hihihi
 
 dann overall hat das ding dann zur behebung ca. eine einwirkungsdauer von 5h um den zeugen zu destablilsieren und wenn das auffliegt häucheln die "enhacnced interrogation" oder "trainion" oder "therapie" <- therapie zu sagen würde dann vermutlcih schon einen menschen wie den pfisterer -> pantic -> schleusener ... implizieren
 
-Tue Jul 20 08:51:00 CEST 2021
-  542  3457 27185 20210720.txt
-[main 31d16a62] save
- 1 file changed, 2 insertions(+), 5 deletions(-)
-21ad268a373df08e9360ea53828ffb9bf405c9fb5bf1c9e4ce4149645f1fe34c89c98a83f68102e6f91426331f1604b658ed5665cdadf4cb9212786612b1b9bc  20210720.txt
+kombination zugfestigkeit bis es reisst <-> wiederhaken stärke => impliziert dass es solche gibt die nicht mehr lösbar sind, somit ist zu erwarten dass die zürich verischrung ihre mordopfer = zeugen gerne noch misshandelt und quält bis die zürich ihre zeugen ermordet -> psychologie profil dieser mitarbeiter der zürich verischvutgn
+
+
 
