@@ -460,4 +460,9 @@ cb82b18369baab59f7d44334eca38edbbc622798ffa7d61f970a7e9551f45eccf861f7e5dc74934e
 
 immer vor solchem schiess ist alles angenehm, werden dinge verpetzt von z.B. JeanRene Furrer, also vermute ich (Furrer -> bez -> zelgli -> cluadine -> urs -> zürich versciherung) ist die zürich verischrung die die den furrer ans messer geliefert hat um den furrer danach auch gegen  mich zu insturmentaliseiern
 
+Tue Jul 20 07:43:15 CEST 2021
+  463  2872 22864 20210720.txt
+[main aaf5167f] save
+ 1 file changed, 3 insertions(+)
+d3530306337918dc7a6b6c0f394272f6fbb9ccf5b6dce09d35bd975d5392714eaf53249ce7aadacebd8c422ca928383517e42b3cc31448bf42d0ea2088292d3c  20210720.txt
 
