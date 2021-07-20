@@ -563,9 +563,9 @@ Tue Jul 20 09:01:27 CEST 2021
     ^      ^       ^        ^         ^        ------------      /
     |      |       |        |         |
     |      |       |        |         Pavlov Stimuli und Sabern dass remote eingeschaltet wird
-                   |        vergewaltigungsandrohung durch aversions archetypen, diejenigen die marc jr landolt bisher am meinsten psyhcischen schaden zugefühgt haben 
-                   Blut / Säure / Flüssigkeitskapsel mit parametrisierbaren füllmenge (allenfalls zweites parameter der greifer winkel, ToolCenterPoint
-
+           |       |        vergewaltigungsandrohung durch aversions archetypen, diejenigen die marc jr landolt bisher am meinsten psyhcischen schaden zugefühgt haben 
+           |       Blut / Säure / Flüssigkeitskapsel mit parametrisierbaren füllmenge (allenfalls zweites parameter der greifer winkel, ToolCenterPoint
+           Proteinrechner auf zwei beinen die aktiviert werden und vermutlich in meine überwachung / THS oder RetinaCCD dazusgeschaltet werden
 
 
 
@@ -586,4 +586,8 @@ Tue Jul 20 09:27:18 CEST 2021
 [main 61654509] save
  1 file changed, 2 insertions(+), 5 deletions(-)
 8143844c0513c40628c3e3bd54f29e4bd75bb1e8fb4e4f0600162c20d10e4c21439068a5252fdb00d1ec72916cd9bab8f8358dc8e193342f84d17f9cccc01d88  20210720.txt
+
+HASH MODED
+
+
 
