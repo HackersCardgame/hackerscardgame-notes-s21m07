@@ -268,4 +268,9 @@ dann die mac beth malware wäre von jean rene furrer in uns 1979-f-klasse der be
 
 [1] lic: jean rene behauptet das sei weil wir eine illegale kopie von dem buch htäten, hab eich aber nochmals bestellt, also soll vermutclih der zweite teil des satzes mit einer hanhbnebüchenenn klage verschleiert werden...
 
+Tue Jul 20 03:32:35 CEST 2021
+  271  1574 12331 20210720.txt
+[main 44551998] save
+ 1 file changed, 7 insertions(+)
+88d87cfd36fbfd54de1186eacb549e9ee9a326827b2c98cacd24025f0c5c2f36da8bca1bb9facd765a9683e8a2a5eb27dc7c3eb02689a950bbab910ec54e6206  20210720.txt
 
