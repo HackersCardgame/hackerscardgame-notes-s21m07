@@ -67,4 +67,9 @@ georg landolt und ruedi müller machen die selben beschissenen witze: das war de
 content stack smasing + corona tracing malware addon + cyberwürgekette 
 
 
+Tue Jul 20 02:06:48 CEST 2021
+  70  399 2722 20210720.txt
+[main 9a09e1d6] save
+ 1 file changed, 13 insertions(+)
+e70d806cba7bb15407ef405b74fe61313dbfabb3f18b8f758b3b49e644ccf64418422ce9a6b360b589939dd57921c670786c0ab585b6aeb0141ab9c5f5d01a9d  20210720.txt
 
