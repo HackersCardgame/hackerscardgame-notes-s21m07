@@ -322,4 +322,9 @@ dann retina CCD erkennt dieses ding
 
 gehr raus, gehr raus, gehr raus, gehr raus, gehr raus, gehr raus, gehr raus, gehr raus, <- und zeitgleich vergewalitgungs androhung (postfaktisch) durch georg landolt und dann geht es 1min und ich will mich wieder "selber" mit einer stichwaffe abstechen 
 
+Tue Jul 20 04:17:56 CEST 2021
+  325  1924 15174 20210720.txt
+[main 9bbf210c] save
+ 1 file changed, 11 insertions(+)
+d695e04a000687d5b43a7106c7f89473468f9cf52b741968a30d6ce455b1a2d3b3077ea54d07dcee439df9e2e6009927f68524211b56d6fd3f861833abc32eae  20210720.txt
 
