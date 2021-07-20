@@ -579,4 +579,9 @@ dann falls das als medikament vertickt wird müsste ja der beweis des hersteller
 
 wenn man aber sagt: so einer firma kann man sowieso nicht rauen weil chemie und bio firmen sind dann vermutlcih jeweils eher waffen produzenten als medikamenten produzenten, und eine waffe als medikament zu tarne da kommt NIEEEEEEEE ein 1980er drauf, dann wird scheinbar der wiederhaken remote gelöst und das ding kommt heraus, da wäre die technische / elektro / chemische frage wie das geht...
 
+Tue Jul 20 09:21:58 CEST 2021
+  582  3852 30387 20210720.txt
+[main f1186ebf] save
+ 1 file changed, 7 insertions(+), 10 deletions(-)
+abd6d6a0afb3a65f1404e37ff00b000f5c20dd5df9073a5e7abbd58382170843568b8062cd5ead60c7321dd744559626cd24d6b5f82dc338e2b892e42af35341  20210720.txt
 
