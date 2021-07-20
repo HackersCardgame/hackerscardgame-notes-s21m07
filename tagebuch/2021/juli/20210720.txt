@@ -699,4 +699,9 @@ Fazit: wir suchen einen täter der von Mechanik und Bilologie eine Ahnung hat.
 
 das mit dem ICD10 F44.x beim entfernen scheint nicht auf der einzelnen chemitrode zu sein sondern jetzt auf generell alle (die abstakte klasse) chemitroden aktiviert worden zu sein...
 
+Tue Jul 20 11:15:25 CEST 2021
+  702  4753 37810 20210720.txt
+[main 58bcbf3d] save
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+2f229abd76a21d66b9a7e2ef2e9b96804e40fd4b989597eadbd98df1a6916ce230fa6d5604d00658cbe1afa8f09729deed9420e2d6a8835c322cae52ec5219b4  20210720.txt
 
