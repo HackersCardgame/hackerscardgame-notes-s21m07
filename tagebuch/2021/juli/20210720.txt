@@ -186,4 +186,9 @@ mac beth wäre im kontext von corona auch ein one-eighty, wo eigentlich die mac 
 mussten wir bei hr hansjürg furrer lesen
 
 
+Tue Jul 20 02:51:07 CEST 2021
+ 189 1071 8356 20210720.txt
+[main 544abafb] save
+ 1 file changed, 6 insertions(+)
+a622e95e1c7150fc38ea34b9e1bbac0d2f1ee91e21f922ce59bc9430eaf9587e1227d0d3af74327b7f4fe908a954009ff314cd7c3636f1d8e04cfc791446b9ab  20210720.txt
 
