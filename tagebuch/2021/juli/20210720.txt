@@ -462,4 +462,12 @@ immer vor solchem schiess ist alles angenehm, werden dinge verpetzt von z.B. Jea
 
 selbst wenn es nur ein eigewachsnes Haar wäre (was ich zweifle deran (scans selber git commit die "zufällig" 10 minuten zurückgehalten wurden) würde das einfach opportun bei diesem usecase aktiviert werden, wäre immer noch closed source und immer noch einzige variante das zu disassemblieren, "Ich ZUPF-Si" (de-sg: ich Zupfe sie, brachen schweizer 1980er jungs aber auch um zu sagen: ich geh jetzt z.B. heim)
 
+Tue Jul 20 07:48:33 CEST 2021
+  465  2936 23279 20210720.txt
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+7ec124cc78057ace6d61ae7d158ad35bbf6217fc0045a84d64fb68c516b960fb620e22762329bc5c2b3677fb086da9de84b8926d8e7c66d60a18a15d57c71e27  20210720.txt
 
