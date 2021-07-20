@@ -539,4 +539,9 @@ Chemitrode StateMachine mit
 
 dann overall hat das ding dann zur behebung ca. eine einwirkungsdauer von 5h um den zeugen zu destablilsieren und wenn das auffliegt häucheln die "enhacnced interrogation" oder "trainion" oder "therapie" <- therapie zu sagen würde dann vermutlcih schon einen menschen wie den pfisterer -> pantic -> schleusener ... implizieren
 
+Tue Jul 20 08:51:00 CEST 2021
+  542  3457 27185 20210720.txt
+[main 31d16a62] save
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+21ad268a373df08e9360ea53828ffb9bf405c9fb5bf1c9e4ce4149645f1fe34c89c98a83f68102e6f91426331f1604b658ed5665cdadf4cb9212786612b1b9bc  20210720.txt
 
