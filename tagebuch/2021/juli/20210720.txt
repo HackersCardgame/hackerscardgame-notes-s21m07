@@ -143,3 +143,14 @@ Tue Jul 20 02:32:38 CEST 2021
  1 file changed, 11 insertions(+)
 de96e225758b2f1c236ada138a632e743bb5d4087b9d83551b6b74bd6a31838237e367fe29f1522680a7eb7aca1a37a5d39c7112a5cb034c1dd03366b622217e  20210720.txt
 
+
+disassembly des algorithmus, das schiesst so wie das 6fach ding im Farbrausch zeitmaschine von oben nach unten
+
+algorithus vermutlcih m160 EEG / THS Biofeedback
+
+-> erkennt automatsich was forken könnte
+-> forkt dann mti monolog über medulla spinalis ths automatishc alle paar skunden oder wenn es keinen fork mehr gibt der weiter geforkt werden kann
+
+FALLS GUTARTIGE MENSCHEN >> LEBENSMüDE << SIND wäre es allenfalls sinnvoll den algi im detail zu disassemblieren, auserdem könnte man da mit action recog das auch erkennen und hilfe herbei rufen...
+
+
