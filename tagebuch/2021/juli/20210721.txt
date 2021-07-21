@@ -251,3 +251,23 @@ Wed Jul 21 20:47:17 CEST 2021
  1 file changed, 7 insertions(+)
 af864e365fc4c2775725fd2a171bd9d399968369f2b6b05bbbc0e2efc4e29fc75d50463cfb2094e90d8e56cbc296e83d473f7b4e899781f333008a5949642906  20210721.txt
 
+
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m07$ figlet DEFCON 3
+ ____  _____ _____ ____ ___  _   _   _____ 
+|  _ \| ____|  ___/ ___/ _ \| \ | | |___ / 
+| | | |  _| | |_ | |  | | | |  \| |   |_ \ 
+| |_| | |___|  _|| |__| |_| | |\  |  ___) |
+|____/|_____|_|   \____\___/|_| \_| |____/ 
+                                           
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m07$ 
+
+fishing crusade druch
+brainjacking durch
+content brainjacking
+
+immer doppel move
+1. medulla spinalis ths dran hacken wo ich dann "selber" einen corona fork starten würde
+2. dann psychptisch flag im brain flagregister eingeschaltet
+3. blaing the user <- für die gegenpartei wirkt das vermutlcih überlegen, ist aber hochmut und wäre eigentlich zu vermeiden 
+
+
