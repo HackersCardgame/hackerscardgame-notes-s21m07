@@ -306,4 +306,10 @@ logischerweise hat eine rechtsschutz versicherung software die beweise zerstöre
 
 vermtulich ähnliche algorithmen für bliderkennung die urs blum für seine pädokriminellen kunden oder "kunden" braucht. patternrecognition hautfarben + ein bisshcen blutfarben...
 
+Wed Jul 21 23:28:22 CEST 2021
+  309  2402 16008 20210721.txt
+[main 1bee8286] save
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+ create mode 100755 koerperverletzungenAnMarcJr/tatDerSchweizerArmeeNeurologen.JPG
+15b3cae14ee5dc317ff2dc8c1b2005be7a23fa3c34f169e081e086cec37a15e7ae27100b065a44a730a9d795bbb3ec1d3603aaf9173f34554c84bd565a54e5a4  20210721.txt
 
