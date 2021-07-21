@@ -270,4 +270,9 @@ immer doppel move
 2. dann psychptisch flag im brain flagregister eingeschaltet
 3. blaing the user <- für die gegenpartei wirkt das vermutlcih überlegen, ist aber hochmut und wäre eigentlich zu vermeiden 
 
+Wed Jul 21 22:21:35 CEST 2021
+  273  2209 14421 20210721.txt
+[main 38eb716f] save
+ 1 file changed, 20 insertions(+)
+4b59627506ab36bdfeafe160ed60af671ea2224d66ef19e2cde95ff415d8a1941d9ea3927c2fcdc1a26a0d05aa156ec8af851fb10e572daf6d71656ff873712f  20210721.txt
 
