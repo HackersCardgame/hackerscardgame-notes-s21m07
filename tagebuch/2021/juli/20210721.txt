@@ -276,3 +276,16 @@ Wed Jul 21 22:21:35 CEST 2021
  1 file changed, 20 insertions(+)
 4b59627506ab36bdfeafe160ed60af671ea2224d66ef19e2cde95ff415d8a1941d9ea3927c2fcdc1a26a0d05aa156ec8af851fb10e572daf6d71656ff873712f  20210721.txt
 
+
+urs blum hat weider angefangen mit sprengfallen uz drohen und draussen hört man laute autos
+
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m07$ figlet DEFCON 2
+ ____  _____ _____ ____ ___  _   _   ____  
+|  _ \| ____|  ___/ ___/ _ \| \ | | |___ \ 
+| | | |  _| | |_ | |  | | | |  \| |   __) |
+| |_| | |___|  _|| |__| |_| | |\  |  / __/ 
+|____/|_____|_|   \____\___/|_| \_| |_____|
+                                           
+
+
+
