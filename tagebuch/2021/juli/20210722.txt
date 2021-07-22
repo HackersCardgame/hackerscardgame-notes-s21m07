@@ -39,4 +39,9 @@ waller:
 [DELETED] [REBUILT] und der härdi wäre ja auch so ein oberschicht schnösel, somit wäre das einweihings / initiations ritual für simon härdi gewesen den tobias moser zu ermorden...
 
 
+Thu Jul 22 09:23:44 CEST 2021
+  42  432 3254 20210722.txt
+[main 717e6ed8] save
+ 1 file changed, 7 insertions(+)
+26f5e4410dec82eb018950e03afdcd2a174adb1a1667e756251f4e611987ebf67a079f7a89e793bfee055112048daeda43fa443b8822918e451ac51cc4717e2b  20210722.txt
 
