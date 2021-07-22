@@ -382,4 +382,9 @@ und die unterschicht [2] muss das so programmieren dass es parametrisierbar ist 
 
 [2] (da kann marc jr landolt nciths dafür dass die unterschihct sind und marc jr landolt ist ja nicht ganz aber fast auf dem existenzminimum für schweizer verhältnisse) <- mitten im satz, YAY die super-duper Oberschicht ist kreativ und NICHT REPETITIV ich wiederhole >> NICHT REPETITIV <<
 
+Thu Jul 22 06:23:15 CEST 2021
+  385  3168 21712 20210721.txt
+[main 25238c4e] save
+ 1 file changed, 4 insertions(+), 5 deletions(-)
+f0db91201c9a555a7aa6698dadbd603a5743616f22eacf71f60a4a022be7099f100de727bceec3148045fc54025024f5951dbc29587082d768e2f40099c7d613  20210721.txt
 
