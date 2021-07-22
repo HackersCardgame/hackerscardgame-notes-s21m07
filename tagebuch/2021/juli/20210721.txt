@@ -394,4 +394,9 @@ das wäre "spielestrategie" (mathe nciht sonst spiele zeugs) und vorsätzlich ka
 
 pfsiterer: vorsausehsehen <- jetzt triggert er die produzennten mit hochmut und hohn
 
+Thu Jul 22 06:32:30 CEST 2021
+  397  3385 23189 20210721.txt
+[main b20de8b1] save
+ 1 file changed, 4 insertions(+), 5 deletions(-)
+6fa58c9a598cf146a763bc850db52546b6c52a7c8bb21fb705110ba84f527ca6c8e49380bb5f4ec722fa46622fe0bef2cc3b506857435c129c05f910702490a4  20210721.txt
 
