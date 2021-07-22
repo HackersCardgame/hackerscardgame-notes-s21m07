@@ -56,4 +56,9 @@ würden die die hardware backdoors nicht so lange sperren würde schon viel mehr
 -> gibt dann ein mutmassliches globales kerberos ticket system für hardware backdoors...
 ==> wir danken herrn urs blum im pascalschen dreieck für diesen leak und den leak mit dem pascalschen dreieck, and if you work for the nsa / cia we encurrage you to leak more data...
 
+Fri Jul 23 01:42:19 CEST 2021
+  59  479 3527 sprengfallenDrohungAlsMittelDerBlackhats.txt
+[main 0a896e1e] save
+ 1 file changed, 4 insertions(+)
+94334a80cbd0afe31ae0911c4216067e48f7e5af782d9258a8b99f525309ce1ab685ffa54df15cff6ad100793ec3f9d620bf817b676fd5c2b3c2f394ebd81ed7  sprengfallenDrohungAlsMittelDerBlackhats.txt
 
