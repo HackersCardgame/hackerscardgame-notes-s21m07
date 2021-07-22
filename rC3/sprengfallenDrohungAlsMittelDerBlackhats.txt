@@ -65,4 +65,9 @@ Fri Jul 23 01:42:19 CEST 2021
 
 meine spezial-behinderung ist ja unfreiwilligerweise die psychologie, WHY THE FUCK können die ncith einfach mit dem mist aufhören?
 
+Fri Jul 23 01:44:08 CEST 2021
+  68  517 3982 sprengfallenDrohungAlsMittelDerBlackhats.txt
+[main 8d8fe424] save
+ 1 file changed, 4 insertions(+)
+c9ceb5c3dab664efe2c8ca469124dde18d6a1d52dd0cfd9bcd877f6c7d876df28c2123de2c579cf794e13fae48a4964e2395e5a5f5e2486240f7515509d559d1  sprengfallenDrohungAlsMittelDerBlackhats.txt
 
