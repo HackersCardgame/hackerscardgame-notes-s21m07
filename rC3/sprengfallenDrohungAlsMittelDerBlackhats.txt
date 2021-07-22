@@ -39,4 +39,9 @@ Fri Jul 23 01:33:45 CEST 2021
 
 würde man das auf meine situation projezieren, würde das allenfalls heissen, dass georg landolt (1950) weit oben in dieser hierarchie der straftäter wäre und dann urs blum wie der david utz gedacht hat "dann gehen wir einfach auf den marc jr landolt los um georg landolt platt zu machen", dummerweise hat georg landolt genau damit gerechnet und marc jr landolt wäre nicht eingeweit gewen und urs, martin und astrid blum-truffer hätten noch ein grösseres schuhbad herausgezogen...
 
+Fri Jul 23 01:36:48 CEST 2021
+  42  328 2364 sprengfallenDrohungAlsMittelDerBlackhats.txt
+[main a4553f26] save
+ 1 file changed, 3 insertions(+)
+9ea6a5253569cb98835e2dc5a3e03afe75cef6bda0782b53e3e4b5fd63c1cd97215b98f75b08379b947a37ee4c366c7a690016f99ea4de80de39003c92bace08  sprengfallenDrohungAlsMittelDerBlackhats.txt
 
