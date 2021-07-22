@@ -94,4 +94,9 @@ urs blum: georg landolt ist der mörder der 3 abb mitarbetier nciht die zürich 
 
 es blendet jetzt ein dass georg landolt wein (gestaltungs psy = Blut?) über das untere pascalsche dreieck schüttet
 
+Fri Jul 23 01:57:42 CEST 2021
+  97  694 5360 sprengfallenDrohungAlsMittelDerBlackhats.txt
+[main 5f0b729b] save
+ 1 file changed, 2 insertions(+), 7 deletions(-)
+c656d85e95265a1006608903eb7aef5ae11c8d8794e7a6255e2fae38cca101c26072deb35352bf3d6a2ec978e15f4dccb292b0f987d4078ff9c331c8f0dd73c4  sprengfallenDrohungAlsMittelDerBlackhats.txt
 
