@@ -16,4 +16,10 @@ und logischerweise verliert ein oberschicht schnösel nicht, weil er ist obersch
 
 als das mit dem "Spat-Produkt <-> Spott-Produkt" von remo waller war somit hochmut, was man von oberschicht kind ja vermutlcih erwarten muss und somit auch nciht wirklcih liebbar ist und man vermutlcih auch nicht unbedingt im bett haben möchte neben sich um zum knuddeln, da ist ein devoter sklave irgendwie angenehmer und der würde einem auch nciht bei bereichgtigter kritik ein messer in den rücken stecken sondern an sich arbeiten...
 
+Thu Jul 22 09:16:39 CEST 2021
+  19  261 1836 20210722.txt
+[main 5b14799d] save
+ 2 files changed, 21 insertions(+)
+ create mode 100644 tagebuch/2021/juli/20210722.txt
+ce1fb3fe38e223316b7d35cc4b7d4c117f0479d78fbb53f321a59cd50460ce3b80ab9930619539ccecbaf2c32eeabf70388293804afce1dfcaee79dda3208ded  20210722.txt
 
