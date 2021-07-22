@@ -10,4 +10,10 @@ wie soll philipp blum in sein bewusstsein integrieren dass er 20 jahre auf den s
 
 philipp blum hat von urs blum eine pistole geschnekt bekommen damit philipp mit dieser information in den amoklauf geschickt werden kann...
 
+Fri Jul 23 01:11:47 CEST 2021
+ 13  76 502 20210723.txt
+[main cea652e3] save
+ 1 file changed, 13 insertions(+)
+ create mode 100644 tagebuch/2021/juli/20210723.txt
+2014c7eca60371c757f1cf800b3e34df5c708da22708f426927a1e636eeecfda23e3314b94de3183b781f5e81fc620bf7ba7e8f45d623b1b59e9908ac73975b6  20210723.txt
 
