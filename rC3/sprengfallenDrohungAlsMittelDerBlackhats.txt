@@ -31,4 +31,9 @@ pascalsches dreieck
 
 also die vordersten sind die jüngsten und werden schlussendlich von denen weiter oben in der hierarchie ans messer gelifert und der david utz leifert dann jeweils noch den philipp blum auch ans messer
 
+Fri Jul 23 01:33:45 CEST 2021
+  34  232 1555 sprengfallenDrohungAlsMittelDerBlackhats.txt
+[main ab987c8f] save
+ 1 file changed, 18 insertions(+)
+6d022e234cef8418fd9cd0e7930df89ca67386a190c25a251238522485b7c2cc3bf1a87a26fe7524725455847f9f0b1c09f963a1420bc9b0ef96053e743dd221  sprengfallenDrohungAlsMittelDerBlackhats.txt
 
