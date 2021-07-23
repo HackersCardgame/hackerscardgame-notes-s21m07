@@ -104,4 +104,9 @@ ich bin allenfalls die LaborRatte0 [1] für eine TraumaBased MindControl MindCon
 
 [1] [ in anlenung an patient-0 um bio Zeugs formulierungen zu verweden ]
 
+Fri Jul 23 02:16:17 CEST 2021
+ 107  815 6191 sprengfallenDrohungAlsMittelDerBlackhats.txt
+[main cda426a4] save
+ 1 file changed, 11 insertions(+), 6 deletions(-)
+f9bd3199d1f0c47261dfaf6546e5d576a518c340972df99039aff2cecba65d5c5565c5b2b51e1c3f78db7bae02c1cf204fd7dd58fe7cc93ccb992184c8bebdc5  sprengfallenDrohungAlsMittelDerBlackhats.txt
 
