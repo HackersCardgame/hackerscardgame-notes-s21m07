@@ -135,3 +135,6 @@ Sat Jul 24 00:42:07 CEST 2021
  1 file changed, 6 insertions(+)
 a3582fbff8b591374431abd6dd10bd37629c2303991470c68dbc9c7295f458242ed320e6902e3cc9c14b4e64f2d5011cf0c8fe526b143c18834386b72c76a9ef  20210724.txt
 
+stichwaffe wieder weg...
+
+
