@@ -16,4 +16,12 @@ wenn polizisten mehr häusliche gewalt VERüBEN wäre das allenfalls auch weil s
 
 idee: polizeisten: mann waffe | frau magazin = Multifactor authentication <- hackerjeopardy: darum gibt es "keine" sozio psycholgie desing pattern für zombi apokalypse für zwei personen
 
+Fri Jul 23 23:47:59 CEST 2021
+ 19 104 705 20210724.txt
+[main 66331f05] save
+ 3 files changed, 19 insertions(+)
+ create mode 100755 rC3/DomesticViolencePolizei-00.PNG
+ create mode 100755 rC3/DomesticViolencePolizei-01.PNG
+ create mode 100644 tagebuch/2021/juli/20210724.txt
+0fce8e2f00aca09d84b46d9a290e7d8bbff59b62de6a9106ff818cca64a6b502f4b74ab2db897191257e95dfcd02707b12749111c7f9c7d5781af50970d3475a  20210724.txt
 
