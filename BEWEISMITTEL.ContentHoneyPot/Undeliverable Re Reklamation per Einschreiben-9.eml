@@ -1,0 +1,1630 @@
+Return-Path: <>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.4.2.212])
+	by popimap018.mail.hostpoint.internal with LMTP
+	id +LYXG2gQ+2DYJQEApkpzRw
+	(envelope-from <>)
+	for <mail@marclandolt.ch>; Fri, 23 Jul 2021 20:54:32 +0200
+Received: from mxin012.mail.hostpoint.ch ([10.4.2.212])
+	by mail-lb1.adm.hostpoint.ch with LMTP
+	id wF7GGmgQ+2BgZQEA9BAvQA
+	(envelope-from <>)
+	for <mail@marclandolt.ch>; Fri, 23 Jul 2021 20:54:32 +0200
+Received: from mail-gv0che01hn2228.outbound.protection.outlook.com ([52.100.1.228] helo=CHE01-GV0-obe.outbound.protection.outlook.com)
+	by mxin012.mail.hostpoint.ch with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2 (FreeBSD))
+	id 1m70Jc-000IIQ-6q
+	for mail@marclandolt.ch; Fri, 23 Jul 2021 20:54:32 +0200
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=ASujMyN6TWAOT8aK34ER6gerdNx0ZFD7RCUJ8xA5gCp/J7eYTMlVHWwxDbp0glDogP9Xc9qbOvvSC7qhqHPHLEGnIfgHZsPyUx8Rg5UV6xja0SnefTiNfWcjqIEQAnyE4b0OwNw606ExMEQImTzARUH1E8nHt+B+cFXLA3HXT6jbSeOs51kIEmEdHaFJX/egqvb2D541eKm41LTC0xzEsqLn0OAOx4AGGv3YAORva4JLwvM/5WmhcGxgGey5W1V70fN1yWGoUcPaw6O8fxsaqkog+Igh2+x1C8yX+TQIm9aZsx8BQ7i6jrCRM+/pJgKDmEaagqbd8febSbcZHGE5hA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=1hJnqNAxCyXzGdeiUadG7u1OH4V6i98FuAqwOygWhj8=;
+ b=SSyj01I5thQgKRuu/brWkaNJYX8qTCjj89ITj933ikP/25YRNDidWT8/gQCH0stQoIse2LeJGNOUAaiCD7Ib2ms+WbEYyQEDoeym4cvOM3Ry8xsY3gPf/iELsCxhTCws8DQu8Eo3HEM0OWYFxx9jnElv2fyZ7bxIwYY0uWNEZvQiqlEhVISHupPHFpYz4B1yvJ7ZJGEFrbc6HQA8q7MMp7cVYdXp4h0mr61eaX/Ph5zFm+7H535xU4y7xaoNPNuA9LP4YXO7o+9m0REfjEJAMZVzdpQyBSJIYoao/8ILtQ1pUf8J3mGZksjKBhBIsDAO/mo7FkuAapqjvbCds16dRw==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass; dmarc=pass
+ action=none header.from=oniko.ch; dkim=pass header.d=oniko.ch; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=oniko.onmicrosoft.com;
+ s=selector2-oniko-onmicrosoft-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=1hJnqNAxCyXzGdeiUadG7u1OH4V6i98FuAqwOygWhj8=;
+ b=qAMDnMMbj8+uMh7Qo5ZNzG0h0+IN5a4d1/pH3iX2QnM6JOV6pAOvDR6znA2MVTZvn2FD79vTV4gMY+5Paz60MlAkgHaG8RVrFdLmCrM6DkeUdYhKjzv64/72u7FOsm1SQ00vkBzdwDCug8x2Z9SK8fkO0+YcmBbbztPfSG8Etog=
+MIME-Version: 1.0
+From: <postmaster@oniko.ch>
+To: <mail@marclandolt.ch>
+Date: Fri, 23 Jul 2021 18:54:30 +0000
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="7d4dd18f-2ac3-4e63-aea0-7ad36a0f43ea"
+X-MS-Exchange-Message-Is-Ndr:
+Content-Language: en-US
+Message-ID:
+ <f6ff48f0-bf97-4379-9ef2-e58b74f76cac@GV0P278MB0433.CHEP278.PROD.OUTLOOK.COM>
+In-Reply-To: <d4636eb6-8634-00f1-2e0f-c97ea97f15ba@marclandolt.ch>
+References: <0e37dcc8-a34c-ed28-af3d-4ed8f34b3c85@gmx.ch>
+ <42fd7f31-2333-6669-2500-b9ef0e787dee@marclandolt.ch>
+ <1e721c07-728d-1bad-0ed8-fdeb26f22182@marclandolt.ch>
+ <2a49a4a1-f91c-065d-01ec-fb4adcc26df2@marclandolt.ch>
+ <8d708b7f-b7c1-d264-ceca-2758f1ce5d93@marclandolt.ch>
+ <c94faada-1655-b7a6-e8dc-1187bfdbc85e@marclandolt.ch>
+ <b0472dd9-0a51-bb40-a0dc-fb4bca185d74@marclandolt.ch>
+ <c69b6cd8-deae-b8e2-b4a6-7368a4a1a4f3@marclandolt.ch>
+ <1c8d1629-10a1-c98d-4511-e8ad734ed6d1@marclandolt.ch>
+ <35263c95-f4f2-f1c1-7f2b-3a602bc76611@marclandolt.ch>
+ <3b7fb9d8-86e3-42c3-44cc-3cd2be3bb9f4@marclandolt.ch>
+ <d4636eb6-8634-00f1-2e0f-c97ea97f15ba@marclandolt.ch>
+Subject: Undeliverable: Re: Reklamation per Einschreiben
+Auto-Submitted: auto-replied
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: GV0P278MB0433:
+X-Microsoft-Antispam-PRVS:
+	<GV0P278MB043310C039091DB54E477F7DB8E59@GV0P278MB0433.CHEP278.PROD.OUTLOOK.COM>
+X-MS-Oob-TLC-OOBClassifiers: OLM:4303;
+X-MS-Exchange-SenderADCheck: 1
+X-MS-Exchange-AntiSpam-Relay: 0
+X-Microsoft-Antispam: BCL:0;
+X-Microsoft-Antispam-Message-Info:
+	UurTdcGvoVdMWLVbzDrEnk+JIXGHAQ2ElJtwVlCfrp9lLtUVo2EFO86xhSveZu/1QmZqsqvNrARQwVeldY+tm8e3bn405R3wv+2mh9hwAMjuA4y6+ITJ1dD4Y8pawq1fByk+rkykgnoaMvy5WagEsiFVF3KseOcSJuidUkoTyro/bnxuFfqeykFvyIT87hUinlct1Dew9qKZ048yF7VmyX2LBMflbPJgF636YXvNxUEotSj78aDYi0D9AHWkEw3+LLaJXUcobvcUfsAmbBmS8SrdW/Rxn0zsCDhG6523CyFGgpV6O8PBYavZs6i8BgKfz1Cwtawnal93bW3b16YKzFEJAD7GT6AR65k4Ou9GmKNq6PNL9mtaGNlBkjYogRjhb0ApyS5R2MH2gIMSfHGL62jeJ0EnfiixyOYXNVD+t9H1CP906gTVebpP76wiBHevh8Pw50+e9RD0354E58tsjm3bSJUx71ohOGeLsZFOXK86OYdSZEtbDZH3pT1ix4JMaONSKtYNI70sQ7X1DxZkxT9o3XuUTwXl2cNBEYtDNutPR/8oPvLg/oFrbmR8hJVZ0Q+m7RAbhAq69ZVve+3prXmW6O93UU1mZPMjyPSxUFtK4sT0CVt9eujgT1wRuiQEtJxu7iDZKN1Al5MCimUegiITGD3inQB7fVwXrRjtbM65eaD4it3g568sLIscp3qhDO1FkO60gTDqjOILBebr6fh5lZnKpWQkI6Sq80oJVtA=
+X-Forefront-Antispam-Report:
+	CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:;PTR:;CAT:NONE;SFS:(50650200002)(346002)(366004)(376002)(396003)(136003)(39830400003)(1930700014)(42882007)(30864003)(32400700002)(6916009)(52230400001)(31686004)(8676002)(78352004)(31696002)(78496005)(66946007)(9686003)(166002)(498600001)(2906002)(66576008)(2876002)(5660300002)(42186006)(83380400001)(316002)(45080400002)(579004);DIR:OUT;SFP:1501;
+X-OriginatorOrg: oniko.ch
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 23 Jul 2021 18:54:30.7948
+ (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-CrossTenant-AuthSource: GV0P278MB0433.CHEP278.PROD.OUTLOOK.COM
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-Network-Message-Id:
+	3844c4dd-3109-4284-0c4b-08d94e0b4de3
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: GV0P278MB0433
+X-Vs-State: BOUNCE
+X-Hostpoint-Spambox: NO
+
+--7d4dd18f-2ac3-4e63-aea0-7ad36a0f43ea
+Content-Type: multipart/alternative; differences=Content-Type;
+	boundary="a9f80e8a-23b0-4663-a8b8-2e4f8d75ec5d"
+
+--a9f80e8a-23b0-4663-a8b8-2e4f8d75ec5d
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+[https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?versi=
+on=3Db8d100a9-0a8b-8e6a-88e1-ef488fee0470]
+Your message to info@oniko.ch couldn't be delivered.
+info wasn't found at oniko.ch.
+mail    Office 365      info
+Action Required                 Recipient
+Unknown To address
+
+How to Fix It
+The address may be misspelled or may not exist. Try one or more of the foll=
+owing:
+
+  *   Send the message again following these steps: In Outlook, open this n=
+on-delivery report (NDR) and choose Send Again from the Report ribbon. In O=
+utlook on the web, select this NDR, then select the link "To send this mess=
+age again, click here." Then delete and retype the entire recipient address=
+. If prompted with an Auto-Complete List suggestion don't select it. After =
+typing the complete address, click Send.
+  *   Contact the recipient (by phone, for example) to check that the addre=
+ss exists and is correct.
+  *   The recipient may have set up email forwarding to an incorrect addres=
+s. Ask them to check that any forwarding they've set up is working correctl=
+y.
+  *   Clear the recipient Auto-Complete List in Outlook or Outlook on the w=
+eb by following the steps in this article: Fix email delivery issues for er=
+ror code 5.1.10 in Office 365<https://go.microsoft.com/fwlink/?LinkId=3D532=
+972>, and then send the message again. Retype the entire recipient address =
+before selecting Send.
+
+If the problem continues, forward this message to your email admin. If you'=
+re an email admin, refer to the More Info for Email Admins section below.
+
+Was this helpful? Send feedback to Microsoft<https://go.microsoft.com/fwlin=
+k/?LinkId=3D525921>.
+________________________________
+
+More Info for Email Admins
+Status code: 550 5.1.10
+
+This error occurs because the sender sent a message to an email address hos=
+ted by Office 365 but the address is incorrect or doesn't exist at the dest=
+ination domain. The error is reported by the recipient domain's email serve=
+r, but most often it must be fixed by the person who sent the message. If t=
+he steps in the How to Fix It section above don't fix the problem, and you'=
+re the email admin for the recipient, try one or more of the following:
+
+The email address exists and is correct - Confirm that the recipient addres=
+s exists, is correct, and is accepting messages.
+
+Synchronize your directories - If you have a hybrid environment and are usi=
+ng directory synchronization make sure the recipient's email address is syn=
+ced correctly in both Office 365 and in your on-premises directory.
+
+Errant forwarding rule - Check for forwarding rules that aren't behaving as=
+ expected. Forwarding can be set up by an admin via mail flow rules or mail=
+box forwarding address settings, or by the recipient via the Inbox Rules fe=
+ature.
+
+Recipient has a valid license - Make sure the recipient has an Office 365 l=
+icense assigned to them. The recipient's email admin can use the Office 365=
+ admin center to assign a license (Users > Active Users > select the recipi=
+ent > Assigned License > Edit).
+
+Mail flow settings and MX records are not correct - Misconfigured mail flow=
+ or MX record settings can cause this error. Check your Office 365 mail flo=
+w settings to make sure your domain and any mail flow connectors are set up=
+ correctly. Also, work with your domain registrar to make sure the MX recor=
+ds for your domain are configured correctly.
+
+For more information and additional tips to fix this issue, see Fix email d=
+elivery issues for error code 5.1.10 in Office 365<https://go.microsoft.com=
+/fwlink/?LinkId=3D532972>.
+
+Original Message Details
+Created Date:   7/23/2021 6:53:45 PM
+Sender Address: mail@marclandolt.ch
+Recipient Address:      info@oniko.ch
+Subject:        Re: Reklamation per Einschreiben
+
+Error Details
+Reported error: 550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient info@o=
+niko.ch not found by SMTP address lookup
+DSN generated by:       GV0P278MB0433.CHEP278.PROD.OUTLOOK.COM
+
+Message Hops
+HOP     TIME (UTC)      FROM    TO      WITH    RELAY TIME
+1       7/23/2021
+6:53:53 PM      178-82-208-135.dynamic.hispeed.ch       asmtp013.mail.hostp=
+oint.ch      esmtpsa (TLS1.3) tls TLS_AES_256_GCM_SHA384 (Exim 4.94.2 (Free=
+BSD)) (envelope-from <mail@marclandolt.ch>)       8 sec
+2       7/23/2021
+6:53:53 PM      [10.0.2.46]     mxout012.mail.hostpoint.ch      esmtp (Exim=
+ 4.94.2 (FreeBSD)) (envelope-from <mail@marclandolt.ch>)     *
+3       7/23/2021
+6:54:28 PM      mxout012.mail.hostpoint.ch      AM5EUR03FT030.mail.protecti=
+on.outlook.com       Microsoft SMTP Server (version=3DTLS1_2, cipher=3DTLS_=
+ECDHE_RSA_WITH_AES_256_GCM_SHA384)    35 sec
+4       7/23/2021
+6:54:29 PM      AM5EUR03FT030.eop-EUR03.prod.protection.outlook.com     AM5=
+PR0202CA0004.outlook.office365.com   Microsoft SMTP Server (version=3DTLS1_=
+2, cipher=3DTLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)    1 sec
+5       7/23/2021
+6:54:30 PM      AM5PR0202CA0004.eurprd02.prod.outlook.com       GV0P278MB04=
+33.CHEP278.PROD.OUTLOOK.COM  Microsoft SMTP Server (version=3DTLS1_2, ciphe=
+r=3DTLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)    1 sec
+
+Original Message Headers
+
+Received: from AM5PR0202CA0004.eurprd02.prod.outlook.com
+ (2603:10a6:203:69::14) by GV0P278MB0433.CHEP278.PROD.OUTLOOK.COM
+ (2603:10a6:710:34::6) with Microsoft SMTP Server (version=3DTLS1_2,
+ cipher=3DTLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4352.25; Fri, 23 =
+Jul
+ 2021 18:54:30 +0000
+Received: from AM5EUR03FT030.eop-EUR03.prod.protection.outlook.com
+ (2603:10a6:203:69:cafe::36) by AM5PR0202CA0004.outlook.office365.com
+ (2603:10a6:203:69::14) with Microsoft SMTP Server (version=3DTLS1_2,
+ cipher=3DTLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4352.25 via Front=
+end
+ Transport; Fri, 23 Jul 2021 18:54:29 +0000
+Authentication-Results: spf=3Dnone (sender IP is 217.26.49.172)
+ smtp.mailfrom=3Dmarclandolt.ch; oniko.ch; dkim=3Dnone (message not signed)
+ header.d=3Dnone;oniko.ch; dmarc=3Dnone action=3Dnone header.from=3Dmarclan=
+dolt.ch;
+Received-SPF: None (protection.outlook.com: marclandolt.ch does not designa=
+te
+ permitted sender hosts)
+Received: from mxout012.mail.hostpoint.ch (217.26.49.172) by
+ AM5EUR03FT030.mail.protection.outlook.com (10.152.16.117) with Microsoft S=
+MTP
+ Server (version=3DTLS1_2, cipher=3DTLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) =
+id
+ 15.20.4352.24 via Frontend Transport; Fri, 23 Jul 2021 18:54:28 +0000
+Received: from [10.0.2.46] (helo=3Dasmtp013.mail.hostpoint.ch)
+        by mxout012.mail.hostpoint.ch with esmtp (Exim 4.94.2 (FreeBSD))
+        (envelope-from <mail@marclandolt.ch>)
+        id 1m70Iz-0005hC-U5; Fri, 23 Jul 2021 20:53:53 +0200
+Received: from 178-82-208-135.dynamic.hispeed.ch ([178.82.208.135] helo=3D[=
+192.168.1.13])
+        by asmtp013.mail.hostpoint.ch with esmtpsa  (TLS1.3) tls TLS_AES_25=
+6_GCM_SHA384
+        (Exim 4.94.2 (FreeBSD))
+        (envelope-from <mail@marclandolt.ch>)
+        id 1m70Iz-0001uY-NC; Fri, 23 Jul 2021 20:53:53 +0200
+X-Authenticated-Sender-Id: mail@marclandolt.ch
+Subject: Re: Reklamation per Einschreiben
+From: "Marc jr. Landolt" <mail@marclandolt.ch>
+To: marc.landolt@0x8.ch, 2009@marclandolt.ch, lama50 <lama50@gmx.ch>
+CC: Hanno Katrin <Katrin.Hanno@pdag.ch>, svaaargau@sva-ag.ch,
+ info@kapo.ag.ch, info@fedpol.admin.ch, Elisabeth.Bauhofer@ag.ch,
+ Schleusener Samer <Samer.Schleusener@pdag.ch>, marco.spring@ag.ch,
+ michael.ritter@kapo.ag.ch, AarauEPD <EPD.Aarau@pdag.ch>,
+ =3D?UTF-8?Q?K=3Dc3=3Dbcng_Walter_GKABGAAR?=3D <Walter.Kueng@ag.ch>,
+ Postmaster-VBS@gs-vbs.admin.ch, direktion@bger.ch,
+ "Kanzlei@bger.ch" <Kanzlei@bger.ch>, info@interpol.int, kb3.bern@helsana.c=
+h,
+ contact.center@ch.abb.com, info@oniko.ch, interface@internil.net,
+ support@hostpoint.ch, daniel.heilmann@kapo.ag.ch, marianne.gisi@pdag.ch,
+ impressum@coop.ch, Andreas.Kiener@sva-ag.ch, info@sva-ag.ch
+References: <0e37dcc8-a34c-ed28-af3d-4ed8f34b3c85@gmx.ch>
+ <42fd7f31-2333-6669-2500-b9ef0e787dee@marclandolt.ch>
+ <1e721c07-728d-1bad-0ed8-fdeb26f22182@marclandolt.ch>
+ <2a49a4a1-f91c-065d-01ec-fb4adcc26df2@marclandolt.ch>
+ <8d708b7f-b7c1-d264-ceca-2758f1ce5d93@marclandolt.ch>
+ <c94faada-1655-b7a6-e8dc-1187bfdbc85e@marclandolt.ch>
+ <b0472dd9-0a51-bb40-a0dc-fb4bca185d74@marclandolt.ch>
+ <c69b6cd8-deae-b8e2-b4a6-7368a4a1a4f3@marclandolt.ch>
+ <1c8d1629-10a1-c98d-4511-e8ad734ed6d1@marclandolt.ch>
+ <35263c95-f4f2-f1c1-7f2b-3a602bc76611@marclandolt.ch>
+ <3b7fb9d8-86e3-42c3-44cc-3cd2be3bb9f4@marclandolt.ch>
+Message-ID: <d4636eb6-8634-00f1-2e0f-c97ea97f15ba@marclandolt.ch>
+Disposition-Notification-To: "Marc jr. Landolt" <mail@marclandolt.ch>
+Date: Fri, 23 Jul 2021 20:53:45 +0200
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/201001=
+01
+ Thunderbird/78.12.0
+MIME-Version: 1.0
+In-Reply-To: <3b7fb9d8-86e3-42c3-44cc-3cd2be3bb9f4@marclandolt.ch>
+Content-Type: text/plain; charset=3Dutf-8; format=3Dflowed
+Content-Transfer-Encoding: 8bit
+Return-Path: mail@marclandolt.ch
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 85e07c10-c0f7-483c-b0c2-fcd634f9b74e:0
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: e49b9e0e-80f5-439f-a415-08d94e0b4c=
+3f
+X-MS-TrafficTypeDiagnostic: GV0P278MB0433:
+
+
+--a9f80e8a-23b0-4663-a8b8-2e4f8d75ec5d
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1" />
+  <head>
+    <title>
+          DSN
+        </title>
+  </head>
+  <body style=3D"        background-color: white;      ">
+    <table style=3D"        background-color: white;         max-width: 548=
+px;         color: black;         border-spacing: 0px 0px;         padding-=
+top: 0px;         padding-bottom: 0px;        border-collapse: collapse;   =
+   " width=3D"548" cellspacing=3D"0" cellpadding=3D"0">
+      <tbody>
+        <tr>
+          <td style=3D"        text-align: left;        padding-bottom: 20p=
+x;      ">
+            <img height=3D"28" width=3D"126" style=3D"        max-width: 10=
+0%;      " src=3D"https://products.office.com/en-us/CMSImages/Office365Logo=
+_Orange.png?version=3Db8d100a9-0a8b-8e6a-88e1-ef488fee0470" />
+          </td>
+        </tr>
+        <tr>
+          <td style=3D"        font-family: 'Segoe UI', Frutiger, Arial, sa=
+ns-serif;        font-size: 16px;         padding-bottom: 10px;         -ms=
+-text-size-adjust: 100%;        text-align: left;      ">Your message to <s=
+pan style=3D"        color: #0072c6;      ">info@oniko.ch</span> couldn't b=
+e delivered.<br /></td>
+        </tr>
+        <tr>
+          <td style=3D"        font-family: 'Segoe UI', Frutiger, Arial, sa=
+ns-serif;         font-size: 24px;         padding-top: 0px;         paddin=
+g-bottom: 20px;         text-align: center;         -ms-text-size-adjust: 1=
+00%;      ">
+            <span style=3D"        color: #0072c6;      ">info</span> wasn'=
+t found at <span style=3D"        color: #0072c6;      ">oniko.ch</span>.<b=
+r /></td>
+        </tr>
+        <tr>
+          <td style=3D"        padding-bottom: 15px;         padding-left: =
+0px;         padding-right: 0px;         border-spacing: 0px 0px;      ">
+            <table style=3D"        max-width: 548px;         font-weight: =
+600;        border-spacing: 0px 0px;         padding-top: 0px;         padd=
+ing-bottom: 0px;        border-collapse: collapse;      ">
+              <tbody>
+                <tr>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        font-size: 15px;        font-weight: 600;        t=
+ext-align: left;        width: 181px;        -ms-text-size-adjust: 100%;   =
+     vertical-align: bottom;      ">
+                    <font color=3D"#ffffff">
+                      <span style=3D"color:#000000">mail</span>
+                    </font>
+                  </td>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        font-size: 15px;        font-weight: 600;        t=
+ext-align: center;        width: 186px;        -ms-text-size-adjust: 100%; =
+       vertical-align: bottom;      ">
+                    <font color=3D"#ffffff">
+                      <span style=3D"color:#000000">Office 365</span>
+                    </font>
+                  </td>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;         -ms-text-size-adjust: 100%;         font-size: 15=
+px;         font-weight: 600;        text-align: right;         width: 181p=
+x;         vertical-align: bottom;      ">
+                    <font color=3D"#ffffff">
+                      <span style=3D"color:#000000">info</span>
+                    </font>
+                  </td>
+                </tr>
+                <tr>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 14px=
+;        font-weight: 400;        text-align: left;        padding-top: 0px=
+;        padding-bottom: 0px;        vertical-align: middle;        width: =
+181px;      ">
+                    <font color=3D"#ffffff">
+                      <span style=3D"        color: #c00000;      ">
+                        <b>Action Required</b>
+                      </span>
+                    </font>
+                  </td>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 14px=
+;        font-weight: 400;        text-align: center;        padding-top: 0=
+px;        padding-bottom: 0px;        vertical-align: middle;        width=
+: 186px;      " />
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 14px=
+;        font-weight: 400;        text-align: right;        padding-top: 0p=
+x;        padding-bottom: 0px;        vertical-align: middle;        width:=
+ 181px;      ">
+                    <font color=3D"#ffffff">
+                      <span style=3D"color:#000000">Recipient</span>
+                    </font>
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan=3D"3" style=3D"        padding-top:0;        =
+padding-bottom:0;        padding-left:0;        padding-right:0      ">
+                    <table cellspacing=3D"0" cellpadding=3D"0" style=3D"   =
+     border-spacing: 0px 0px;        padding-top: 0px;        padding-botto=
+m: 0px;        padding-left: 0px;        padding-right: 0px;        border-=
+collapse: collapse;      ">
+                      <tbody>
+                        <tr height=3D"10">
+                          <td width=3D"180" height=3D"10" bgcolor=3D"#c0000=
+0" style=3D"        width: 180px;        line-height: 10px;        height: =
+10px;        font-size: 6px;        padding-top: 0;        padding-bottom: =
+0;        padding-left: 0;        padding-right: 0;      "><!--[if gte mso =
+15]>&nbsp;<![endif]--></td>
+                          <td width=3D"4" height=3D"10" bgcolor=3D"#ffffff"=
+ style=3D"        width: 4px;        line-height: 10px;        height: 10px=
+;        font-size: 6px;        padding-top: 0;        padding-bottom: 0;  =
+      padding-left: 0;        padding-right: 0;      "><!--[if gte mso 15]>=
+&nbsp;<![endif]--></td>
+                          <td width=3D"180" height=3D"10" bgcolor=3D"#ccccc=
+c" style=3D"        width: 180px;        line-height: 10px;        height: =
+10px;        font-size: 6px;        padding-top: 0;        padding-bottom: =
+0;        padding-left: 0;        padding-right: 0;      "><!--[if gte mso =
+15]>&nbsp;<![endif]--></td>
+                          <td width=3D"4" height=3D"10" bgcolor=3D"#ffffff"=
+ style=3D"        width: 4px;        line-height: 10px;        height: 10px=
+;        font-size: 6px;        padding-top: 0;        padding-bottom: 0;  =
+      padding-left: 0;        padding-right: 0;      "><!--[if gte mso 15]>=
+&nbsp;<![endif]--></td>
+                          <td width=3D"180" height=3D"10" bgcolor=3D"#ccccc=
+c" style=3D"        width: 180px;        line-height: 10px;        height: =
+10px;        font-size: 6px;        padding-top: 0;        padding-bottom: =
+0;        padding-left: 0;        padding-right: 0;      "><!--[if gte mso =
+15]>&nbsp;<![endif]--></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 14px=
+;        text-align: left;        width: 181px;        line-height: 20px;  =
+      font-weight: 400;        padding-top: 0px;        padding-left: 0px; =
+       padding-right: 0px;        padding-bottom: 0px;      ">
+                    <font color=3D"#ffffff">
+                      <span style=3D"        color: #c00000;      ">Unknown=
+ To address</span>
+                    </font>
+                  </td>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 14px=
+;        text-align: center;        width: 186px;        line-height: 20px;=
+        font-weight: 400;        padding-top: 0px;        padding-left: 0px=
+;        padding-right: 0px;        padding-bottom: 0px;      " />
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 14px=
+;        text-align: right;        width: 181px;        line-height: 20px; =
+       font-weight: 400;        padding-top: 0px;        padding-left: 0px;=
+        padding-right: 0px;        padding-bottom: 0px;      " />
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td style=3D"        width: 100%;        padding-top: 0px;       =
+ padding-right: 10px;        padding-left: 10px;      ">
+            <br />
+            <table style=3D"        width: 100%;        padding-right: 0px;=
+        padding-left: 0px;        padding-top: 0px;        padding-bottom: =
+0px;        background-color: #f2f5fa;        margin-left: 0px;      ">
+              <tbody>
+                <tr>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 21px=
+;        font-weight: 500;        background-color: #f2f5fa;        padding=
+-top: 0px;        padding-bottom: 0px;        padding-left: 10px;        pa=
+dding-right: 10px;      ">How to Fix It</td>
+                </tr>
+                <tr>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 16px=
+;        font-weight: 400;        padding-top: 0px;        padding-bottom: =
+6px;        padding-left: 10px;        padding-right: 10px;        backgrou=
+nd-color: #f2f5fa;      ">The address may be misspelled or may not exist. T=
+ry one or more of the following:</td>
+                </tr>
+                <tr>
+                  <td style=3D"         padding-top: 0px;         padding-b=
+ottom: 0px;         padding-left: 0px;         padding-right: 0px;        b=
+order-spacing: 0px 0px;      ">
+                    <ul style=3D"        font-family: 'Segoe UI', Frutiger,=
+ Arial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 16=
+px;        font-weight: 400;        margin-left: 40px;        margin-bottom=
+: 5px;        background-color: #f2f5fa;        padding-top: 0px;        pa=
+dding-bottom: 0px;        padding-left: 6px;        padding-right: 6px;    =
+  ">
+                      <li>Send the message again following these steps: In =
+Outlook, open this non-delivery report (NDR) and choose <b>Send Again</b> f=
+rom the Report ribbon. In Outlook on the web, select this NDR, then select =
+the link "<b>To send this message again, click here.</b>" Then delete and r=
+etype the entire recipient address. If prompted with an Auto-Complete List =
+suggestion don't select it. After typing the complete address, click <b>Sen=
+d</b>.</li>
+                      <li>Contact the recipient (by phone, for example) to =
+check that the address exists and is correct.</li>
+                      <li>The recipient may have set up email forwarding to=
+ an incorrect address. Ask them to check that any forwarding they've set up=
+ is working correctly.</li>
+                      <li>Clear the recipient Auto-Complete List in Outlook=
+ or Outlook on the web by following the steps in this article: <a href=3D"h=
+ttps://go.microsoft.com/fwlink/?LinkId=3D532972">Fix email delivery issues =
+for error code 5.1.10 in Office 365</a>, and then send the message again. R=
+etype the entire recipient address before selecting <b>Send</b>.</li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 16px=
+;        font-weight: 400;        padding-top: 0px;        padding-bottom: =
+6px;        padding-left: 10px;        padding-right: 10px;        backgrou=
+nd-color: #f2f5fa;      ">If the problem continues, forward this message to=
+ your email admin. If you're an email admin, refer to the <b>More Info for =
+Email Admins</b> section below.</td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td style=3D"        font-family: 'Segoe UI', Frutiger, Arial, sa=
+ns-serif;        -ms-text-size-adjust: 100%;        font-size: 14px;       =
+ font-weight: 400;        padding-top: 10px;        padding-bottom: 0px;   =
+     padding-bottom: 4px;      ">
+            <br />
+            <em>Was this helpful? <a href=3D"https://go.microsoft.com/fwlin=
+k/?LinkId=3D525921">Send feedback to Microsoft</a>.</em>
+          </td>
+        </tr>
+        <tr>
+          <td style=3D"        -ms-text-size-adjust: 100%;        font-size=
+: 0px;        line-height: 0px;        padding-top: 0px;        padding-bot=
+tom: 0px;      ">
+            <hr />
+          </td>
+        </tr>
+        <tr>
+          <td style=3D"        font-family: 'Segoe UI', Frutiger, Arial, sa=
+ns-serif;        -ms-text-size-adjust: 100%;        font-size: 21px;       =
+ font-weight: 500;      ">
+            <br />More Info for Email Admins</td>
+        </tr>
+        <tr>
+          <td style=3D"        font-family: 'Segoe UI', Frutiger, Arial, sa=
+ns-serif;        -ms-text-size-adjust: 100%;        font-size: 14px;      "=
+>
+            <em>Status code: 550 5.1.10</em>
+            <br />
+            <br />This error occurs because the sender sent a message to an=
+ email address hosted by Office 365 but the address is incorrect or doesn't=
+ exist at the destination domain. The error is reported by the recipient do=
+main's email server, but most often it must be fixed by the person who sent=
+ the message. If the steps in the <b>How to Fix It</b> section above don't =
+fix the problem, and you're the email admin for the recipient, try one or m=
+ore of the following:<br /><br /><b>The email address exists and is correct=
+</b> - Confirm that the recipient address exists, is correct, and is accept=
+ing messages.<br /><br /><b>Synchronize your directories</b> - If you have =
+a hybrid environment and are using directory synchronization make sure the =
+recipient's email address is synced correctly in both Office 365 and in you=
+r on-premises directory.<br /><br /><b>Errant forwarding rule</b> - Check f=
+or forwarding rules that aren't behaving as expected. Forwarding can be set=
+ up by an admin via mail flow rules or mailbox forwarding address settings,=
+ or by the recipient via the Inbox Rules feature.<br /><br /><b>Recipient h=
+as a valid license</b> - Make sure the recipient has an Office 365 license =
+assigned to them. The recipient's email admin can use the Office 365 admin =
+center to assign a license (Users &gt; Active Users &gt; select the recipie=
+nt &gt; Assigned License &gt; Edit).<br /><br /><b>Mail flow settings and M=
+X records are not correct</b> - Misconfigured mail flow or MX record settin=
+gs can cause this error. Check your Office 365 mail flow settings to make s=
+ure your domain and any mail flow connectors are set up correctly. Also, wo=
+rk with your domain registrar to make sure the MX records for your domain a=
+re configured correctly.<br /><br />For more information and additional tip=
+s to fix this issue, see <a href=3D"https://go.microsoft.com/fwlink/?LinkId=
+=3D532972">Fix email delivery issues for error code 5.1.10 in Office 365</a=
+>.<br /><br /></td>
+        </tr>
+        <tr>
+          <td style=3D"        font-family: 'Segoe UI', Frutiger, Arial, sa=
+ns-serif;        -ms-text-size-adjust: 100%;        font-size: 17px;       =
+ font-weight: 500;      ">Original Message Details</td>
+        </tr>
+        <tr>
+          <td style=3D"        font-size: 14px;        line-height: 20px;  =
+      font-family: 'Segoe UI', Frutiger, Arial, sans-serif;        -ms-text=
+-size-adjust: 100%;        font-weight: 500;      ">
+            <table style=3D"        width: 100%;        border-collapse: co=
+llapse;        margin-left: 10px;      ">
+              <tbody>
+                <tr>
+                  <td valign=3D"top" style=3D"        font-family: 'Segoe U=
+I', Frutiger, Arial, sans-serif;        font-size: 14px;        -ms-text-si=
+ze-adjust: 100%;        white-space: nowrap;        font-weight: 500;      =
+  width: 140px;      ">Created Date:</td>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 14px=
+;        font-weight: 400;      ">7/23/2021 6:53:45 PM</td>
+                </tr>
+                <tr>
+                  <td valign=3D"top" style=3D"        font-family: 'Segoe U=
+I', Frutiger, Arial, sans-serif;        font-size: 14px;        -ms-text-si=
+ze-adjust: 100%;        white-space: nowrap;        font-weight: 500;      =
+  width: 140px;      ">Sender Address:</td>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 14px=
+;        font-weight: 400;      ">mail@marclandolt.ch</td>
+                </tr>
+                <tr>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        font-size: 14px;        -ms-text-size-adjust: 100%=
+;        white-space: nowrap;        font-weight: 500;        width: 140px;=
+      ">Recipient Address:</td>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 14px=
+;        font-weight: 400;      ">info@oniko.ch</td>
+                </tr>
+                <tr>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        font-size: 14px;        -ms-text-size-adjust: 100%=
+;        white-space: nowrap;        font-weight: 500;        width: 140px;=
+      ">Subject:</td>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 14px=
+;        font-weight: 400;      ">Re: Reklamation per Einschreiben</td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td style=3D"        font-family: 'Segoe UI', Frutiger, Arial, sa=
+ns-serif;        -ms-text-size-adjust: 100%;        font-size: 17px;       =
+ font-weight: 500;      ">
+            <br />Error Details</td>
+        </tr>
+        <tr>
+          <td style=3D"        font-size: 14px;        line-height: 20px;  =
+      font-family: 'Segoe UI', Frutiger, Arial, sans-serif;        -ms-text=
+-size-adjust: 100%;        font-weight: 500;      ">
+            <table style=3D"        width: 100%;        border-collapse: co=
+llapse;        margin-left: 10px;      ">
+              <tbody>
+                <tr>
+                  <td valign=3D"top" style=3D"        font-family: 'Segoe U=
+I', Frutiger, Arial, sans-serif;        font-size: 14px;        -ms-text-si=
+ze-adjust: 100%;        white-space: nowrap;        font-weight: 500;      =
+  width: 140px;      ">Reported error:</td>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 14px=
+;        font-weight: 400;      ">
+                    <em>550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipien=
+t info@oniko.ch not found by SMTP address lookup</em>
+                  </td>
+                </tr>
+                <tr>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        font-size: 14px;        -ms-text-size-adjust: 100%=
+;        white-space: nowrap;        font-weight: 500;        width: 140px;=
+      ">DSN generated by:</td>
+                  <td style=3D"        font-family: 'Segoe UI', Frutiger, A=
+rial, sans-serif;        -ms-text-size-adjust: 100%;        font-size: 14px=
+;        font-weight: 400;      ">GV0P278MB0433.CHEP278.PROD.OUTLOOK.COM</t=
+d>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <br />
+    <table style=3D"width: 880px;" cellspacing=3D"0">
+      <tr>
+        <td colspan=3D"6" style=3D"        padding-top: 4px;        border-=
+bottom: 1px solid #999999;        padding-bottom: 4px;        line-height: =
+120%;        font-size: 17px;        font-family: 'Segoe UI', Frutiger, Ari=
+al, sans-serif;        -ms-text-size-adjust: 100%;        font-weight: 500;=
+      ">Message Hops</td>
+      </tr>
+      <tr>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        background-color: #f2f5fa;        border-bottom: 1p=
+x solid #999999;        white-space: nowrap;        padding: 8px;      ">HO=
+P</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        background-color: #f2f5fa;        border-bottom: 1p=
+x solid #999999;        white-space: nowrap;        padding: 8px;        wi=
+dth: 80px;      ">TIME (UTC)</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        background-color: #f2f5fa;        border-bottom: 1p=
+x solid #999999;        white-space: nowrap;        padding: 8px;      ">FR=
+OM</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        background-color: #f2f5fa;        border-bottom: 1p=
+x solid #999999;        white-space: nowrap;        padding: 8px;      ">TO=
+</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        background-color: #f2f5fa;        border-bottom: 1p=
+x solid #999999;        white-space: nowrap;        padding: 8px;      ">WI=
+TH</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        background-color: #f2f5fa;        border-bottom: 1p=
+x solid #999999;        white-space: nowrap;        padding: 8px;      ">RE=
+LAY TIME</td>
+      </tr>
+      <tr>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: center;      ">1</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;        width: 80px;      ">7/23/2021<br />6:53=
+:53 PM</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">178-82-208-135.dynamic.hispeed.ch</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">asmtp013.mail.hostpoint.ch</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">esmtpsa  (TLS1.3) tls TLS_AES_256_GCM_S=
+HA384	(Exim 4.94.2 (FreeBSD))	(envelope-from &lt;mail@marclandolt.ch&gt;)</=
+td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">8&nbsp;sec</td>
+      </tr>
+      <tr>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: center;      ">2</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;        width: 80px;      ">7/23/2021<br />6:53=
+:53 PM</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">[10.0.2.46]</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">mxout012.mail.hostpoint.ch</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">esmtp (Exim 4.94.2 (FreeBSD))	(envelope=
+-from &lt;mail@marclandolt.ch&gt;)</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">*</td>
+      </tr>
+      <tr>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: center;      ">3</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;        width: 80px;      ">7/23/2021<br />6:54=
+:28 PM</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">mxout012.mail.hostpoint.ch</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">AM5EUR03FT030.mail.protection.outlook.c=
+om</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">Microsoft SMTP Server (version=3DTLS1_2=
+, cipher=3DTLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">35&nbsp;sec</td>
+      </tr>
+      <tr>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: center;      ">4</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;        width: 80px;      ">7/23/2021<br />6:54=
+:29 PM</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">AM5EUR03FT030.eop-EUR03.prod.protection=
+.outlook.com</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">AM5PR0202CA0004.outlook.office365.com</=
+td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">Microsoft SMTP Server (version=3DTLS1_2=
+, cipher=3DTLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">1&nbsp;sec</td>
+      </tr>
+      <tr>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: center;      ">5</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;        width: 80px;      ">7/23/2021<br />6:54=
+:30 PM</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">AM5PR0202CA0004.eurprd02.prod.outlook.c=
+om</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">GV0P278MB0433.CHEP278.PROD.OUTLOOK.COM<=
+/td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">Microsoft SMTP Server (version=3DTLS1_2=
+, cipher=3DTLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)</td>
+        <td style=3D"        font-size: 12px;        font-family: 'Segoe UI=
+', Frutiger, Arial, sans-serif;        -ms-text-size-adjust: 100%;        f=
+ont-weight: 500;        border-bottom: 1px solid #999999;        padding: 8=
+px;        text-align: left;      ">1&nbsp;sec</td>
+      </tr>
+    </table>
+    <p style=3D"        font-family: 'Segoe UI', Frutiger, Arial, sans-seri=
+f;        -ms-text-size-adjust: 100%;        font-size: 17px;        font-w=
+eight: 500;        padding-top: 4px;        padding-bottom: 0;        margi=
+n-top: 19px;        margin-bottom: 5px;      ">Original Message Headers</p>
+    <pre style=3D"        color: gray;        white-space: pre;        padd=
+ing-top: 0;        margin-top: 5px;      ">Received: from AM5PR0202CA0004.e=
+urprd02.prod.outlook.com
+ (2603:10a6:203:69::14) by GV0P278MB0433.CHEP278.PROD.OUTLOOK.COM
+ (2603:10a6:710:34::6) with Microsoft SMTP Server (version=3DTLS1_2,
+ cipher=3DTLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4352.25; Fri, 23 =
+Jul
+ 2021 18:54:30 +0000
+Received: from AM5EUR03FT030.eop-EUR03.prod.protection.outlook.com
+ (2603:10a6:203:69:cafe::36) by AM5PR0202CA0004.outlook.office365.com
+ (2603:10a6:203:69::14) with Microsoft SMTP Server (version=3DTLS1_2,
+ cipher=3DTLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4352.25 via Front=
+end
+ Transport; Fri, 23 Jul 2021 18:54:29 +0000
+Authentication-Results: spf=3Dnone (sender IP is 217.26.49.172)
+ smtp.mailfrom=3Dmarclandolt.ch; oniko.ch; dkim=3Dnone (message not signed)
+ header.d=3Dnone;oniko.ch; dmarc=3Dnone action=3Dnone header.from=3Dmarclan=
+dolt.ch;
+Received-SPF: None (protection.outlook.com: marclandolt.ch does not designa=
+te
+ permitted sender hosts)
+Received: from mxout012.mail.hostpoint.ch (217.26.49.172) by
+ AM5EUR03FT030.mail.protection.outlook.com (10.152.16.117) with Microsoft S=
+MTP
+ Server (version=3DTLS1_2, cipher=3DTLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) =
+id
+ 15.20.4352.24 via Frontend Transport; Fri, 23 Jul 2021 18:54:28 +0000
+Received: from [10.0.2.46] (helo=3Dasmtp013.mail.hostpoint.ch)
+	by mxout012.mail.hostpoint.ch with esmtp (Exim 4.94.2 (FreeBSD))
+	(envelope-from &lt;mail@marclandolt.ch&gt;)
+	id 1m70Iz-0005hC-U5; Fri, 23 Jul 2021 20:53:53 +0200
+Received: from 178-82-208-135.dynamic.hispeed.ch ([178.82.208.135] helo=3D[=
+192.168.1.13])
+	by asmtp013.mail.hostpoint.ch with esmtpsa  (TLS1.3) tls TLS_AES_256_GCM_S=
+HA384
+	(Exim 4.94.2 (FreeBSD))
+	(envelope-from &lt;mail@marclandolt.ch&gt;)
+	id 1m70Iz-0001uY-NC; Fri, 23 Jul 2021 20:53:53 +0200
+X-Authenticated-Sender-Id: mail@marclandolt.ch
+Subject: Re: Reklamation per Einschreiben
+From: "Marc jr. Landolt" &lt;mail@marclandolt.ch&gt;
+To: marc.landolt@0x8.ch, 2009@marclandolt.ch, lama50 &lt;lama50@gmx.ch&gt;
+CC: Hanno Katrin &lt;Katrin.Hanno@pdag.ch&gt;, svaaargau@sva-ag.ch,
+ info@kapo.ag.ch, info@fedpol.admin.ch, Elisabeth.Bauhofer@ag.ch,
+ Schleusener Samer &lt;Samer.Schleusener@pdag.ch&gt;, marco.spring@ag.ch,
+ michael.ritter@kapo.ag.ch, AarauEPD &lt;EPD.Aarau@pdag.ch&gt;,
+ =3D?UTF-8?Q?K=3Dc3=3Dbcng_Walter_GKABGAAR?=3D &lt;Walter.Kueng@ag.ch&gt;,
+ Postmaster-VBS@gs-vbs.admin.ch, direktion@bger.ch,
+ "Kanzlei@bger.ch" &lt;Kanzlei@bger.ch&gt;, info@interpol.int, kb3.bern@hel=
+sana.ch,
+ contact.center@ch.abb.com, info@oniko.ch, interface@internil.net,
+ support@hostpoint.ch, daniel.heilmann@kapo.ag.ch, marianne.gisi@pdag.ch,
+ impressum@coop.ch, Andreas.Kiener@sva-ag.ch, info@sva-ag.ch
+References: &lt;0e37dcc8-a34c-ed28-af3d-4ed8f34b3c85@gmx.ch&gt;
+ &lt;42fd7f31-2333-6669-2500-b9ef0e787dee@marclandolt.ch&gt;
+ &lt;1e721c07-728d-1bad-0ed8-fdeb26f22182@marclandolt.ch&gt;
+ &lt;2a49a4a1-f91c-065d-01ec-fb4adcc26df2@marclandolt.ch&gt;
+ &lt;8d708b7f-b7c1-d264-ceca-2758f1ce5d93@marclandolt.ch&gt;
+ &lt;c94faada-1655-b7a6-e8dc-1187bfdbc85e@marclandolt.ch&gt;
+ &lt;b0472dd9-0a51-bb40-a0dc-fb4bca185d74@marclandolt.ch&gt;
+ &lt;c69b6cd8-deae-b8e2-b4a6-7368a4a1a4f3@marclandolt.ch&gt;
+ &lt;1c8d1629-10a1-c98d-4511-e8ad734ed6d1@marclandolt.ch&gt;
+ &lt;35263c95-f4f2-f1c1-7f2b-3a602bc76611@marclandolt.ch&gt;
+ &lt;3b7fb9d8-86e3-42c3-44cc-3cd2be3bb9f4@marclandolt.ch&gt;
+Message-ID: &lt;d4636eb6-8634-00f1-2e0f-c97ea97f15ba@marclandolt.ch&gt;
+Disposition-Notification-To: "Marc jr. Landolt" &lt;mail@marclandolt.ch&gt;
+Date: Fri, 23 Jul 2021 20:53:45 +0200
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/201001=
+01
+ Thunderbird/78.12.0
+MIME-Version: 1.0
+In-Reply-To: &lt;3b7fb9d8-86e3-42c3-44cc-3cd2be3bb9f4@marclandolt.ch&gt;
+Content-Type: text/plain; charset=3Dutf-8; format=3Dflowed
+Content-Transfer-Encoding: 8bit
+Return-Path: mail@marclandolt.ch
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 85e07c10-c0f7-483c-b0c2-fcd634f9b74e:0
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: e49b9e0e-80f5-439f-a415-08d94e0b4c=
+3f
+X-MS-TrafficTypeDiagnostic: GV0P278MB0433:
+</pre>
+  </body>
+</html>=
+
+--a9f80e8a-23b0-4663-a8b8-2e4f8d75ec5d--
+
+--7d4dd18f-2ac3-4e63-aea0-7ad36a0f43ea
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;GV0P278MB0433.CHEP278.PROD.OUTLOOK.COM
+Received-From-MTA: dns;mxout012.mail.hostpoint.ch
+Arrival-Date: Fri, 23 Jul 2021 18:54:30 +0000
+
+Final-Recipient: rfc822;info@oniko.ch
+Action: failed
+Status: 5.1.10
+Diagnostic-Code: smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient info@oniko.ch not found by SMTP address lookup
+
+
+--7d4dd18f-2ac3-4e63-aea0-7ad36a0f43ea
+Content-Type: message/rfc822
+
+Received: from AM5PR0202CA0004.eurprd02.prod.outlook.com
+ (2603:10a6:203:69::14) by GV0P278MB0433.CHEP278.PROD.OUTLOOK.COM
+ (2603:10a6:710:34::6) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4352.25; Fri, 23 Jul
+ 2021 18:54:30 +0000
+Received: from AM5EUR03FT030.eop-EUR03.prod.protection.outlook.com
+ (2603:10a6:203:69:cafe::36) by AM5PR0202CA0004.outlook.office365.com
+ (2603:10a6:203:69::14) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4352.25 via Frontend
+ Transport; Fri, 23 Jul 2021 18:54:29 +0000
+Authentication-Results: spf=none (sender IP is 217.26.49.172)
+ smtp.mailfrom=marclandolt.ch; oniko.ch; dkim=none (message not signed)
+ header.d=none;oniko.ch; dmarc=none action=none header.from=marclandolt.ch;
+Received-SPF: None (protection.outlook.com: marclandolt.ch does not designate
+ permitted sender hosts)
+Received: from mxout012.mail.hostpoint.ch (217.26.49.172) by
+ AM5EUR03FT030.mail.protection.outlook.com (10.152.16.117) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.4352.24 via Frontend Transport; Fri, 23 Jul 2021 18:54:28 +0000
+Received: from [10.0.2.46] (helo=asmtp013.mail.hostpoint.ch)
+	by mxout012.mail.hostpoint.ch with esmtp (Exim 4.94.2 (FreeBSD))
+	(envelope-from <mail@marclandolt.ch>)
+	id 1m70Iz-0005hC-U5; Fri, 23 Jul 2021 20:53:53 +0200
+Received: from 178-82-208-135.dynamic.hispeed.ch ([178.82.208.135] helo=[192.168.1.13])
+	by asmtp013.mail.hostpoint.ch with esmtpsa  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.94.2 (FreeBSD))
+	(envelope-from <mail@marclandolt.ch>)
+	id 1m70Iz-0001uY-NC; Fri, 23 Jul 2021 20:53:53 +0200
+X-Authenticated-Sender-Id: mail@marclandolt.ch
+Subject: Re: Reklamation per Einschreiben
+From: "Marc jr. Landolt" <mail@marclandolt.ch>
+To: marc.landolt@0x8.ch, 2009@marclandolt.ch, lama50 <lama50@gmx.ch>
+CC: Hanno Katrin <Katrin.Hanno@pdag.ch>, svaaargau@sva-ag.ch,
+ info@kapo.ag.ch, info@fedpol.admin.ch, Elisabeth.Bauhofer@ag.ch,
+ Schleusener Samer <Samer.Schleusener@pdag.ch>, marco.spring@ag.ch,
+ michael.ritter@kapo.ag.ch, AarauEPD <EPD.Aarau@pdag.ch>,
+ =?UTF-8?Q?K=c3=bcng_Walter_GKABGAAR?= <Walter.Kueng@ag.ch>,
+ Postmaster-VBS@gs-vbs.admin.ch, direktion@bger.ch,
+ "Kanzlei@bger.ch" <Kanzlei@bger.ch>, info@interpol.int, kb3.bern@helsana.ch,
+ contact.center@ch.abb.com, info@oniko.ch, interface@internil.net,
+ support@hostpoint.ch, daniel.heilmann@kapo.ag.ch, marianne.gisi@pdag.ch,
+ impressum@coop.ch, Andreas.Kiener@sva-ag.ch, info@sva-ag.ch
+References: <0e37dcc8-a34c-ed28-af3d-4ed8f34b3c85@gmx.ch>
+ <42fd7f31-2333-6669-2500-b9ef0e787dee@marclandolt.ch>
+ <1e721c07-728d-1bad-0ed8-fdeb26f22182@marclandolt.ch>
+ <2a49a4a1-f91c-065d-01ec-fb4adcc26df2@marclandolt.ch>
+ <8d708b7f-b7c1-d264-ceca-2758f1ce5d93@marclandolt.ch>
+ <c94faada-1655-b7a6-e8dc-1187bfdbc85e@marclandolt.ch>
+ <b0472dd9-0a51-bb40-a0dc-fb4bca185d74@marclandolt.ch>
+ <c69b6cd8-deae-b8e2-b4a6-7368a4a1a4f3@marclandolt.ch>
+ <1c8d1629-10a1-c98d-4511-e8ad734ed6d1@marclandolt.ch>
+ <35263c95-f4f2-f1c1-7f2b-3a602bc76611@marclandolt.ch>
+ <3b7fb9d8-86e3-42c3-44cc-3cd2be3bb9f4@marclandolt.ch>
+Message-ID: <d4636eb6-8634-00f1-2e0f-c97ea97f15ba@marclandolt.ch>
+Disposition-Notification-To: "Marc jr. Landolt" <mail@marclandolt.ch>
+Date: Fri, 23 Jul 2021 20:53:45 +0200
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101
+ Thunderbird/78.12.0
+MIME-Version: 1.0
+In-Reply-To: <3b7fb9d8-86e3-42c3-44cc-3cd2be3bb9f4@marclandolt.ch>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: quoted-printable
+Return-Path: mail@marclandolt.ch
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 85e07c10-c0f7-483c-b0c2-fcd634f9b74e:0
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: e49b9e0e-80f5-439f-a415-08d94e0b4c3f
+X-MS-TrafficTypeDiagnostic: GV0P278MB0433:
+
+jetzt wird wieder feige =C3=BCber einen Hidden KommunikationsKanal gesagt i=
+ch=20
+h=C3=A4tte den "Georg Landolt gericthet" aber wer den Verlauf der Mails=20
+betrachtet ...
+
+"...  sonst hilft allenfalls eine Zusicherung von Dir dass ich gen=C3=BCgen=
+d=20
+Zeit habe eine neue Wohung zu suchen gegen die (induzierte) Suizidalit=C3=
+=A4t=20
+..."
+
+und das hast Du Georg allenfalls sogar vors=C3=A4tzlich komplett ignoriert,=
+=20
+somit vors=C3=A4tzlich meine Existenzangst, Traumabased MindControl =3D PTB=
+S=20
+verschlimmert und  D I C H   S E L B E R   V E R D =C3=A4 C H T I G  gemach=
+t,=20
+denn wenn man am Wohl des Kindes interssiert w=C3=A4re w=C3=BCrde man das=20
+priorisieren und als erstes beantworten.
+
+Somit direkte Frage:
+
+WER HAT DIR GEORG DEN AUFTRAG GEGEBEN MICH ZU ZWIGNEN=20
+intelligenzmindernde PSYCHOPHARMAKA ZU NEHMEN UND MIR SONST MIT=20
+OBDACHLOSIGKEIT ZU DROHEN?
+
+Und eine nachvollziehbare, druckbare Antwort wie ich mit meinem=20
+"Gespinne" in den vielen Mails w=C3=A4re echt nett...
+
+Mit freundlichen Gr=C3=BCssen
+
+Marc jr. Landolt & Cie.
+eidg. dipl. Informatiker HF
+
+
+Am 23.07.2021 um 20:32 schrieb Marc jr. Landolt:
+> also das ganze "Du Marc jr. bist schuld an dem, dem, dem, dem und jetzt=20
+> verteidige dich und mach eine Beweiskette" feige auf irgendwelchen nicht=
+=20
+> oder kaum nachvollziehbaren Kommunikationskan=C3=A4len, nonverbal,=20
+> istitutionall, w=C3=A4re gar nicht jemand vom Rechtssystem (oder gekaufte=
+)=20
+> die so versuchen ihre Verteidigung f=C3=BCr Mord, Vergewaltigung, P=C3=A4=
+dophilie=20
+> ... zu verbessern.
+>=20
+> [DELETED] [REBUILT] impliziert jemand der sich mit Rechtsf=C3=A4llen ausk=
+ennt=20
+> wie z.B. eine Rechtsschutz und der viele Cyber-Scheisse in USA gekauft=20
+> hat...
+>=20
+> Dinge wie IRATEMONK [1] machten es da vermutlich nicht gerade einfacher .=
+..
+>=20
+>=20
+> [1] ATTACHEMENT:=E2=9A=A0=EF=B8=8F=E2=9A=A0=EF=B8=8F=C2=A0 A C H T U N G=
+=C2=A0 =E2=9A=A0=EF=B8=8F=E2=9A=A0=EF=B8=8F=C2=A0 da steht TOPSECRET daruf,=
+ die=20
+> Nutzniesser dieser "Software" w=C3=BCrden dann da vermutlich relativ=20
+> aggressiv werden wenn man zu LAUT =C3=BCber das redet. Ausserdem ist das=
+=20
+> mittlerweile sicher 8 Jahre weiter entwickelt worden, in der Presse=20
+> wurde von Equation Group geredet (off by one, allnfalls falsche Spur=20
+> oder HoneyPot =E2=9A=A0=EF=B8=8F=E2=9A=A0=EF=B8=8F=E2=9A=A0=EF=B8=8F=E2=
+=9A=A0=EF=B8=8F=E2=9A=A0=EF=B8=8F=E2=9A=A0=EF=B8=8F=E2=9A=A0=EF=B8=8F=E2=9A=
+=A0=EF=B8=8F=E2=9A=A0=EF=B8=8F=E2=9A=A0=EF=B8=8F=E2=9A=A0=EF=B8=8F=E2=9A=A0=
+=EF=B8=8F) man muss da vermutlich mit=20
+> "zuf=C3=A4llig" herunterfallenden Konzertfl=C3=BCgeln rechnen, auch im Wa=
+ld...
+>=20
+>=20
+> Am 23.07.2021 um 20:19 schrieb Marc jr. Landolt:
+>> Dann das "Spiel" mit
+>>
+>> - dem 1980er Kind eine Wohung aussuchen
+>>
+>> - dem Kind die Straftaten irgendwelcher 1970er und =C3=A4lteren anh=C3=
+=A4ngen
+>> =C2=A0=C2=A0-> wo logischerweise dann das 1980er Kind Gratis arbeitet um=
+ zu=20
+>> beweisen dass es unschuldig ist
+>>
+>> - das Kind mit induzierter Epilepsie grillen und sich mit "Roasted=20
+>> Chicken" Zweifel Chips nonverbal dar=C3=BCber lustig machen (Attachement=
+)
+>>
+>> - andere Mieter und die Schilchtungsrichter beim Bezirksgericht und=20
+>> die Rohrer Anw=C3=A4lte dazu motivieren ein falsches Urteil zu f=C3=A4ll=
+en &&=20
+>> zeitgleich das Opfer in die Psychiatrie internieren um noch einen=20
+>> Notfallplan "Nicht Einhalten von Fristen" zu haben
+>>
+>> - dann das 1980er Kind in der Psychiatrie "gut steuerbar" machen
+>>
+>> - dann drohende Obdachlosigkeit und Marc jr Landolt hat alle seine=20
+>> vielen B=C3=BCcher, Quellen etc. fortwerfen m=C3=BCssen die eigentlich d=
+ie=20
+>> Herleitung w=C3=A4ren auch im Kontext der Straftaten die man Marc jr.=20
+>> Landolt untergeschoben wurden
+>>
+>> -> somit wird autistischen 1980er die STraftaten angeh=C3=A4ngt um zu=20
+>> schauen ob die Straftat / das "perfekte" Verbrechen zu den T=C3=A4tern=20
+>> zur=C3=BCck verfolgbar ist, und falls der Autist eine saubere Beweiskett=
+e=20
+>> hin bekommt wird mit Obdachlosigkeit die Beweiskette vernichtet
+>>
+>> Derjenige / diejenige welche die Wohung aussucht oder mit zB.=20
+>> irgendwelcher Blackhat Software im Liegenschaften Markt oder auf dem=20
+>> Endpoint des Opfers / S=C3=BCndenbocks daf=C3=BCr sorgt dass er sonst ke=
+ine=20
+>> andere Wohung bekommt ist dann aber auch irgendwie verd=C3=A4chtig sobal=
+d=20
+>> das Konzept mal bekannt ist.
+>>
+>>
+>> F R E H N E R
+>>
+>> Somit an alle +/- gleichaltrigen Gsp=C3=B6ndli von Stefan Frehner v/o=20
+>> Fuchs, allenfalls k=C3=B6nnte man mal auf den Fuchs zu gehen und fragen =
+ob=20
+>> das allenfalls auch der Grund war weshalb er seine Wohung verloren=20
+>> hat, ich soll zwar nicht von mir auf Andere schilessen, aber ich w=C3=BC=
+rde=20
+>> jetzt mich getriggert f=C3=BChlen wenn das Menschen sind die keine laute=
+ren=20
+>> Absichten haben, sich so profilieren m=C3=B6chten oder Menschen wie Chef=
+'s,=20
+>> Eltern, Vorgesetzte ... die schon "N=C3=A4gel in mich hinein geh=C3=A4mm=
+ert=20
+>> haben" ...
+>>
+>> =3D> da bitte ich allenfalls Whitehat Medic Personal zu fragen ob das=20
+>> mit CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats)=20
+>> oder so =C3=A4hnliche Menschen-Experimente schon damals m=C3=B6glich war=
+en=C2=A0 und=20
+>> der "lahmende Fuchs" so zu sagen der "Energizer" f=C3=BCr irgendwelche=20
+>> Verbindungsnahen Menschen ist, apropos Fuchsjagt.
+>>
+>> Peering Group P=C3=A4rkli w=C3=A4re eine Selbsthilfegruppe gewesen die i=
+rgendwie=20
+>> "renoviert" wurde ...
+>>
+>>
+>> =3D> wichtiger: diese Menschen sollten alle als "Selbst"mord gef=C3=A4hr=
+det=20
+>> betrachtet werden. Bzw. wird vermutlich versucht diese Menschen in den=20
+>> Suizid zu treiben, mit irgendwelchen Psychiatrie oder Neurologie MODs
+>>
+>> Mit freundlichen Gr=C3=BCssen
+>>
+>> Marc jr. Landolt
+>> eidg. dipl. Informatiker HF
+>> Neuenburgerstrasse 6
+>> 5004 Aarau
+>> 062 822 61 31
+>> 078 684 15 32
+>>
+>>
+>>
+>>
+>> Am 23.07.2021 um 19:57 schrieb Marc jr. Landolt:
+>>> Ich hab jetzt das noch rasch dem 117 gemeldet dass mutmasslich die=20
+>>> "Rechtsinformatik" hacked ist, das wird ja dann sowieso da gespeichert.
+>>>
+>>> Ist nur so eine Idee, aber "allenfalls" k=C3=B6nnte man diese Aufzeichu=
+ng=20
+>>> / Meldung jetzt als ...
+>>>
+>>> C o n t e n t - H o n e y=C2=A0=C2=A0 P o t
+>>>
+>>> ... in der Meldezentral benutzen, denn wenn ich das Puzzle richtig=20
+>>> zusammen gesetzt habe, w=C3=BCrde man vermutlich diese Aufzeuchung "geh=
+eim=20
+>>> halten" WOLLEN...
+>>>
+>>>
+>>> Dann die Windel-Szene hat auch noch einen Logik-Fehler, wenn das=20
+>>> Kleinkind "Jetzt lernen muss ohne Windeln" w=C3=BCrde man ihm nicht=20
+>>> dennoch z.B. Unterhosen anziehen m=C3=BCssen ???
+>>>
+>>> Am 23.07.2021 um 19:39 schrieb Marc jr. Landolt:
+>>>> Mein Senf zur Situation
+>>>>
+>>>> als ausl=C3=A4ndischer milit=C3=A4rsicher Agressor der sich als Ausl=
+=C3=A4ndischer=20
+>>>> super duper Geheimdienst ausgibt m=C3=BCsste man nur z.B. Richter,=20
+>>>> Staatsanw=C3=A4lte unterwandern, also
+>>>>
+>>>> "Demokratie" ist utterly broken
+>>>>
+>>>> und institutionell somit ein Problem AUSSER man achtet jetzt=20
+>>>> explizit auf solches, aporpos Schweizer Justizsystem und l=C3=B6chrige=
+r=20
+>>>> K=C3=A4se.
+>>>>
+>>>> Aber dass dann nach den Snowden Leaks so etwas raus kommt, damit=20
+>>>> h=C3=A4tte jetzt ja wirklich niemand rechnen k=C3=B6nnen...
+>>>>
+>>>> TNX to Ed QuantumPferd Snowden...
+>>>>
+>>>>
+>>>> ich: kann mir noch jemand sagen was "utterly" heisst...
+>>>>
+>>>>
+>>>> Am 23.07.2021 um 19:13 schrieb Marc jr. Landolt:
+>>>>> attachement l=C3=B6scht sich wieder auf meinem endpoint
+>>>>>
+>>>>> https://github.com/HackersCardgame/hackerscardgame-notes-s21m07/blob/=
+main/rC3/kantonAargauServerHackedVonDerZuerichVersichrung.eml=20
+>>>>>
+>>>>>
+>>>>>
+>>>>> Am 23.07.2021 um 19:11 schrieb Marc jr. Landolt:
+>>>>>> @ Christian Tanner:
+>>>>>>
+>>>>>> Das w=C3=A4re dann sicher Eure Baustelle und die des KOBIKs.
+>>>>>>
+>>>>>> Mutmasslich ist der Mailserver des Kantons Aargau von der Z=C3=BCric=
+h=20
+>>>>>> Versichrung gehackt worden, Attachement. Das aktivieren die=20
+>>>>>> vermutlich nur im "Notfall" wenn deren Kunden wegen P=C3=A4dophilie=
+=20
+>>>>>> oder Mord auffliegen... (leeres Mail, oder allenfalls auch etwas=20
+>>>>>> wie ein Crypto-Trojaner der Richterin Bauhofer)
+>>>>>>
+>>>>>> Gruss
+>>>>>> Marc jr. Landolt
+>>>>>>
+>>>>>> Auch f=C3=A4llt auf, dass Geort Landolt vors=C3=A4tzlich nicht auf d=
+as=20
+>>>>>> "gen=C3=BCgend Zeit f=C3=BCr eine neue Wohung suchen" von Marc jr. L=
+andolt=20
+>>>>>> eingeht, also da ist der Straftatbestand des versuchten Mordes an=20
+>>>>>> Marc jr. Landolt erf=C3=BCllt (Schwellentheorie)
+>>>>>>
+>>>>>>
+>>>>>> Jetzt hat der Loop angefangen {Suizid von Marc jr. Landolt im=20
+>>>>>> Garten der Landolts, Rainstrasse 13 } was dann implizieren w=C3=BCrd=
+e,=20
+>>>>>> dass Urs Blum den Mordauftrag an Marc-Georg Landolt ausgegeben hat=20
+>>>>>> und dass die Z=C3=BCrich Versicherung sich als Gott aufspielt und di=
+e=20
+>>>>>> Passage "Gott befiehlt darin Abraham, seinen Sohn Isaak zu opfern"=20
+>>>>>> von der Z=C3=BCrich Versichrung so umgebastelt wurde dass sich Georg=
+=20
+>>>>>> Landolt mit "Die Armee =C3=A4hm Gott hat es befohlen" rausreden kann=
+...
+>>>>>>
+>>>>>>
+>>>>>> Wichtig f=C3=BCr alle 1980er: Schaut dass kein P=C3=A4dokriminelles =
+Material=20
+>>>>>> von Euren Kindern produziert wird, da w=C3=BCrdet Ihr als Eltern dan=
+n=20
+>>>>>> sowieso erpresst werden von US Ablegern wie der Z=C3=BCrich=20
+>>>>>> Versichrung, und somit w=C3=A4re auch klar wof=C3=BCr der NSA-Porno-=
+Room=20
+>>>>>> w=C3=A4re, das w=C3=A4re eher ein CIA-Porno-Room: milit=C3=A4risches=
+ Erpressungs-=20
+>>>>>> und Zwangsmassnahmen-System
+>>>>>>
+>>>>>>
+>>>>>> Am 23.07.2021 um 18:47 schrieb Marc jr. Landolt:
+>>>>>>> Sehr geehrter Herr Georg Landolt
+>>>>>>>
+>>>>>>> einene Menschen mit Androhung von Obdachlosigkeit zu zwingen=20
+>>>>>>> intelligenzmindernde Psychopharamka zu nehmen -- insbesondere=20
+>>>>>>> wenn intelligenzminderung heisst, dass Rechtsf=C3=A4lle nicht=20
+>>>>>>> aufgekl=C3=A4rt werden -- ist unserer Meinung nach rechtlich nicht=
+=20
+>>>>>>> zul=C3=A4ssig und somit sind SIE Herr Marc-Georg Landolt (1950)=20
+>>>>>>> mutmasslich von der Z=C3=BCrich Versichrung aufgekauft worden um zu=
+=20
+>>>>>>> helfen Morde zu vertuschen oder Sie werden von der Z=C3=BCrich=20
+>>>>>>> Versichrung mit dem P=C3=A4dokriminellen Material dass sie von Moni=
+ka=20
+>>>>>>> =C3=84geter, Ursula Landolt, Dominik Landolt und Marc jr. Landolt a=
+ls=20
+>>>>>>> Kinder erstellt haben erpresst.
+>>>>>>>
+>>>>>>> Insbesondere das sie wissen, dass Ihr Sohn Marc jr. Landolt bei=20
+>>>>>>> Existenzangst und Androhung von Obdachlosigkeit wieder massiv=20
+>>>>>>> Suizid Versuche unternehmen wird w=C3=A4re rechtlich die Schwellen=
+=20
+>>>>>>> Theorie f=C3=BCr Versuchten Mord erf=C3=BCllt.
+>>>>>>>
+>>>>>>> PS: nein der Marc jr Landolt selber verwendet nicht solche=20
+>>>>>>> Juristen Sprache.
+>>>>>>>
+>>>>>>>
+>>>>>>> Mit freundlichen Gr=C3=BCssen
+>>>>>>>
+>>>>>>> Marc jr. Landolt
+>>>>>>> eidg. dipl. Informatiker HF
+>>>>>>> Neuenburgerstrssee 6
+>>>>>>> 5004 Aarau
+>>>>>>> 062 822 61 31
+>>>>>>> 078 674 15 32
+>>>>>>>
+>>>>>>> Am 22.07.2021 um 23:36 schrieb Marc jr. Landolt:
+>>>>>>>> Halli Hallo Papa
+>>>>>>>>
+>>>>>>>> eben k=C3=B6nntest Du noch die zwei Namen der Mieter herausr=C3=BC=
+cken die=20
+>>>>>>>> geklagt haben? Ich w=C3=BCrde gerne mit diesen Menschen reden.
+>>>>>>>>
+>>>>>>>> Das ganze aktiviert bei mir Existenzangst und erh=C3=B6ht meine=20
+>>>>>>>> Suizidalit=C3=A4t. Ich vermute diejenigen die das gemeldet haben=20
+>>>>>>>> wollen vors=C3=A4tzlich Suizid induzieren. Das w=C3=A4re so etwas =
+wie die=20
+>>>>>>>> geheime Todesstrafe f=C3=BCr Zeugen welche scheinbar in der Schwei=
+z=20
+>>>>>>>> praktiziert wird.
+>>>>>>>>
+>>>>>>>> Ich w=C3=BCrde gerne mit diesem Menschen reden, und sonst hilft=20
+>>>>>>>> allenfalls eine Zusicherung von Dir dass ich gen=C3=BCgend Zeit ha=
+be=20
+>>>>>>>> eine neue Wohung zu suchen gegen die (induzierte) Suizidalit=C3=A4=
+t.=20
+>>>>>>>> Bzw. wenn ich das Puzzle richtig zusammen gesetzt habe ist das=20
+>>>>>>>> so etwas wie eine verschl=C3=BCsselte Morddrohung gegen mich wenn =
+ich=20
+>>>>>>>> weiter gegen die T=C3=A4terschaft aussage. Autisten sind aber=20
+>>>>>>>> Triebgesteuert und k=C3=B6nnen Puzzles nicht falsch zusammen geset=
+zt=20
+>>>>>>>> liegen lassen, Puzzles jetzt nicht im Sinne von den doofen aus=20
+>>>>>>>> Karton.
+>>>>>>>>
+>>>>>>>> Aber selbst wenn die mich ermorden wird immer noch Philipp=20
+>>>>>>>> L=C3=BCscher (auch Agglo Aarau und ABB CHFAC) oder alle anderen=20
+>>>>>>>> gutartigen Mitarbeiter bei ABB CHFAC @1999 aussagen k=C3=B6nnen od=
+er=20
+>>>>>>>> das Puzzle zu den drei toten Administraturen (vermutlich=20
+>>>>>>>> WhiteHat's) fertig l=C3=B6sen k=C3=B6nnen, also mich zu ermorden b=
+ringt=20
+>>>>>>>> der T=C3=A4terschaft auch nur m=C3=A4ssig etwas. Da ist ja auch ir=
+gendwie=20
+>>>>>>>> klar, dass der US Konzern Rockwell Automation und der Herr=20
+>>>>>>>> Riela, sein Mami das dort arbeitet(e) und andere Menschen aus=20
+>>>>>>>> Aarau allenfalls Fachspezialisten f=C3=BCr diese Thematik gewesen =
+w=C3=A4ren.
+>>>>>>>>
+>>>>>>>> Auch im Rombacht=C3=A4li wurde ich erst dann rausgeworfen, als ich=
+=20
+>>>>>>>> ungef=C3=A4hr den selben Empf=C3=A4ngern wie in diesem Mail gemeld=
+et habe,=20
+>>>>>>>> dass es meiner Meinung nach zu viele Suizide im Rombacht=C3=A4li g=
+ibt.
+>>>>>>>>
+>>>>>>>> Somit w=C3=A4re mein Fall allenfalls auch ein Pr=C3=A4zedenzfall, =
+dass=20
+>>>>>>>> viele Obdachlose oder Fl=C3=BCchtlinge Zeugen sind die zu Massenmo=
+rd=20
+>>>>>>>> durch Juristische Personen aussagen k=C3=B6nnten.
+>>>>>>>>
+>>>>>>>> Gr=C3=BCsschen
+>>>>>>>>
+>>>>>>>> Marc jr. Landolt
+>>>>>>>> eidg. dipl. Informatiker HF
+>>>>>>>> Neuenburgerstrasse 6
+>>>>>>>> 5004 Aarau
+>>>>>>>> 062 822 61 31
+>>>>>>>> 078 674 15 32
+>>>>>>>>
+>>>>>>>>
+>>>>>>>>
+>>>>>>>> Am 22.07.2021 um 00:43 schrieb Marc jr. Landolt:
+>>>>>>>>>
+>>>>>>>>> An alle j=C3=BCngeren im BCC:
+>>>>>>>>> =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D
+>>>>>>>>>
+>>>>>>>>> A C H T U N G=C2=A0 worst case ist das Ritual sich =C3=BCber Mens=
+chen bei=20
+>>>>>>>>> denen Epilepsie induziert wird lustig zu machen nur dazu da,=20
+>>>>>>>>> dass man dann bei Euch auch Epilepsie induzieren kann und Euch=20
+>>>>>>>>> mit ...
+>>>>>>>>>
+>>>>>>>>>
+>>>>>>>>> "ihr habt Marc jr. auch ausgelacht mit Euch soll auch so=20
+>>>>>>>>> verfahren werden, IHR SEID SELBER SCHULD, Auge um Auge [1]"
+>>>>>>>>>
+>>>>>>>>>
+>>>>>>>>> ... platt zu machen. Das w=C3=A4re MindControl [2] welches vorall=
+em=20
+>>>>>>>>> Menschenschen hittet die noch ein intaktes Wertesystem und=20
+>>>>>>>>> Moral haben, also das w=C3=BCrde dann vorallem die j=C3=BCngeren=
+=20
+>>>>>>>>> Generationen betreffen.
+>>>>>>>>>
+>>>>>>>>> [1] Mit der ProgrammierSprache PROLOG oder einem Autisten ( =3D=20
+>>>>>>>>> PROLOG auf zwei Beinen) w=C3=BCrde man aber relativ schnell hier =
+den=20
+>>>>>>>>> Logik-Mathematik-Fehler finden.
+>>>>>>>>>
+>>>>>>>>> Da macht es Sinn meiner Meinung nach Sinn, dass Ihr das "Ihr=20
+>>>>>>>>> seid selber Schuld" ignoriert und zu schauen, wo die=20
+>>>>>>>>> "mComStation" ist welche die Epilepsie induziert ist, diese=20
+>>>>>>>>> auszuschaleten oder ein AluHut oder AluBurka anzuziehen.
+>>>>>>>>>
+>>>>>>>>>
+>>>>>>>>> [2] allenfalls hier als Mensch mit Schizophrenie Diagnose=20
+>>>>>>>>> besser nicht
+>>>>>>>>> das Wort " G e d a n k e n K o n t r o l l e " verwenden, auch=20
+>>>>>>>>> wenn man Autist ist, massgebend ist die Diagnose und nicht die=20
+>>>>>>>>> Krankheit.
+>>>>>>>>>
+>>>>>>>>>
+>>>>>>>>>
+>>>>>>>>>
+>>>>>>>>> LG
+>>>>>>>>>
+>>>>>>>>> Marc jr. Landolt
+>>>>>>>>> eidg. dipl. Informatiker HF
+>>>>>>>>> Neuenburgerstrasse 6
+>>>>>>>>> 5004 Aarau
+>>>>>>>>> 062 822 61 31
+>>>>>>>>> 078 674 15 32
+>>>>>>>>>
+>>>>>>>>>
+>>>>>>>>>
+>>>>>>>>>
+>>>>>>>>> Ab hier kann man es ignorieren ...
+>>>>>>>>> =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+>>>>>>>>> ... ausser f=C3=BCr Nachvollziehbarkeit und f=C3=BCr Natural Lanu=
+gauge=20
+>>>>>>>>> Processing und Psychologische Fingerabdr=C3=BCcke
+>>>>>>>>>
+>>>>>>>>>
+>>>>>>>>>
+>>>>>>>>> TECHNISCH / COMINT:
+>>>>>>>>> am besten melden wenn gard wieder Epilepsie eingeshcaltet wird=20
+>>>>>>>>> MELDEN und dann schauen dass man diese Infrastruktur abschalten=20
+>>>>>>>>> kann.
+>>>>>>>>>
+>>>>>>>>> Es sieht aber leider so aus, dass z.B. biem 117 oder beim 144=20
+>>>>>>>>> {0} jeweils immer zetigleich eher m=C3=A4ssig tolles personal das=
+=20
+>>>>>>>>> ignorant und/oder besoffen ist aktiv ist.
+>>>>>>>>>
+>>>>>>>>> Die einem dann auch noch anklagen oder bedrohen mich wieder in=20
+>>>>>>>>> die *Epilepsie eingeschaltet worden* Psychiatrie zu verfrachten.
+>>>>>>>>>
+>>>>>>>>> Als ich z.B. Polizist Wachmeister Michael Riitter gefragt habe=20
+>>>>>>>>> weshalb er das protokoll gef=C3=A4lscht *cAPI* hat {1} hat er gem=
+=C3=A4ss=20
+>>>>>>>>> Fr. Dr. Hanno ihr angerufen und gesagt man solle mir mehr=20
+>>>>>>>>> (ungeh=C3=B6rt: intelligenzmidernde) Psychopahramaka reinw=C3=BCr=
+gen.
+>>>>>>>>>
+>>>>>>>>> HUMINT:
+>>>>>>>>> Vermutlich gibt es=C2=A0 Z e i t p l =C3=A4 n e=C2=A0 der T=C3=A4=
+terschaft wo die=20
+>>>>>>>>> auch schauen dass dann zu dieser Zeit die ihre Leute auf z.B.=20
+>>>>>>>>> 117 oder 144 haben oder auch denkbar w=C3=A4re umleitung des TSP'=
+s=20
+>>>>>>>>> (meist UPC)
+>>>>>>>>>
+>>>>>>>>> -> wenn ich recht habe ist klar weshalb die mich auf die=20
+>>>>>>>>> Strasse stellen wollen und meucheln wollen.
+>>>>>>>>>
+>>>>>>>>> Ab hier kann man es noch mehr ignorieren ...
+>>>>>>>>> =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+>>>>>>>>> ... ausser f=C3=BCr Nachvollziehbarkeit und f=C3=BCr Natural Lanu=
+gauge=20
+>>>>>>>>> Processing und Psychologische Fingerabdr=C3=BCcke
+>>>>>>>>>
+>>>>>>>>> * * <- der ritter wird zugriff auf die epilepsie infrasturktur=20
+>>>>>>>>> haben udn mich "therapieren" zu wollen keine aussage gegen=20
+>>>>>>>>> fehlbare polizisten zu machen die infrastruktur *epilepsie*=20
+>>>>>>>>> wird vermutlcih von dre z=C3=BCrich versichrung betrieben [1] {2}
+>>>>>>>>>
+>>>>>>>>> [1] zu viel jus und rechtsverdrehungs zeugs dass das nciht=20
+>>>>>>>>> jemand ist der sich profesiolnell mit rechtsverdrehung=20
+>>>>>>>>> besch=C3=A4ftigt und viel personal hat {3}
+>>>>>>>>>
+>>>>>>>>>
+>>>>>>>>>
+>>>>>>>>> {0} -> {1,2,3,4,...} content / psychologie dDOS mit zugriff auf=20
+>>>>>>>>> Epilepsie induziernde informaitk infrastruktur
+>>>>>>>>>
+>>>>>>>>> [] {} <- permanent ein gr=C3=B6sseres team von t=C3=A4tern auf me=
+inem=20
+>>>>>>>>> endpoint obwohl der grad frisch installiert wurde die irgenwo=20
+>>>>>>>>> her ArrayListe<r=C3=BChmendeWorte> GovWare bekommen haben.
+>>>>>>>>>
+>>>>>>>>> [DELETED] [REBUILT]
+>>>>>>>>> {4} astrid im elternrat als der Tobias moser "therapiert"=20
+>>>>>>>>> (=3Dermordet) wurde mit dieser infrastruktur
+>>>>>>>>>
+>>>>>>>>>
+>>>>>>>>> Am 21.07.2021 um 19:54 schrieb Marc jr. Landolt:
+>>>>>>>>>> Halli Hallo
+>>>>>>>>>>
+>>>>>>>>>> bitte den Brief rasch scannen und schicken.
+>>>>>>>>>>
+>>>>>>>>>> @ Steueramt:
+>>>>>>>>>> grad gleichzieitig am meine Mails am ignorieren und das=20
+>>>>>>>>>> Easy-Tax bet=C3=A4tigt den Upload nicht, vors=C3=A4tzlich generi=
+erter=20
+>>>>>>>>>> unlieabsamer Peek gegen mich durch ein gr=C3=B6sseres T=C3=A4ter=
+netzwerk=20
+>>>>>>>>>> ???
+>>>>>>>>>>
+>>>>>>>>>> wie bereits gesagt schreie ich meist nur wenn man bei mir=20
+>>>>>>>>>> Epliepsie ausl=C3=B6st. Das ganze wirkt jetzt auf mich ein bissc=
+hen=20
+>>>>>>>>>> hochm=C3=BCtig wie ein Soziophat der bestens weiss wie er bei mi=
+r=20
+>>>>>>>>>> Epilepsie ausl=C3=B6st und dann auch noch mit einer Klage droht=
+=20
+>>>>>>>>>> weil ich wenn ich wie ein Soili (de-sg: Schweinchen) am Spiess=20
+>>>>>>>>>> schreie. Normalerweise w=C3=A4re das das verhaltensmuster eines=
+=20
+>>>>>>>>>> anderen Mieters der ein Soziophat, eine P=C3=A4dosadist oder gar=
+=20
+>>>>>>>>>> der Behilife zu Mord schuldig gesprochen werden m=C3=BCsste.
+>>>>>>>>>>
+>>>>>>>>>> Die Vormieterin (Frau R=C3=B6llig) hat ja einen Gr=C3=BCnen Tepp=
+ich auf=20
+>>>>>>>>>> dem Balkon verlegt, gestaltungspsychologischer / nonverbaler=20
+>>>>>>>>>> Hinweis/Hilfeschrei auf eine Film: "The Green Mile" (f=C3=BCr=20
+>>>>>>>>>> Zeugen und Petzen wie mich oder sie?)
+>>>>>>>>>>
+>>>>>>>>>> Eine =C3=A4ltere Mieterin hat auch angeberisch gesagt: "Hahaha d=
+en=20
+>>>>>>>>>> jungen Kiffer haben wir platt gemacht" wo wenn man das genauer=20
+>>>>>>>>>> analyiert w=C3=BCrde man aber herausfinden dass viele 20 j=C3=A4=
+hrige=20
+>>>>>>>>>> Jungs in solchen Kiffer Gruppen landen weil sie z.B. der=20
+>>>>>>>>>> Pr=C3=BCgelknabe in der Familie waren (wie z.B. der Philipp Blum=
+)=20
+>>>>>>>>>> und eigentlich gar nicht prim=C3=A4r Drogen sondern eine=20
+>>>>>>>>>> Ersatzfamilie suchen.
+>>>>>>>>>>
+>>>>>>>>>> Also bitte rasch scannen, ich w=C3=BCrde gerne einen vollst=C3=
+=A4ndigen=20
+>>>>>>>>>> Bericht verfassen und mit diesem/r Miter/in reden.
+>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>> unbekannt:
+>>>>>>>>>> bei Marc jr Landolt wird Epilepsie eingeschaltet wenn andere=20
+>>>>>>>>>> Mieter z.B. Kinderpornograpie anklicken, =C3=B6ffnen oder sonst=
+=20
+>>>>>>>>>> irgendwie konsumieren. Also ausl=C3=B6ser w=C3=A4re allenfalls d=
+erjenige=20
+>>>>>>>>>> mit dem Eingeschriebenen Brief selber. Den Namen des Anderen=20
+>>>>>>>>>> habe ich ja schon mal angefragt, ich bin nicht Rechtsexperte=20
+>>>>>>>>>> aber ohne Scan sieht das dann irgendwie wie Beihilfe aus.
+>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>> Gr=C3=BCsschen
+>>>>>>>>>>
+>>>>>>>>>> Marc jr. Landolt
+>>>>>>>>>> eidg. dipl. Informatiker HF
+>>>>>>>>>> Neuenburgerstrasse 6
+>>>>>>>>>> 5004 Aarau
+>>>>>>>>>> 062 822 61 31
+>>>>>>>>>> 078 674 15 32
+>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>> Am 20.07.2021 um 17:15 schrieb lama50:
+>>>>>>>>>>> Hallo Marc
+>>>>>>>>>>>
+>>>>>>>>>>> soeben haben wir einen einen eingeschriebenen Brief erhalten.
+>>>>>>>>>>>
+>>>>>>>>>>> Darin beschwert sich ein weiterer Nachbar =C3=BCber Deine=20
+>>>>>>>>>>> Nachtruhest=C3=B6rungen.
+>>>>>>>>>>>
+>>>>>>>>>>> Das geht nat=C3=BCrlich gar nicht!!!
+>>>>>>>>>>>
+>>>>>>>>>>> Als Deine Vermieter m=C3=BCssen wir Dich dringend auffordern, d=
+ie=20
+>>>>>>>>>>> Nachtruhe
+>>>>>>>>>>> einzuhalten.
+>>>>>>>>>>>
+>>>>>>>>>>> Das heisst ab 22.00 Uhr kein Br=C3=BCllen und Schreien und vor=
+=20
+>>>>>>>>>>> allem die
+>>>>>>>>>>> Fenster zu schliessen.
+>>>>>>>>>>>
+>>>>>>>>>>> (selbstverst=C3=A4ndlich kannst Du tags=C3=BCber L=C3=BCften)
+>>>>>>>>>>>
+>>>>>>>>>>> Ist Dir bewusst, dass Deine bel=C3=A4stigten Nachbarn von uns a=
+ls=20
+>>>>>>>>>>> Vermieter
+>>>>>>>>>>> eine Aufl=C3=B6sung des
+>>>>>>>>>>>
+>>>>>>>>>>> Mietvertrages fordern k=C3=B6nnen, Sohn hin oder her.
+>>>>>>>>>>>
+>>>>>>>>>>> Wir bitten Dich dringend=C2=A0 wieder eine Therapie aufzunehmen=
+,
+>>>>>>>>>>>
+>>>>>>>>>>> seien es Gespr=C3=A4che oder Behandlungen.
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> Deine besorgten, geschlissenen und kaputten Eltern
+>>>>>>>>>>>
+>>>>>>>>>>> Gruss Mama und Papa
+>>>>>>>>>>>
+
+--7d4dd18f-2ac3-4e63-aea0-7ad36a0f43ea--

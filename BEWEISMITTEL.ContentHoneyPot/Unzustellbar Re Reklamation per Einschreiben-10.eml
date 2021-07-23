@@ -1,0 +1,1504 @@
+Return-Path: <>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.4.2.218])
+	by popimap018.mail.hostpoint.internal with LMTP
+	id +MgOHBgT+2CqYgEApkpzRw
+	(envelope-from <>)
+	for <mail@marclandolt.ch>; Fri, 23 Jul 2021 21:06:00 +0200
+Received: from mxin018.mail.hostpoint.ch ([10.4.2.218])
+	by mail-lb1.adm.hostpoint.ch with LMTP
+	id 6Ey0GxgT+2A1ggEA9BAvQA
+	(envelope-from <>)
+	for <mail@marclandolt.ch>; Fri, 23 Jul 2021 21:06:00 +0200
+Received: from xmgw06.ag.ch ([193.47.120.63])
+	by mxin018.mail.hostpoint.ch with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2 (FreeBSD))
+	id 1m70Ui-000MO9-9V
+	for mail@marclandolt.ch; Fri, 23 Jul 2021 21:06:00 +0200
+IronPort-SDR: BU45GhmqFG9H1G2RXEIo1n5tlRPRiQAnaIngwZLkRVVW9l0m++tlf4uJ5dOxA1of8UgdpbY9Fn
+ Iw+3S4AC2X8Q==
+X-IronPort-AV: E=Sophos;i="5.84,264,1620684000"; 
+   d="scan'208,217";a="109492465"
+Received: from unknown (HELO xmgw51.ag.ch) ([193.47.120.51])
+  by xmgw06.ag.ch with ESMTP/TLS/ECDHE-RSA-AES128-GCM-SHA256; 23 Jul 2021 21:05:59 +0200
+Received: from xmgw06.ag.ch (xmgw06.ag.ch [193.47.120.63])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by xmgw51.ag.ch (Postfix) with ESMTPS
+	for <mail@marclandolt.ch>; Fri, 23 Jul 2021 21:05:59 +0200 (CEST)
+IronPort-SDR: De96PzZS5YCB6VsT+J+DVrVm5YaKUfQaajx/nNgCLzdLNnZ6xK24+hpvquPIyGyFfREzk/7TC3
+ wiwc9ggubilg==
+X-IronPort-AV: E=Sophos;i="5.84,264,1620684000"; 
+   d="scan'208,217";a="109492463"
+Received: from unknown (HELO sva-sv271.sva-ag.local) ([10.6.248.136])
+  by xmgw06.ag.ch with ESMTP/TLS/ECDHE-RSA-AES128-GCM-SHA256; 23 Jul 2021 21:05:59 +0200
+MIME-Version: 1.0
+From: <postmaster@sva-ag.ch>
+To: <mail@marclandolt.ch>
+Date: Fri, 23 Jul 2021 21:06:08 +0200
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="d0608011-623e-4c3a-b5a3-9effc6cef9ab"
+X-MS-Exchange-Message-Is-Ndr:
+Content-Language: de-CH
+Message-ID: <71235e2e-efbc-4a30-84a0-920208fcf25f@sva-sv271.sva-ag.local>
+In-Reply-To: <c30062d9-4dcf-d05e-9d34-420bab2565ba@marclandolt.ch>
+References: <0e37dcc8-a34c-ed28-af3d-4ed8f34b3c85@gmx.ch>
+ <42fd7f31-2333-6669-2500-b9ef0e787dee@marclandolt.ch>
+ <1e721c07-728d-1bad-0ed8-fdeb26f22182@marclandolt.ch>
+ <2a49a4a1-f91c-065d-01ec-fb4adcc26df2@marclandolt.ch>
+ <8d708b7f-b7c1-d264-ceca-2758f1ce5d93@marclandolt.ch>
+ <c94faada-1655-b7a6-e8dc-1187bfdbc85e@marclandolt.ch>
+ <b0472dd9-0a51-bb40-a0dc-fb4bca185d74@marclandolt.ch>
+ <c69b6cd8-deae-b8e2-b4a6-7368a4a1a4f3@marclandolt.ch>
+ <1c8d1629-10a1-c98d-4511-e8ad734ed6d1@marclandolt.ch>
+ <35263c95-f4f2-f1c1-7f2b-3a602bc76611@marclandolt.ch>
+ <3b7fb9d8-86e3-42c3-44cc-3cd2be3bb9f4@marclandolt.ch>
+ <d4636eb6-8634-00f1-2e0f-c97ea97f15ba@marclandolt.ch>
+ <c30062d9-4dcf-d05e-9d34-420bab2565ba@marclandolt.ch>
+Subject: Unzustellbar: Re: Reklamation per Einschreiben
+Auto-Submitted: auto-replied
+X-SM-outgoing: yes
+X-Vs-State: BOUNCE
+X-Hostpoint-Spambox: NO
+
+--d0608011-623e-4c3a-b5a3-9effc6cef9ab
+Content-Type: multipart/alternative; differences=Content-Type;
+	boundary="61bf24b2-4e6b-4e4c-9e1a-de84ca8f9e03"
+
+--61bf24b2-4e6b-4e4c-9e1a-de84ca8f9e03
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Fehler bei der Nachrichtenzustellung an folgende Empf=E4nger oder Gruppen:
+
+andreas.kiener@sva-ag.ch<mailto:andreas.kiener@sva-ag.ch>
+Die eingegebene E-Mail-Adresse konnte nicht gefunden werden. =DCberpr=FCfen=
+ Sie die E-Mail-Adresse des Empf=E4ngers, und versuchen Sie, die Nachricht =
+erneut zu senden. Wenn das Problem weiterhin besteht, wenden Sie sich an Ih=
+ren E-Mail-Administrator.
+
+
+
+
+
+
+
+
+Diagnoseinformationen f=FCr Administratoren:
+
+Generierender Server: sva-sv271.sva-ag.local
+
+andreas.kiener@sva-ag.ch
+Remote Server returned '550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipien=
+t not found by SMTP address lookup'
+
+Urspr=FCngliche Nachrichtenk=F6pfe:
+
+Received: from xmgw05.ag.ch (193.47.120.62) by sva-sv271.sva-ag.local
+ (10.6.248.136) with Microsoft SMTP Server (version=3DTLS1_2,
+ cipher=3DTLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2242.10; Fri, 23 J=
+ul
+ 2021 21:06:07 +0200
+IronPort-SDR: DaUX4SdoY37eHYv/gyGat25tyU3HtYFfJo4lBB+OVnl26O3X5FmRKAaiXeE53=
+89/Wxw1lE/V2R
+ 4RZlaJNTYeS72/hs8J6RbBKU45k8XQwJw=3D
+X-IronPort-AV: E=3DSophos;i=3D"5.84,264,1620684000";
+   d=3D"scan'208";a=3D"169659777"
+IronPort-PHdr: =3D?us-ascii?q?A9a23=3D3AdyPAhBzbZC1S5ZrXCzMcngc9DxPP853kOwE=
+Ks?=3D
+ =3D?us-ascii?q?sFhgr0IeaTwt4/6Mhn54vNgxETMQZ2d8+hN3u/fsqTIXGUa6pKItnwFdIAK=
+X?=3D
+ =3D?us-ascii?q?B9Wwd4OkVkGB8iIQVb+MOasaiU7GMpYU1ow+ni6NWBQEdz1Y1TUrnq28XgZ=
+G?=3D
+ =3D?us-ascii?q?ka3LhJ7c8LyHIOalMGrz6ay9pnUNh1Pnya4aKhuIQ+eqBXWq9VO2NckL68w=
+z?=3D
+ =3D?us-ascii?q?l3JpWBUY+NXw38uLlL7og=3D3D=3D3D?=3D
+X-IPAS-Result: =3D?us-ascii?q?A0BjEACq9vpg/zJ4L8FagQkJgVKCIgd3WSYDBAsxhEeRM=
+?=3D
+ =3D?us-ascii?q?y0DhBiZQgsBAQEBAQEBAQEJBDUIBAEBgWOCdQKCfAElOBMCBAEBARIBAQEE=
+A?=3D
+ =3D?us-ascii?q?QEBAgEGAwF7E4VoDUABEAGFcQYaCQQLAQVBEAkCDQ0CJgICKS4GAQwIAQGC=
+F?=3D
+ =3D?us-ascii?q?zUXCgGDCwuNT5wKfzMaAmWDTQGGRQaBECoBiXKCWxeBCCccPwGBTYEVIQaC=
+f?=3D
+ =3D?us-ascii?q?j6CYgKBPgEBIIMXgmQEgkABOAEcSV4TBy8aDwRUFS9UDiuRV6scBwOBfYEp=
+g?=3D
+ =3D?us-ascii?q?QCJN45fhRUGFCaVURUDkHqWCow0iwGIUB2FFYF3JIFZgQWDJFAZY41WFoNP=
+i?=3D
+ =3D?us-ascii?q?mBBMDgCBgEKAQEDCYVHhRxeAQE?=3D
+Received: from unknown (HELO xmgw50.ag.ch) ([193.47.120.50])
+  by xmgw03.ag.ch with ESMTP/TLS/ECDHE-RSA-AES128-GCM-SHA256; 23 Jul 2021 2=
+1:05:57 +0200
+Received: from xmgw05.ag.ch (xmgw05.ag.ch [193.47.120.62])
+        (using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bit=
+s))
+        (No client certificate requested)
+        by xmgw50.ag.ch (Postfix) with ESMTPS;
+        Fri, 23 Jul 2021 21:05:57 +0200 (CEST)
+Authentication-Results: xmgw03.ag.ch; spf=3DNone smtp.pra=3Dmail@marclandol=
+t.ch; spf=3DNone smtp.mailfrom=3Dmail@marclandolt.ch; spf=3DNone smtp.helo=
+=3Dpostmaster@mxout014.mail.hostpoint.ch
+Received-SPF: None (xmgw03.ag.ch: no sender authenticity
+  information available from domain of mail@marclandolt.ch)
+  identity=3Dpra; client-ip=3D217.26.49.174; receiver=3Dxmgw03.ag.ch;
+  envelope-from=3D"mail@marclandolt.ch";
+  x-sender=3D"mail@marclandolt.ch"; x-conformance=3Dsidf_compatible
+Received-SPF: None (xmgw03.ag.ch: no sender authenticity
+  information available from domain of mail@marclandolt.ch)
+  identity=3Dmailfrom; client-ip=3D217.26.49.174;
+  receiver=3Dxmgw03.ag.ch; envelope-from=3D"mail@marclandolt.ch";
+  x-sender=3D"mail@marclandolt.ch"; x-conformance=3Dsidf_compatible
+Received-SPF: None (xmgw03.ag.ch: no sender authenticity
+  information available from domain of
+  postmaster@mxout014.mail.hostpoint.ch) identity=3Dhelo;
+  client-ip=3D217.26.49.174; receiver=3Dxmgw03.ag.ch;
+  envelope-from=3D"mail@marclandolt.ch";
+  x-sender=3D"postmaster@mxout014.mail.hostpoint.ch";
+  x-conformance=3Dsidf_compatible
+IronPort-SDR: OCn2BcR9vRnr/7NVLOvMFfhyPltuwu17GnlArTjK70qDIZCMSc6cZM3Ef0i0k=
+3JLYd8Ii/5I+b
+ t/1ZMeNFZoLZMhtjfWZfJTSs6idudPYz4=3D
+IronPort-PHdr: =3D?us-ascii?q?A9a23=3D3AOQv/MRwsgeZS87/XCzLlzVBlVkEcU9TcLgs=
+a9?=3D
+ =3D?us-ascii?q?cJ8zbtBNK+jrNz5JEKKw/JrgRfSWJnDrepegr/TuqHkcWkJ+52FuXYOd5hQ=
+E?=3D
+ =3D?us-ascii?q?RQF2o0NhwJ1JsmDBAXgKeLyKSkzHcBMTlhgqnSyMEx9Hc/kbFnbpHG16SJU=
+E?=3D
+ =3D?us-ascii?q?RWsfRFtKLHTHYjfx9+yy/j0+5DXZFBQgyGhZLppMBishQDBsdQK2dI+bKM4=
+y?=3D
+ =3D?us-ascii?q?x+PonxTZ/xRxGV0Y1mT9/rlzuG3+pMrszRVtO15rIhJXuPxf/ZwS7sQFzkg=
+P?=3D
+ =3D?us-ascii?q?20vrMT2qRnOSxeO7XoAQwB02lJJBQbC9hTzQpb2tGPzqON83CCQOcC+Q6oz=
+X?=3D
+ =3D?us-ascii?q?Hyu6KJiSRmgjylPMjc49EnSg9Z7iKtdrBWlu1p0w8+xAsndNfZzeL/cYcJP=
+X?=3D
+ =3D?us-ascii?q?XBIDY5aUy1MBJ/5bpNaVbNee7wG6dWs4QJR8Uj2HwSnCeLxxyUdlnr5wvVh=
+l?=3D
+ =3D?us-ascii?q?e0uVwrGj2lCV5oDtmrZqNLtOeIcS+ewmePNxDTHR/Zfwzz54Y7EdRQ95/qM=
+F?=3D
+ =3D?us-ascii?q?+EVE4KZ2Qw0GgXJg0/F44nsPje90+0XuGyS6eZnUf7pgG5t+Elh5zOowMkr=
+k?=3D
+ =3D?us-ascii?q?IzAgIkYn0vF+StOy4EwPdSkSUR/bLZICbN2sCeXf8tmR8w9GzousSl8wb1U=
+8?=3D
+ =3D?us-ascii?q?Zi8NDMHzpgq3VbWduCHfo6U4xniSPf0Q38whXRrf6i6jgqz9k7ow/P1V829=
+2?=3D
+ =3D?us-ascii?q?lJH5iRfldyEuncI3h3Vos+JAv50/0OJ3D+V3ATa7O1DJVxynqqaTvxpir88=
+m?=3D
+ =3D?us-ascii?q?5wPsFjSSyr/mUH4lqiTJQ0v/uml7fiiY62z/MbDcdUqzF2vdP1xxp/aY6xw=
+K?=3D
+ =3D?us-ascii?q?AUFUmmF9P7pxLjs4hWiBrxFyPY2weHUto7XIcMDq+u3GQhQh8wm4he7JzKv=
+y?=3D
+ =3D?us-ascii?q?t8clH8LK1ZZPhmHxduMWRmGMLXjAPGzjk752jJixvTuO7T7CZHEKHTElKun=
+d?=3D
+ =3D?us-ascii?q?rY3uAZMjQE0y95Y/ZddDLoMdenyVkHGv9vdFhYlMgawzo4LEf1b0YUTESKf=
+B?=3D
+ =3D?us-ascii?q?6CGaPiUuFDO7eJ9a++LLJQYvjrwMbAs+uLugHklmFQcYbjMv9NfaXa2Ge5j=
+K?=3D
+ =3D?us-ascii?q?lmYZnyki8kIEGMDtA4zBOLwj1jKXTlWbne0F6Uyg1NzQJqhFpvGT5uxjaap=
+2?=3D
+ =3D?us-ascii?q?Te8A4EOPzwAD1mNFTHocJ6YQ/ANbj7UKc8g2j0IWL69SpMwgBGjsAiprtgv=
+Z?=3D
+ =3D?us-ascii?q?uHQ+yAeqdfizI0vvrKVz090qW0yVpvBgCmXQmp5n30FXWom2a9g+Rc7w1jF=
+2?=3D
+ =3D?us-ascii?q?qgr5p4QXdFV+f5NVR83cJDGyOkvQdX7Wwbpe96TQ1KvRNmhBS13RdJ7kLps=
+K?=3D
+ =3D?us-ascii?q?w5tXs6viBzOxX/gG7gOi7mCH4A56IrZz3/sO54klzDD3aglyVkhWddXMmyg=
+m?=3D
+ =3D?us-ascii?q?uh090KAYuyB21XcnKGse6MG2SfL/2rW1muCsnZTVwtoWLnEV3QSDqM5hdHw=
+/?=3D
+ =3D?us-ascii?q?EjGRrmiDrA7dABBm5bqwk5ib9TzhlFPQvvkPMiYaGLjww9Y5D6N1rSRcNKz=
+J?=3D
+ =3D?us-ascii?q?yMY1STZTkgDiBwL+neAKU41BnX5y18=3D3D?=3D
+IronPort-HdrOrdr: =3D?us-ascii?q?A9a23=3D3A58FDWqPpVkxU58BcTwP155DYdb4zR+YM=
+i2?=3D
+ =3D?us-ascii?q?TDiHoBMSC9I/bo7vxGws5rsyMc6QxhE03I/OrrSdK9qBznhO5ICOUqTMSft=
+S?=3D
+ =3D?us-ascii?q?jdyR2VxeJZnPzfKl/balnDH4dmvM8MAswOb6yLfCUK87eK3OShKade/DDuy=
+s?=3D
+ =3D?us-ascii?q?uVbIzlvgVQpG9RGtRdB4kQMGqm+3lNNUN77YlTLvWhD4d81n2dUEVSSv7+K=
+m?=3D
+ =3D?us-ascii?q?gOXuDFqdGOvJX6YSQeDxpi0wWKhSPA0s+5L/DNtC1uLw9n8PMHyyzoggb57=
+q?=3D
+ =3D?us-ascii?q?Ksv7WQ0RnHzVLe6JxQhZ/I1sZDLNbksLlIFhzcziKTIKhxUbyLuz445Mu17=
+k?=3D
+ =3D?us-ascii?q?wxrdXKqxA8e+xu9nLqeH2vqxeF4Xi87N8X0Q689bakuwq5nSW5fkNjNyN5v=
+/?=3D
+ =3D?us-ascii?q?MBTvIN0Tt7gDl+uJg7nF5x+aAnUy8pMUzGlpb1vipR5waJSEwZ4K4uZkxkI=
+M?=3D
+ =3D?us-ascii?q?YjgYBq3MMiFTtuYd899QLBmcUa+bpVfYXhDMg/SyLaU5ja1VMA/DX6ZBUO9=
+1?=3D
+ =3D?us-ascii?q?G9Mw4/U7euonFrdCgS9SslLMt1pAZiyHo6IKM0hdgtNs9T5dRzcvM=3D3D?=
+=3D
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: =3D?us-ascii?q?A0AfBACq9vpgh64xGtlagQmBW4Iiflc=
+?=3D
+ =3D?us-ascii?q?BKgQLMYRHkTMtA4QYmUILAQEBAQEBAQEBCQQ1CAQBAYFjgnUCgnsCHQYGNB=
+M?=3D
+ =3D?us-ascii?q?CBAEBARIBAQEEAQEBAgEDAwMBFAEBAQENCw4IGxMahWgNQAEQAYVxAwMaCQ=
+Q?=3D
+ =3D?us-ascii?q?LAQVBEAkCGgImAgIpLgYBDAgBAYIXNRcKAYMLC41PnAp/M4EBg00BhkUGgR=
+A?=3D
+ =3D?us-ascii?q?qAYlyglsXgQgnHD8BgU2BFSEGgn4+gmICgT4BASCDF4JkBIJAATgBHEleEw=
+c?=3D
+ =3D?us-ascii?q?vGg8EVBUvVA4rkVerHAcDgX2BKYEAiTeOX4UVBhQmlVGREpYKjDSLAYhQHY=
+U?=3D
+ =3D?us-ascii?q?VgXeBfYEFgyRQGQ5VjVYNCYNPimA/ATE4AgYBCgEBAwmFR4UcXgEB?=3D
+X-IPAS-Result: =3D?us-ascii?q?A0AfBACq9vpgh64xGtlagQmBW4IiflcBKgQLMYRHkTMtA=
+?=3D
+ =3D?us-ascii?q?4QYmUILAQEBAQEBAQEBCQQ1CAQBAYFjgnUCgnsCHQYGNBMCBAEBARIBAQEE=
+A?=3D
+ =3D?us-ascii?q?QEBAgEDAwMBFAEBAQENCw4IGxMahWgNQAEQAYVxAwMaCQQLAQVBEAkCGgIm=
+A?=3D
+ =3D?us-ascii?q?gIpLgYBDAgBAYIXNRcKAYMLC41PnAp/M4EBg00BhkUGgRAqAYlyglsXgQgn=
+H?=3D
+ =3D?us-ascii?q?D8BgU2BFSEGgn4+gmICgT4BASCDF4JkBIJAATgBHEleEwcvGg8EVBUvVA4r=
+k?=3D
+ =3D?us-ascii?q?VerHAcDgX2BKYEAiTeOX4UVBhQmlVGREpYKjDSLAYhQHYUVgXeBfYEFgyRQ=
+G?=3D
+ =3D?us-ascii?q?Q5VjVYNCYNPimA/ATE4AgYBCgEBAwmFR4UcXgEB?=3D
+X-IronPort-AV: E=3DSophos;i=3D"5.84,264,1620684000";
+   d=3D"scan'208";a=3D"169659774"
+X-MGA-submission: =3D?us-ascii?q?MDHO+Sbr5rong7oWnXxuHSjO1BDoqSnQtxszDt?=3D
+ =3D?us-ascii?q?NW6JI8Aua7PcyIk3WsdLzLPkOBHkoGsHhZVsDxWWpga1i9TO3x1gzEJZ?=
+=3D
+ =3D?us-ascii?q?nYzr2j8mpsmwAUXEepHKSODCtbyDVfwDVLkdc=3D3D?=3D
+Received: from mxout014.mail.hostpoint.ch ([217.26.49.174])
+  by xmgw03.ag.ch with ESMTP/TLS/ECDHE-RSA-AES128-GCM-SHA256; 23 Jul 2021 2=
+1:05:55 +0200
+Received: from [10.0.2.46] (helo=3Dasmtp013.mail.hostpoint.ch)
+        by mxout014.mail.hostpoint.ch with esmtp (Exim 4.94.2 (FreeBSD))
+        (envelope-from <mail@marclandolt.ch>)
+        id 1m70Ua-000B0U-5n; Fri, 23 Jul 2021 21:05:52 +0200
+Received: from 178-82-208-135.dynamic.hispeed.ch ([178.82.208.135] helo=3D[=
+192.168.1.13])
+        by asmtp013.mail.hostpoint.ch with esmtpsa  (TLS1.3) tls TLS_AES_25=
+6_GCM_SHA384
+        (Exim 4.94.2 (FreeBSD))
+        (envelope-from <mail@marclandolt.ch>)
+        id 1m70UZ-0004Mi-VB; Fri, 23 Jul 2021 21:05:52 +0200
+X-Authenticated-Sender-Id: mail@marclandolt.ch
+Subject: Re: Reklamation per Einschreiben
+From: "Marc jr. Landolt" <mail@marclandolt.ch>
+To: <marc.landolt@0x8.ch>, <2009@marclandolt.ch>, lama50 <lama50@gmx.ch>
+CC: Hanno Katrin <Katrin.Hanno@pdag.ch>, <svaaargau@sva-ag.ch>,
+        <info@kapo.ag.ch>, <info@fedpol.admin.ch>, <Elisabeth.Bauhofer@ag.c=
+h>,
+        Schleusener Samer <Samer.Schleusener@pdag.ch>, <marco.spring@ag.ch>=
+,
+        <michael.ritter@kapo.ag.ch>, AarauEPD <EPD.Aarau@pdag.ch>,
+        =3D?UTF-8?Q?K=3Dc3=3Dbcng_Walter_GKABGAAR?=3D <Walter.Kueng@ag.ch>,
+        <Postmaster-VBS@gs-vbs.admin.ch>, <direktion@bger.ch>, "Kanzlei@bge=
+r.ch"
+        <Kanzlei@bger.ch>, <info@interpol.int>, <kb3.bern@helsana.ch>,
+        <contact.center@ch.abb.com>, <info@oniko.ch>, <interface@internil.n=
+et>,
+        <support@hostpoint.ch>, <daniel.heilmann@kapo.ag.ch>,
+        <marianne.gisi@pdag.ch>, <impressum@coop.ch>, <Andreas.Kiener@sva-a=
+g.ch>,
+        <info@sva-ag.ch>
+References: <0e37dcc8-a34c-ed28-af3d-4ed8f34b3c85@gmx.ch>
+ <42fd7f31-2333-6669-2500-b9ef0e787dee@marclandolt.ch>
+ <1e721c07-728d-1bad-0ed8-fdeb26f22182@marclandolt.ch>
+ <2a49a4a1-f91c-065d-01ec-fb4adcc26df2@marclandolt.ch>
+ <8d708b7f-b7c1-d264-ceca-2758f1ce5d93@marclandolt.ch>
+ <c94faada-1655-b7a6-e8dc-1187bfdbc85e@marclandolt.ch>
+ <b0472dd9-0a51-bb40-a0dc-fb4bca185d74@marclandolt.ch>
+ <c69b6cd8-deae-b8e2-b4a6-7368a4a1a4f3@marclandolt.ch>
+ <1c8d1629-10a1-c98d-4511-e8ad734ed6d1@marclandolt.ch>
+ <35263c95-f4f2-f1c1-7f2b-3a602bc76611@marclandolt.ch>
+ <3b7fb9d8-86e3-42c3-44cc-3cd2be3bb9f4@marclandolt.ch>
+ <d4636eb6-8634-00f1-2e0f-c97ea97f15ba@marclandolt.ch>
+Message-ID: <c30062d9-4dcf-d05e-9d34-420bab2565ba@marclandolt.ch>
+Disposition-Notification-To: "Marc jr. Landolt" <mail@marclandolt.ch>
+Date: Fri, 23 Jul 2021 21:05:32 +0200
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/201001=
+01
+ Thunderbird/78.12.0
+MIME-Version: 1.0
+In-Reply-To: <d4636eb6-8634-00f1-2e0f-c97ea97f15ba@marclandolt.ch>
+Content-Type: text/plain; charset=3D"utf-8"; format=3Dflowed
+Content-Transfer-Encoding: 8bit
+X-SM-incoming: yes
+Return-Path: mail@marclandolt.ch
+X-TM-AS-Product-Ver: SMEX-14.0.0.3080-8.6.1018-26302.002
+X-TM-AS-Result: No-10--11.529000-5.000000
+X-TMASE-MatchedRID: jFqw+1pFnMzHh4mAa2iJzvMVNjRqH9Ah1DDHu3ny5HRqTpawNWK960d=
+P
+        Y+HGIgIxnsv8BO/IKpeEVRl07FlKfRiexyg6f6SAKiJEqUFWRggkMYRQqdYZ7VEB3MG=
+qGJaw7sx
+        0aX8M5EnSuDns0jdJyzosI/Wec6GHWrFHZ9mW6/Usr/1qxFHzOqvxxTSZCR8jVgk75s=
+4SP//5Zc
+        5Si3FOLVMWh4yO00/0WHpfQd/qEd+qO9YYys/Zp/HkpkyUphL9SmAuLNMCiiWBb0hez=
+DuTW5Fyi
+        qszpDk90xuDDxIEWLxviZqyUXlPjxVKZm/PsFvnx+/T0w3pSyiegNm1UN/27iFGOV6F=
+eU92Wbq4
+        t1JEQ3i6u6SYaiSs1fHk/BZRSimKn+QZ89w1QTEDxmYd4xY1voNDns0YzBg+gV1MC9G=
+bDsO/mOi
+        cqq+FUg46iJg9mBqVZSkC6h0+ZKdz8nLt2t9P25O5eRAvWjtck3KsVZQBaUcOGPVYq+=
+WRnEQEzm
+        02XVfrKKGcm354bM16WsAqSGhQdJdj48xiX1rmEqzqHdK2W0dYyXnF7BHIbjGQt2Rbs=
+LmqIl20C
+        XLYHmoq8Do64M+/N+eJrxLtcV3xxP6FXl0IZ6mAfXsJsjFPMRX2a+c5Gu7f6dGflP/P=
+nlRGTmFU
+        Au2slP3pRnaXryv/+muQ9+oJl5kKdUUc3EneL7Y+bgPzcaZDXAhdv32QWsyN2GKwm3P=
+k435ivJB
+        8vaYqdg28Zz9klrcZfH5YU8ESFk6CZZHoY7CQX/sJtHXz1fRK7i+gTVH29iw3c9Dn8l=
+0T9yFIs9
+        Jg08kE6SmOV4uu4aN1OQ1thdvRuXu1eRyy53qrm7DrUlmNkH41niV9Kymzh/U5xBHcw=
+hODGx/OQ
+        1GV8rHlqZYrZqdI+gtHj7OwNO2BSJy8ngwKGc3ZkaaGFoVivocFm6S2fiUcjxC62NKF=
+hh3MsaW3
+        kMzeaKhfEtLpTNM=3D
+X-TM-AS-User-Approved-Sender: No
+X-TM-AS-User-Blocked-Sender: No
+X-TMASE-Result: 10--11.529000-5.000000
+X-TMASE-Version: SMEX-14.0.0.3080-8.6.1018-26302.002
+X-TM-SNTS-SMTP:
+        08D217FE10FB22230445A93548A8C936A6852F9EB1ABE2CBDD1B269824844BA1200=
+2:8
+X-C2ProcessedOrg: 0c51ae6b-2697-48d5-a5ac-c2582f077f1b
+
+
+--61bf24b2-4e6b-4e4c-9e1a-de84ca8f9e03
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<Head></head><body>
+<p><b><font color=3D"#000066" size=3D"3" face=3D"Arial">Fehler bei der Nach=
+richtenzustellung an folgende Empf=E4nger oder Gruppen:</font></b></p>
+<font color=3D"#000000" size=3D"2" face=3D"Tahoma"><p><a href=3D"mailto:and=
+reas.kiener@sva-ag.ch">andreas.kiener@sva-ag.ch</a><br>
+</font>
+<font color=3D"#000000" size=3D"3" face=3D"Arial">Die eingegebene E-Mail-Ad=
+resse konnte nicht gefunden werden. =DCberpr=FCfen Sie die E-Mail-Adresse d=
+es Empf=E4ngers, und versuchen Sie, die Nachricht erneut zu senden. Wenn da=
+s Problem weiterhin besteht, wenden Sie sich an Ihren E-Mail-Administrator.=
+<br>
+</font>
+<font color=3D"#000000" size=3D"2" face=3D"Tahoma"><br>
+</p>
+</font>
+<br><br><br><br><br><br>
+<font color=3D"#808080" size=3D"2" face=3D"Tahoma"><p><b>Diagnoseinformatio=
+nen f=FCr Administratoren:</b></p>
+<p>Generierender Server: sva-sv271.sva-ag.local<br>
+</p>
+<p>andreas.kiener@sva-ag.ch<br>
+Remote Server  returned '550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipie=
+nt not found by SMTP address lookup'<br>
+</p>
+<p>Urspr=FCngliche Nachrichtenk=F6pfe:</p>
+<pre>Received: from xmgw05.ag.ch (193.47.120.62) by sva-sv271.sva-ag.local
+ (10.6.248.136) with Microsoft SMTP Server (version=3DTLS1_2,
+ cipher=3DTLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2242.10; Fri, 23 J=
+ul
+ 2021 21:06:07 +0200
+IronPort-SDR: DaUX4SdoY37eHYv/gyGat25tyU3HtYFfJo4lBB+OVnl26O3X5FmRKAaiXeE53=
+89/Wxw1lE/V2R
+ 4RZlaJNTYeS72/hs8J6RbBKU45k8XQwJw=3D
+X-IronPort-AV: E=3DSophos;i=3D&quot;5.84,264,1620684000&quot;;=20
+   d=3D&quot;scan'208&quot;;a=3D&quot;169659777&quot;
+IronPort-PHdr: =3D?us-ascii?q?A9a23=3D3AdyPAhBzbZC1S5ZrXCzMcngc9DxPP853kOwE=
+Ks?=3D
+ =3D?us-ascii?q?sFhgr0IeaTwt4/6Mhn54vNgxETMQZ2d8+hN3u/fsqTIXGUa6pKItnwFdIAK=
+X?=3D
+ =3D?us-ascii?q?B9Wwd4OkVkGB8iIQVb+MOasaiU7GMpYU1ow+ni6NWBQEdz1Y1TUrnq28XgZ=
+G?=3D
+ =3D?us-ascii?q?ka3LhJ7c8LyHIOalMGrz6ay9pnUNh1Pnya4aKhuIQ+eqBXWq9VO2NckL68w=
+z?=3D
+ =3D?us-ascii?q?l3JpWBUY+NXw38uLlL7og=3D3D=3D3D?=3D
+X-IPAS-Result: =3D?us-ascii?q?A0BjEACq9vpg/zJ4L8FagQkJgVKCIgd3WSYDBAsxhEeRM=
+?=3D
+ =3D?us-ascii?q?y0DhBiZQgsBAQEBAQEBAQEJBDUIBAEBgWOCdQKCfAElOBMCBAEBARIBAQEE=
+A?=3D
+ =3D?us-ascii?q?QEBAgEGAwF7E4VoDUABEAGFcQYaCQQLAQVBEAkCDQ0CJgICKS4GAQwIAQGC=
+F?=3D
+ =3D?us-ascii?q?zUXCgGDCwuNT5wKfzMaAmWDTQGGRQaBECoBiXKCWxeBCCccPwGBTYEVIQaC=
+f?=3D
+ =3D?us-ascii?q?j6CYgKBPgEBIIMXgmQEgkABOAEcSV4TBy8aDwRUFS9UDiuRV6scBwOBfYEp=
+g?=3D
+ =3D?us-ascii?q?QCJN45fhRUGFCaVURUDkHqWCow0iwGIUB2FFYF3JIFZgQWDJFAZY41WFoNP=
+i?=3D
+ =3D?us-ascii?q?mBBMDgCBgEKAQEDCYVHhRxeAQE?=3D
+Received: from unknown (HELO xmgw50.ag.ch) ([193.47.120.50])
+  by xmgw03.ag.ch with ESMTP/TLS/ECDHE-RSA-AES128-GCM-SHA256; 23 Jul 2021 2=
+1:05:57 +0200
+Received: from xmgw05.ag.ch (xmgw05.ag.ch [193.47.120.62])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by xmgw50.ag.ch (Postfix) with ESMTPS;
+	Fri, 23 Jul 2021 21:05:57 +0200 (CEST)
+Authentication-Results: xmgw03.ag.ch; spf=3DNone smtp.pra=3Dmail@marclandol=
+t.ch; spf=3DNone smtp.mailfrom=3Dmail@marclandolt.ch; spf=3DNone smtp.helo=
+=3Dpostmaster@mxout014.mail.hostpoint.ch
+Received-SPF: None (xmgw03.ag.ch: no sender authenticity
+  information available from domain of mail@marclandolt.ch)
+  identity=3Dpra; client-ip=3D217.26.49.174; receiver=3Dxmgw03.ag.ch;
+  envelope-from=3D&quot;mail@marclandolt.ch&quot;;
+  x-sender=3D&quot;mail@marclandolt.ch&quot;; x-conformance=3Dsidf_compatib=
+le
+Received-SPF: None (xmgw03.ag.ch: no sender authenticity
+  information available from domain of mail@marclandolt.ch)
+  identity=3Dmailfrom; client-ip=3D217.26.49.174;
+  receiver=3Dxmgw03.ag.ch; envelope-from=3D&quot;mail@marclandolt.ch&quot;;
+  x-sender=3D&quot;mail@marclandolt.ch&quot;; x-conformance=3Dsidf_compatib=
+le
+Received-SPF: None (xmgw03.ag.ch: no sender authenticity
+  information available from domain of
+  postmaster@mxout014.mail.hostpoint.ch) identity=3Dhelo;
+  client-ip=3D217.26.49.174; receiver=3Dxmgw03.ag.ch;
+  envelope-from=3D&quot;mail@marclandolt.ch&quot;;
+  x-sender=3D&quot;postmaster@mxout014.mail.hostpoint.ch&quot;;
+  x-conformance=3Dsidf_compatible
+IronPort-SDR: OCn2BcR9vRnr/7NVLOvMFfhyPltuwu17GnlArTjK70qDIZCMSc6cZM3Ef0i0k=
+3JLYd8Ii/5I+b
+ t/1ZMeNFZoLZMhtjfWZfJTSs6idudPYz4=3D
+IronPort-PHdr: =3D?us-ascii?q?A9a23=3D3AOQv/MRwsgeZS87/XCzLlzVBlVkEcU9TcLgs=
+a9?=3D
+ =3D?us-ascii?q?cJ8zbtBNK+jrNz5JEKKw/JrgRfSWJnDrepegr/TuqHkcWkJ+52FuXYOd5hQ=
+E?=3D
+ =3D?us-ascii?q?RQF2o0NhwJ1JsmDBAXgKeLyKSkzHcBMTlhgqnSyMEx9Hc/kbFnbpHG16SJU=
+E?=3D
+ =3D?us-ascii?q?RWsfRFtKLHTHYjfx9+yy/j0+5DXZFBQgyGhZLppMBishQDBsdQK2dI+bKM4=
+y?=3D
+ =3D?us-ascii?q?x+PonxTZ/xRxGV0Y1mT9/rlzuG3+pMrszRVtO15rIhJXuPxf/ZwS7sQFzkg=
+P?=3D
+ =3D?us-ascii?q?20vrMT2qRnOSxeO7XoAQwB02lJJBQbC9hTzQpb2tGPzqON83CCQOcC+Q6oz=
+X?=3D
+ =3D?us-ascii?q?Hyu6KJiSRmgjylPMjc49EnSg9Z7iKtdrBWlu1p0w8+xAsndNfZzeL/cYcJP=
+X?=3D
+ =3D?us-ascii?q?XBIDY5aUy1MBJ/5bpNaVbNee7wG6dWs4QJR8Uj2HwSnCeLxxyUdlnr5wvVh=
+l?=3D
+ =3D?us-ascii?q?e0uVwrGj2lCV5oDtmrZqNLtOeIcS+ewmePNxDTHR/Zfwzz54Y7EdRQ95/qM=
+F?=3D
+ =3D?us-ascii?q?+EVE4KZ2Qw0GgXJg0/F44nsPje90+0XuGyS6eZnUf7pgG5t+Elh5zOowMkr=
+k?=3D
+ =3D?us-ascii?q?IzAgIkYn0vF+StOy4EwPdSkSUR/bLZICbN2sCeXf8tmR8w9GzousSl8wb1U=
+8?=3D
+ =3D?us-ascii?q?Zi8NDMHzpgq3VbWduCHfo6U4xniSPf0Q38whXRrf6i6jgqz9k7ow/P1V829=
+2?=3D
+ =3D?us-ascii?q?lJH5iRfldyEuncI3h3Vos+JAv50/0OJ3D+V3ATa7O1DJVxynqqaTvxpir88=
+m?=3D
+ =3D?us-ascii?q?5wPsFjSSyr/mUH4lqiTJQ0v/uml7fiiY62z/MbDcdUqzF2vdP1xxp/aY6xw=
+K?=3D
+ =3D?us-ascii?q?AUFUmmF9P7pxLjs4hWiBrxFyPY2weHUto7XIcMDq+u3GQhQh8wm4he7JzKv=
+y?=3D
+ =3D?us-ascii?q?t8clH8LK1ZZPhmHxduMWRmGMLXjAPGzjk752jJixvTuO7T7CZHEKHTElKun=
+d?=3D
+ =3D?us-ascii?q?rY3uAZMjQE0y95Y/ZddDLoMdenyVkHGv9vdFhYlMgawzo4LEf1b0YUTESKf=
+B?=3D
+ =3D?us-ascii?q?6CGaPiUuFDO7eJ9a++LLJQYvjrwMbAs+uLugHklmFQcYbjMv9NfaXa2Ge5j=
+K?=3D
+ =3D?us-ascii?q?lmYZnyki8kIEGMDtA4zBOLwj1jKXTlWbne0F6Uyg1NzQJqhFpvGT5uxjaap=
+2?=3D
+ =3D?us-ascii?q?Te8A4EOPzwAD1mNFTHocJ6YQ/ANbj7UKc8g2j0IWL69SpMwgBGjsAiprtgv=
+Z?=3D
+ =3D?us-ascii?q?uHQ+yAeqdfizI0vvrKVz090qW0yVpvBgCmXQmp5n30FXWom2a9g+Rc7w1jF=
+2?=3D
+ =3D?us-ascii?q?qgr5p4QXdFV+f5NVR83cJDGyOkvQdX7Wwbpe96TQ1KvRNmhBS13RdJ7kLps=
+K?=3D
+ =3D?us-ascii?q?w5tXs6viBzOxX/gG7gOi7mCH4A56IrZz3/sO54klzDD3aglyVkhWddXMmyg=
+m?=3D
+ =3D?us-ascii?q?uh090KAYuyB21XcnKGse6MG2SfL/2rW1muCsnZTVwtoWLnEV3QSDqM5hdHw=
+/?=3D
+ =3D?us-ascii?q?EjGRrmiDrA7dABBm5bqwk5ib9TzhlFPQvvkPMiYaGLjww9Y5D6N1rSRcNKz=
+J?=3D
+ =3D?us-ascii?q?yMY1STZTkgDiBwL+neAKU41BnX5y18=3D3D?=3D
+IronPort-HdrOrdr: =3D?us-ascii?q?A9a23=3D3A58FDWqPpVkxU58BcTwP155DYdb4zR+YM=
+i2?=3D
+ =3D?us-ascii?q?TDiHoBMSC9I/bo7vxGws5rsyMc6QxhE03I/OrrSdK9qBznhO5ICOUqTMSft=
+S?=3D
+ =3D?us-ascii?q?jdyR2VxeJZnPzfKl/balnDH4dmvM8MAswOb6yLfCUK87eK3OShKade/DDuy=
+s?=3D
+ =3D?us-ascii?q?uVbIzlvgVQpG9RGtRdB4kQMGqm+3lNNUN77YlTLvWhD4d81n2dUEVSSv7+K=
+m?=3D
+ =3D?us-ascii?q?gOXuDFqdGOvJX6YSQeDxpi0wWKhSPA0s+5L/DNtC1uLw9n8PMHyyzoggb57=
+q?=3D
+ =3D?us-ascii?q?Ksv7WQ0RnHzVLe6JxQhZ/I1sZDLNbksLlIFhzcziKTIKhxUbyLuz445Mu17=
+k?=3D
+ =3D?us-ascii?q?wxrdXKqxA8e+xu9nLqeH2vqxeF4Xi87N8X0Q689bakuwq5nSW5fkNjNyN5v=
+/?=3D
+ =3D?us-ascii?q?MBTvIN0Tt7gDl+uJg7nF5x+aAnUy8pMUzGlpb1vipR5waJSEwZ4K4uZkxkI=
+M?=3D
+ =3D?us-ascii?q?YjgYBq3MMiFTtuYd899QLBmcUa+bpVfYXhDMg/SyLaU5ja1VMA/DX6ZBUO9=
+1?=3D
+ =3D?us-ascii?q?G9Mw4/U7euonFrdCgS9SslLMt1pAZiyHo6IKM0hdgtNs9T5dRzcvM=3D3D?=
+=3D
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: =3D?us-ascii?q?A0AfBACq9vpgh64xGtlagQmBW4Iiflc=
+?=3D
+ =3D?us-ascii?q?BKgQLMYRHkTMtA4QYmUILAQEBAQEBAQEBCQQ1CAQBAYFjgnUCgnsCHQYGNB=
+M?=3D
+ =3D?us-ascii?q?CBAEBARIBAQEEAQEBAgEDAwMBFAEBAQENCw4IGxMahWgNQAEQAYVxAwMaCQ=
+Q?=3D
+ =3D?us-ascii?q?LAQVBEAkCGgImAgIpLgYBDAgBAYIXNRcKAYMLC41PnAp/M4EBg00BhkUGgR=
+A?=3D
+ =3D?us-ascii?q?qAYlyglsXgQgnHD8BgU2BFSEGgn4+gmICgT4BASCDF4JkBIJAATgBHEleEw=
+c?=3D
+ =3D?us-ascii?q?vGg8EVBUvVA4rkVerHAcDgX2BKYEAiTeOX4UVBhQmlVGREpYKjDSLAYhQHY=
+U?=3D
+ =3D?us-ascii?q?VgXeBfYEFgyRQGQ5VjVYNCYNPimA/ATE4AgYBCgEBAwmFR4UcXgEB?=3D
+X-IPAS-Result: =3D?us-ascii?q?A0AfBACq9vpgh64xGtlagQmBW4IiflcBKgQLMYRHkTMtA=
+?=3D
+ =3D?us-ascii?q?4QYmUILAQEBAQEBAQEBCQQ1CAQBAYFjgnUCgnsCHQYGNBMCBAEBARIBAQEE=
+A?=3D
+ =3D?us-ascii?q?QEBAgEDAwMBFAEBAQENCw4IGxMahWgNQAEQAYVxAwMaCQQLAQVBEAkCGgIm=
+A?=3D
+ =3D?us-ascii?q?gIpLgYBDAgBAYIXNRcKAYMLC41PnAp/M4EBg00BhkUGgRAqAYlyglsXgQgn=
+H?=3D
+ =3D?us-ascii?q?D8BgU2BFSEGgn4+gmICgT4BASCDF4JkBIJAATgBHEleEwcvGg8EVBUvVA4r=
+k?=3D
+ =3D?us-ascii?q?VerHAcDgX2BKYEAiTeOX4UVBhQmlVGREpYKjDSLAYhQHYUVgXeBfYEFgyRQ=
+G?=3D
+ =3D?us-ascii?q?Q5VjVYNCYNPimA/ATE4AgYBCgEBAwmFR4UcXgEB?=3D
+X-IronPort-AV: E=3DSophos;i=3D&quot;5.84,264,1620684000&quot;;=20
+   d=3D&quot;scan'208&quot;;a=3D&quot;169659774&quot;
+X-MGA-submission: =3D?us-ascii?q?MDHO+Sbr5rong7oWnXxuHSjO1BDoqSnQtxszDt?=3D
+ =3D?us-ascii?q?NW6JI8Aua7PcyIk3WsdLzLPkOBHkoGsHhZVsDxWWpga1i9TO3x1gzEJZ?=
+=3D
+ =3D?us-ascii?q?nYzr2j8mpsmwAUXEepHKSODCtbyDVfwDVLkdc=3D3D?=3D
+Received: from mxout014.mail.hostpoint.ch ([217.26.49.174])
+  by xmgw03.ag.ch with ESMTP/TLS/ECDHE-RSA-AES128-GCM-SHA256; 23 Jul 2021 2=
+1:05:55 +0200
+Received: from [10.0.2.46] (helo=3Dasmtp013.mail.hostpoint.ch)
+	by mxout014.mail.hostpoint.ch with esmtp (Exim 4.94.2 (FreeBSD))
+	(envelope-from &lt;mail@marclandolt.ch&gt;)
+	id 1m70Ua-000B0U-5n; Fri, 23 Jul 2021 21:05:52 +0200
+Received: from 178-82-208-135.dynamic.hispeed.ch ([178.82.208.135] helo=3D[=
+192.168.1.13])
+	by asmtp013.mail.hostpoint.ch with esmtpsa  (TLS1.3) tls TLS_AES_256_GCM_S=
+HA384
+	(Exim 4.94.2 (FreeBSD))
+	(envelope-from &lt;mail@marclandolt.ch&gt;)
+	id 1m70UZ-0004Mi-VB; Fri, 23 Jul 2021 21:05:52 +0200
+X-Authenticated-Sender-Id: mail@marclandolt.ch
+Subject: Re: Reklamation per Einschreiben
+From: &quot;Marc jr. Landolt&quot; &lt;mail@marclandolt.ch&gt;
+To: &lt;marc.landolt@0x8.ch&gt;, &lt;2009@marclandolt.ch&gt;, lama50 &lt;la=
+ma50@gmx.ch&gt;
+CC: Hanno Katrin &lt;Katrin.Hanno@pdag.ch&gt;, &lt;svaaargau@sva-ag.ch&gt;,
+	&lt;info@kapo.ag.ch&gt;, &lt;info@fedpol.admin.ch&gt;, &lt;Elisabeth.Bauho=
+fer@ag.ch&gt;,
+	Schleusener Samer &lt;Samer.Schleusener@pdag.ch&gt;, &lt;marco.spring@ag.c=
+h&gt;,
+	&lt;michael.ritter@kapo.ag.ch&gt;, AarauEPD &lt;EPD.Aarau@pdag.ch&gt;,
+	=3D?UTF-8?Q?K=3Dc3=3Dbcng_Walter_GKABGAAR?=3D &lt;Walter.Kueng@ag.ch&gt;,
+	&lt;Postmaster-VBS@gs-vbs.admin.ch&gt;, &lt;direktion@bger.ch&gt;, &quot;K=
+anzlei@bger.ch&quot;
+	&lt;Kanzlei@bger.ch&gt;, &lt;info@interpol.int&gt;, &lt;kb3.bern@helsana.c=
+h&gt;,
+	&lt;contact.center@ch.abb.com&gt;, &lt;info@oniko.ch&gt;, &lt;interface@in=
+ternil.net&gt;,
+	&lt;support@hostpoint.ch&gt;, &lt;daniel.heilmann@kapo.ag.ch&gt;,
+	&lt;marianne.gisi@pdag.ch&gt;, &lt;impressum@coop.ch&gt;, &lt;Andreas.Kien=
+er@sva-ag.ch&gt;,
+	&lt;info@sva-ag.ch&gt;
+References: &lt;0e37dcc8-a34c-ed28-af3d-4ed8f34b3c85@gmx.ch&gt;
+ &lt;42fd7f31-2333-6669-2500-b9ef0e787dee@marclandolt.ch&gt;
+ &lt;1e721c07-728d-1bad-0ed8-fdeb26f22182@marclandolt.ch&gt;
+ &lt;2a49a4a1-f91c-065d-01ec-fb4adcc26df2@marclandolt.ch&gt;
+ &lt;8d708b7f-b7c1-d264-ceca-2758f1ce5d93@marclandolt.ch&gt;
+ &lt;c94faada-1655-b7a6-e8dc-1187bfdbc85e@marclandolt.ch&gt;
+ &lt;b0472dd9-0a51-bb40-a0dc-fb4bca185d74@marclandolt.ch&gt;
+ &lt;c69b6cd8-deae-b8e2-b4a6-7368a4a1a4f3@marclandolt.ch&gt;
+ &lt;1c8d1629-10a1-c98d-4511-e8ad734ed6d1@marclandolt.ch&gt;
+ &lt;35263c95-f4f2-f1c1-7f2b-3a602bc76611@marclandolt.ch&gt;
+ &lt;3b7fb9d8-86e3-42c3-44cc-3cd2be3bb9f4@marclandolt.ch&gt;
+ &lt;d4636eb6-8634-00f1-2e0f-c97ea97f15ba@marclandolt.ch&gt;
+Message-ID: &lt;c30062d9-4dcf-d05e-9d34-420bab2565ba@marclandolt.ch&gt;
+Disposition-Notification-To: &quot;Marc jr. Landolt&quot; &lt;mail@marcland=
+olt.ch&gt;
+Date: Fri, 23 Jul 2021 21:05:32 +0200
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/201001=
+01
+ Thunderbird/78.12.0
+MIME-Version: 1.0
+In-Reply-To: &lt;d4636eb6-8634-00f1-2e0f-c97ea97f15ba@marclandolt.ch&gt;
+Content-Type: text/plain; charset=3D&quot;utf-8&quot;; format=3Dflowed
+Content-Transfer-Encoding: 8bit
+X-SM-incoming: yes
+Return-Path: mail@marclandolt.ch
+X-TM-AS-Product-Ver: SMEX-14.0.0.3080-8.6.1018-26302.002
+X-TM-AS-Result: No-10--11.529000-5.000000
+X-TMASE-MatchedRID: jFqw+1pFnMzHh4mAa2iJzvMVNjRqH9Ah1DDHu3ny5HRqTpawNWK960d=
+P
+	Y+HGIgIxnsv8BO/IKpeEVRl07FlKfRiexyg6f6SAKiJEqUFWRggkMYRQqdYZ7VEB3MGqGJaw7s=
+x
+	0aX8M5EnSuDns0jdJyzosI/Wec6GHWrFHZ9mW6/Usr/1qxFHzOqvxxTSZCR8jVgk75s4SP//5Z=
+c
+	5Si3FOLVMWh4yO00/0WHpfQd/qEd+qO9YYys/Zp/HkpkyUphL9SmAuLNMCiiWBb0hezDuTW5Fy=
+i
+	qszpDk90xuDDxIEWLxviZqyUXlPjxVKZm/PsFvnx+/T0w3pSyiegNm1UN/27iFGOV6FeU92Wbq=
+4
+	t1JEQ3i6u6SYaiSs1fHk/BZRSimKn+QZ89w1QTEDxmYd4xY1voNDns0YzBg+gV1MC9GbDsO/mO=
+i
+	cqq+FUg46iJg9mBqVZSkC6h0+ZKdz8nLt2t9P25O5eRAvWjtck3KsVZQBaUcOGPVYq+WRnEQEz=
+m
+	02XVfrKKGcm354bM16WsAqSGhQdJdj48xiX1rmEqzqHdK2W0dYyXnF7BHIbjGQt2RbsLmqIl20=
+C
+	XLYHmoq8Do64M+/N+eJrxLtcV3xxP6FXl0IZ6mAfXsJsjFPMRX2a+c5Gu7f6dGflP/PnlRGTmF=
+U
+	Au2slP3pRnaXryv/+muQ9+oJl5kKdUUc3EneL7Y+bgPzcaZDXAhdv32QWsyN2GKwm3Pk435ivJ=
+B
+	8vaYqdg28Zz9klrcZfH5YU8ESFk6CZZHoY7CQX/sJtHXz1fRK7i+gTVH29iw3c9Dn8l0T9yFIs=
+9
+	Jg08kE6SmOV4uu4aN1OQ1thdvRuXu1eRyy53qrm7DrUlmNkH41niV9Kymzh/U5xBHcwhODGx/O=
+Q
+	1GV8rHlqZYrZqdI+gtHj7OwNO2BSJy8ngwKGc3ZkaaGFoVivocFm6S2fiUcjxC62NKFhh3MsaW=
+3
+	kMzeaKhfEtLpTNM=3D
+X-TM-AS-User-Approved-Sender: No
+X-TM-AS-User-Blocked-Sender: No
+X-TMASE-Result: 10--11.529000-5.000000
+X-TMASE-Version: SMEX-14.0.0.3080-8.6.1018-26302.002
+X-TM-SNTS-SMTP:
+	08D217FE10FB22230445A93548A8C936A6852F9EB1ABE2CBDD1B269824844BA12002:8
+X-C2ProcessedOrg: 0c51ae6b-2697-48d5-a5ac-c2582f077f1b
+</pre>
+</font>
+</body>
+</html>=
+
+--61bf24b2-4e6b-4e4c-9e1a-de84ca8f9e03--
+
+--d0608011-623e-4c3a-b5a3-9effc6cef9ab
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;sva-sv271.sva-ag.local
+Received-From-MTA: dns;xmgw05.ag.ch
+Arrival-Date: Fri, 23 Jul 2021 19:06:07 +0000
+
+Final-Recipient: rfc822;andreas.kiener@sva-ag.ch
+Action: failed
+Status: 5.1.10
+Diagnostic-Code: smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+
+
+--d0608011-623e-4c3a-b5a3-9effc6cef9ab
+Content-Type: message/rfc822
+
+Received: from xmgw05.ag.ch (193.47.120.62) by sva-sv271.sva-ag.local
+ (10.6.248.136) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2242.10; Fri, 23 Jul
+ 2021 21:06:07 +0200
+IronPort-SDR: DaUX4SdoY37eHYv/gyGat25tyU3HtYFfJo4lBB+OVnl26O3X5FmRKAaiXeE5389/Wxw1lE/V2R
+ 4RZlaJNTYeS72/hs8J6RbBKU45k8XQwJw=
+X-IronPort-AV: E=Sophos;i="5.84,264,1620684000"; 
+   d="scan'208";a="169659777"
+IronPort-PHdr: =?us-ascii?q?A9a23=3AdyPAhBzbZC1S5ZrXCzMcngc9DxPP853kOwEKs?=
+ =?us-ascii?q?sFhgr0IeaTwt4/6Mhn54vNgxETMQZ2d8+hN3u/fsqTIXGUa6pKItnwFdIAKX?=
+ =?us-ascii?q?B9Wwd4OkVkGB8iIQVb+MOasaiU7GMpYU1ow+ni6NWBQEdz1Y1TUrnq28XgZG?=
+ =?us-ascii?q?ka3LhJ7c8LyHIOalMGrz6ay9pnUNh1Pnya4aKhuIQ+eqBXWq9VO2NckL68wz?=
+ =?us-ascii?q?l3JpWBUY+NXw38uLlL7og=3D=3D?=
+X-IPAS-Result: =?us-ascii?q?A0BjEACq9vpg/zJ4L8FagQkJgVKCIgd3WSYDBAsxhEeRM?=
+ =?us-ascii?q?y0DhBiZQgsBAQEBAQEBAQEJBDUIBAEBgWOCdQKCfAElOBMCBAEBARIBAQEEA?=
+ =?us-ascii?q?QEBAgEGAwF7E4VoDUABEAGFcQYaCQQLAQVBEAkCDQ0CJgICKS4GAQwIAQGCF?=
+ =?us-ascii?q?zUXCgGDCwuNT5wKfzMaAmWDTQGGRQaBECoBiXKCWxeBCCccPwGBTYEVIQaCf?=
+ =?us-ascii?q?j6CYgKBPgEBIIMXgmQEgkABOAEcSV4TBy8aDwRUFS9UDiuRV6scBwOBfYEpg?=
+ =?us-ascii?q?QCJN45fhRUGFCaVURUDkHqWCow0iwGIUB2FFYF3JIFZgQWDJFAZY41WFoNPi?=
+ =?us-ascii?q?mBBMDgCBgEKAQEDCYVHhRxeAQE?=
+Received: from unknown (HELO xmgw50.ag.ch) ([193.47.120.50])
+  by xmgw03.ag.ch with ESMTP/TLS/ECDHE-RSA-AES128-GCM-SHA256; 23 Jul 2021 21:05:57 +0200
+Received: from xmgw05.ag.ch (xmgw05.ag.ch [193.47.120.62])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by xmgw50.ag.ch (Postfix) with ESMTPS;
+	Fri, 23 Jul 2021 21:05:57 +0200 (CEST)
+Authentication-Results: xmgw03.ag.ch; spf=None smtp.pra=mail@marclandolt.ch; spf=None smtp.mailfrom=mail@marclandolt.ch; spf=None smtp.helo=postmaster@mxout014.mail.hostpoint.ch
+Received-SPF: None (xmgw03.ag.ch: no sender authenticity
+  information available from domain of mail@marclandolt.ch)
+  identity=pra; client-ip=217.26.49.174; receiver=xmgw03.ag.ch;
+  envelope-from="mail@marclandolt.ch";
+  x-sender="mail@marclandolt.ch"; x-conformance=sidf_compatible
+Received-SPF: None (xmgw03.ag.ch: no sender authenticity
+  information available from domain of mail@marclandolt.ch)
+  identity=mailfrom; client-ip=217.26.49.174;
+  receiver=xmgw03.ag.ch; envelope-from="mail@marclandolt.ch";
+  x-sender="mail@marclandolt.ch"; x-conformance=sidf_compatible
+Received-SPF: None (xmgw03.ag.ch: no sender authenticity
+  information available from domain of
+  postmaster@mxout014.mail.hostpoint.ch) identity=helo;
+  client-ip=217.26.49.174; receiver=xmgw03.ag.ch;
+  envelope-from="mail@marclandolt.ch";
+  x-sender="postmaster@mxout014.mail.hostpoint.ch";
+  x-conformance=sidf_compatible
+IronPort-SDR: OCn2BcR9vRnr/7NVLOvMFfhyPltuwu17GnlArTjK70qDIZCMSc6cZM3Ef0i0k3JLYd8Ii/5I+b
+ t/1ZMeNFZoLZMhtjfWZfJTSs6idudPYz4=
+IronPort-PHdr: =?us-ascii?q?A9a23=3AOQv/MRwsgeZS87/XCzLlzVBlVkEcU9TcLgsa9?=
+ =?us-ascii?q?cJ8zbtBNK+jrNz5JEKKw/JrgRfSWJnDrepegr/TuqHkcWkJ+52FuXYOd5hQE?=
+ =?us-ascii?q?RQF2o0NhwJ1JsmDBAXgKeLyKSkzHcBMTlhgqnSyMEx9Hc/kbFnbpHG16SJUE?=
+ =?us-ascii?q?RWsfRFtKLHTHYjfx9+yy/j0+5DXZFBQgyGhZLppMBishQDBsdQK2dI+bKM4y?=
+ =?us-ascii?q?x+PonxTZ/xRxGV0Y1mT9/rlzuG3+pMrszRVtO15rIhJXuPxf/ZwS7sQFzkgP?=
+ =?us-ascii?q?20vrMT2qRnOSxeO7XoAQwB02lJJBQbC9hTzQpb2tGPzqON83CCQOcC+Q6ozX?=
+ =?us-ascii?q?Hyu6KJiSRmgjylPMjc49EnSg9Z7iKtdrBWlu1p0w8+xAsndNfZzeL/cYcJPX?=
+ =?us-ascii?q?XBIDY5aUy1MBJ/5bpNaVbNee7wG6dWs4QJR8Uj2HwSnCeLxxyUdlnr5wvVhl?=
+ =?us-ascii?q?e0uVwrGj2lCV5oDtmrZqNLtOeIcS+ewmePNxDTHR/Zfwzz54Y7EdRQ95/qMF?=
+ =?us-ascii?q?+EVE4KZ2Qw0GgXJg0/F44nsPje90+0XuGyS6eZnUf7pgG5t+Elh5zOowMkrk?=
+ =?us-ascii?q?IzAgIkYn0vF+StOy4EwPdSkSUR/bLZICbN2sCeXf8tmR8w9GzousSl8wb1U8?=
+ =?us-ascii?q?Zi8NDMHzpgq3VbWduCHfo6U4xniSPf0Q38whXRrf6i6jgqz9k7ow/P1V8292?=
+ =?us-ascii?q?lJH5iRfldyEuncI3h3Vos+JAv50/0OJ3D+V3ATa7O1DJVxynqqaTvxpir88m?=
+ =?us-ascii?q?5wPsFjSSyr/mUH4lqiTJQ0v/uml7fiiY62z/MbDcdUqzF2vdP1xxp/aY6xwK?=
+ =?us-ascii?q?AUFUmmF9P7pxLjs4hWiBrxFyPY2weHUto7XIcMDq+u3GQhQh8wm4he7JzKvy?=
+ =?us-ascii?q?t8clH8LK1ZZPhmHxduMWRmGMLXjAPGzjk752jJixvTuO7T7CZHEKHTElKund?=
+ =?us-ascii?q?rY3uAZMjQE0y95Y/ZddDLoMdenyVkHGv9vdFhYlMgawzo4LEf1b0YUTESKfB?=
+ =?us-ascii?q?6CGaPiUuFDO7eJ9a++LLJQYvjrwMbAs+uLugHklmFQcYbjMv9NfaXa2Ge5jK?=
+ =?us-ascii?q?lmYZnyki8kIEGMDtA4zBOLwj1jKXTlWbne0F6Uyg1NzQJqhFpvGT5uxjaap2?=
+ =?us-ascii?q?Te8A4EOPzwAD1mNFTHocJ6YQ/ANbj7UKc8g2j0IWL69SpMwgBGjsAiprtgvZ?=
+ =?us-ascii?q?uHQ+yAeqdfizI0vvrKVz090qW0yVpvBgCmXQmp5n30FXWom2a9g+Rc7w1jF2?=
+ =?us-ascii?q?qgr5p4QXdFV+f5NVR83cJDGyOkvQdX7Wwbpe96TQ1KvRNmhBS13RdJ7kLpsK?=
+ =?us-ascii?q?w5tXs6viBzOxX/gG7gOi7mCH4A56IrZz3/sO54klzDD3aglyVkhWddXMmygm?=
+ =?us-ascii?q?uh090KAYuyB21XcnKGse6MG2SfL/2rW1muCsnZTVwtoWLnEV3QSDqM5hdHw/?=
+ =?us-ascii?q?EjGRrmiDrA7dABBm5bqwk5ib9TzhlFPQvvkPMiYaGLjww9Y5D6N1rSRcNKzJ?=
+ =?us-ascii?q?yMY1STZTkgDiBwL+neAKU41BnX5y18=3D?=
+IronPort-HdrOrdr: =?us-ascii?q?A9a23=3A58FDWqPpVkxU58BcTwP155DYdb4zR+YMi2?=
+ =?us-ascii?q?TDiHoBMSC9I/bo7vxGws5rsyMc6QxhE03I/OrrSdK9qBznhO5ICOUqTMSftS?=
+ =?us-ascii?q?jdyR2VxeJZnPzfKl/balnDH4dmvM8MAswOb6yLfCUK87eK3OShKade/DDuys?=
+ =?us-ascii?q?uVbIzlvgVQpG9RGtRdB4kQMGqm+3lNNUN77YlTLvWhD4d81n2dUEVSSv7+Km?=
+ =?us-ascii?q?gOXuDFqdGOvJX6YSQeDxpi0wWKhSPA0s+5L/DNtC1uLw9n8PMHyyzoggb57q?=
+ =?us-ascii?q?Ksv7WQ0RnHzVLe6JxQhZ/I1sZDLNbksLlIFhzcziKTIKhxUbyLuz445Mu17k?=
+ =?us-ascii?q?wxrdXKqxA8e+xu9nLqeH2vqxeF4Xi87N8X0Q689bakuwq5nSW5fkNjNyN5v/?=
+ =?us-ascii?q?MBTvIN0Tt7gDl+uJg7nF5x+aAnUy8pMUzGlpb1vipR5waJSEwZ4K4uZkxkIM?=
+ =?us-ascii?q?YjgYBq3MMiFTtuYd899QLBmcUa+bpVfYXhDMg/SyLaU5ja1VMA/DX6ZBUO91?=
+ =?us-ascii?q?G9Mw4/U7euonFrdCgS9SslLMt1pAZiyHo6IKM0hdgtNs9T5dRzcvM=3D?=
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: =?us-ascii?q?A0AfBACq9vpgh64xGtlagQmBW4Iiflc?=
+ =?us-ascii?q?BKgQLMYRHkTMtA4QYmUILAQEBAQEBAQEBCQQ1CAQBAYFjgnUCgnsCHQYGNBM?=
+ =?us-ascii?q?CBAEBARIBAQEEAQEBAgEDAwMBFAEBAQENCw4IGxMahWgNQAEQAYVxAwMaCQQ?=
+ =?us-ascii?q?LAQVBEAkCGgImAgIpLgYBDAgBAYIXNRcKAYMLC41PnAp/M4EBg00BhkUGgRA?=
+ =?us-ascii?q?qAYlyglsXgQgnHD8BgU2BFSEGgn4+gmICgT4BASCDF4JkBIJAATgBHEleEwc?=
+ =?us-ascii?q?vGg8EVBUvVA4rkVerHAcDgX2BKYEAiTeOX4UVBhQmlVGREpYKjDSLAYhQHYU?=
+ =?us-ascii?q?VgXeBfYEFgyRQGQ5VjVYNCYNPimA/ATE4AgYBCgEBAwmFR4UcXgEB?=
+X-IPAS-Result: =?us-ascii?q?A0AfBACq9vpgh64xGtlagQmBW4IiflcBKgQLMYRHkTMtA?=
+ =?us-ascii?q?4QYmUILAQEBAQEBAQEBCQQ1CAQBAYFjgnUCgnsCHQYGNBMCBAEBARIBAQEEA?=
+ =?us-ascii?q?QEBAgEDAwMBFAEBAQENCw4IGxMahWgNQAEQAYVxAwMaCQQLAQVBEAkCGgImA?=
+ =?us-ascii?q?gIpLgYBDAgBAYIXNRcKAYMLC41PnAp/M4EBg00BhkUGgRAqAYlyglsXgQgnH?=
+ =?us-ascii?q?D8BgU2BFSEGgn4+gmICgT4BASCDF4JkBIJAATgBHEleEwcvGg8EVBUvVA4rk?=
+ =?us-ascii?q?VerHAcDgX2BKYEAiTeOX4UVBhQmlVGREpYKjDSLAYhQHYUVgXeBfYEFgyRQG?=
+ =?us-ascii?q?Q5VjVYNCYNPimA/ATE4AgYBCgEBAwmFR4UcXgEB?=
+X-IronPort-AV: E=Sophos;i="5.84,264,1620684000"; 
+   d="scan'208";a="169659774"
+X-MGA-submission: =?us-ascii?q?MDHO+Sbr5rong7oWnXxuHSjO1BDoqSnQtxszDt?=
+ =?us-ascii?q?NW6JI8Aua7PcyIk3WsdLzLPkOBHkoGsHhZVsDxWWpga1i9TO3x1gzEJZ?=
+ =?us-ascii?q?nYzr2j8mpsmwAUXEepHKSODCtbyDVfwDVLkdc=3D?=
+Received: from mxout014.mail.hostpoint.ch ([217.26.49.174])
+  by xmgw03.ag.ch with ESMTP/TLS/ECDHE-RSA-AES128-GCM-SHA256; 23 Jul 2021 21:05:55 +0200
+Received: from [10.0.2.46] (helo=asmtp013.mail.hostpoint.ch)
+	by mxout014.mail.hostpoint.ch with esmtp (Exim 4.94.2 (FreeBSD))
+	(envelope-from <mail@marclandolt.ch>)
+	id 1m70Ua-000B0U-5n; Fri, 23 Jul 2021 21:05:52 +0200
+Received: from 178-82-208-135.dynamic.hispeed.ch ([178.82.208.135] helo=[192.168.1.13])
+	by asmtp013.mail.hostpoint.ch with esmtpsa  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.94.2 (FreeBSD))
+	(envelope-from <mail@marclandolt.ch>)
+	id 1m70UZ-0004Mi-VB; Fri, 23 Jul 2021 21:05:52 +0200
+X-Authenticated-Sender-Id: mail@marclandolt.ch
+Subject: Re: Reklamation per Einschreiben
+From: "Marc jr. Landolt" <mail@marclandolt.ch>
+To: <marc.landolt@0x8.ch>, <2009@marclandolt.ch>, lama50 <lama50@gmx.ch>
+CC: Hanno Katrin <Katrin.Hanno@pdag.ch>, <svaaargau@sva-ag.ch>,
+	<info@kapo.ag.ch>, <info@fedpol.admin.ch>, <Elisabeth.Bauhofer@ag.ch>,
+	Schleusener Samer <Samer.Schleusener@pdag.ch>, <marco.spring@ag.ch>,
+	<michael.ritter@kapo.ag.ch>, AarauEPD <EPD.Aarau@pdag.ch>,
+	=?UTF-8?Q?K=c3=bcng_Walter_GKABGAAR?= <Walter.Kueng@ag.ch>,
+	<Postmaster-VBS@gs-vbs.admin.ch>, <direktion@bger.ch>, "Kanzlei@bger.ch"
+	<Kanzlei@bger.ch>, <info@interpol.int>, <kb3.bern@helsana.ch>,
+	<contact.center@ch.abb.com>, <info@oniko.ch>, <interface@internil.net>,
+	<support@hostpoint.ch>, <daniel.heilmann@kapo.ag.ch>,
+	<marianne.gisi@pdag.ch>, <impressum@coop.ch>, <Andreas.Kiener@sva-ag.ch>,
+	<info@sva-ag.ch>
+References: <0e37dcc8-a34c-ed28-af3d-4ed8f34b3c85@gmx.ch>
+ <42fd7f31-2333-6669-2500-b9ef0e787dee@marclandolt.ch>
+ <1e721c07-728d-1bad-0ed8-fdeb26f22182@marclandolt.ch>
+ <2a49a4a1-f91c-065d-01ec-fb4adcc26df2@marclandolt.ch>
+ <8d708b7f-b7c1-d264-ceca-2758f1ce5d93@marclandolt.ch>
+ <c94faada-1655-b7a6-e8dc-1187bfdbc85e@marclandolt.ch>
+ <b0472dd9-0a51-bb40-a0dc-fb4bca185d74@marclandolt.ch>
+ <c69b6cd8-deae-b8e2-b4a6-7368a4a1a4f3@marclandolt.ch>
+ <1c8d1629-10a1-c98d-4511-e8ad734ed6d1@marclandolt.ch>
+ <35263c95-f4f2-f1c1-7f2b-3a602bc76611@marclandolt.ch>
+ <3b7fb9d8-86e3-42c3-44cc-3cd2be3bb9f4@marclandolt.ch>
+ <d4636eb6-8634-00f1-2e0f-c97ea97f15ba@marclandolt.ch>
+Message-ID: <c30062d9-4dcf-d05e-9d34-420bab2565ba@marclandolt.ch>
+Disposition-Notification-To: "Marc jr. Landolt" <mail@marclandolt.ch>
+Date: Fri, 23 Jul 2021 21:05:32 +0200
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101
+ Thunderbird/78.12.0
+MIME-Version: 1.0
+In-Reply-To: <d4636eb6-8634-00f1-2e0f-c97ea97f15ba@marclandolt.ch>
+Content-Type: text/plain; charset="utf-8"; format=flowed
+Content-Transfer-Encoding: quoted-printable
+X-SM-incoming: yes
+Return-Path: mail@marclandolt.ch
+X-TM-AS-Product-Ver: SMEX-14.0.0.3080-8.6.1018-26302.002
+X-TM-AS-Result: No-10--11.529000-5.000000
+X-TMASE-MatchedRID: jFqw+1pFnMzHh4mAa2iJzvMVNjRqH9Ah1DDHu3ny5HRqTpawNWK960dP
+	Y+HGIgIxnsv8BO/IKpeEVRl07FlKfRiexyg6f6SAKiJEqUFWRggkMYRQqdYZ7VEB3MGqGJaw7sx
+	0aX8M5EnSuDns0jdJyzosI/Wec6GHWrFHZ9mW6/Usr/1qxFHzOqvxxTSZCR8jVgk75s4SP//5Zc
+	5Si3FOLVMWh4yO00/0WHpfQd/qEd+qO9YYys/Zp/HkpkyUphL9SmAuLNMCiiWBb0hezDuTW5Fyi
+	qszpDk90xuDDxIEWLxviZqyUXlPjxVKZm/PsFvnx+/T0w3pSyiegNm1UN/27iFGOV6FeU92Wbq4
+	t1JEQ3i6u6SYaiSs1fHk/BZRSimKn+QZ89w1QTEDxmYd4xY1voNDns0YzBg+gV1MC9GbDsO/mOi
+	cqq+FUg46iJg9mBqVZSkC6h0+ZKdz8nLt2t9P25O5eRAvWjtck3KsVZQBaUcOGPVYq+WRnEQEzm
+	02XVfrKKGcm354bM16WsAqSGhQdJdj48xiX1rmEqzqHdK2W0dYyXnF7BHIbjGQt2RbsLmqIl20C
+	XLYHmoq8Do64M+/N+eJrxLtcV3xxP6FXl0IZ6mAfXsJsjFPMRX2a+c5Gu7f6dGflP/PnlRGTmFU
+	Au2slP3pRnaXryv/+muQ9+oJl5kKdUUc3EneL7Y+bgPzcaZDXAhdv32QWsyN2GKwm3Pk435ivJB
+	8vaYqdg28Zz9klrcZfH5YU8ESFk6CZZHoY7CQX/sJtHXz1fRK7i+gTVH29iw3c9Dn8l0T9yFIs9
+	Jg08kE6SmOV4uu4aN1OQ1thdvRuXu1eRyy53qrm7DrUlmNkH41niV9Kymzh/U5xBHcwhODGx/OQ
+	1GV8rHlqZYrZqdI+gtHj7OwNO2BSJy8ngwKGc3ZkaaGFoVivocFm6S2fiUcjxC62NKFhh3MsaW3
+	kMzeaKhfEtLpTNM=
+X-TM-AS-User-Approved-Sender: No
+X-TM-AS-User-Blocked-Sender: No
+X-TMASE-Result: 10--11.529000-5.000000
+X-TMASE-Version: SMEX-14.0.0.3080-8.6.1018-26302.002
+X-TM-SNTS-SMTP: 08D217FE10FB22230445A93548A8C936A6852F9EB1ABE2CBDD1B269824844BA12002:8
+X-C2ProcessedOrg: 0c51ae6b-2697-48d5-a5ac-c2582f077f1b
+
+und es passiert jetzt vermutlcih genau das was ich vorausgesehen habe,=20
+der 43 Mia Konzern der massiv mit Cyber-Waffen und BigDATA ausger=C3=BCstet=
+=20
+ist versucht jetzt ein Familien Drama [1] zu produzieren mit seinen=20
+Daten aus UTHA Data Retention Center...
+
+[1] wo der Urs Blum 2001 =C3=BCber die Raintstrasse Horta H=C3=A4user gesag=
+t hat:=20
+HAHAHA, Das sind Ch=C3=BCngelist=C3=A4lle, und "Kaninchen" schlachtet man =
+=C3=B6fters=20
+mal...
+
+
+An alle J=C3=BCngeren:
+=3D =3D =3D =3D =3D =3D =3D =3D =3D
+Private Daten sch=C3=BCtzen, =C3=B6ffentliche Daten n=C3=BCtzen, bzw. bei s=
+olchem=20
+Content wo Ihr als Eltern damit erpresst werden k=C3=B6nntet [2]=20
+"Datensparsamkeit" (um den CCC zu zitieren: "Daten-Sprasamkeit" also=20
+solche Fotos die den 1950er/1960er als "Baby-Fotos" und "Baby-Massage"=20
+schmackhaft gemacht wurde gar nicht erst produzieren oder um das=20
+Deckblatt des P=C3=A4dophlie Prospekts der KAPO Aargau zu Zitieren "NICHT Z=
+UM=20
+T=C3=A4TER WERDEN"
+
+
+Mit freundlichen Gr=C3=BCssen
+
+Marc jr. LanDOLT & Cie.
+eidg. dipl. Informatiker HF
+
+Am 23.07.2021 um 20:53 schrieb Marc jr. Landolt:
+> jetzt wird wieder feige =C3=BCber einen Hidden KommunikationsKanal gesagt=
+ ich=20
+> h=C3=A4tte den "Georg Landolt gericthet" aber wer den Verlauf der Mails=20
+> betrachtet ...
+>=20
+> "...=C2=A0 sonst hilft allenfalls eine Zusicherung von Dir dass ich gen=
+=C3=BCgend=20
+> Zeit habe eine neue Wohung zu suchen gegen die (induzierte) Suizidalit=C3=
+=A4t=20
+> ..."
+>=20
+> und das hast Du Georg allenfalls sogar vors=C3=A4tzlich komplett ignorier=
+t,=20
+> somit vors=C3=A4tzlich meine Existenzangst, Traumabased MindControl =3D P=
+TBS=20
+> verschlimmert und=C2=A0 D I C H=C2=A0=C2=A0 S E L B E R=C2=A0=C2=A0 V E R=
+ D =C3=A4 C H T I G=C2=A0 gemacht,=20
+> denn wenn man am Wohl des Kindes interssiert w=C3=A4re w=C3=BCrde man das=
+=20
+> priorisieren und als erstes beantworten.
+>=20
+> Somit direkte Frage:
+>=20
+> WER HAT DIR GEORG DEN AUFTRAG GEGEBEN MICH ZU ZWIGNEN=20
+> intelligenzmindernde PSYCHOPHARMAKA ZU NEHMEN UND MIR SONST MIT=20
+> OBDACHLOSIGKEIT ZU DROHEN?
+>=20
+> Und eine nachvollziehbare, druckbare Antwort wie ich mit meinem=20
+> "Gespinne" in den vielen Mails w=C3=A4re echt nett...
+>=20
+> Mit freundlichen Gr=C3=BCssen
+>=20
+> Marc jr. Landolt & Cie.
+> eidg. dipl. Informatiker HF
+>=20
+>=20
+> Am 23.07.2021 um 20:32 schrieb Marc jr. Landolt:
+>> also das ganze "Du Marc jr. bist schuld an dem, dem, dem, dem und=20
+>> jetzt verteidige dich und mach eine Beweiskette" feige auf=20
+>> irgendwelchen nicht oder kaum nachvollziehbaren Kommunikationskan=C3=A4l=
+en,=20
+>> nonverbal, istitutionall, w=C3=A4re gar nicht jemand vom Rechtssystem (o=
+der=20
+>> gekaufte) die so versuchen ihre Verteidigung f=C3=BCr Mord, Vergewaltigu=
+ng,=20
+>> P=C3=A4dophilie ... zu verbessern.
+>>
+>> [DELETED] [REBUILT] impliziert jemand der sich mit Rechtsf=C3=A4llen=20
+>> auskennt wie z.B. eine Rechtsschutz und der viele Cyber-Scheisse in=20
+>> USA gekauft hat...
+>>
+>> Dinge wie IRATEMONK [1] machten es da vermutlich nicht gerade=20
+>> einfacher ...
+>>
+>>
+>> [1] ATTACHEMENT:=E2=9A=A0=EF=B8=8F=E2=9A=A0=EF=B8=8F=C2=A0 A C H T U N G=
+=C2=A0 =E2=9A=A0=EF=B8=8F=E2=9A=A0=EF=B8=8F=C2=A0 da steht TOPSECRET daruf,=
+=20
+>> die Nutzniesser dieser "Software" w=C3=BCrden dann da vermutlich relativ=
+=20
+>> aggressiv werden wenn man zu LAUT =C3=BCber das redet. Ausserdem ist das=
+=20
+>> mittlerweile sicher 8 Jahre weiter entwickelt worden, in der Presse=20
+>> wurde von Equation Group geredet (off by one, allnfalls falsche Spur=20
+>> oder HoneyPot =E2=9A=A0=EF=B8=8F=E2=9A=A0=EF=B8=8F=E2=9A=A0=EF=B8=8F=E2=
+=9A=A0=EF=B8=8F=E2=9A=A0=EF=B8=8F=E2=9A=A0=EF=B8=8F=E2=9A=A0=EF=B8=8F=E2=9A=
+=A0=EF=B8=8F=E2=9A=A0=EF=B8=8F=E2=9A=A0=EF=B8=8F=E2=9A=A0=EF=B8=8F=E2=9A=A0=
+=EF=B8=8F) man muss da vermutlich mit=20
+>> "zuf=C3=A4llig" herunterfallenden Konzertfl=C3=BCgeln rechnen, auch im W=
+ald...
+>>
+>>
+>> Am 23.07.2021 um 20:19 schrieb Marc jr. Landolt:
+>>> Dann das "Spiel" mit
+>>>
+>>> - dem 1980er Kind eine Wohung aussuchen
+>>>
+>>> - dem Kind die Straftaten irgendwelcher 1970er und =C3=A4lteren anh=C3=
+=A4ngen
+>>> =C2=A0=C2=A0-> wo logischerweise dann das 1980er Kind Gratis arbeitet u=
+m zu=20
+>>> beweisen dass es unschuldig ist
+>>>
+>>> - das Kind mit induzierter Epilepsie grillen und sich mit "Roasted=20
+>>> Chicken" Zweifel Chips nonverbal dar=C3=BCber lustig machen (Attachemen=
+t)
+>>>
+>>> - andere Mieter und die Schilchtungsrichter beim Bezirksgericht und=20
+>>> die Rohrer Anw=C3=A4lte dazu motivieren ein falsches Urteil zu f=C3=A4l=
+len &&=20
+>>> zeitgleich das Opfer in die Psychiatrie internieren um noch einen=20
+>>> Notfallplan "Nicht Einhalten von Fristen" zu haben
+>>>
+>>> - dann das 1980er Kind in der Psychiatrie "gut steuerbar" machen
+>>>
+>>> - dann drohende Obdachlosigkeit und Marc jr Landolt hat alle seine=20
+>>> vielen B=C3=BCcher, Quellen etc. fortwerfen m=C3=BCssen die eigentlich =
+die=20
+>>> Herleitung w=C3=A4ren auch im Kontext der Straftaten die man Marc jr.=20
+>>> Landolt untergeschoben wurden
+>>>
+>>> -> somit wird autistischen 1980er die STraftaten angeh=C3=A4ngt um zu=20
+>>> schauen ob die Straftat / das "perfekte" Verbrechen zu den T=C3=A4tern=
+=20
+>>> zur=C3=BCck verfolgbar ist, und falls der Autist eine saubere Beweisket=
+te=20
+>>> hin bekommt wird mit Obdachlosigkeit die Beweiskette vernichtet
+>>>
+>>> Derjenige / diejenige welche die Wohung aussucht oder mit zB.=20
+>>> irgendwelcher Blackhat Software im Liegenschaften Markt oder auf dem=20
+>>> Endpoint des Opfers / S=C3=BCndenbocks daf=C3=BCr sorgt dass er sonst k=
+eine=20
+>>> andere Wohung bekommt ist dann aber auch irgendwie verd=C3=A4chtig soba=
+ld=20
+>>> das Konzept mal bekannt ist.
+>>>
+>>>
+>>> F R E H N E R
+>>>
+>>> Somit an alle +/- gleichaltrigen Gsp=C3=B6ndli von Stefan Frehner v/o=20
+>>> Fuchs, allenfalls k=C3=B6nnte man mal auf den Fuchs zu gehen und fragen=
+ ob=20
+>>> das allenfalls auch der Grund war weshalb er seine Wohung verloren=20
+>>> hat, ich soll zwar nicht von mir auf Andere schilessen, aber ich=20
+>>> w=C3=BCrde jetzt mich getriggert f=C3=BChlen wenn das Menschen sind die=
+ keine=20
+>>> lauteren Absichten haben, sich so profilieren m=C3=B6chten oder Mensche=
+n=20
+>>> wie Chef's, Eltern, Vorgesetzte ... die schon "N=C3=A4gel in mich hinei=
+n=20
+>>> geh=C3=A4mmert haben" ...
+>>>
+>>> =3D> da bitte ich allenfalls Whitehat Medic Personal zu fragen ob das=20
+>>> mit CRISPR (Clustered Regularly Interspaced Short Palindromic=20
+>>> Repeats) oder so =C3=A4hnliche Menschen-Experimente schon damals m=C3=
+=B6glich=20
+>>> waren=C2=A0 und der "lahmende Fuchs" so zu sagen der "Energizer" f=C3=
+=BCr=20
+>>> irgendwelche Verbindungsnahen Menschen ist, apropos Fuchsjagt.
+>>>
+>>> Peering Group P=C3=A4rkli w=C3=A4re eine Selbsthilfegruppe gewesen die=
+=20
+>>> irgendwie "renoviert" wurde ...
+>>>
+>>>
+>>> =3D> wichtiger: diese Menschen sollten alle als "Selbst"mord gef=C3=A4h=
+rdet=20
+>>> betrachtet werden. Bzw. wird vermutlich versucht diese Menschen in=20
+>>> den Suizid zu treiben, mit irgendwelchen Psychiatrie oder Neurologie=20
+>>> MODs
+>>>
+>>> Mit freundlichen Gr=C3=BCssen
+>>>
+>>> Marc jr. Landolt
+>>> eidg. dipl. Informatiker HF
+>>> Neuenburgerstrasse 6
+>>> 5004 Aarau
+>>> 062 822 61 31
+>>> 078 684 15 32
+>>>
+>>>
+>>>
+>>>
+>>> Am 23.07.2021 um 19:57 schrieb Marc jr. Landolt:
+>>>> Ich hab jetzt das noch rasch dem 117 gemeldet dass mutmasslich die=20
+>>>> "Rechtsinformatik" hacked ist, das wird ja dann sowieso da gespeichert=
+.
+>>>>
+>>>> Ist nur so eine Idee, aber "allenfalls" k=C3=B6nnte man diese Aufzeich=
+ung=20
+>>>> / Meldung jetzt als ...
+>>>>
+>>>> C o n t e n t - H o n e y=C2=A0=C2=A0 P o t
+>>>>
+>>>> ... in der Meldezentral benutzen, denn wenn ich das Puzzle richtig=20
+>>>> zusammen gesetzt habe, w=C3=BCrde man vermutlich diese Aufzeuchung=20
+>>>> "geheim halten" WOLLEN...
+>>>>
+>>>>
+>>>> Dann die Windel-Szene hat auch noch einen Logik-Fehler, wenn das=20
+>>>> Kleinkind "Jetzt lernen muss ohne Windeln" w=C3=BCrde man ihm nicht=20
+>>>> dennoch z.B. Unterhosen anziehen m=C3=BCssen ???
+>>>>
+>>>> Am 23.07.2021 um 19:39 schrieb Marc jr. Landolt:
+>>>>> Mein Senf zur Situation
+>>>>>
+>>>>> als ausl=C3=A4ndischer milit=C3=A4rsicher Agressor der sich als Ausl=
+=C3=A4ndischer=20
+>>>>> super duper Geheimdienst ausgibt m=C3=BCsste man nur z.B. Richter,=20
+>>>>> Staatsanw=C3=A4lte unterwandern, also
+>>>>>
+>>>>> "Demokratie" ist utterly broken
+>>>>>
+>>>>> und institutionell somit ein Problem AUSSER man achtet jetzt=20
+>>>>> explizit auf solches, aporpos Schweizer Justizsystem und l=C3=B6chrig=
+er=20
+>>>>> K=C3=A4se.
+>>>>>
+>>>>> Aber dass dann nach den Snowden Leaks so etwas raus kommt, damit=20
+>>>>> h=C3=A4tte jetzt ja wirklich niemand rechnen k=C3=B6nnen...
+>>>>>
+>>>>> TNX to Ed QuantumPferd Snowden...
+>>>>>
+>>>>>
+>>>>> ich: kann mir noch jemand sagen was "utterly" heisst...
+>>>>>
+>>>>>
+>>>>> Am 23.07.2021 um 19:13 schrieb Marc jr. Landolt:
+>>>>>> attachement l=C3=B6scht sich wieder auf meinem endpoint
+>>>>>>
+>>>>>> https://github.com/HackersCardgame/hackerscardgame-notes-s21m07/blob=
+/main/rC3/kantonAargauServerHackedVonDerZuerichVersichrung.eml=20
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> Am 23.07.2021 um 19:11 schrieb Marc jr. Landolt:
+>>>>>>> @ Christian Tanner:
+>>>>>>>
+>>>>>>> Das w=C3=A4re dann sicher Eure Baustelle und die des KOBIKs.
+>>>>>>>
+>>>>>>> Mutmasslich ist der Mailserver des Kantons Aargau von der Z=C3=BCri=
+ch=20
+>>>>>>> Versichrung gehackt worden, Attachement. Das aktivieren die=20
+>>>>>>> vermutlich nur im "Notfall" wenn deren Kunden wegen P=C3=A4dophilie=
+=20
+>>>>>>> oder Mord auffliegen... (leeres Mail, oder allenfalls auch etwas=20
+>>>>>>> wie ein Crypto-Trojaner der Richterin Bauhofer)
+>>>>>>>
+>>>>>>> Gruss
+>>>>>>> Marc jr. Landolt
+>>>>>>>
+>>>>>>> Auch f=C3=A4llt auf, dass Geort Landolt vors=C3=A4tzlich nicht auf =
+das=20
+>>>>>>> "gen=C3=BCgend Zeit f=C3=BCr eine neue Wohung suchen" von Marc jr. =
+Landolt=20
+>>>>>>> eingeht, also da ist der Straftatbestand des versuchten Mordes an=20
+>>>>>>> Marc jr. Landolt erf=C3=BCllt (Schwellentheorie)
+>>>>>>>
+>>>>>>>
+>>>>>>> Jetzt hat der Loop angefangen {Suizid von Marc jr. Landolt im=20
+>>>>>>> Garten der Landolts, Rainstrasse 13 } was dann implizieren w=C3=BCr=
+de,=20
+>>>>>>> dass Urs Blum den Mordauftrag an Marc-Georg Landolt ausgegeben=20
+>>>>>>> hat und dass die Z=C3=BCrich Versicherung sich als Gott aufspielt u=
+nd=20
+>>>>>>> die Passage "Gott befiehlt darin Abraham, seinen Sohn Isaak zu=20
+>>>>>>> opfern" von der Z=C3=BCrich Versichrung so umgebastelt wurde dass s=
+ich=20
+>>>>>>> Georg Landolt mit "Die Armee =C3=A4hm Gott hat es befohlen" rausred=
+en=20
+>>>>>>> kann...
+>>>>>>>
+>>>>>>>
+>>>>>>> Wichtig f=C3=BCr alle 1980er: Schaut dass kein P=C3=A4dokriminelles=
+=20
+>>>>>>> Material von Euren Kindern produziert wird, da w=C3=BCrdet Ihr als=
+=20
+>>>>>>> Eltern dann sowieso erpresst werden von US Ablegern wie der=20
+>>>>>>> Z=C3=BCrich Versichrung, und somit w=C3=A4re auch klar wof=C3=BCr d=
+er=20
+>>>>>>> NSA-Porno-Room w=C3=A4re, das w=C3=A4re eher ein CIA-Porno-Room:=20
+>>>>>>> milit=C3=A4risches Erpressungs- und Zwangsmassnahmen-System
+>>>>>>>
+>>>>>>>
+>>>>>>> Am 23.07.2021 um 18:47 schrieb Marc jr. Landolt:
+>>>>>>>> Sehr geehrter Herr Georg Landolt
+>>>>>>>>
+>>>>>>>> einene Menschen mit Androhung von Obdachlosigkeit zu zwingen=20
+>>>>>>>> intelligenzmindernde Psychopharamka zu nehmen -- insbesondere=20
+>>>>>>>> wenn intelligenzminderung heisst, dass Rechtsf=C3=A4lle nicht=20
+>>>>>>>> aufgekl=C3=A4rt werden -- ist unserer Meinung nach rechtlich nicht=
+=20
+>>>>>>>> zul=C3=A4ssig und somit sind SIE Herr Marc-Georg Landolt (1950)=20
+>>>>>>>> mutmasslich von der Z=C3=BCrich Versichrung aufgekauft worden um z=
+u=20
+>>>>>>>> helfen Morde zu vertuschen oder Sie werden von der Z=C3=BCrich=20
+>>>>>>>> Versichrung mit dem P=C3=A4dokriminellen Material dass sie von Mon=
+ika=20
+>>>>>>>> =C3=84geter, Ursula Landolt, Dominik Landolt und Marc jr. Landolt =
+als=20
+>>>>>>>> Kinder erstellt haben erpresst.
+>>>>>>>>
+>>>>>>>> Insbesondere das sie wissen, dass Ihr Sohn Marc jr. Landolt bei=20
+>>>>>>>> Existenzangst und Androhung von Obdachlosigkeit wieder massiv=20
+>>>>>>>> Suizid Versuche unternehmen wird w=C3=A4re rechtlich die Schwellen=
+=20
+>>>>>>>> Theorie f=C3=BCr Versuchten Mord erf=C3=BCllt.
+>>>>>>>>
+>>>>>>>> PS: nein der Marc jr Landolt selber verwendet nicht solche=20
+>>>>>>>> Juristen Sprache.
+>>>>>>>>
+>>>>>>>>
+>>>>>>>> Mit freundlichen Gr=C3=BCssen
+>>>>>>>>
+>>>>>>>> Marc jr. Landolt
+>>>>>>>> eidg. dipl. Informatiker HF
+>>>>>>>> Neuenburgerstrssee 6
+>>>>>>>> 5004 Aarau
+>>>>>>>> 062 822 61 31
+>>>>>>>> 078 674 15 32
+>>>>>>>>
+>>>>>>>> Am 22.07.2021 um 23:36 schrieb Marc jr. Landolt:
+>>>>>>>>> Halli Hallo Papa
+>>>>>>>>>
+>>>>>>>>> eben k=C3=B6nntest Du noch die zwei Namen der Mieter herausr=C3=
+=BCcken=20
+>>>>>>>>> die geklagt haben? Ich w=C3=BCrde gerne mit diesen Menschen reden=
+.
+>>>>>>>>>
+>>>>>>>>> Das ganze aktiviert bei mir Existenzangst und erh=C3=B6ht meine=20
+>>>>>>>>> Suizidalit=C3=A4t. Ich vermute diejenigen die das gemeldet haben=
+=20
+>>>>>>>>> wollen vors=C3=A4tzlich Suizid induzieren. Das w=C3=A4re so etwas=
+ wie die=20
+>>>>>>>>> geheime Todesstrafe f=C3=BCr Zeugen welche scheinbar in der Schwe=
+iz=20
+>>>>>>>>> praktiziert wird.
+>>>>>>>>>
+>>>>>>>>> Ich w=C3=BCrde gerne mit diesem Menschen reden, und sonst hilft=20
+>>>>>>>>> allenfalls eine Zusicherung von Dir dass ich gen=C3=BCgend Zeit h=
+abe=20
+>>>>>>>>> eine neue Wohung zu suchen gegen die (induzierte) Suizidalit=C3=
+=A4t.=20
+>>>>>>>>> Bzw. wenn ich das Puzzle richtig zusammen gesetzt habe ist das=20
+>>>>>>>>> so etwas wie eine verschl=C3=BCsselte Morddrohung gegen mich wenn=
+=20
+>>>>>>>>> ich weiter gegen die T=C3=A4terschaft aussage. Autisten sind aber=
+=20
+>>>>>>>>> Triebgesteuert und k=C3=B6nnen Puzzles nicht falsch zusammen gese=
+tzt=20
+>>>>>>>>> liegen lassen, Puzzles jetzt nicht im Sinne von den doofen aus=20
+>>>>>>>>> Karton.
+>>>>>>>>>
+>>>>>>>>> Aber selbst wenn die mich ermorden wird immer noch Philipp=20
+>>>>>>>>> L=C3=BCscher (auch Agglo Aarau und ABB CHFAC) oder alle anderen=20
+>>>>>>>>> gutartigen Mitarbeiter bei ABB CHFAC @1999 aussagen k=C3=B6nnen o=
+der=20
+>>>>>>>>> das Puzzle zu den drei toten Administraturen (vermutlich=20
+>>>>>>>>> WhiteHat's) fertig l=C3=B6sen k=C3=B6nnen, also mich zu ermorden =
+bringt=20
+>>>>>>>>> der T=C3=A4terschaft auch nur m=C3=A4ssig etwas. Da ist ja auch i=
+rgendwie=20
+>>>>>>>>> klar, dass der US Konzern Rockwell Automation und der Herr=20
+>>>>>>>>> Riela, sein Mami das dort arbeitet(e) und andere Menschen aus=20
+>>>>>>>>> Aarau allenfalls Fachspezialisten f=C3=BCr diese Thematik gewesen=
+=20
+>>>>>>>>> w=C3=A4ren.
+>>>>>>>>>
+>>>>>>>>> Auch im Rombacht=C3=A4li wurde ich erst dann rausgeworfen, als ic=
+h=20
+>>>>>>>>> ungef=C3=A4hr den selben Empf=C3=A4ngern wie in diesem Mail gemel=
+det=20
+>>>>>>>>> habe, dass es meiner Meinung nach zu viele Suizide im=20
+>>>>>>>>> Rombacht=C3=A4li gibt.
+>>>>>>>>>
+>>>>>>>>> Somit w=C3=A4re mein Fall allenfalls auch ein Pr=C3=A4zedenzfall,=
+ dass=20
+>>>>>>>>> viele Obdachlose oder Fl=C3=BCchtlinge Zeugen sind die zu Massenm=
+ord=20
+>>>>>>>>> durch Juristische Personen aussagen k=C3=B6nnten.
+>>>>>>>>>
+>>>>>>>>> Gr=C3=BCsschen
+>>>>>>>>>
+>>>>>>>>> Marc jr. Landolt
+>>>>>>>>> eidg. dipl. Informatiker HF
+>>>>>>>>> Neuenburgerstrasse 6
+>>>>>>>>> 5004 Aarau
+>>>>>>>>> 062 822 61 31
+>>>>>>>>> 078 674 15 32
+>>>>>>>>>
+>>>>>>>>>
+>>>>>>>>>
+>>>>>>>>> Am 22.07.2021 um 00:43 schrieb Marc jr. Landolt:
+>>>>>>>>>>
+>>>>>>>>>> An alle j=C3=BCngeren im BCC:
+>>>>>>>>>> =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D
+>>>>>>>>>>
+>>>>>>>>>> A C H T U N G=C2=A0 worst case ist das Ritual sich =C3=BCber Men=
+schen=20
+>>>>>>>>>> bei denen Epilepsie induziert wird lustig zu machen nur dazu=20
+>>>>>>>>>> da, dass man dann bei Euch auch Epilepsie induzieren kann und=20
+>>>>>>>>>> Euch mit ...
+>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>> "ihr habt Marc jr. auch ausgelacht mit Euch soll auch so=20
+>>>>>>>>>> verfahren werden, IHR SEID SELBER SCHULD, Auge um Auge [1]"
+>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>> ... platt zu machen. Das w=C3=A4re MindControl [2] welches voral=
+lem=20
+>>>>>>>>>> Menschenschen hittet die noch ein intaktes Wertesystem und=20
+>>>>>>>>>> Moral haben, also das w=C3=BCrde dann vorallem die j=C3=BCngeren=
+=20
+>>>>>>>>>> Generationen betreffen.
+>>>>>>>>>>
+>>>>>>>>>> [1] Mit der ProgrammierSprache PROLOG oder einem Autisten ( =3D=
+=20
+>>>>>>>>>> PROLOG auf zwei Beinen) w=C3=BCrde man aber relativ schnell hier=
+=20
+>>>>>>>>>> den Logik-Mathematik-Fehler finden.
+>>>>>>>>>>
+>>>>>>>>>> Da macht es Sinn meiner Meinung nach Sinn, dass Ihr das "Ihr=20
+>>>>>>>>>> seid selber Schuld" ignoriert und zu schauen, wo die=20
+>>>>>>>>>> "mComStation" ist welche die Epilepsie induziert ist, diese=20
+>>>>>>>>>> auszuschaleten oder ein AluHut oder AluBurka anzuziehen.
+>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>> [2] allenfalls hier als Mensch mit Schizophrenie Diagnose=20
+>>>>>>>>>> besser nicht
+>>>>>>>>>> das Wort " G e d a n k e n K o n t r o l l e " verwenden, auch=20
+>>>>>>>>>> wenn man Autist ist, massgebend ist die Diagnose und nicht die=20
+>>>>>>>>>> Krankheit.
+>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>> LG
+>>>>>>>>>>
+>>>>>>>>>> Marc jr. Landolt
+>>>>>>>>>> eidg. dipl. Informatiker HF
+>>>>>>>>>> Neuenburgerstrasse 6
+>>>>>>>>>> 5004 Aarau
+>>>>>>>>>> 062 822 61 31
+>>>>>>>>>> 078 674 15 32
+>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>> Ab hier kann man es ignorieren ...
+>>>>>>>>>> =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+>>>>>>>>>> ... ausser f=C3=BCr Nachvollziehbarkeit und f=C3=BCr Natural Lan=
+ugauge=20
+>>>>>>>>>> Processing und Psychologische Fingerabdr=C3=BCcke
+>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>> TECHNISCH / COMINT:
+>>>>>>>>>> am besten melden wenn gard wieder Epilepsie eingeshcaltet wird=20
+>>>>>>>>>> MELDEN und dann schauen dass man diese Infrastruktur=20
+>>>>>>>>>> abschalten kann.
+>>>>>>>>>>
+>>>>>>>>>> Es sieht aber leider so aus, dass z.B. biem 117 oder beim 144=20
+>>>>>>>>>> {0} jeweils immer zetigleich eher m=C3=A4ssig tolles personal da=
+s=20
+>>>>>>>>>> ignorant und/oder besoffen ist aktiv ist.
+>>>>>>>>>>
+>>>>>>>>>> Die einem dann auch noch anklagen oder bedrohen mich wieder in=20
+>>>>>>>>>> die *Epilepsie eingeschaltet worden* Psychiatrie zu verfrachten.
+>>>>>>>>>>
+>>>>>>>>>> Als ich z.B. Polizist Wachmeister Michael Riitter gefragt habe=20
+>>>>>>>>>> weshalb er das protokoll gef=C3=A4lscht *cAPI* hat {1} hat er=20
+>>>>>>>>>> gem=C3=A4ss Fr. Dr. Hanno ihr angerufen und gesagt man solle mir=
+=20
+>>>>>>>>>> mehr (ungeh=C3=B6rt: intelligenzmidernde) Psychopahramaka reinw=
+=C3=BCrgen.
+>>>>>>>>>>
+>>>>>>>>>> HUMINT:
+>>>>>>>>>> Vermutlich gibt es=C2=A0 Z e i t p l =C3=A4 n e=C2=A0 der T=C3=
+=A4terschaft wo die=20
+>>>>>>>>>> auch schauen dass dann zu dieser Zeit die ihre Leute auf z.B.=20
+>>>>>>>>>> 117 oder 144 haben oder auch denkbar w=C3=A4re umleitung des TSP=
+'s=20
+>>>>>>>>>> (meist UPC)
+>>>>>>>>>>
+>>>>>>>>>> -> wenn ich recht habe ist klar weshalb die mich auf die=20
+>>>>>>>>>> Strasse stellen wollen und meucheln wollen.
+>>>>>>>>>>
+>>>>>>>>>> Ab hier kann man es noch mehr ignorieren ...
+>>>>>>>>>> =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+>>>>>>>>>> ... ausser f=C3=BCr Nachvollziehbarkeit und f=C3=BCr Natural Lan=
+ugauge=20
+>>>>>>>>>> Processing und Psychologische Fingerabdr=C3=BCcke
+>>>>>>>>>>
+>>>>>>>>>> * * <- der ritter wird zugriff auf die epilepsie infrasturktur=20
+>>>>>>>>>> haben udn mich "therapieren" zu wollen keine aussage gegen=20
+>>>>>>>>>> fehlbare polizisten zu machen die infrastruktur *epilepsie*=20
+>>>>>>>>>> wird vermutlcih von dre z=C3=BCrich versichrung betrieben [1] {2=
+}
+>>>>>>>>>>
+>>>>>>>>>> [1] zu viel jus und rechtsverdrehungs zeugs dass das nciht=20
+>>>>>>>>>> jemand ist der sich profesiolnell mit rechtsverdrehung=20
+>>>>>>>>>> besch=C3=A4ftigt und viel personal hat {3}
+>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>> {0} -> {1,2,3,4,...} content / psychologie dDOS mit zugriff=20
+>>>>>>>>>> auf Epilepsie induziernde informaitk infrastruktur
+>>>>>>>>>>
+>>>>>>>>>> [] {} <- permanent ein gr=C3=B6sseres team von t=C3=A4tern auf m=
+einem=20
+>>>>>>>>>> endpoint obwohl der grad frisch installiert wurde die irgenwo=20
+>>>>>>>>>> her ArrayListe<r=C3=BChmendeWorte> GovWare bekommen haben.
+>>>>>>>>>>
+>>>>>>>>>> [DELETED] [REBUILT]
+>>>>>>>>>> {4} astrid im elternrat als der Tobias moser "therapiert"=20
+>>>>>>>>>> (=3Dermordet) wurde mit dieser infrastruktur
+>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>> Am 21.07.2021 um 19:54 schrieb Marc jr. Landolt:
+>>>>>>>>>>> Halli Hallo
+>>>>>>>>>>>
+>>>>>>>>>>> bitte den Brief rasch scannen und schicken.
+>>>>>>>>>>>
+>>>>>>>>>>> @ Steueramt:
+>>>>>>>>>>> grad gleichzieitig am meine Mails am ignorieren und das=20
+>>>>>>>>>>> Easy-Tax bet=C3=A4tigt den Upload nicht, vors=C3=A4tzlich gener=
+ierter=20
+>>>>>>>>>>> unlieabsamer Peek gegen mich durch ein gr=C3=B6sseres=20
+>>>>>>>>>>> T=C3=A4ternetzwerk ???
+>>>>>>>>>>>
+>>>>>>>>>>> wie bereits gesagt schreie ich meist nur wenn man bei mir=20
+>>>>>>>>>>> Epliepsie ausl=C3=B6st. Das ganze wirkt jetzt auf mich ein=20
+>>>>>>>>>>> bisschen hochm=C3=BCtig wie ein Soziophat der bestens weiss wie=
+ er=20
+>>>>>>>>>>> bei mir Epilepsie ausl=C3=B6st und dann auch noch mit einer Kla=
+ge=20
+>>>>>>>>>>> droht weil ich wenn ich wie ein Soili (de-sg: Schweinchen) am=20
+>>>>>>>>>>> Spiess schreie. Normalerweise w=C3=A4re das das verhaltensmuste=
+r=20
+>>>>>>>>>>> eines anderen Mieters der ein Soziophat, eine P=C3=A4dosadist o=
+der=20
+>>>>>>>>>>> gar der Behilife zu Mord schuldig gesprochen werden m=C3=BCsste=
+.
+>>>>>>>>>>>
+>>>>>>>>>>> Die Vormieterin (Frau R=C3=B6llig) hat ja einen Gr=C3=BCnen Tep=
+pich auf=20
+>>>>>>>>>>> dem Balkon verlegt, gestaltungspsychologischer / nonverbaler=20
+>>>>>>>>>>> Hinweis/Hilfeschrei auf eine Film: "The Green Mile" (f=C3=BCr=20
+>>>>>>>>>>> Zeugen und Petzen wie mich oder sie?)
+>>>>>>>>>>>
+>>>>>>>>>>> Eine =C3=A4ltere Mieterin hat auch angeberisch gesagt: "Hahaha =
+den=20
+>>>>>>>>>>> jungen Kiffer haben wir platt gemacht" wo wenn man das=20
+>>>>>>>>>>> genauer analyiert w=C3=BCrde man aber herausfinden dass viele 2=
+0=20
+>>>>>>>>>>> j=C3=A4hrige Jungs in solchen Kiffer Gruppen landen weil sie z.=
+B.=20
+>>>>>>>>>>> der Pr=C3=BCgelknabe in der Familie waren (wie z.B. der Philipp=
+=20
+>>>>>>>>>>> Blum) und eigentlich gar nicht prim=C3=A4r Drogen sondern eine=
+=20
+>>>>>>>>>>> Ersatzfamilie suchen.
+>>>>>>>>>>>
+>>>>>>>>>>> Also bitte rasch scannen, ich w=C3=BCrde gerne einen vollst=C3=
+=A4ndigen=20
+>>>>>>>>>>> Bericht verfassen und mit diesem/r Miter/in reden.
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> unbekannt:
+>>>>>>>>>>> bei Marc jr Landolt wird Epilepsie eingeschaltet wenn andere=20
+>>>>>>>>>>> Mieter z.B. Kinderpornograpie anklicken, =C3=B6ffnen oder sonst=
+=20
+>>>>>>>>>>> irgendwie konsumieren. Also ausl=C3=B6ser w=C3=A4re allenfalls=
+=20
+>>>>>>>>>>> derjenige mit dem Eingeschriebenen Brief selber. Den Namen=20
+>>>>>>>>>>> des Anderen habe ich ja schon mal angefragt, ich bin nicht=20
+>>>>>>>>>>> Rechtsexperte aber ohne Scan sieht das dann irgendwie wie=20
+>>>>>>>>>>> Beihilfe aus.
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> Gr=C3=BCsschen
+>>>>>>>>>>>
+>>>>>>>>>>> Marc jr. Landolt
+>>>>>>>>>>> eidg. dipl. Informatiker HF
+>>>>>>>>>>> Neuenburgerstrasse 6
+>>>>>>>>>>> 5004 Aarau
+>>>>>>>>>>> 062 822 61 31
+>>>>>>>>>>> 078 674 15 32
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> Am 20.07.2021 um 17:15 schrieb lama50:
+>>>>>>>>>>>> Hallo Marc
+>>>>>>>>>>>>
+>>>>>>>>>>>> soeben haben wir einen einen eingeschriebenen Brief erhalten.
+>>>>>>>>>>>>
+>>>>>>>>>>>> Darin beschwert sich ein weiterer Nachbar =C3=BCber Deine=20
+>>>>>>>>>>>> Nachtruhest=C3=B6rungen.
+>>>>>>>>>>>>
+>>>>>>>>>>>> Das geht nat=C3=BCrlich gar nicht!!!
+>>>>>>>>>>>>
+>>>>>>>>>>>> Als Deine Vermieter m=C3=BCssen wir Dich dringend auffordern, =
+die=20
+>>>>>>>>>>>> Nachtruhe
+>>>>>>>>>>>> einzuhalten.
+>>>>>>>>>>>>
+>>>>>>>>>>>> Das heisst ab 22.00 Uhr kein Br=C3=BCllen und Schreien und vor=
+=20
+>>>>>>>>>>>> allem die
+>>>>>>>>>>>> Fenster zu schliessen.
+>>>>>>>>>>>>
+>>>>>>>>>>>> (selbstverst=C3=A4ndlich kannst Du tags=C3=BCber L=C3=BCften)
+>>>>>>>>>>>>
+>>>>>>>>>>>> Ist Dir bewusst, dass Deine bel=C3=A4stigten Nachbarn von uns =
+als=20
+>>>>>>>>>>>> Vermieter
+>>>>>>>>>>>> eine Aufl=C3=B6sung des
+>>>>>>>>>>>>
+>>>>>>>>>>>> Mietvertrages fordern k=C3=B6nnen, Sohn hin oder her.
+>>>>>>>>>>>>
+>>>>>>>>>>>> Wir bitten Dich dringend=C2=A0 wieder eine Therapie aufzunehme=
+n,
+>>>>>>>>>>>>
+>>>>>>>>>>>> seien es Gespr=C3=A4che oder Behandlungen.
+>>>>>>>>>>>>
+>>>>>>>>>>>>
+>>>>>>>>>>>> Deine besorgten, geschlissenen und kaputten Eltern
+>>>>>>>>>>>>
+>>>>>>>>>>>> Gruss Mama und Papa
+>>>>>>>>>>>>
+
+--d0608011-623e-4c3a-b5a3-9effc6cef9ab--

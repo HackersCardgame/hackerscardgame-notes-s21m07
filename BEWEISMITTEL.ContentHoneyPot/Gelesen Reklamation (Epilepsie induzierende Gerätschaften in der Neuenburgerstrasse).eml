@@ -1,0 +1,123 @@
+Return-Path: <matthias.berner@kapo.ag.ch>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.4.2.218])
+	by popimap018.mail.hostpoint.internal with LMTP
+	id GJmxLvTmxmBQ9QAApkpzRw
+	(envelope-from <matthias.berner@kapo.ag.ch>)
+	for <mail@marclandolt.ch>; Mon, 14 Jun 2021 07:19:48 +0200
+Received: from mxin018.mail.hostpoint.ch ([10.4.2.218])
+	by mail-lb1.adm.hostpoint.ch with LMTP
+	id UP5uLvTmxmBTMwEA9BAvQA
+	(envelope-from <matthias.berner@kapo.ag.ch>)
+	for <mail@marclandolt.ch>; Mon, 14 Jun 2021 07:19:48 +0200
+Received: from xmgw06.ag.ch ([193.47.120.63])
+	by mxin018.mail.hostpoint.ch with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2 (FreeBSD))
+	(envelope-from <matthias.berner@kapo.ag.ch>)
+	id 1lsf0m-000BwG-Ne
+	for mail@marclandolt.ch; Mon, 14 Jun 2021 07:19:48 +0200
+IronPort-SDR: rqU1DyROPdKBMyd8qvxgXzDMASmOd/MlIyUKZ3rmwvatKc3mXMFr+EidwEprehqsewh2gJOsOb
+ RZz5jJJ2mPaw==
+X-IronPort-AV: E=Sophos;i="5.83,272,1616454000"; 
+   d="scan'208,217";a="105945994"
+Received: from unknown (HELO xmgw51.ag.ch) ([193.47.120.51])
+  by xmgw06.ag.ch with ESMTP/TLS/ECDHE-RSA-AES128-GCM-SHA256; 14 Jun 2021 07:19:48 +0200
+Received: from xmgw06.ag.ch (xmgw06.ag.ch [193.47.120.63])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by xmgw51.ag.ch (Postfix) with ESMTPS
+	for <mail@marclandolt.ch>; Mon, 14 Jun 2021 07:19:48 +0200 (CEST)
+IronPort-SDR: RJYfS3p4VAyeLinzdNVkaBqRC254UPDIC+3bt5kzdgM7CnYKmAlWqMoCKe1f96bLxSj4fTPL+C
+ aiAwcqx6VmvA==
+X-IronPort-AV: E=Sophos;i="5.83,272,1616454000"; 
+   d="scan'208,217";a="105945982"
+Received: from unknown (HELO smtp.ktag.ch) ([10.116.181.146])
+  by xmgw06.ag.ch with ESMTP/TLS/ECDHE-RSA-AES128-GCM-SHA256; 14 Jun 2021 07:19:46 +0200
+Received: from SPWEX00028.ADS.KTAG.CH (10.116.181.147) by
+ SPWEX00027.ADS.KTAG.CH (10.116.181.146) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.1.2242.10; Mon, 14 Jun 2021 07:19:46 +0200
+Received: from SPWEX00028.ADS.KTAG.CH ([fe80::c069:cf34:24ab:8ed3]) by
+ SPWEX00028.ADS.KTAG.CH ([fe80::c069:cf34:24ab:8ed3%2]) with mapi id
+ 15.01.2242.010; Mon, 14 Jun 2021 07:19:46 +0200
+From: "Berner Matthias  DVIKAPO" <Matthias.Berner@kapo.ag.ch>
+To: "Marc jr. Landolt" <mail@marclandolt.ch>
+Subject: =?iso-8859-1?Q?Gelesen:_Reklamation_(Epilepsie_induzierende_Ger=E4tschaft?=
+ =?iso-8859-1?Q?en_in_der_Neuenburgerstrasse)?=
+Thread-Topic: =?iso-8859-1?Q?Reklamation_(Epilepsie_induzierende_Ger=E4tschaften_in_der?=
+ =?iso-8859-1?Q?_Neuenburgerstrasse)?=
+Thread-Index: AQHXX41xfdjnFeNCGEC6AV5lJfKPiasS+pe7
+Date: Mon, 14 Jun 2021 05:19:46 +0000
+Message-ID: <0ded6f8a45fc453d9084ca6a8f314b77@kapo.ag.ch>
+Accept-Language: de-CH, en-US
+Content-Language: de-DE
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.116.181.149]
+Content-Type: multipart/report;
+	boundary="_000_0ded6f8a45fc453d9084ca6a8f314b77kapoagch_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-SM-outgoing: yes
+X-Vs-State: LEGIT
+X-Hostpoint-Spambox: NO
+
+--_000_0ded6f8a45fc453d9084ca6a8f314b77kapoagch_
+Content-Type: multipart/alternative;
+	boundary="_002_0ded6f8a45fc453d9084ca6a8f314b77kapoagch_"
+
+--_002_0ded6f8a45fc453d9084ca6a8f314b77kapoagch_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Ihre Nachricht
+
+   An: Berner Matthias  DVIKAPO
+   Betreff: Fwd: Reklamation (Epilepsie induzierende Ger=E4tschaften in der=
+ Neuenburgerstrasse)
+   Gesendet: Samstag, 12. Juni 2021 15:18:16 (UTC+01:00) Amsterdam, Berlin,=
+ Bern, Rom, Stockholm, Wien
+
+ wurde am Montag, 14. Juni 2021 07:19:28 (UTC+01:00) Amsterdam, Berlin, Ber=
+n, Rom, Stockholm, Wien gelesen.
+
+--_002_0ded6f8a45fc453d9084ca6a8f314b77kapoagch_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:10pt;">
+<div class=3D"PlainText">Ihre Nachricht <br>
+<br>
+&nbsp;&nbsp; An: Berner Matthias&nbsp; DVIKAPO<br>
+&nbsp;&nbsp; Betreff: Fwd: Reklamation (Epilepsie induzierende Ger=E4tschaf=
+ten in der Neuenburgerstrasse)<br>
+&nbsp;&nbsp; Gesendet: Samstag, 12. Juni 2021 15:18:16 (UTC&#43;01:00) Amst=
+erdam, Berlin, Bern, Rom, Stockholm, Wien<br>
+<br>
+&nbsp;wurde am Montag, 14. Juni 2021 07:19:28 (UTC&#43;01:00) Amsterdam, Be=
+rlin, Bern, Rom, Stockholm, Wien gelesen.</div>
+</span></font>
+</body>
+</html>
+
+--_002_0ded6f8a45fc453d9084ca6a8f314b77kapoagch_--
+
+--_000_0ded6f8a45fc453d9084ca6a8f314b77kapoagch_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; Matthias.Berner@kapo.ag.ch
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: Vn6nK4/Pa0Ct05Cm2W8EPQ==
+X-Display-Name: Berner Matthias  DVIKAPO
+
+
+--_000_0ded6f8a45fc453d9084ca6a8f314b77kapoagch_--

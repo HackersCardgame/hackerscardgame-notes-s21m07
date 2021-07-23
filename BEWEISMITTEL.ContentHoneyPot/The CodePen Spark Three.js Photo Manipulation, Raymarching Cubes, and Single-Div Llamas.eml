@@ -1,0 +1,698 @@
+Return-Path: <msprvs1=18834MWbM8RQg=bounces-17534@bounce.codepen.io>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.4.2.212])
+	by popimap018.mail.hostpoint.internal with LMTP
+	id 4LjdAYDI9WCjJAAApkpzRw
+	(envelope-from <msprvs1=18834MWbM8RQg=bounces-17534@bounce.codepen.io>)
+	for <mail@marclandolt.ch>; Mon, 19 Jul 2021 20:46:24 +0200
+Received: from mxin012.mail.hostpoint.ch ([10.4.2.212])
+	by mail-lb1.adm.hostpoint.ch with LMTP
+	id uCCyAYDI9WCEDAEA9BAvQA
+	(envelope-from <msprvs1=18834MWbM8RQg=bounces-17534@bounce.codepen.io>)
+	for <mail@marclandolt.ch>; Mon, 19 Jul 2021 20:46:24 +0200
+Received: from mta-253-212-0.smtp-out.sparkpostmail.com ([147.253.212.0])
+	by mxin012.mail.hostpoint.ch with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2 (FreeBSD))
+	(envelope-from <msprvs1=18834MWbM8RQg=bounces-17534@bounce.codepen.io>)
+	id 1m5YHX-000K5E-Ei
+	for 2009@marclandolt.ch; Mon, 19 Jul 2021 20:46:24 +0200
+X-MSFBL: hJdZ8MB5WyzReqcmWmW8lwC0O/RUgEe0/X6Y7Yx54M8=|eyJtZXNzYWdlX2lkIjo
+	iNjBlZjdkYzhmNTYwMGNmYWY4MzgiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJyIjoiMjA
+	wOUBtYXJjbGFuZG9sdC5jaCIsImN1c3RvbWVyX2lkIjoiMTc1MzQiLCJzdWJhY2N
+	vdW50X2lkIjoiMCJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=codepen.io;
+	s=scph0416; t=1626720381; i=@codepen.io;
+	bh=jn8LsiabgeTAXFODSwKUgQ8B49S35A6Xg6/hHaDT1Ks=;
+	h=Content-Type:To:Message-ID:Date:Subject:From;
+	b=Q+ngiAM44IDFwNUw77VsT4EMDYYdSRn0Qkoh5pk2l6T2OshI9EJi1Bf67dcKmWrhz
+	 QFzdtZx4x2/uOWWIPfUmUZr93NCsjYurkhRgxhOZFzFtc90TqtFZ/scw98VCpwk/ou
+	 EfoWye1Ws/uFjlx0AZ2udWcFn3ZeNqiD5QM6D/SA=
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+To: 2009@marclandolt.ch
+Message-ID: <8F.83.48039.D78C5F06@av.mta1vrest.cc.prd.sparkpost>
+Date: Mon, 19 Jul 2021 18:46:01 +0000
+MIME-Version: 1.0
+Reply-To: CodePen<newsletter@codepen.io>
+Subject: The CodePen Spark: Three.js Photo Manipulation, Raymarching Cubes, and Single-Div Llamas
+From: CodePen<support@codepen.io>
+List-Unsubscribe: <mailto:unsubscribe@unsub.spmta.com?subject=unsubscribe:vCCsk6rwC1CAKN8ffyO9MJ666LqKdwoqbi0rkYhqM-s~|eyAicmNwdF90byI6ICIyMDA5QG1hcmNsYW5kb2x0LmNoIiwgInRlbmFudF9pZCI6ICJzcGMiLCAiY3VzdG9tZXJfaWQiOiAiMTc1MzQiLCAibWVzc2FnZV9pZCI6ICI2MGVmN2RjOGY1NjAwY2ZhZjgzOCIsICJzdWJhY2NvdW50X2lkIjogIjAiIH0~>
+List-Id: <spc.17534.0.sparkpostmail.com>
+X-Vs-State: MCE
+X-Forwarded-Original-Recipient: 2009@marclandolt.ch 
+X-Original-To: 2009@marclandolt.ch
+X-Hostpoint-Spambox: NO
+
+<!DOCTYPE html>=0D=0A<html lang=3D"en" xmlns=3D"http://www.w3.org/1999/xhtm=
+l" xmlns:v=3D"urn:schemas-microsoft-com:vml"=0D=0A xmlns:o=3D"urn:schemas-m=
+icrosoft-com:office:office">=0D=0A=0D=0A<head>=0D=0A  =0D=0A <meta http-equ=
+iv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=0D=0A <meta cha=
+rset=3D"UTF-8">=0D=0A <meta http-equiv=3D"X-UA-Compatible" content=3D"ie=3D=
+edge">=0D=0A <meta name=3D"viewport" content=3D"width=3Ddevice-width, initi=
+al-scale=3D1.0">=0D=0A <meta name=3D"format-detection" content=3D"telephone=
+=3Dno">=0D=0A =0D=0A <title>The CodePen Spark</title>=0D=0A =0D=0A <style d=
+ata-premailer=3D"ignore">=0D=0A  @media screen {=0D=0A   @font-face {=0D=0A=
+    font-family: "Lato";=0D=0A    font-style: normal;=0D=0A    font-weight:=
+ 400;=0D=0A    src: local("Lato Regular"), local("Lato-Regular"), url(https=
+://fonts.gstatic.com/s/lato/v11/qIIYRU-oROkIk8vfvxw6QvesZW2xOQ-xsNqO47m55DA=
+.woff) format("woff");=0D=0A   }=0D=0A=0D=0A   @font-face {=0D=0A    font-=
+family: "Lato";=0D=0A    font-style: normal;=0D=0A    font-weight: 700;=0D=
+=0A    src: local("Lato Bold"), local("Lato-Bold"), url(https://fonts.gstat=
+ic.com/s/lato/v11/qdgUG4U09HnJwhYI-uK18wLUuEpTyoUstqEm5AMlJo4.woff) format(=
+"woff");=0D=0A   }=0D=0A=0D=0A   @font-face {=0D=0A    font-family: "Lato";=
+=0D=0A    font-style: italic;=0D=0A    font-weight: 400;=0D=0A    src: loca=
+l("Lato Italic"), local("Lato-Italic"), url(https://fonts.gstatic.com/s/lat=
+o/v11/RYyZNoeFgb0l7W3Vu1aSWOvvDin1pK8aKteLpeZ5c0A.woff) format("woff");=0D=
+=0A   }=0D=0A=0D=0A   @font-face {=0D=0A    font-family: 'Lato';=0D=0A    f=
+ont-style: normal;=0D=0A    font-weight: 900;=0D=0A    src: local('Lato Bla=
+ck'), local('Lato-Black'), url(https://fonts.gstatic.com/s/lato/v14/S6u9w4B=
+MUTPHh50XSwiPGQ3q5d0.woff2) format('woff2');=0D=0A   }=0D=0A  }=0D=0A=0D=0A=
+  @media only screen and (max-width: 600px) {=0D=0A    body,=0D=0A    .cont=
+ent {=0D=0A      background: white !important;=0D=0A    }=0D=0A    =0D=0A  =
+  .container {=0D=0A      width: 100% !important;=0D=0A    }=0D=0A    =0D=
+=0A    .spark-cols,=0D=0A    .spark-cols tbody,=0D=0A    .spark-cols tr,=0D=
+=0A    .spark-cols td,=0D=0A    .spark-thumb,=0D=0A    .spark-item {=0D=0A =
+     display: block;=0D=0A      width: 100% !important;=0D=0A      max-widt=
+h: 100% !important;=0D=0A      padding-left: 0 !important;=0D=0A      paddi=
+ng-right: 0 !important;=0D=0A    }=0D=0A    =0D=0A    .spark-col-r {=0D=0A =
+     p adding-top: 100px;=0D=0A    }=0D=0A  }=0D=0A </style>=0D=0A =0D=0A <=
+style>=0D=0A  body {=0D=0A    background-color: #f8f8f8 !important;=0D=0A  =
+  color: #1e1e1e;=0D=0A    font-family: Lato, "Lucida Grande", "Lucida Sans=
+ Unicode", Tahoma, sans-serif !important;=0D=0A    margin: 0;=0D=0A    padd=
+ing: 0;=0D=0A    text-align: left !important;=0D=0A    font-size: 14px;=0D=
+=0A    line-height: 1.4;=0D=0A  }=0D=0A=0D=0A  img {=0D=0A    max-width: 10=
+0%;=0D=0A    height: auto;=0D=0A  }=0D=0A=0D=0A  @media only screen and (ma=
+x-width: 600px) {=0D=0A    .invite-container .spark-col-r {=0D=0A      padd=
+ing-top: 0;=0D=0A      padding-left: 0;=0D=0A    }=0D=0A  }=0D=0A </style>=
+=0D=0A =0D=0A</head>=0D=0A=0D=0A<body style=3D'color: #1e1e1e; font-family:=
+ Lato, "Lucida Grande", "Lucida Sans Unicode", Tahoma, sans-serif !importan=
+t; text-align: left !important; font-size: 14px; line-height: 1.4; margin: =
+0; padding: 0;' bgcolor=3D"#f8f8f8">=0D=0A<div style=3D"color:transparent;v=
+isibility:hidden;opacity:0;font-size:0px;border:0;max-height:1px;width:1px;=
+margin:0px;padding:0px;border-width:0px!important;display:none!important;li=
+ne-height:0px!important;"><img border=3D"0" width=3D"1" height=3D"1" src=3D=
+"http://post.spmailtechnolo.com/q/sx6WhTyK6_gTkXxOFDIpcQ~~/AABEfgA~/RgRi2E1=
+pPVcDc3BjQgpg733I9WAM-vg4UhMyMDA5QG1hcmNsYW5kb2x0LmNoWAQAAAAA"/></div>=0D=
+=0A=0D=0A  =0D=0A <div class=3D"main spark" style=3D"background-color: #505=
+050; padding-bottom: 48px;">=0D=0A   =0D=0A  <div class=3D"header" style=3D=
+"background-color: #191919;">=0D=0A    =0D=0A    <div class=3D"container co=
+ntainer-header" style=3D"width: 600px; max-width: 100%; margin: 0 auto;" al=
+ign=3D"left">=0D=0A      <div class=3D"container-inner" style=3D"background=
+-color: white; margin: 0 auto; padding: 0;"> <img class=3D"logo"=0D=0A     =
+   src=3D"https://assets.codepen.io/3/codepen-spark-header-special-edition.=
+webp=3Fformat=3Dauto"=0D=0A        width=3D"1400" height=3D"" title=3D"Spar=
+k Header" alt=3D"Spark Header"=0D=0A        style=3D"vertical-align: middle=
+; width: 100%; height: auto; max-width: 100%;">=0D=0A       <div class=3D"s=
+pecial-edition-spark-intro" style=3D"display: block; background-color: #505=
+050; color: white; padding: 20px 20px 0;" align=3D"center">=0D=0A         <=
+p style=3D"font-size: 12px; color: #cfcfcf; margin: 0;">=0D=0A           Th=
+is issue of the CodePen Spark is brought to you by a special single sponsor=
+: =0D=0A           <a href=3D"http://post.spmailtechnolo.com/f/a/j3KT46lCiN=
+QznZqw1Xrg5Q~~/AABEfgA~/RgRi2E1pP0SCaHR0cHM6Ly9zcnYuYnV5c2VsbGFkcy5jb20vYWR=
+zL2xvbmcveC9UQ0RFMjdEVFRUVFRUVDNFWVVKQ1RUVFRUVFRRR0ZVREtUVFRUVFRUVjRTNVZZVF=
+RUVFRUVEFEUVAzUURWS0xEUDdCREwyTDRLUVFIRTJMVUs3M0ZUSkI0R1E3RVcDc3BjQgpg733I9=
+WAM-vg4UhMyMDA5QG1hcmNsYW5kb2x0LmNoWAQAAAAA" style=3D"color: #98b0cd; text-=
+decoration: underline;">Amazon Web Services (AWS) Marketplace</a>.=0D=0A   =
+        We use AWS for everything here at CodePen! We really appreciate =0D=
+=0A           their support. If you'd prefer not to receive the CodePen Spa=
+rk or emails like this, =0D=0A           you can <a style=3D"color: #98b0cd=
+; text-decoration: underline;" href=3D"http://post.spmailtechnolo.com/f/a/A=
+bX9OqeGb-bAO5YDErUg7g~~/AABEfgA~/RgRi2E1pPxREvWh0dHBzOi8vY29kZXBlbi5pby9zZX=
+R0aW5ncy9ub3RpZmljYXRpb25zL29wdG91dD9fdW49RThiZGM3TSUyRm9JS1NEcndlNVVUcDBoJ=
+TJCc1NJZEhjbGd0aWhHWGJWOXVXN0h4TU9ZZWhybUZhOUJGRnc1TjF2NHhSSkZpUVRrRHBkMFlC=
+dFVhcCUyRmtGOXBtMGpIVGwxMUhqcXBRSmpNMm1SbDhqRUpXJTJGSnFCZGt2c1M4dyUzRCUzRFc=
+Dc3BjQgpg733I9WAM-vg4UhMyMDA5QG1hcmNsYW5kb2x0LmNoWAQAAAAA">opt out</a>.=0D=
+=0A          </p>=0D=0A       </div>=0D=0A      </div>=0D=0A    </div>=0D=
+=0A  </div><!-- header -->=0D=0A  =0D=0A  <div class=3D"content">=0D=0A    =
+=0D=0A   <div class=3D"container container-spark container-aws" style=3D"wi=
+dth: 600px; max-width: 100%; margin: 20px auto 0;"=0D=0A    align=3D"left">=
+=0D=0A    <div=0D=0A     style=3D"background: #273240 url(https://res.cloud=
+inary.com/css-tricks/image/upload/f_auto,q_auto/v1582653968/boxes_l5hijx.pn=
+g) no-repeat bottom right; padding: 20px;">=0D=0A     <img style=3D"width: =
+205px; max-width: 100%; height: auto;"=0D=0A      src=3D"https://res.cloudi=
+nary.com/css-tricks/image/upload/f_auto,q_auto/v1582653841/logos_dhmfar.png=
+"=0D=0A      alt=3D"AWS Marketplace and DevOps Institute Logo">=0D=0A     <=
+h1 style=3D"color: white; width: 75%; font-size: 28px; line-height: 1.3; fo=
+nt-weight: 700; margin: 20px 0 0px;">=0D=0A       <a href=3D"http://post.sp=
+mailtechnolo.com/f/a/V-BtIyHWchcuqRRO2db58w~~/AABEfgA~/RgRi2E1pP0SCaHR0cHM6=
+Ly9zcnYuYnV5c2VsbGFkcy5jb20vYWRzL2xvbmcveC9UNlpJUjRTVFRUVFRUVEYzQU9DTlRUVFR=
+UVFQ1UlRBS0tUVFRUVFRUQjRGVk5ZVFRUVFRUVDVaV0NNS01LSjRWWkhRSUtJRFcyUTNNUEpJTE=
+tZU1VXTkRRMkhWVFcDc3BjQgpg733I9WAM-vg4UhMyMDA5QG1hcmNsYW5kb2x0LmNoWAQAAAAA"=
+ style=3D"color: white; text-decoration: none;">=0D=0A         Infrastructu=
+re as Code: hands-on labs and expert presentations=0D=0A       </a>=0D=0A  =
+   </h1>=0D=0A    </div>=0D=0A    <div class=3D"container-inner" style=3D"b=
+ackground-color: #283240; color: white; margin: 0 auto; padding: 24px;">=0D=
+=0A     <div class=3D"invite-container" style=3D"background-color: white; c=
+olor: black; margin: 0 0 20px; padding: 20px;">=0D=0A      <table class=3D"=
+spark-cols" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+ style=3D"table-layout: fixed;">=0D=0A       <tbody>=0D=0A        <tr>=0D=
+=0A         <td class=3D"spark-col-l" style=3D"width: 260px;" valign=3D"mid=
+dle">=0D=0A          <h2 style=3D"font-size: 22px; font-weight: 700; line-h=
+eight: 1.1; margin: 0 0 10px;">=0D=0A            You're invited!=0D=0A     =
+     </h2>=0D=0A          <p style=3D"margin: 10px 0 5px; font-size: 15px; =
+line-height: 1.5;">=0D=0A            Join this workshop from AWS and the De=
+vOps Institute to learn how to establish a successful Infrastructure as Cod=
+e practice in AWS from expert presenters and hands-on labs. =0D=0A         =
+ </p>=0D=0A         </td>=0D=0A         <td class=3D"spark-col-r" style=3D"=
+padding-left: 30px; width: 260px;" valign=3D"top">=0D=0A            <strong=
+ style=3D"line-height: 2; margin-bottom: 1rem; text-transform: uppercase; w=
+hite-space: nowrap; font-size: 11px; display: block;">=0D=0A              T=
+hursday, July 29, 2021=0D=0A              <br />=0D=0A              11:00 A=
+M PT | 2:00 PM ET=0D=0A              <br />=0D=0A              60 Min Sessi=
+on=0D=0A            </strong>=0D=0A            <a class=3D"btn" href=3D"htt=
+p://post.spmailtechnolo.com/f/a/j3KT46lCiNQznZqw1Xrg5Q~~/AABEfgA~/RgRi2E1pP=
+0SCaHR0cHM6Ly9zcnYuYnV5c2VsbGFkcy5jb20vYWRzL2xvbmcveC9UQ0RFMjdEVFRUVFRUVDNF=
+WVVKQ1RUVFRUVFRRR0ZVREtUVFRUVFRUVjRTNVZZVFRUVFRUVEFEUVAzUURWS0xEUDdCREwyTDR=
+LUVFIRTJMVUs3M0ZUSkI0R1E3RVcDc3BjQgpg733I9WAM-vg4UhMyMDA5QG1hcmNsYW5kb2x0Lm=
+NoWAQAAAAA" style=3D"white-space: nowrap; text-decoration: none; color: #ff=
+f; background-color: #ED8F3B; text-transform: uppercase; font-size: 16px; l=
+ine-height: 18px; font-weight: bold; border-radius: 4px; display: inline-bl=
+ock; border-bottom-width: 3px; border-bottom-color: #a8700a; border-bottom-=
+style: solid; margin: 0 3px; padding: 12px 30px;">=0D=0A              Regis=
+ter Now=0D=0A            </a>=0D=0A          </td>=0D=0A        </tr>=0D=0A=
+       </tbody>=0D=0A      </table>=0D=0A     </div>=0D=0A     =0D=0A     <=
+p style=3D"margin: 0 0 10px; font-size: 18px;">=0D=0A       <strong>In this=
+ webinar:</strong>=0D=0A     </p>=0D=0A     <p style=3D"margin: 0 0 10px; f=
+ont-size: 15px; line-height: 1.5;">=0D=0A        We will explore how effect=
+ive use of Infrastructure as Code can help teams create self-service, compl=
+iant, and traceable production-like environments across the software delive=
+ry pipeline to streamline development.=0D=0A     </p>=0D=0A     <p style=3D=
+"background: #1a222e; padding: 20px; margin: 10px 0 0 0; border-radius: 8px=
+;">=0D=0A       =F0=9F=91=8B We use infastructure as code for everything he=
+re at CodePen! Not only is it great for teams because of the self-documenti=
+ng nature of it, it is much easier to work with and actually required for s=
+ome certifications. =0D=0A     </p>=0D=0A    </div>=0D=0A  </div>=0D=0A   =
+=0D=0A   =0D=0A  <div class=3D"container" style=3D"width: 600px; max-width:=
+ 100%; margin: 100px auto 0;" align=3D"left">=0D=0A   <div class=3D"contain=
+er-inner" style=3D"padding: 24px; margin: 0 auto; background: white;">=0D=
+=0A           <table class=3D"spark-cols" style=3D"table-layout: fixed" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D=0A        =
+    <tbody>=0D=0A              <tr>=0D=0A                <td class=3D"spark=
+-col-l" style=3D"width: 260px; vertical-align: top;">=0D=0A                =
+  =0D=0A                  <div class=3D"spark-item" style=3D"padding-right:=
+ 12px; padding-bottom: 96px;">=0D=0A                    <a style=3D"text-de=
+coration: none; color: #2F82DE;" href=3D"http://post.spmailtechnolo.com/f/a=
+/gY2TSMheglsdSYwHQhlfPg~~/AABEfgA~/RgRi2E1pP0QsaHR0cHM6Ly9jb2RlcGVuLmlvL2Nv=
+YnJhX3dpbmZyZXkvcGVuL3JObWpQUFBXA3NwY0IKYO99yPVgDPr4OFITMjAwOUBtYXJjbGFuZG9=
+sdC5jaFgEAAAAAA~~">=0D=0A                      <img class=3D"spark-thumb" s=
+tyle=3D"border: 0; display: block; height: auto; width: 260px; max-width: 2=
+60px; outline: none; text-decoration: none;" src=3D"https://production-code=
+pen-email-assets.s3-us-west-2.amazonaws.com/production/RRCAraG6RJaBhbTDPoLG=
+_generative-canyons.png" alt=3D"Generative Canyons" height width=3D"260">=
+=0D=0A                    </a>=0D=0A                    <div class=3D"spark=
+-title" style=3D"font-weight: bold; color: #505050; margin-top: 12px; font-=
+family: Lato,'Lucida Grande','Lucida Sans Unicode',Tahoma,sans-serif  !impo=
+rtant;"><a style=3D"text-decoration: none; color: #2F82DE;" href=3D"http://=
+post.spmailtechnolo.com/f/a/gY2TSMheglsdSYwHQhlfPg~~/AABEfgA~/RgRi2E1pP0Qsa=
+HR0cHM6Ly9jb2RlcGVuLmlvL2NvYnJhX3dpbmZyZXkvcGVuL3JObWpQUFBXA3NwY0IKYO99yPVg=
+DPr4OFITMjAwOUBtYXJjbGFuZG9sdC5jaFgEAAAAAA~~">Generative Canyons</a></div>=
+=0D=0A                    <div class=3D"spark-desc" style=3D"margin-top: 4p=
+x; font-family: Lato,'Lucida Grande','Lucida Sans Unicode',Tahoma,sans-seri=
+f  !important;">Adam Kuhn takes us to a grid landscape and generates some b=
+reathtaking canyons with JavaScript. Click for a new view!</div>=0D=0A     =
+             </div>=0D=0A                  =0D=0A                  <div cla=
+ss=3D"spark-item" style=3D"padding-right: 12px; padding-bottom: 0;">=0D=0A =
+                   <a style=3D"text-decoration: none; color: #2F82DE;" href=
+=3D"http://post.spmailtechnolo.com/f/a/JaOM4NIpyZaIy-_0VQnGNg~~/AABEfgA~/Rg=
+Ri2E1pP0QkaHR0cHM6Ly9jb2RlcGVuLmlvL2NvbGxlY3Rpb24vVll2VmRZVwNzcGNCCmDvfcj1Y=
+Az6-DhSEzIwMDlAbWFyY2xhbmRvbHQuY2hYBAAAAAA~">=0D=0A                      <i=
+mg class=3D"spark-thumb" style=3D"border: 0; display: block; height: auto; =
+width: 260px; max-width: 260px; outline: none; text-decoration: none;" src=
+=3D"https://production-codepen-email-assets.s3-us-west-2.amazonaws.com/prod=
+uction/Tt6L59wIRLagZN0g4vt9_sweater-swag.png" alt=3D"#CodePenChallenge: Tex=
+tile Patterns" height width=3D"260">=0D=0A                    </a>=0D=0A   =
+                 <div class=3D"spark-title" style=3D"font-weight: bold; col=
+or: #505050; margin-top: 12px; font-family: Lato,'Lucida Grande','Lucida Sa=
+ns Unicode',Tahoma,sans-serif  !important;"><a style=3D"text-decoration: no=
+ne; color: #2F82DE;" href=3D"http://post.spmailtechnolo.com/f/a/JaOM4NIpyZa=
+Iy-_0VQnGNg~~/AABEfgA~/RgRi2E1pP0QkaHR0cHM6Ly9jb2RlcGVuLmlvL2NvbGxlY3Rpb24v=
+Vll2VmRZVwNzcGNCCmDvfcj1YAz6-DhSEzIwMDlAbWFyY2xhbmRvbHQuY2hYBAAAAAA~">#Code=
+PenChallenge: Textile Patterns</a></div>=0D=0A                    <div clas=
+s=3D"spark-desc" style=3D"margin-top: 4px; font-family: Lato,'Lucida Grande=
+','Lucida Sans Unicode',Tahoma,sans-serif  !important;">For the second week=
+ of the Patterns challenge we took inspiration from the fashion world with =
+textile patterns. Check out the Pens from week two, including Joshua Boxtel=
+'s pattern-swapping &quot;Sweater Swag&quot;. </div>=0D=0A                 =
+ </div>=0D=0A                  =0D=0A                </td>=0D=0A=0D=0A     =
+           <td class=3D"spark-col-r" style=3D"width: 260px; vertical-align:=
+ top;">=0D=0A                  =0D=0A                  <div class=3D"spark-=
+item" style=3D"padding-left: 12px; padding-bottom: 96px;">=0D=0A           =
+         <a style=3D"text-decoration: none; color: #2F82DE;" href=3D"http:/=
+/post.spmailtechnolo.com/f/a/qm4XOZokdZWtHKhaGXh5KQ~~/AABEfgA~/RgRi2E1pP0Qn=
+aHR0cHM6Ly9jb2RlcGVuLmlvL3RlcmFiYXVkL3Blbi9RV3ZLR01aVwNzcGNCCmDvfcj1YAz6-Dh=
+SEzIwMDlAbWFyY2xhbmRvbHQuY2hYBAAAAAA~">=0D=0A                      <img cla=
+ss=3D"spark-thumb" style=3D"border: 0; display: block; height: auto; width:=
+ 260px; max-width: 260px; outline: none; text-decoration: none;" src=3D"htt=
+ps://production-codepen-email-assets.s3-us-west-2.amazonaws.com/production/=
+vt1Ik081RWeYwDVC5eyq_svg-elephant-life.png" alt=3D"Bring that elephant to l=
+ife" height width=3D"260">=0D=0A                    </a>=0D=0A             =
+       <div class=3D"spark-title" style=3D"font-weight: bold; color: #50505=
+0; margin-top: 12px; font-family: Lato,'Lucida Grande','Lucida Sans Unicode=
+',Tahoma,sans-serif  !important;"><a style=3D"text-decoration: none; color:=
+ #2F82DE;" href=3D"http://post.spmailtechnolo.com/f/a/qm4XOZokdZWtHKhaGXh5K=
+Q~~/AABEfgA~/RgRi2E1pP0QnaHR0cHM6Ly9jb2RlcGVuLmlvL3RlcmFiYXVkL3Blbi9RV3ZLR0=
+1aVwNzcGNCCmDvfcj1YAz6-DhSEzIwMDlAbWFyY2xhbmRvbHQuY2hYBAAAAAA~">Bring that =
+elephant to life</a></div>=0D=0A                    <div class=3D"spark-des=
+c" style=3D"margin-top: 4px; font-family: Lato,'Lucida Grande','Lucida Sans=
+ Unicode',Tahoma,sans-serif  !important;">An adorable elephant illustration=
+ bops and boogies in Lea Rosema's SVG animation. </div>=0D=0A              =
+    </div>=0D=0A                  =0D=0A                  <div class=3D"spa=
+rk-item" style=3D"padding-left: 12px; padding-bottom: 0;">=0D=0A           =
+         <a style=3D"text-decoration: none; color: #2F82DE;" href=3D"http:/=
+/post.spmailtechnolo.com/f/a/_Me0BJxLhnBi88gVwJlgJQ~~/AABEfgA~/RgRi2E1pP0Qk=
+aHR0cHM6Ly9jb2RlcGVuLmlvL3N1cGFoL3Blbi92WW15R05MVwNzcGNCCmDvfcj1YAz6-DhSEzI=
+wMDlAbWFyY2xhbmRvbHQuY2hYBAAAAAA~">=0D=0A                      <img class=
+=3D"spark-thumb" style=3D"border: 0; display: block; height: auto; width: 2=
+60px; max-width: 260px; outline: none; text-decoration: none;" src=3D"https=
+://production-codepen-email-assets.s3-us-west-2.amazonaws.com/production/1z=
+FW43M6SZSLadd0fL97_lerp-lines-canvas.png" alt=3D"Lerp Lines Canvas" height =
+width=3D"260">=0D=0A                    </a>=0D=0A                    <div =
+class=3D"spark-title" style=3D"font-weight: bold; color: #505050; margin-to=
+p: 12px; font-family: Lato,'Lucida Grande','Lucida Sans Unicode',Tahoma,san=
+s-serif  !important;"><a style=3D"text-decoration: none; color: #2F82DE;" h=
+ref=3D"http://post.spmailtechnolo.com/f/a/_Me0BJxLhnBi88gVwJlgJQ~~/AABEfgA~=
+/RgRi2E1pP0QkaHR0cHM6Ly9jb2RlcGVuLmlvL3N1cGFoL3Blbi92WW15R05MVwNzcGNCCmDvfc=
+j1YAz6-DhSEzIwMDlAbWFyY2xhbmRvbHQuY2hYBAAAAAA~">Lerp Lines Canvas</a></div>=
+=0D=0A                    <div class=3D"spark-desc" style=3D"margin-top: 4p=
+x; font-family: Lato,'Lucida Grande','Lucida Sans Unicode',Tahoma,sans-seri=
+f  !important;">Fabio Ottaviani uses linear interpolation to create calming=
+ waves of color.</div>=0D=0A                  </div>=0D=0A                 =
+ =0D=0A                </td>=0D=0A              </tr>=0D=0A         =09=09<=
+/tbody>=0D=0A        =09</table>=0D=0A        </div>=0D=0A   </div>=0D=0A  =
+ =0D=0A   =0D=0A  <div class=3D"container container-aws" style=3D"width: 60=
+0px; max-width: 100%; margin: 100px auto 0;" align=3D"left">=0D=0A    <div =
+class=3D"container-inner" style=3D"background-color: #283240; color: white;=
+ margin: 0 auto; padding: 24px;">=0D=0A      <h2 style=3D"font-size: 26px; =
+font-weight: 700; line-height: 1.1; margin: 10px 0 30px;">=0D=0A        Att=
+endees will learn:=0D=0A      </h2>=0D=0A        <table style=3D"margin: 0 =
+0 20px; color: white;">=0D=0A        <tr>=0D=0A          <td class=3D"table=
+-icon-cell" style=3D"padding-right: 15px; padding-top: 5px; width: 30px; fo=
+nt-size: 28px;" valign=3D"top">=0D=0A            =E2=98=91=EF=B8=8F=0D=0A  =
+        </td>=0D=0A          <td class=3D"table-info-cell" style=3D"font-si=
+ze: 18px; line-height: 1.5; padding-bottom: 20px;">=0D=0A            How to=
+ use IaC to experiment quickly and help transition from monoliths to micros=
+ervices=0D=0A          </td>=0D=0A        </tr>=0D=0A        <tr>=0D=0A    =
+      <td class=3D"table-icon-cell" style=3D"padding-right: 15px; padding-t=
+op: 5px; width: 30px; font-size: 28px;" valign=3D"top">=0D=0A            =
+=E2=98=91=EF=B8=8F =0D=0A          </td>=0D=0A          <td class=3D"table-=
+info-cell" style=3D"font-size: 18px; line-height: 1.5; padding-bottom: 20px=
+;">=0D=0A           =09How to implement self-service environment provisioni=
+ng best practices=0D=0A          </td>=0D=0A        </tr>=0D=0A        <tr>=
+=0D=0A         <td class=3D"table-icon-cell" style=3D"padding-right: 15px; =
+padding-top: 5px; width: 30px; font-size: 28px;" valign=3D"top">=0D=0A     =
+      =E2=98=91=EF=B8=8F=0D=0A         </td>=0D=0A         <td class=3D"tab=
+le-info-cell" style=3D"font-size: 18px; line-height: 1.5; padding-bottom: 2=
+0px;">=0D=0A            How to control cloud costs by monitoring and destro=
+ying unused environments=0D=0A         </td>=0D=0A        </tr>=0D=0A      =
+  <tr>=0D=0A         <td class=3D"table-icon-cell" style=3D"padding-right: =
+15px; padding-top: 5px; width: 30px; font-size: 28px;" valign=3D"top">=0D=
+=0A           =E2=98=91=EF=B8=8F=0D=0A         </td>=0D=0A         <td clas=
+s=3D"table-info-cell" style=3D"font-size: 18px; line-height: 1.5; padding-b=
+ottom: 20px;">=0D=0A            About tools you can use from AWS and AWS Ma=
+rketplace to help you build a successful IaC practice=0D=0A         </td>=
+=0D=0A        </tr>=0D=0A      </table>=0D=0A      =0D=0A      <p>At the en=
+d of the session, you will have the opportunity to put your new knowledge i=
+nto practice by completing a hands-on lab from a selection of some of the b=
+est tools in DevOps.</p>=0D=0A      =0D=0A      <table style=3D"margin-bott=
+om: 30px;">=0D=0A        <tr>=0D=0A          <td>=0D=0A            <a class=
+=3D"btn" href=3D"http://post.spmailtechnolo.com/f/a/j3KT46lCiNQznZqw1Xrg5Q~=
+~/AABEfgA~/RgRi2E1pP0SCaHR0cHM6Ly9zcnYuYnV5c2VsbGFkcy5jb20vYWRzL2xvbmcveC9U=
+Q0RFMjdEVFRUVFRUVDNFWVVKQ1RUVFRUVFRRR0ZVREtUVFRUVFRUVjRTNVZZVFRUVFRUVEFEUVA=
+zUURWS0xEUDdCREwyTDRLUVFIRTJMVUs3M0ZUSkI0R1E3RVcDc3BjQgpg733I9WAM-vg4UhMyMD=
+A5QG1hcmNsYW5kb2x0LmNoWAQAAAAA" style=3D"white-space: nowrap; text-decorati=
+on: none; color: #fff; background-color: #ED8F3B; text-transform: uppercase=
+; font-size: 16px; line-height: 18px; font-weight: bold; border-radius: 4px=
+; display: inline-block; border-bottom-width: 3px; border-bottom-color: #a8=
+700a; border-bottom-style: solid; margin: 0 3px; padding: 12px 30px;">=0D=
+=0A              Register Now=0D=0A            </a>=0D=0A          </td>=0D=
+=0A          <td style=3D"padding-right: 20px;">=0D=0A            <strong s=
+tyle=3D"text-transform: uppercase; white-space: nowrap; color: white; font-=
+size: 11px; display: block;">=0D=0A              Thursday, July 29, 2021=0D=
+=0A              <br />=0D=0A              11:00 AM PT | 2:00 PM ET=0D=0A  =
+            <br />=0D=0A              60 Min Session=0D=0A            </str=
+ong>=0D=0A          </td>=0D=0A        </tr>=0D=0A      </table>=0D=0A    <=
+/div>=0D=0A    </div>=0D=0A   =0D=0A   =0D=0A    <div class=3D"container" s=
+tyle=3D"width: 600px; max-width: 100%; margin: 100px auto 0;" align=3D"left=
+">=0D=0A    <div class=3D"container-inner" style=3D"padding: 24px; margin: =
+0 auto; background: white;">=0D=0A          <table class=3D"spark-cols" sty=
+le=3D"table-layout: fixed" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%">=0D=0A            <tbody>=0D=0A              <tr>=0D=0A    =
+            <td class=3D"spark-col-l" style=3D"width: 260px; vertical-align=
+: top;">=0D=0A                  =0D=0A                  <div class=3D"spark=
+-item" style=3D"padding-right: 12px; padding-bottom: 96px;">=0D=0A         =
+           <a style=3D"text-decoration: none; color: #2F82DE;" href=3D"http=
+://post.spmailtechnolo.com/f/a/3TWVswAG1cXmEYx1lAJ4yg~~/AABEfgA~/RgRi2E1pP0=
+QmaHR0cHM6Ly9jb2RlcGVuLmlvL2lsaXRoeWEvcGVuL2FiV29wWHlXA3NwY0IKYO99yPVgDPr4O=
+FITMjAwOUBtYXJjbGFuZG9sdC5jaFgEAAAAAA~~">=0D=0A                      <img c=
+lass=3D"spark-thumb" style=3D"border: 0; display: block; height: auto; widt=
+h: 260px; max-width: 260px; outline: none; text-decoration: none;" src=3D"h=
+ttps://production-codepen-email-assets.s3-us-west-2.amazonaws.com/productio=
+n/4NBgMcEMRd6gZ8SsIcuu_curiouslyminded-flopine.png" alt=3D"#curiouslyminded=
+ with Flopine" height width=3D"260">=0D=0A                    </a>=0D=0A   =
+                 <div class=3D"spark-title" style=3D"font-weight: bold; col=
+or: #505050; margin-top: 12px; font-family: Lato,'Lucida Grande','Lucida Sa=
+ns Unicode',Tahoma,sans-serif  !important;"><a style=3D"text-decoration: no=
+ne; color: #2F82DE;" href=3D"http://post.spmailtechnolo.com/f/a/3TWVswAG1cX=
+mEYx1lAJ4yg~~/AABEfgA~/RgRi2E1pP0QmaHR0cHM6Ly9jb2RlcGVuLmlvL2lsaXRoeWEvcGVu=
+L2FiV29wWHlXA3NwY0IKYO99yPVgDPr4OFITMjAwOUBtYXJjbGFuZG9sdC5jaFgEAAAAAA~~">#=
+curiouslyminded with Flopine</a></div>=0D=0A                    <div class=
+=3D"spark-desc" style=3D"margin-top: 4px; font-family: Lato,'Lucida Grande'=
+,'Lucida Sans Unicode',Tahoma,sans-serif  !important;">ilithya shares the r=
+esult of a live shader session with FlopineYeah: &quot;She taught us how to=
+ make an orthographic camera with ray marching in shaders and that displays=
+ this beautiful effect you see in these 3d cubes.&quot;</div>=0D=0A        =
+          </div>=0D=0A                  =0D=0A                  <div class=
+=3D"spark-item" style=3D"padding-right: 12px; padding-bottom: 0;">=0D=0A   =
+                 <a style=3D"text-decoration: none; color: #2F82DE;" href=
+=3D"http://post.spmailtechnolo.com/f/a/uGUVcrWZRsYPnb_onf-iig~~/AABEfgA~/Rg=
+Ri2E1pP0RCaHR0cHM6Ly9ibG9nLmNvZGVwZW4uaW8vMjAyMS8wNy8xNC8zMjQtaG93LWNhbi13Z=
+S1oZWxwLXlvdS1iZXR0ZXIvVwNzcGNCCmDvfcj1YAz6-DhSEzIwMDlAbWFyY2xhbmRvbHQuY2hY=
+BAAAAAA~">=0D=0A                      <img class=3D"spark-thumb" style=3D"b=
+order: 0; display: block; height: auto; width: 260px; max-width: 260px; out=
+line: none; text-decoration: none;" src=3D"https://production-codepen-email=
+-assets.s3-us-west-2.amazonaws.com/production/dIL0uRvmTxuEH0anvFVB_324-how-=
+can-we-help.png" alt=3D"CodePen Radio #324: How can we help you better=3F" =
+height width=3D"260">=0D=0A                    </a>=0D=0A                  =
+  <div class=3D"spark-title" style=3D"font-weight: bold; color: #505050; ma=
+rgin-top: 12px; font-family: Lato,'Lucida Grande','Lucida Sans Unicode',Tah=
+oma,sans-serif  !important;"><a style=3D"text-decoration: none; color: #2F8=
+2DE;" href=3D"http://post.spmailtechnolo.com/f/a/uGUVcrWZRsYPnb_onf-iig~~/A=
+ABEfgA~/RgRi2E1pP0RCaHR0cHM6Ly9ibG9nLmNvZGVwZW4uaW8vMjAyMS8wNy8xNC8zMjQtaG9=
+3LWNhbi13ZS1oZWxwLXlvdS1iZXR0ZXIvVwNzcGNCCmDvfcj1YAz6-DhSEzIwMDlAbWFyY2xhbm=
+RvbHQuY2hYBAAAAAA~">CodePen Radio #324: How can we help you better=3F</a></=
+div>=0D=0A                    <div class=3D"spark-desc" style=3D"margin-top=
+: 4px; font-family: Lato,'Lucida Grande','Lucida Sans Unicode',Tahoma,sans-=
+serif  !important;">Chris and Marie are on the show to talk about our quest=
+ to find better ways to help our PRO members, both in-app and through our s=
+upport desk. </div>=0D=0A                  </div>=0D=0A                  =
+=0D=0A                </td>=0D=0A=0D=0A                <td class=3D"spark-c=
+ol-r" style=3D"width: 260px; vertical-align: top;">=0D=0A                  =
+=0D=0A                  <div class=3D"spark-item" style=3D"padding-left: 12=
+px; padding-bottom: 96px;">=0D=0A                    <a style=3D"text-decor=
+ation: none; color: #2F82DE;" href=3D"http://post.spmailtechnolo.com/f/a/VJ=
+U_XHheGQhRaBBKS85iPQ~~/AABEfgA~/RgRi2E1pP0QvaHR0cHM6Ly9jb2RlcGVuLmlvL2dheWF=
+uZS1nYXNwYXJ5YW4vcGVuL2VZV3ZQZ3lXA3NwY0IKYO99yPVgDPr4OFITMjAwOUBtYXJjbGFuZG=
+9sdC5jaFgEAAAAAA~~">=0D=0A                      <img class=3D"spark-thumb" =
+style=3D"border: 0; display: block; height: auto; width: 260px; max-width: =
+260px; outline: none; text-decoration: none;" src=3D"https://production-cod=
+epen-email-assets.s3-us-west-2.amazonaws.com/production/B8ykLrovS1W6Fet361g=
+2_cool-mama-llama.png" alt=3D"Cool Mama Llamas" height width=3D"260">=0D=0A=
+                    </a>=0D=0A                    <div class=3D"spark-title=
+" style=3D"font-weight: bold; color: #505050; margin-top: 12px; font-family=
+: Lato,'Lucida Grande','Lucida Sans Unicode',Tahoma,sans-serif  !important;=
+"><a style=3D"text-decoration: none; color: #2F82DE;" href=3D"http://post.s=
+pmailtechnolo.com/f/a/VJU_XHheGQhRaBBKS85iPQ~~/AABEfgA~/RgRi2E1pP0QvaHR0cHM=
+6Ly9jb2RlcGVuLmlvL2dheWFuZS1nYXNwYXJ5YW4vcGVuL2VZV3ZQZ3lXA3NwY0IKYO99yPVgDP=
+r4OFITMjAwOUBtYXJjbGFuZG9sdC5jaFgEAAAAAA~~">Cool Mama Llamas</a></div>=0D=
+=0A                    <div class=3D"spark-desc" style=3D"margin-top: 4px; =
+font-family: Lato,'Lucida Grande','Lucida Sans Unicode',Tahoma,sans-serif  =
+!important;">Gayane Gasparyan brings us a trio of illustrated llamas in a s=
+ingle div. Click the &quot;No Drama Llama!&quot; button to watch them groov=
+e to a tune.</div>=0D=0A                  </div>=0D=0A                  =0D=
+=0A                  <div class=3D"spark-item" style=3D"padding-left: 12px;=
+ padding-bottom: 0;">=0D=0A                    <a style=3D"text-decoration:=
+ none; color: #2F82DE;" href=3D"http://post.spmailtechnolo.com/f/a/LCwrUr6-=
+wz9nUJGvme6crw~~/AABEfgA~/RgRi2E1pP0QqaHR0cHM6Ly9jb2RlcGVuLmlvL2NhbGx1bWFjc=
+mFlL3Blbi9lWVdXbVh2VwNzcGNCCmDvfcj1YAz6-DhSEzIwMDlAbWFyY2xhbmRvbHQuY2hYBAAA=
+AAA~">=0D=0A                      <img class=3D"spark-thumb" style=3D"borde=
+r: 0; display: block; height: auto; width: 260px; max-width: 260px; outline=
+: none; text-decoration: none;" src=3D"https://production-codepen-email-ass=
+ets.s3-us-west-2.amazonaws.com/production/ZW77PRAQIiHQ2zzcYVKL_particle-pho=
+tos.png" alt=3D"Particle Photos" height width=3D"260">=0D=0A               =
+     </a>=0D=0A                    <div class=3D"spark-title" style=3D"font=
+-weight: bold; color: #505050; margin-top: 12px; font-family: Lato,'Lucida =
+Grande','Lucida Sans Unicode',Tahoma,sans-serif  !important;"><a style=3D"t=
+ext-decoration: none; color: #2F82DE;" href=3D"http://post.spmailtechnolo.c=
+om/f/a/LCwrUr6-wz9nUJGvme6crw~~/AABEfgA~/RgRi2E1pP0QqaHR0cHM6Ly9jb2RlcGVuLm=
+lvL2NhbGx1bWFjcmFlL3Blbi9lWVdXbVh2VwNzcGNCCmDvfcj1YAz6-DhSEzIwMDlAbWFyY2xhb=
+mRvbHQuY2hYBAAAAAA~">Particle Photos</a></div>=0D=0A                    <di=
+v class=3D"spark-desc" style=3D"margin-top: 4px; font-family: Lato,'Lucida =
+Grande','Lucida Sans Unicode',Tahoma,sans-serif  !important;">Play with the=
+ built-in photos or upload your own in this photo particle-izer from Callum=
+ Macrae.</div>=0D=0A                  </div>=0D=0A                  =0D=0A =
+               </td>=0D=0A              </tr>=0D=0A         =09=09</tbody>=
+=0D=0A        =09</table>=0D=0A        </div>=0D=0A   </div>=0D=0A   =0D=0A=
+   =0D=0A    <div class=3D"container container-aws" style=3D"width: 600px; =
+max-width: 100%; margin: 100px auto 0;" align=3D"left">=0D=0A      <div cla=
+ss=3D"container-inner" style=3D"background-color: #283240; color: white; ma=
+rgin: 0 auto; padding: 24px;">=0D=0A       <table style=3D"margin-bottom: 3=
+0px;">=0D=0A        <tr>=0D=0A          <td>=0D=0A            <a class=3D"b=
+tn" href=3D"http://post.spmailtechnolo.com/f/a/j3KT46lCiNQznZqw1Xrg5Q~~/AAB=
+EfgA~/RgRi2E1pP0SCaHR0cHM6Ly9zcnYuYnV5c2VsbGFkcy5jb20vYWRzL2xvbmcveC9UQ0RFM=
+jdEVFRUVFRUVDNFWVVKQ1RUVFRUVFRRR0ZVREtUVFRUVFRUVjRTNVZZVFRUVFRUVEFEUVAzUURW=
+S0xEUDdCREwyTDRLUVFIRTJMVUs3M0ZUSkI0R1E3RVcDc3BjQgpg733I9WAM-vg4UhMyMDA5QG1=
+hcmNsYW5kb2x0LmNoWAQAAAAA"  style=3D"white-space: nowrap; text-decoration: =
+none; color: #fff; background-color: #ED8F3B; text-transform: uppercase; fo=
+nt-size: 16px; line-height: 18px; font-weight: bold; border-radius: 4px; di=
+splay: inline-block; border-bottom-width: 3px; border-bottom-color: #a8700a=
+; border-bottom-style: solid; margin: 0 3px; padding: 12px 30px;">=0D=0A   =
+           Register Now=0D=0A            </a>=0D=0A          </td>=0D=0A   =
+       <td style=3D"padding-right: 20px;">=0D=0A            <strong style=
+=3D"text-transform: uppercase; white-space: nowrap; font-size: 11px; displa=
+y: block; color: white;">=0D=0A              Thursday, July 29, 2021=0D=0A =
+             <br />=0D=0A              11:00 AM PT | 2:00 PM ET=0D=0A      =
+        <br />=0D=0A              60 Min Session=0D=0A            </strong>=
+=0D=0A          </td>=0D=0A        </tr>=0D=0A      </table>=0D=0A       =
+=0D=0A      <h2 style=3D"font-size: 26px; font-weight: 700; line-height: 1.=
+1; margin: 10px 0 30px;">=0D=0A        Speakers:=0D=0A      </h2>=0D=0A  =
+=0D=0A      <table style=3D"color: white; margin: 0 0 10px 0;">=0D=0A      =
+  <tr>=0D=0A          <td>=0D=0A            <img src=3D"https://assets.code=
+pen.io/t-1/leo-murillo.jpg=3Fwidth=3D250&amp;format=3Dauto" style=3D"width:=
+ 125px; display: block; margin: 0 20px 0 0;" alt=3D"Speaker Photo"> =0D=0A =
+         </td>=0D=0A          <td>=0D=0A            <img src=3D"https://res=
+.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1596149104/AWS_emai=
+l-best_practices_automation-logo-02_y4axwp.png" alt=3D"DevOps Institute Log=
+o" style=3D"width: 130px; display: block; border-top: 1px solid white; marg=
+in: 0 0 20px 0; padding: 8px 0 0 0;" />=0D=0A            <h4 style=3D"font-=
+size: 21px; font-weight: 700; line-height: 1.1; margin: 0 0 5px;">=0D=0A   =
+           Leo Murillo=0D=0A            </h4>=0D=0A            <div class=
+=3D"aws-job" style=3D"font-weight: bold; margin: 0 0 10px;">=0D=0A         =
+     Ambassador, DevOps Institute=0D=0A            </div>=0D=0A          </=
+td>=0D=0A        </tr>=0D=0A      </table>=0D=0A           =0D=0A      <p s=
+tyle=3D"margin: 0 0 40px;">=0D=0A        Leonardo Murillo is the founder of=
+ Cloud Native Architects, CTO at Qwinix, and DevOps Institute Ambassador. L=
+eo brings a wide-ranging industry perspective, with over 20 years of experi=
+ence building technology and leading teams all the way from startups to For=
+tune 500s. He is passionate about cloud-native technologies, organizational=
+ transformation, and the open-source community. A believer in human potenti=
+al and the transformative power of technology, Leo focuses on exploring lea=
+ding-edge technologies hands-on and pondering on technology strategy.=0D=0A=
+      </p>=0D=0A=0D=0A      <table style=3D"color: white; margin: 0 0 10px =
+0;">=0D=0A         <tr>=0D=0A           <td>=0D=0A              <img src=3D=
+"https://assets.codepen.io/t-1/marina-novikova.png=3Fwidth=3D250&amp;format=
+=3Dauto" alt=3D"Speaker Photo" style=3D"width: 125px; display: block; margi=
+n: 0 20px 0 0;" />=0D=0A           <td>=0D=0A              <img src=3D"http=
+s://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1596149104/AW=
+S_email-best_practices_automation-logo-01_wlbiwh.png" alt=3D"" style=3D"wid=
+th: 130px; display: block; border-top: 1px solid white; margin: 0 0 20px 0;=
+ padding: 8px 0 0 0;" />=0D=0A              <h4 style=3D"font-size: 21px; f=
+ont-weight: 700; line-height: 1.1; margin: 0 0 5px;">=0D=0A                =
+  Marina Novikova=0D=0A              </h4>=0D=0A              <div class=3D=
+"aws-job" style=3D"font-weight: bold; margin: 0 0 10px;">=0D=0A            =
+    Partner Solutions Architect at AWS=0D=0A              </div>=0D=0A     =
+      </td>=0D=0A         </tr>=0D=0A       </table>=0D=0A=0D=0A      <p st=
+yle=3D"margin: 0 0 10px;">=0D=0A        Marina has been working at Amazon f=
+or over two years. She currently supports the APN Global Startup Program. H=
+er focus is on the existing AWS architecture validation and improvements, p=
+lanning new workloads and integrations with AWS, and supporting general tec=
+hnical enablement. Marina holds a Master=E2=80=99s degree in Computer Scien=
+ce and has over 15 years of experience developing large-scale systems for f=
+inancial services.=0D=0A      </p>=0D=0A=0D=0A      </div>=0D=0A    </div>=
+=0D=0A  =0D=0A   <div class=3D"container" style=3D"width: 600px; max-width:=
+ 100%; margin: 100px auto 0;" align=3D"left">=0D=0A   <div class=3D"contain=
+er-inner" style=3D"padding: 24px; margin: 0 auto; background: white;">=0D=
+=0A          <table class=3D"spark-cols" style=3D"table-layout: fixed" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D=0A         =
+   <tbody>=0D=0A              <tr>=0D=0A                <td class=3D"spark-=
+col-l" style=3D"width: 260px; vertical-align: top;">=0D=0A                 =
+ =0D=0A                  <div class=3D"spark-item" style=3D"padding-right: =
+12px; padding-bottom: 96px;">=0D=0A                    <a style=3D"text-dec=
+oration: none; color: #2F82DE;" href=3D"http://post.spmailtechnolo.com/f/a/=
+j0nPbo3uPF8Vl4xsaQvkVQ~~/AABEfgA~/RgRi2E1pP0QqaHR0cHM6Ly9jb2RlcGVuLmlvL2xpc=
+2lsaW5oYXJ0L3Blbi9vTld6clZ5VwNzcGNCCmDvfcj1YAz6-DhSEzIwMDlAbWFyY2xhbmRvbHQu=
+Y2hYBAAAAAA~">=0D=0A                      <img class=3D"spark-thumb" style=
+=3D"border: 0; display: block; height: auto; width: 260px; max-width: 260px=
+; outline: none; text-decoration: none;" src=3D"https://production-codepen-=
+email-assets.s3-us-west-2.amazonaws.com/production/vcfc7h0nS6OMN9fb6Xip_sta=
+tus-bar-animation.png" alt=3D"Status Bar Animation" height width=3D"260">=
+=0D=0A                    </a>=0D=0A                    <div class=3D"spark=
+-title" style=3D"font-weight: bold; color: #505050; margin-top: 12px; font-=
+family: Lato,'Lucida Grande','Lucida Sans Unicode',Tahoma,sans-serif  !impo=
+rtant;"><a style=3D"text-decoration: none; color: #2F82DE;" href=3D"http://=
+post.spmailtechnolo.com/f/a/j0nPbo3uPF8Vl4xsaQvkVQ~~/AABEfgA~/RgRi2E1pP0Qqa=
+HR0cHM6Ly9jb2RlcGVuLmlvL2xpc2lsaW5oYXJ0L3Blbi9vTld6clZ5VwNzcGNCCmDvfcj1YAz6=
+-DhSEzIwMDlAbWFyY2xhbmRvbHQuY2hYBAAAAAA~">Status Bar Animation</a></div>=0D=
+=0A                    <div class=3D"spark-desc" style=3D"margin-top: 4px; =
+font-family: Lato,'Lucida Grande','Lucida Sans Unicode',Tahoma,sans-serif  =
+!important;">This status bar smoothly unfolds and populates with details in=
+ a JavaScript animation from Lisi Linhart.=0D=0A</div>=0D=0A               =
+   </div>=0D=0A                  =0D=0A                  <div class=3D"spar=
+k-item" style=3D"padding-right: 12px; padding-bottom: 0;">=0D=0A           =
+         <a style=3D"text-decoration: none; color: #2F82DE;" href=3D"http:/=
+/post.spmailtechnolo.com/f/a/fDWF418LJL-K7LE-IGol9Q~~/AABEfgA~/RgRi2E1pP0Qv=
+aHR0cHM6Ly9jb2RlcGVuLmlvL3Rvc2hpeWEtbWFydWt1Ym8vcGVuL2pPbUJNck5XA3NwY0IKYO9=
+9yPVgDPr4OFITMjAwOUBtYXJjbGFuZG9sdC5jaFgEAAAAAA~~">=0D=0A                  =
+    <img class=3D"spark-thumb" style=3D"border: 0; display: block; height: =
+auto; width: 260px; max-width: 260px; outline: none; text-decoration: none;=
+" src=3D"https://production-codepen-email-assets.s3-us-west-2.amazonaws.com=
+/production/vhA2aaZTSueY5WRgiMhs_threejs-practice-rose.png" alt=3D"Practice=
+" height width=3D"260">=0D=0A                    </a>=0D=0A                =
+    <div class=3D"spark-title" style=3D"font-weight: bold; color: #505050; =
+margin-top: 12px; font-family: Lato,'Lucida Grande','Lucida Sans Unicode',T=
+ahoma,sans-serif  !important;"><a style=3D"text-decoration: none; color: #2=
+F82DE;" href=3D"http://post.spmailtechnolo.com/f/a/fDWF418LJL-K7LE-IGol9Q~~=
+/AABEfgA~/RgRi2E1pP0QvaHR0cHM6Ly9jb2RlcGVuLmlvL3Rvc2hpeWEtbWFydWt1Ym8vcGVuL=
+2pPbUJNck5XA3NwY0IKYO99yPVgDPr4OFITMjAwOUBtYXJjbGFuZG9sdC5jaFgEAAAAAA~~">Pr=
+actice</a></div>=0D=0A                    <div class=3D"spark-desc" style=
+=3D"margin-top: 4px; font-family: Lato,'Lucida Grande','Lucida Sans Unicode=
+',Tahoma,sans-serif  !important;">A photo bends, shrinks, and distorts on h=
+over in this Three.js exploration from Toshiya Marukubo.</div>=0D=0A       =
+           </div>=0D=0A                  =0D=0A                </td>=0D=0A=
+=0D=0A                <td class=3D"spark-col-r" style=3D"width: 260px; vert=
+ical-align: top;">=0D=0A                  =0D=0A                  <div clas=
+s=3D"spark-item" style=3D"padding-left: 12px; padding-bottom: 96px;">=0D=0A=
+                    <a style=3D"text-decoration: none; color: #2F82DE;" hre=
+f=3D"http://post.spmailtechnolo.com/f/a/OGtPlxcdQQSravMClYHYeQ~~/AABEfgA~/R=
+gRi2E1pP0QmaHR0cHM6Ly9jb2RlcGVuLmlvL2VuYmVlODEvcGVuL29OV1pCYmJXA3NwY0IKYO99=
+yPVgDPr4OFITMjAwOUBtYXJjbGFuZG9sdC5jaFgEAAAAAA~~">=0D=0A                   =
+   <img class=3D"spark-thumb" style=3D"border: 0; display: block; height: a=
+uto; width: 260px; max-width: 260px; outline: none; text-decoration: none;"=
+ src=3D"https://production-codepen-email-assets.s3-us-west-2.amazonaws.com/=
+production/HzHKdijSe4etjWqZxhuQ_checkbox-counter.png" alt=3D"Checkbox Count=
+er" height width=3D"260">=0D=0A                    </a>=0D=0A              =
+      <div class=3D"spark-title" style=3D"font-weight: bold; color: #505050=
+; margin-top: 12px; font-family: Lato,'Lucida Grande','Lucida Sans Unicode'=
+,Tahoma,sans-serif  !important;"><a style=3D"text-decoration: none; color: =
+#2F82DE;" href=3D"http://post.spmailtechnolo.com/f/a/OGtPlxcdQQSravMClYHYeQ=
+~~/AABEfgA~/RgRi2E1pP0QmaHR0cHM6Ly9jb2RlcGVuLmlvL2VuYmVlODEvcGVuL29OV1pCYmJ=
+XA3NwY0IKYO99yPVgDPr4OFITMjAwOUBtYXJjbGFuZG9sdC5jaFgEAAAAAA~~">Checkbox Cou=
+nter</a></div>=0D=0A                    <div class=3D"spark-desc" style=3D"=
+margin-top: 4px; font-family: Lato,'Lucida Grande','Lucida Sans Unicode',Ta=
+homa,sans-serif  !important;">Nils Binder demonstrates the power of the `co=
+unter-reset` property in this checkbox demo that keeps tally of your select=
+ions. </div>=0D=0A                  </div>=0D=0A                  =0D=0A   =
+               <div class=3D"spark-item" style=3D"padding-left: 12px; paddi=
+ng-bottom: 0;">=0D=0A                    <a style=3D"text-decoration: none;=
+ color: #2F82DE;" href=3D"http://post.spmailtechnolo.com/f/a/bb2VflPd1TpwL-=
+H5gMHNgg~~/AABEfgA~/RgRi2E1pP0QqaHR0cHM6Ly9jb2RlcGVuLmlvL3RoZWJhYnlkaW5vL3B=
+lbi92WXh6bWd5VwNzcGNCCmDvfcj1YAz6-DhSEzIwMDlAbWFyY2xhbmRvbHQuY2hYBAAAAAA~">=
+=0D=0A                      <img class=3D"spark-thumb" style=3D"border: 0; =
+display: block; height: auto; width: 260px; max-width: 260px; outline: none=
+; text-decoration: none;" src=3D"https://production-codepen-email-assets.s3=
+-us-west-2.amazonaws.com/production/CPZsvG3Thq5wd1p8r4xp_yummy-planet.png" =
+alt=3D"The Yummy Planet" height width=3D"260">=0D=0A                    </a=
+>=0D=0A                    <div class=3D"spark-title" style=3D"font-weight:=
+ bold; color: #505050; margin-top: 12px; font-family: Lato,'Lucida Grande',=
+'Lucida Sans Unicode',Tahoma,sans-serif  !important;"><a style=3D"text-deco=
+ration: none; color: #2F82DE;" href=3D"http://post.spmailtechnolo.com/f/a/b=
+b2VflPd1TpwL-H5gMHNgg~~/AABEfgA~/RgRi2E1pP0QqaHR0cHM6Ly9jb2RlcGVuLmlvL3RoZW=
+JhYnlkaW5vL3Blbi92WXh6bWd5VwNzcGNCCmDvfcj1YAz6-DhSEzIwMDlAbWFyY2xhbmRvbHQuY=
+2hYBAAAAAA~">The Yummy Planet</a></div>=0D=0A                    <div class=
+=3D"spark-desc" style=3D"margin-top: 4px; font-family: Lato,'Lucida Grande'=
+,'Lucida Sans Unicode',Tahoma,sans-serif  !important;">Ana Tudor dishes up =
+a delicious photo gallery/recipe card concept with CSS variables. </div>=0D=
+=0A                  </div>=0D=0A                  =0D=0A                </=
+td>=0D=0A              </tr>=0D=0A         =09=09</tbody>=0D=0A        =09<=
+/table>=0D=0A        =09=0D=0A        </div>=0D=0A         =0D=0A     <tabl=
+e class=3D"spark-cols" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"100%" style=3D"table-layout: fixed;">=0D=0A      <tbody>=0D=0A       =
+<tr>=0D=0A        <td class=3D"spark-col-l" style=3D"width: 260px;" valign=
+=3D"top"> </td>=0D=0A        <td class=3D"spark-col-r" style=3D"width: 260p=
+x;" valign=3D"top"> </td>=0D=0A       </tr>=0D=0A      </tbody>=0D=0A     <=
+/table>=0D=0A    </div>=0D=0A    =0D=0A=0D=0A    <div class=3D"container co=
+ntainer-aws" style=3D"width: 600px; max-width: 100%; margin: 100px auto 0;"=
+ align=3D"left">=0D=0A      <div class=3D"container-inner container-aws-abo=
+ut" style=3D"background-color: hsl(213, 23%, 20%); color: white; margin: 0 =
+auto; padding: 24px;">=0D=0A        <p style=3D"margin: 0 0 10px;">=0D=0A  =
+        <strong style=3D"display: block; margin-top: 1.5rem; font-size: 18p=
+x;">About DevOps Institute:</strong>=0D=0A        </p>=0D=0A        <p styl=
+e=3D"margin: 0 0 10px;">The DevOps Institute is the continuous learning ass=
+ociation committed to advancing the human elements of DevOps success. Their=
+ mission is based on a framework of skills, knowledge, ideas, and learning =
+(SKIL) that IT professionals need to advance DevOps and their careers. All =
+of their work =E2=80=94 including accreditations, research, events, and con=
+tinuous learning programs =E2=80=94 is focused on equipping the global comm=
+unity with the "know-how" to make DevOps possible.=0D=0A        </p>=0D=0A =
+       =0D=0A        <p style=3D"margin: 0 0 10px;">=0D=0A          <strong=
+ style=3D"display: block; margin-top: 1.5rem; font-size: 18px;">About AWS M=
+arketplace:</strong>=0D=0A        </p>=0D=0A        <p style=3D"margin: 0 0=
+ 10px;">AWS Marketplace is a digital software catalog that makes it easy to=
+ find, try, buy, deploy, and manage software that runs on AWS. AWS Marketpl=
+ace has a broad and deep selection of ISV solutions that can help you drive=
+ modern application development in the cloud. These products can be integra=
+ted with AWS Services and other existing technologies, enabling you to desi=
+gn, deploy, and optimize applications using DevOps practice.</p>=0D=0A     =
+   <p><a href=3D"http://post.spmailtechnolo.com/f/a/riJ72JxgIatYU79_SZMqtQ~=
+~/AABEfgA~/RgRi2E1pP0QzaHR0cHM6Ly9hd3MuYW1hem9uLmNvbS9tYXJrZXRwbGFjZS9zb2x1=
+dGlvbnMvZGV2b3BzVwNzcGNCCmDvfcj1YAz6-DhSEzIwMDlAbWFyY2xhbmRvbHQuY2hYBAAAAAA=
+~" style=3D"color: #ED8F3B; text-decoration: none;">Visit AWS Marketplace</=
+a> to learn more.=0D=0A        </p>=0D=0A        <p><small>*The views and o=
+pinions of DevOps Institute and their presenter are their own and do not ne=
+cessarily reflect the positions of AWS</small></p>=0D=0A        <br />=0D=
+=0A        <p style=3D"margin: 0 0 10px;" align=3D"center">=0D=0A          =
+<a class=3D"btn" href=3D"http://post.spmailtechnolo.com/f/a/j3KT46lCiNQznZq=
+w1Xrg5Q~~/AABEfgA~/RgRi2E1pP0SCaHR0cHM6Ly9zcnYuYnV5c2VsbGFkcy5jb20vYWRzL2xv=
+bmcveC9UQ0RFMjdEVFRUVFRUVDNFWVVKQ1RUVFRUVFRRR0ZVREtUVFRUVFRUVjRTNVZZVFRUVFR=
+UVEFEUVAzUURWS0xEUDdCREwyTDRLUVFIRTJMVUs3M0ZUSkI0R1E3RVcDc3BjQgpg733I9WAM-v=
+g4UhMyMDA5QG1hcmNsYW5kb2x0LmNoWAQAAAAA" style=3D"white-space: nowrap; color=
+: white; text-decoration: none; background-color: #ED8F3B; text-transform: =
+uppercase; font-size: 16px; line-height: 18px; font-weight: bold; border-ra=
+dius: 4px; display: inline-block; border-bottom-width: 3px; border-bottom-c=
+olor: #a8700a; border-bottom-style: solid; margin: 0 3px; padding: 12px 30p=
+x;">=0D=0A            Register Now=0D=0A          </a>=0D=0A        </p>=0D=
+=0A      </div>=0D=0A    </div>=0D=0A    =0D=0A    =0D=0A    <div class=3D"=
+container" style=3D"width: 600px; max-width: 100%; margin: 100px auto 0;" a=
+lign=3D"left">=0D=0A      <div class=3D"container-inner" style=3D"backgroun=
+d-color: white; margin: 0 auto; padding: 24px;">=0D=0A       <h3 style=3D"f=
+ont-size: 20px; font-weight: 700; line-height: 1.1; margin: 0 0 10px;"> Mor=
+e CodePen News</h3>=0D=0A        <ul style=3D"margin: 0 0 20px 0; padding: =
+0; list-style: none;">=0D=0A<li style=3D"padding: 5px; border-bottom: 1px s=
+olid #E3E3E3;">yuanchuan crafts a hypnotic <a style=3D"text-decoration: non=
+e; color: #2F82DE;" href=3D"http://post.spmailtechnolo.com/f/a/mnDhgipU01vV=
+57J0PITOtA~~/AABEfgA~/RgRi2E1pP0QoaHR0cHM6Ly9jb2RlcGVuLmlvL3l1YW5jaHVhbi9wZ=
+W4vcUJtcnhWdlcDc3BjQgpg733I9WAM-vg4UhMyMDA5QG1hcmNsYW5kb2x0LmNoWAQAAAAA">ba=
+ckground animation</a>  with css-doodle.</li>=0D=0A<li style=3D"padding: 5p=
+x; border-bottom: 1px solid #E3E3E3;">Check out <a style=3D"text-decoration=
+: none; color: #2F82DE;" href=3D"http://post.spmailtechnolo.com/f/a/HB90yk9=
+GyHK15rst3I6uRA~~/AABEfgA~/RgRi2E1pP0QkaHR0cHM6Ly9jb2RlcGVuLmlvL2NvbGxlY3Rp=
+b24vYk5HSkJMVwNzcGNCCmDvfcj1YAz6-DhSEzIwMDlAbWFyY2xhbmRvbHQuY2hYBAAAAAA~">a=
+ collection of Pens inspired by video games</a> by Elisabeth Diang.</li>=0D=
+=0A<li style=3D"padding: 5px; border-bottom: 1px solid #E3E3E3;">Alex Trost=
+ digs into the details of <a style=3D"text-decoration: none; color: #2F82DE=
+;" href=3D"http://post.spmailtechnolo.com/f/a/tn82VPi-qlh_BF1V9BsKTw~~/AABE=
+fgA~/RgRi2E1pP0Q6aHR0cHM6Ly9mcm9udGVuZC5ob3JzZS9hcnRpY2xlcy9jb25jZW50cmljLW=
+NpcmNsZS1zcGlubmVyL1cDc3BjQgpg733I9WAM-vg4UhMyMDA5QG1hcmNsYW5kb2x0LmNoWAQAA=
+AAA">Luke Richardville's concentric circle spinner &quot;Bored&quot;</a>.</=
+li>=0D=0A</ul>=0D=0A      </div>=0D=0A    </div>=0D=0A   =0D=0A    =0D=0A  =
+=0D=0A    <div class=3D"footer" style=3D"margin: 100px 0 0 0;">=0D=0A      =
+=0D=0A      <div class=3D"container" style=3D"width: 600px; max-width: 100%=
+; text-align: left; margin: 20px auto 0;">=0D=0A        <div class=3D"conta=
+iner-inner" style=3D"padding: 24px; margin: 0 auto; background: white;">=0D=
+=0A          <p style=3D"font-size: 13px; margin: 0; color: #505050;">=0D=
+=0A            You can adjust your=0D=0A            <a=0D=0A              s=
+tyle=3D"text-decoration: underline; color: #505050;"=0D=0A              hre=
+f=3D"http://post.spmailtechnolo.com/f/a/_XJiTXRn_A3-KK9hOpbzig~~/AABEfgA~/R=
+gRi2E1pP0QpaHR0cHM6Ly9jb2RlcGVuLmlvL3NldHRpbmdzL25vdGlmaWNhdGlvbnNXA3NwY0IK=
+YO99yPVgDPr4OFITMjAwOUBtYXJjbGFuZG9sdC5jaFgEAAAAAA~~"=0A            >=0D=0A=
+              email preferences=0D=0A            </a>=0D=0A            any =
+time, or=0D=0A            <a=0D=0A              style=3D"text-decoration: u=
+nderline; color: #505050;"=0D=0A              href=3D"http://post.spmailtec=
+hnolo.com/f/a/jBYVnuHl1HLYLSKSToGB4w~~/AABEfgA~/RgRi2E1pP0S9aHR0cHM6Ly9jb2R=
+lcGVuLmlvL3NldHRpbmdzL25vdGlmaWNhdGlvbnMvb3B0b3V0P191bj1FOGJkYzdNJTJGb0lLU0=
+Ryd2U1VVRwMGglMkJzU0lkSGNsZ3RpaEdYYlY5dVc3SHhNT1llaHJtRmE5QkZGdzVOMXY0eFJKR=
+mlRVGtEcGQwWUJ0VWFwJTJGa0Y5cG0wakhUbDExSGpxcFFKak0ybVJsOGpFSlclMkZKcUJka3Zz=
+Uzh3JTNEJTNEVwNzcGNCCmDvfcj1YAz6-DhSEzIwMDlAbWFyY2xhbmRvbHQuY2hYBAAAAAA~"=
+=0A            >=0D=0A              instantly opt out=0D=0A            </a>=
+=0D=0A            of emails of this kind. Need help with anything=3F Hit up=
+=0D=0A            <a=0D=0A              style=3D"text-decoration: underline=
+; color: #505050;"=0D=0A              href=3D"http://post.spmailtechnolo.co=
+m/f/a/e7yLJc1nDIexG_U5NBmDWw~~/AABEfgA~/RgRi2E1pP0QaaHR0cHM6Ly9jb2RlcGVuLml=
+vL3N1cHBvcnRXA3NwY0IKYO99yPVgDPr4OFITMjAwOUBtYXJjbGFuZG9sdC5jaFgEAAAAAA~~"=
+=0A              >support</a=0D=0A            >.=0D=0A          </p>=0D=0A =
+       </div>=0D=0A      </div>=0D=0A    </div><!-- footer -->=0D=0A    =0D=
+=0A  </div><!-- content -->=0D=0A  =0D=0A</div><!-- main -->=0D=0A =0D=0A=
+=0D=0A<img border=3D"0" width=3D"1" height=3D"1" alt=3D"" src=3D"http://pos=
+t.spmailtechnolo.com/q/wJ6l22KoRJL-s1s8b9usCA~~/AABEfgA~/RgRi2E1pPlcDc3BjQg=
+pg733I9WAM-vg4UhMyMDA5QG1hcmNsYW5kb2x0LmNoWAQAAAAA">=0D=0A</body>=0D=0A=0D=
+=0A</html>
+

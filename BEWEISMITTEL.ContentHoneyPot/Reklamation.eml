@@ -1,0 +1,97 @@
+Return-Path: <lama50@gmx.ch>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.4.2.218])
+	by popimap018.mail.hostpoint.internal with LMTP
+	id qGImCw1Tq2CgNgEApkpzRw
+	(envelope-from <lama50@gmx.ch>)
+	for <mail@marclandolt.ch>; Mon, 24 May 2021 09:17:33 +0200
+Received: from mxin018.mail.hostpoint.ch ([10.4.2.218])
+	by mail-lb1.adm.hostpoint.ch with LMTP
+	id kJ/eCg1Tq2CmFQAA9BAvQA
+	(envelope-from <lama50@gmx.ch>)
+	for <mail@marclandolt.ch>; Mon, 24 May 2021 09:17:33 +0200
+Received: from mout.gmx.net ([212.227.15.15])
+	by mxin018.mail.hostpoint.ch with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.94.2 (FreeBSD))
+	(envelope-from <lama50@gmx.ch>)
+	id 1ll4qD-000IW7-3t
+	for mail@marclandolt.ch; Mon, 24 May 2021 09:17:33 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=gmx.net;
+	s=badeba3b8450; t=1621840652;
+	bh=Sq1MTA8uspFml3FfdnJjflhsEMho1I2MIP0a/DrYSdw=;
+	h=X-UI-Sender-Class:To:From:Subject:Date;
+	b=OX6P+lLmhsyUBPv8xnlbHhcab3qf8xUaME68a8Wh/Ng5Yk43A62G7D7jKLqUKNYsP
+	 0F4AI7GIemXCN7sVKIq0yYCvmS04C1oHC/D1LHf+UHINc9Mso6WqmIVKF9H8NhiRoE
+	 ZaFmiRTT9JO7buMsa6VRteSkVMiyGqwpcEBXfQZs=
+X-UI-Sender-Class: 01bb95c1-4bf8-414a-932a-4f6e2808ef9c
+Received: from [192.168.1.18] ([91.138.17.137]) by mail.gmx.net (mrgmx005
+ [212.227.17.190]) with ESMTPSA (Nemesis) id 1N7QxL-1lNnnt1yKz-017nkj; Mon, 24
+ May 2021 09:17:32 +0200
+To: Marc jun Landolt <mail@marclandolt.ch>
+From: lama50 <lama50@gmx.ch>
+Subject: Reklamation
+Message-ID: <4be9e954-4670-e3de-f8b1-f1fbb300f235@gmx.ch>
+Disposition-Notification-To: lama50 <lama50@gmx.ch>
+Date: Mon, 24 May 2021 09:17:32 +0200
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101
+ Thunderbird/78.10.2
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: quoted-printable
+X-Provags-ID: V03:K1:Yt8n0XLhpq//9QRs1ZERAe+yA+EL3Lqhm2p33I9s21Gse08VeXN
+ jpO/IH8lONofAk9iNc7WAteDx1lEyOoZ3yjWdHxvKZFPRbL9ypiFRuAdcSY0MsY3LaLCC0W
+ aHHObuu5CiXCp92B2CpOCnsNzRP8+gOib2bbqOeiPatCgLOS+b3rpDXWSgPozTTjHnRziok
+ +vqhDcLjnFaIs2YMCpdlg==
+X-Spam-Flag: NO
+X-UI-Out-Filterresults: notjunk:1;V03:K0:deJIqy3hRSk=:KRh4nirp8SxDIRpPWv9ZC2
+ Ggbjy55o3uJxqN9BN0ah+wBPCwqFkUrwQmqAUephF24G4UjVm+pWAhX6uy9ixyGP1PQbxeYfC
+ T/jTSkXup2sUmApf1+5JfpuSZiNYxhNOcum6/rLEiGAmtdOZvow6yZm/PJIyrH1euu4z7MEsQ
+ cszhf9Q1bmfFKs+i+LJNY6pI0ABRMWON9DdBukun61KCbDo/gJK8XIVTQ98RhPA5LWdPmNuQM
+ k2YQ0tQYEFOX45HTMT+2LVVdI7xFZ9cqlLgDHpG4zp2qBJsRDlnuGFx/vvSonq88ZevSxCTAR
+ qZYRAXeURtDfHAazQBRRfGlcawKR77Fg6bBHiSepf6Ul9d/GCLB1+Xy7pSvr1ACUAexh/VpLh
+ qtZynOUF4bNb9mV7ke4cC9KDNgGiRAwhNR5zZbzVQyV5hp3JoFbA+1ZM4rYOwedvrT/54Auty
+ o7OeHDgupe93S7tVWjYYGvm2JidpP+6eb3OzTgzwri985ZaNwqF9FBLPX81J4/hE2vAF18Jw7
+ lIT/vxdEbL6JgTB+l/knz+AajMYw6qK9JgC3/ykyvzBZgvejYC23LHUvgFNIE8/gnqQ5FMJrS
+ nESv04Z7inN+6ZbQ1rjHw9nYqG7Hu9oh6Jz5d4Y0qJOstrYhK6eBwkKSxBIDDFAa1c1vaXrdG
+ Ny/VCvW51DXH+O+Yrhyrk8KYZL0lWsbt9u5ftxbP/j0w5mJDkvv/zSr3Z1djDIj5+vAz/BGAT
+ 23ToeGoH79E+S5vk4l10MVUVDS4lxrm90F2/PzFRCt0uBJXJY4B0UQWj5etsn/SHQ+h6u83hc
+ ErJTII+RkJC6cNkZcW7Yrcu1YReUuVMCAvVb6Aq92I5pOLdoq3L4u6l3vzYJqEqs3mGrNzdT0
+ whgazAB2Ur3krKpZaFKPjInhUKGlAv+lCasoaeZG8wAvsxaa5KBrzMYydOE93fjVtznX0QW6b
+ 4vGlAu6FosVDrWVjMuhJDZDt1qFZQq+orWfVclaDsJNago8bSmBWL4/gDqJnOtna/MFDqDN4F
+ 8B2HQPStR7L2At5qjbqgkrTmhMaIk7zPJHAtFKyyK3fB2GsZR9K0gZripSH/c/SolxZ3a6EJ4
+ Zy4Fwkv+4L8Bv+EH4qMKi83lN2yNYy1eW+9haukNy/1uXzCpk0rRI9BGJUfLnKXcfmZ1QgBXL
+ vlXHVUgY1vMfJj8uUr7peqIgiFXzjWj+87DyFHgKIHSuaMZAbSQh3nxC/Y0caovBGTTJY=
+X-Vs-State: LEGIT
+X-Hostpoint-Spambox: NO
+
+Hallo Marc,
+
+wir haben von Deiner Mitbewochnerin unten eine Reklamation engegennehmen
+m=C3=BCssen.
+
+Sie beschwert sich =C3=BCber den L=C3=A4rm, den Du NACHTS machst - lautes =
+Husten,
+Schreien, mit den F=C3=BCssen tapsen,
+
+lautes R=C3=A4uspern und "Chodere", Sie und ihr Partner k=C3=B6nnten nicht=
+ mehr
+schlafen.
+
+Bitte, bitte unterlasse das doch!
+
+Sie wird die Polizei rufen, wenn das nicht aufh=C3=B6rt.
+
+Wie wir jeweils sehen, hast Du die L=C3=A4den immer geschlossen.
+
+Sei daf=C3=BCr besorgt, dass die Wohnung regelm=C3=A4ssig gel=C3=BCftet wi=
+rd. Sonst
+wird es schimmlig,
+
+und das wollen wir nicht. Das geh=C3=B6rt zu den Pflichten des Mieters!
+
+
+Liebe Gr=C3=BCsse
+
+Mama und Papa
+
+

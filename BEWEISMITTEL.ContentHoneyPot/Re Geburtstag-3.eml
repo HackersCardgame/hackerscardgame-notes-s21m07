@@ -1,0 +1,92 @@
+Return-Path: <lama50@gmx.ch>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.4.2.214])
+	by popimap018.mail.hostpoint.internal with LMTP
+	id 8LyvGwY50GAX3AAApkpzRw
+	(envelope-from <lama50@gmx.ch>)
+	for <mail@marclandolt.ch>; Mon, 21 Jun 2021 09:00:22 +0200
+Received: from mxin014.mail.hostpoint.ch ([10.4.2.214])
+	by mail-lb1.adm.hostpoint.ch with LMTP
+	id CJh2GwY50GDdeAEA9BAvQA
+	(envelope-from <lama50@gmx.ch>)
+	for <mail@marclandolt.ch>; Mon, 21 Jun 2021 09:00:22 +0200
+Received: from mout.gmx.net ([212.227.15.15])
+	by mxin014.mail.hostpoint.ch with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.94.2 (FreeBSD))
+	(envelope-from <lama50@gmx.ch>)
+	id 1lvDuw-000GKW-Ao
+	for mail@marclandolt.ch; Mon, 21 Jun 2021 09:00:22 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=gmx.net;
+	s=badeba3b8450; t=1624258821;
+	bh=5g5c8BxNTI6s6DsLD0qjKmqVKZ0JcYO3Ivcrcf1/hVI=;
+	h=X-UI-Sender-Class:From:Subject:References:In-Reply-To:To:Date;
+	b=DZyHBt5yo9t4kvFECIxuE06ytUyC94I13CElSLfkLk6lg0wzejeCXCxqX1oSv3aro
+	 HDtpC7tPtoM1XDlIXuKiQfi+690vQxVKfvam686IjinOq7lByQLZHbVdymcx4l1gpG
+	 mAL7INui2PbTgosVwpuqS/NiepAuUxavh+ukEEH4=
+X-UI-Sender-Class: 01bb95c1-4bf8-414a-932a-4f6e2808ef9c
+Received: from smtpclient.apple ([91.138.17.137]) by mail.gmx.net (mrgmx005
+ [212.227.17.190]) with ESMTPSA (Nemesis) id 1Mnps0-1lTFuB2rKU-00pIsN; Mon, 21
+ Jun 2021 09:00:21 +0200
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+From: Lama <lama50@gmx.ch>
+Mime-Version: 1.0 (1.0)
+Subject: Re: Geburtstag
+Message-Id: <408F84AE-C09E-43D4-8110-AD650E82D848@gmx.ch>
+References: <304d3a7f-e8e9-b38a-680e-9a4c57debca7@marclandolt.ch>
+In-Reply-To: <304d3a7f-e8e9-b38a-680e-9a4c57debca7@marclandolt.ch>
+To: "Marc jr. Landolt" <mail@marclandolt.ch>
+Date: Mon, 21 Jun 2021 09:00:21 +0200
+X-Mailer: iPad Mail (18F72)
+X-Provags-ID: V03:K1:rm71hRMzT7oa4omUZeNVELH9HtVl/midpjKdGhyrl9qoH6St+Qp
+ lmlZge6cGyabZVx8rr2EOG6XReyusJJIcTGixbkfgW4oAq/jtjvegR6o3PzSjtwpm0dMm4a
+ NUSpoLYAAgXN1Vgjy+2bH8ZyU2eCbMZpJVxW0zKYtXgrd5NjxuiIljj8fVZPpMW15UdNKAE
+ kA49LIJBqALosMsTff/AQ==
+X-Spam-Flag: NO
+X-UI-Out-Filterresults: notjunk:1;V03:K0:JhB24NQxVFA=:66PcRiW4inVsjZFbaYv88v
+ C2H3Hjp27s2vgnPAKhJqyg9CtCCCzSCj9DUGYZEpIAVYKep31vVqLSYZ2SHjcvwuRCY6U8L/c
+ ZishT95Gbj57Mb5B2bcn+2dfOVideV9+4VFZC82qGKFxFifuK+SSF8xXcowGcQKANjnYOwHaP
+ DlHVYWhgxQsW3/XZy7sxOsojw0gxDnuhw8ZRUk8bAEShARcNMofFqxWspOY0DH022XyW6qtaf
+ zZJqtp+R4Nd8J+YdOVtZCYnVBPgNmSYLM7DRDgtAh6YyUdWFTwNmRnuJShLRpaETmlijZcye3
+ C8uYJX5KeLG64U1UxREqPD1KSqTcX70Oo/VgrCMBaGzqcqpYxn+6g7AJs7LWmbAdahs8ceejr
+ ZqCg0zLd/BOLMnBOYt+9b/kqQSNOaM6vztulS+DJS0JgMymmyYXQTZbHHPydZ+6ZTwwPuOB4I
+ t2EH5RwvXDkYerhuj4s/seJSSnjQeXMTv5uGWrwmvLJDrViHqbhm8tHhsnvX3qvtaxBbIPmFL
+ 4gLFR5tOn60rSQ2RqUYZQYLN6B833DDxKbpZS3e9g3ZER+n+gn05cBpzn1aToRcb1Zpd+0uHm
+ LeDksrDkJeE/NZZr9jcXpoqYwh2yqEosIaUa7lR4+39aeho4bSHOXhwyRRx6tksMS+hftd4wC
+ cDtpTSGr29FKf6JsJL808tWuHOeyZYdjwmoRhhPWmVm45RwFVwuOzte9FSO8i9RI+adNdD1Z1
+ K9/uw/IWfxpwI2XTMEKaN62R8epfIRyZ2JHZznQwKjWdXYB+/Ussr3Sa5JEfwUg/2v+qbrvJX
+ wpvcIJYbaU9HSZm5D18i/dWAnyB+GRRt/JHJm9F4xqnHHeNwAV40nHWbB4dTLVKUH5dod3hpb
+ buezfT26LiwjLr1Y2XiR6Jil5puZJf3BGGkLBfZAysct8nLuksNZxcWMiFQF1inZJoM91OHkt
+ p3lAraejImghq5kgjfJes8p3ECkT6Kh1Ku3SNqVn65ctNSf6stXyW/PsViwrIVgj8oIQf8Jm7
+ 6vzR8R+oxUtvbDaYVu6ePcPmhMwXPpi8gXGXdGOONBNRUnyKnQOKvW7idf5V2SsxUrTTapScI
+ JgHuPkjxmpf95opGiQabD04y2muLoNhJLsH
+X-Vs-State: LEGIT
+X-Hostpoint-Spambox: NO
+
+Das haben wir geschrieben:
+
+Hallo Marc.
+
+
+Deinem Mail nach entnehmen wir, dass Du den Geburtstagsbatzen in "Bar"
+m=C3=B6chtest.
+
+Ok - sage uns wann und wo wir ihn Dir pers=C3=B6nlich =C3=BCbegeben k=C3=B6n=
+nen.
+
+Gruss Mama und Papa
+
+> Am 21.06.2021 um 06:50 schrieb Marc jr. Landolt <mail@marclandolt.ch>:
+>=20
+> =EF=BB=BFhalli hallo
+> da war glaub noch ein mail von Dir, das ist jetzt aber irgendwie verschwun=
+den?
+>=20
+>> On 6/17/21 12:11 PM, lama50 wrote:
+>> Hallo Marc,
+>> wir gratulieren Dir zum Geburtstag.
+>> Der Geburtstagsbatzen liegt bereit, sage uns nur noch in welcher Form,
+>> wo und wann Du ihn in Empfang nehmen m=C3=B6chtest.
+>> Meld Dich einfach bei uns.
+>> Mama und Papa
+

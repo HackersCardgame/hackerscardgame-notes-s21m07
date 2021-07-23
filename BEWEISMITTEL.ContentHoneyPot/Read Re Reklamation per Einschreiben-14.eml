@@ -1,0 +1,119 @@
+Return-Path: <walter.kueng@ag.ch>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.4.2.215])
+	by popimap018.mail.hostpoint.internal with LMTP
+	id qMDgGvAL+2An2gAApkpzRw
+	(envelope-from <walter.kueng@ag.ch>)
+	for <mail@marclandolt.ch>; Fri, 23 Jul 2021 20:35:28 +0200
+Received: from mxin015.mail.hostpoint.ch ([10.4.2.215])
+	by mail-lb1.adm.hostpoint.ch with LMTP
+	id SHWHGvAL+2AR6QAA9BAvQA
+	(envelope-from <walter.kueng@ag.ch>)
+	for <mail@marclandolt.ch>; Fri, 23 Jul 2021 20:35:28 +0200
+Received: from xmgw06.ag.ch ([193.47.120.63])
+	by mxin015.mail.hostpoint.ch with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2 (FreeBSD))
+	(envelope-from <walter.kueng@ag.ch>)
+	id 1m701A-000NVt-9F
+	for mail@marclandolt.ch; Fri, 23 Jul 2021 20:35:28 +0200
+IronPort-SDR: b2y3N0JH8CMIieKul7Ob5MGEubd4m/MiFXyXoYEmvNTRR2X0f1i1Jpx+184xW7XJzD5ofjKTmJ
+ tJjkLQefDNrQ==
+X-IronPort-AV: E=Sophos;i="5.84,264,1620684000"; 
+   d="scan'208,217";a="109492030"
+Received: from unknown (HELO xmgw51.ag.ch) ([193.47.120.51])
+  by xmgw06.ag.ch with ESMTP/TLS/ECDHE-RSA-AES128-GCM-SHA256; 23 Jul 2021 20:35:27 +0200
+Received: from xmgw06.ag.ch (xmgw06.ag.ch [193.47.120.63])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by xmgw51.ag.ch (Postfix) with ESMTPS
+	for <mail@marclandolt.ch>; Fri, 23 Jul 2021 20:35:27 +0200 (CEST)
+IronPort-SDR: kX8UZD1YbSEBn7mleZap47OYafzuHn6YKRTmd7C51RmUtP1P/vK/rU2b394msK4EXvbGKTJpdn
+ 5bVVpD1ovc+w==
+X-IronPort-AV: E=Sophos;i="5.84,264,1620684000"; 
+   d="scan'208,217";a="109492020"
+Received: from unknown (HELO smtp.ktag.ch) ([10.116.181.141])
+  by xmgw06.ag.ch with ESMTP/TLS/ECDHE-RSA-AES128-GCM-SHA256; 23 Jul 2021 20:35:26 +0200
+Received: from spwex00033.ADS.KTAG.CH (10.116.181.140) by
+ spwex00034.ADS.KTAG.CH (10.116.181.141) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.1.2242.12; Fri, 23 Jul 2021 20:35:26 +0200
+Received: from spwex00033.ADS.KTAG.CH ([fe80::d102:e6c6:c627:d6f4]) by
+ spwex00033.ADS.KTAG.CH ([fe80::d102:e6c6:c627:d6f4%5]) with mapi id
+ 15.01.2242.012; Fri, 23 Jul 2021 20:35:26 +0200
+From: =?iso-8859-1?Q?K=FCng_Walter__GKABGAAR?= <Walter.Kueng@ag.ch>
+To: "Marc jr. Landolt" <mail@marclandolt.ch>
+Subject: Read: Re: Reklamation per Einschreiben
+Thread-Topic: Reklamation per Einschreiben
+Thread-Index: AQHXflmQ8n5WzqsOd0SvobU1LUqd1atN5WEAgAF/woCAAUGUAA==
+Date: Fri, 23 Jul 2021 18:35:25 +0000
+Message-ID: <6004879ba0bc45b7a33f50007275b754@ag.ch>
+Accept-Language: de-CH, en-US
+Content-Language: de-CH
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Content-Type: multipart/report;
+	boundary="_000_6004879ba0bc45b7a33f50007275b754agch_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-SM-outgoing: yes
+X-Vs-State: LEGIT
+X-Hostpoint-Spambox: NO
+
+--_000_6004879ba0bc45b7a33f50007275b754agch_
+Content-Type: multipart/alternative;
+	boundary="_002_6004879ba0bc45b7a33f50007275b754agch_"
+
+--_002_6004879ba0bc45b7a33f50007275b754agch_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Ihre Nachricht
+
+   An: K=FCng Walter  GKABGAAR
+   Betreff: Re: Reklamation per Einschreiben
+   Gesendet: Freitag, 23. Juli 2021 18:47:50 (UTC+01:00) Amsterdam, Berlin,=
+ Bern, Rom, Stockholm, Wien
+
+ wurde am Freitag, 23. Juli 2021 20:35:25 (UTC+01:00) Amsterdam, Berlin, Be=
+rn, Rom, Stockholm, Wien gelesen.
+
+--_002_6004879ba0bc45b7a33f50007275b754agch_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:10pt;">
+<div class=3D"PlainText">Ihre Nachricht <br>
+<br>
+&nbsp;&nbsp; An: K=FCng Walter&nbsp; GKABGAAR<br>
+&nbsp;&nbsp; Betreff: Re: Reklamation per Einschreiben<br>
+&nbsp;&nbsp; Gesendet: Freitag, 23. Juli 2021 18:47:50 (UTC&#43;01:00) Amst=
+erdam, Berlin, Bern, Rom, Stockholm, Wien<br>
+<br>
+&nbsp;wurde am Freitag, 23. Juli 2021 20:35:25 (UTC&#43;01:00) Amsterdam, B=
+erlin, Bern, Rom, Stockholm, Wien gelesen.</div>
+</span></font>
+</body>
+</html>
+
+--_002_6004879ba0bc45b7a33f50007275b754agch_--
+
+--_000_6004879ba0bc45b7a33f50007275b754agch_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; Walter.Kueng@ag.ch
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: +5EMutttZ0KlZA5YQMtqfg==
+Original-Message-ID: <8d708b7f-b7c1-d264-ceca-2758f1ce5d93@marclandolt.ch>
+X-Display-Name: =?iso-8859-1?Q?K=FCng_Walter__GKABGAAR?=
+
+
+--_000_6004879ba0bc45b7a33f50007275b754agch_--

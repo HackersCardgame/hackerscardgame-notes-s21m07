@@ -1,0 +1,96 @@
+Return-Path: <mail@marclandolt.ch>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.0.0.105])
+	by popimap018.mail.hostpoint.ch with LMTP
+	id oEqeJt+AKmCjygAA7JE5TA
+	(envelope-from <mail@marclandolt.ch>)
+	for <mail@marclandolt.ch>; Mon, 15 Feb 2021 15:10:39 +0100
+Received: from asmtp013.mail.hostpoint.ch ([10.0.2.46])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits))
+	by mail-lb1.adm.hostpoint.ch with LMTP id +PWqIN+AKmDeRgAA9BAvQA
+	; Mon, 15 Feb 2021 15:10:39 +0100
+Received: from 178-82-215-219.dynamic.hispeed.ch ([178.82.215.219] helo=[192.168.179.221])
+	by asmtp013.mail.hostpoint.ch with esmtpsa (TLSv1.3:TLS_AES_256_GCM_SHA384:256)
+	(Exim 4.92.3 (FreeBSD))
+	(envelope-from <mail@marclandolt.ch>)
+	id 1lBeaF-000HgO-CQ; Mon, 15 Feb 2021 15:10:39 +0100
+X-Authenticated-Sender-Id: mail@marclandolt.ch
+Subject: Mathematik Hinweis zu Pivot Elementen und Rasterfahndung
+From: "Marc jr. Landolt" <mail@marclandolt.ch>
+To: Hanno Katrin <Katrin.Hanno@pdag.ch>, Elisabeth.Bauhofer@ag.ch,
+ info@fedpol.admin.ch, info@kapo.ag.ch,
+ Schleusener Samer <Samer.Schleusener@pdag.ch>, AarauEPD <EPD.Aarau@pdag.ch>,
+ direktion@bger.ch, "Kanzlei@bger.ch" <Kanzlei@bger.ch>,
+ eduard.zander@pdag.ch, marianne.gisi@pdag.ch, svaaargau@sva-ag.ch,
+ info@sva-ag.ch, kb3.bern@helsana.ch, HELSANA <helsana.news@helsana.ch>,
+ =?UTF-8?Q?K=c3=bcng_Walter_GKABGAAR?= <Walter.Kueng@ag.ch>,
+ michael.ritter@kapo.ag.ch, marco.spring@ag.ch,
+ Obergericht.Verwaltungsgericht@ag.ch, f.rohrer@rmp.ch,
+ Mietschlichtung.Aarau@ag.ch, neurologie@ksa.ch, d.zschokke@gmail.com,
+ 2009@marclandolt.ch, Lama <lama50@gmx.ch>, christian.tanner@fedpol.admin.ch
+References: <4bd9f7c1-eb8b-8570-bfa0-4b1c6c9f8ae7@marclandolt.ch>
+ <d06c192e56124412bbfc4e1b665b6fff@INFSGE1207.health.root.loc>
+ <d29a8917-39c8-2de3-6681-0bb63c62613d@marclandolt.ch>
+ <fa78fc5943614a30a829878b6a41f2d8@INFSGE1207.health.root.loc>
+ <37e6d6e4-35eb-9d23-3d84-f3bf54f6d4d4@marclandolt.ch>
+ <6a0d50a8-8efb-b083-8554-7612d776c7b7@marclandolt.ch>
+ <4bccb299-37d7-2902-418e-32b474bde14f@marclandolt.ch>
+ <e4cd28ba-f775-d7b7-acd4-df8393323f47@marclandolt.ch>
+ <da372e77-9c5a-660d-96a4-64d61b121269@marclandolt.ch>
+ <b97e623b-b98e-e80b-bc51-81726d0c17f9@marclandolt.ch>
+Message-ID: <29f8adbd-9a7e-3692-64f6-2417e4fc0103@marclandolt.ch>
+Disposition-Notification-To: "Marc jr. Landolt" <mail@marclandolt.ch>
+Date: Mon, 15 Feb 2021 15:10:35 +0100
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101
+ Thunderbird/78.7.1
+MIME-Version: 1.0
+In-Reply-To: <b97e623b-b98e-e80b-bc51-81726d0c17f9@marclandolt.ch>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Forwarded-Original-Recipient: 2009@marclandolt.ch 
+X-Original-To: 2009@marclandolt.ch
+X-Hostpoint-Spambox: NO
+
+Guten Tag
+
+@ Christian: Du bist ja irgendwie mal so Mathe Zeugs Student gewesen, 
+somit nehem ich Dich mal wieder in den Verteiler, weil ich finde das ist 
+allenfalls eine gute Idee und allenfalls was Du als Mensch mit mehr 
+Mathe Skills noch besser sagen könntest...
+
+
+man kann ja in einem Sozio-Netzwerk-Graphen (Mathe::GraphenTheorie) das 
+"Pivot Element" ermitteln.
+
+Bsp:
+Jemand im Umfeld hat die Zähne ausgeschlagen bekommen über 7 Umwege 
+würde man allenfalls mal die FamilienMitglieder verdächtigen, 
+insbesondere wenn die Eltern auf irgendwelche grösseren militärischen 
+Computernetzwerke / Überwachung oder "Überwachung" Zugriff hätten.
+
+Da das jetzt allenfalls auffällt und jemand zu Recht beanstandet, dass 
+er ein bestimmtes Familien Mitgleid mit Jahrgang 1960 verdächtigt, würde 
+man (insbesondere mit Zugriff auf diese Militärischen Netzwerke) wieder 
+über 7 Ecken noch jemand Anderen auch die Zähne verlieren lassen, womit 
+sich das Pivot Element (also die Person die in Zusammenhang gebracht 
+werden kann mit einer spezifischen Art von Angriff oder Waffe) zu 
+Gunsten des Ursprünglichen 1960er Täters verschieben.
+
+Solche Pivot Elemente kann man somit manipulieren. ABER (zur Zeit) 
+allenfalls nur wenn man einen statischen Zeitpunkt (z.B. Jetzt) nimmt 
+für die Berechnung.
+
+Würde man die P i v o t    E l e m e n t e i n    A b h ä n g i g k e i 
+t   d e r   Z e i t   betrachten (afaik kann man mit Gephi auch 
+Datenreihen animieren) würde es relativ schnell auffliegen, falls z.B. 
+der nölende ~1980er nachträglich zum Pivot Element gemacht wurde.
+
+
+Mit freundlichen Grüssen
+Marc jr. Landolt
+eidg. dipl. Informatiker HF
+Neuenburgerstrasse 6
+5004 Aarau
+062 822 61 31
+078 674 15 32
+

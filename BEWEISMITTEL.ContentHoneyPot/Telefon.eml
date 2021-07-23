@@ -1,0 +1,82 @@
+Return-Path: <lama50@gmx.ch>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.0.0.105])
+	by popimap018.mail.hostpoint.ch with LMTP
+	id mCd7LjFLBWCfpAAA7JE5TA
+	(envelope-from <lama50@gmx.ch>)
+	for <mail@marclandolt.ch>; Mon, 18 Jan 2021 09:47:45 +0100
+Received: from mxin016.mail.hostpoint.ch ([10.4.2.216])
+	by mail-lb1.adm.hostpoint.ch with LMTP id QElcLjFLBWBEAQEA9BAvQA
+	; Mon, 18 Jan 2021 09:47:45 +0100
+Received: from mout.gmx.net ([212.227.17.20])
+	by mxin016.mail.hostpoint.ch with esmtps (TLSv1.3:TLS_AES_256_GCM_SHA384:256)
+	(Exim 4.92.3 (FreeBSD))
+	(envelope-from <lama50@gmx.ch>)
+	id 1l1QCP-000JsA-MQ
+	for mail@marclandolt.ch; Mon, 18 Jan 2021 09:47:45 +0100
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=gmx.net;
+	s=badeba3b8450; t=1610959664;
+	bh=IciGPSPErF/LE218a77uZMb8t/a1Y5WUBUf6TTjZg5I=;
+	h=X-UI-Sender-Class:To:From:Subject:Date;
+	b=gWrabDpCDy5bOW6Ur9V5p56yKw6JNcmnUQT/pegNAdmhrmJVOI6RSd99oCBOXIHq2
+	 cCVXQwoLpzRcKfOmZZHMBiPcezgXGXw7C95C0hZofmjsH/4R17dlpuabYg7xPDzGra
+	 E2rjCl+APbcLc9i1kU4DPEVaRUrc4IEorTwXjG9w=
+X-UI-Sender-Class: 01bb95c1-4bf8-414a-932a-4f6e2808ef9c
+Received: from [192.168.0.106] ([91.138.4.204]) by mail.gmx.com (mrgmx104
+ [212.227.17.168]) with ESMTPSA (Nemesis) id 1MvK4f-1ls0mn2nT7-00rFWj; Mon, 18
+ Jan 2021 09:47:44 +0100
+To: Marc jun Landolt <mail@marclandolt.ch>
+From: lama50 <lama50@gmx.ch>
+Subject: Telefon
+Message-ID: <deb03651-4171-52cb-340b-7a8647636e28@gmx.ch>
+Disposition-Notification-To: lama50 <lama50@gmx.ch>
+Date: Mon, 18 Jan 2021 09:47:45 +0100
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101
+ Thunderbird/78.6.1
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: quoted-printable
+X-Provags-ID: V03:K1:PmDMAgRf2+qibONGAElSewH3zgdrPZYtySUZZZhxkyVL0sfh1ca
+ 32AJYGlpDUNeK+r0xWH3KsHgipq3k7fXbMvJgoLuZzIxqEiIFuqTLg9deLWwwJvma8JITNI
+ pZhPEmeVI3ASaSrSRUthkXNPrX7jKRUQc7T58kj1S0R8/sJ/viN4f6ne8YMfIuHtBjBxI/f
+ cPWW8b18jvED5OPOcw+bg==
+X-Spam-Flag: NO
+X-UI-Out-Filterresults: notjunk:1;V03:K0:U+YMcryhDW0=:LTaeEns5yR9lMNrCLFdffJ
+ hyXdi6oI58xHHqdGTIeRidg2gMSqwhSs68mY8FwLMcjf1801xOTYb1DJgxSlDZgoFy1NmUkhf
+ nQmyTQFo4UqXSKNwFs8ywKsiRFBDlM1zPyrT4XeypVy6mGCIhEbO7ge8bdZoMFapKVkudOCXz
+ MpxH41aZ3oqc3UCr30S1r/8BJ96YsGxrizKrsKupQyPvdYVYWD70ULCzdH9Zkp93+F6IxGoak
+ tTxW4WjmHyFb8GB7b5JbgGWYY44kE/TM+81aPjBrtMHv+2bb6myzzjUBQjEU3hbMKP0IiE1WI
+ u0kzopSP6nAh1NZ394HaWhtYfsJrgCXu4FSBDK9d8j/u+fx3/k2fu1RzWv8srfaNNSNv1uRS1
+ Tafn60IXglv4H6pmYDm0YRb73Z9IjQFogwZQ8wGxPaUO1/XcaaqkTva8kuv0iYfpybGOWXp/G
+ m1A+GiUUzM+7yz1R5eKzmz0OoJ3J1rdD60d5miZK2qzsjotesA1ObU9oIQo5EEPo/u+MwsKqv
+ u7SO+UuBkw72aMQHBdL6egp2GoVsmMbMnVbNZ1cpMbU0fwY35W/4st42D8ngTQS2tLCT1h6ep
+ AOLG4P6OvQQqJ1OnlOWDQQcit+wG0BmTD+whpe20YDeuu5dxDTaQvZHfu8V5pyZg6f+3wG14p
+ Q11HiNtvsBJSTNS/5kpMNkwIyj9XRZC1qmPhzQfRyL8iyfc0oFult2CMaRm7uktOfASplOosP
+ 4pn7XdgMYnsZ3JPqkbYjCcHTzSHZb9DBSPwMQAyvd3B3PBqVdA4WLserEwV3vWUqzMzp/NJI5
+ /XMJAFmCC5ax1RYrNW+6e8IT12HbQBV69LybMLgtSc4Ah8b1y1wsL5wakmDltALjPI0RKP7LN
+ PlxfgHsWS8MxcHmKjOGQ==
+X-Vs-State: LEGIT
+X-Hostpoint-Spambox: NO
+
+Hallo Marc,
+
+soeben haben wir von der Realit Verwaltung ein Telefon erhalten
+
+- sie h=C3=A4tten von Dir eine Mail erhalten - irgendwas wegen der Waschk=
+=C3=BCche?
+
+Ich habe dem Herrn gesagt, das verschw=C3=B6rerische Mail zu ignorieren.
+
+Unser Sohn leide an einer schweren, paranoiden Schizofrenie und
+
+h=C3=A4ttest seit einem guten Jahr keine Medikamente mehr.
+
+Bitte unterlasse solche Mails an die Verwaltung.
+
+Wende Dich an uns, wenn es um ein konkretes Problem handelt.
+
+
+Liebe Gr=C3=BCsse,
+
+Mama und Papa
+

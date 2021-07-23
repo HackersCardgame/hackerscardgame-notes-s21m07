@@ -1,0 +1,111 @@
+Subject: Re: [Case-Nr.: 31749932] EFFIZIENTer - COM
+From: "Marc jr. Landolt" <mail@marclandolt.ch>
+To: Hostpoint Support <support@hostpoint.ch>
+References: <72950448-318b-0999-9f43-391a375d8803@marclandolt.ch>
+ <97c485a2-6bbc-d845-2bc1-51bea563b258@marclandolt.ch>
+ <ffca0870-ea10-4ba0-490d-2b13af7ec760@marclandolt.ch>
+ <7e1dc20c-3bfe-330e-3a2a-76e7d19936e8@marclandolt.ch>
+ <c3ff5c42-cc88-8008-7a70-1da936715544@marclandolt.ch>
+ <7283fb30-af7c-5662-04c1-a1ba1c82d199@marclandolt.ch>
+ <10734649-890b-eff4-705e-d81ebb35d84d@marclandolt.ch>
+ <b8c6d89d-3908-7b1a-b54e-1f8c7a6ed93c@marclandolt.ch>
+ <1c5a9898-c760-4ecd-3508-a4c78923f4e5@marclandolt.ch>
+ <60e0b1c8-b8c1-269a-9b59-4ffea8e242ac@marclandolt.ch>
+ <522f8689-e8fb-6d9b-978e-d44d577a9f21@marclandolt.ch>
+ <74173791-1f03-8188-566f-755290b368f7@marclandolt.ch>
+ <cb9a11a0-26e6-83a0-d30a-2e552991e623@marclandolt.ch>
+ <1ab76643-5c44-3f52-66ab-469993448c63@marclandolt.ch>
+ <47ce976f-cea4-d635-f687-4e79f0dbeaa1@marclandolt.ch>
+ <0922b002-9920-28d3-690d-bfd6f4df7921@marclandolt.ch>
+ <1623157539.640849.86251923@ticket.hostpoint.ch>
+ <1cc23c93-b1b2-b307-4e1b-cacabdbca893@marclandolt.ch>
+Message-ID: <3a5d89eb-f68b-9a7b-a69f-36e7ed7181f5@marclandolt.ch>
+Date: Wed, 9 Jun 2021 11:38:56 +0200
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101
+ Thunderbird/78.10.0
+MIME-Version: 1.0
+In-Reply-To: <1cc23c93-b1b2-b307-4e1b-cacabdbca893@marclandolt.ch>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Language: en-US
+Content-Transfer-Encoding: 8bit
+
+Dann wird noch eingereicht:
+
+Nur eine Idee:
+
+Allenfalls generell Logs bzw. deren CRC/Hash der Logs Regelmässig in 
+die/eine Blockchain pinnen. So kann man die Privatsphäre der Kunden 
+waren aber würde dennoch merken wenn Satan zB. an den Logs 
+rumwurschtelt, bzw. würde man dann vermutlich merken, wenn ein 
+Mitarbieter lieber das Geld als die Integrität nimmt.
+
+Falls JA (in Anlehung an fr-minus-09) wäre zu erwarten, dass wenn man 
+das z.B. 1x am Tag machen würde, dass dann Satan seine Prozesse so 
+definieret [1] , dass spätestes nach 22h gewurschtelt wird
+
+[1] aber das wäre dann eine Vorlesung in System-Daynamic Vorlesung
+
+
+MfG
+Marc jr. Landolt
+
+
+On 6/9/21 11:27 AM, Marc jr. Landolt wrote:
+> Halli Hallo
+> 
+> Zugriffslogs des Webservers sind ja zugreifbar [1], ich würde vorallem 
+> gerne wissen, wer und wann sich mit meinem IMAP / SMTP / SSH [1] 
+> einloggt und vorallem von welcher IP her und ob irgendwelche leute z.B. 
+> distributed über verschiedene IPs mein Passwort brute-forcen. das machen 
+> die auf meinem anderen Server auf jeden fall.
+> 
+> Um Jacob Applebaum zu ziteiren ich hab auch mit endpoint problem, und 
+> mit IRATEMONK und mit allem [3].
+> 
+> Selbe Thematik habe ich ja schon mal gesagt, Weblogin gibt's 
+> Multifactor, aber über ssh kann man dann doch mit einem allfällig über 
+> den Browser abgefischten Passwort einloggen...
+> 
+> Dann auch etwas was nervt aber ich grundsätlich selber schauen könnte, 
+> wenn man jetzt im ssh in ein git repo geht und das ist irgend ein 1GB 
+> Repo [2] wartet man irgend 10 Minuten pro "cd" wenn Sie da grad wissen 
+> wie man die "freebsd git integration im bash / shell" aussschaltet ... 
+> sonst schaue ich selber, das ist aber kein security problem. Ich vermute 
+> da wird pro user bzw. pro shell-session einfach zu wenig RAM zugeteilt.
+> 
+> 
+> 
+> [1] das mittlere Abo enthält das ja
+> 
+> [2] webseiten in ein git repo ist meiner meinung nach praktisch und 
+> effizient
+> 
+> [3] "... Basically the NSA, they want to be able to spy on you, and if 
+> they have 10 different options for spying on you that you know about, 
+> they have 13 ways of doing it and they do all 13. ..." wobei ich davon 
+> ausgehe, dass z.B. die Schweizer Armee da auch dran rum würschtelt.
+> 
+> Mit freundlichen Grüssen
+> Marc jr. Landolt
+> eidg. dipl. Informatiker HF
+> 
+> 
+> 
+> 
+> On 6/8/21 3:05 PM, Hostpoint Support wrote:
+>> Guten Tag Herr Landolt
+>>
+>> Betreffend den Zugriffs-Logs lässt sich wahrscheinlich schon was 
+>> machen. Ich müsste jedoch erstmals wissen welche Zugriffs-Logs Sie 
+>> gerne hätten und von wann bis wann Sie die Zugriffs-Logs benötigen.
+>>
+>> Freundliche Grüsse
+>>
+>> Daniele De Marco
+>> 2nd Level Support
+>>
+>> Vorsicht: Unsere Absenderadressen und Weblinks beinhalten immer 
+>> [hostpoint.﻿ch]
+>>
+>> https://www.hostpoint.ch/phishing
+>>

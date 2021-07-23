@@ -1,0 +1,164 @@
+Return-Path: <lama50@gmx.ch>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.0.0.105])
+	by popimap018.mail.hostpoint.ch with LMTP
+	id cP/qGMebBWCdvgAA7JE5TA
+	(envelope-from <lama50@gmx.ch>)
+	for <mail@marclandolt.ch>; Mon, 18 Jan 2021 15:31:35 +0100
+Received: from mxin012.mail.hostpoint.ch ([10.4.2.212])
+	by mail-lb1.adm.hostpoint.ch with LMTP id uHjAGMebBWA4RQEA9BAvQA
+	; Mon, 18 Jan 2021 15:31:35 +0100
+Received: from mout.gmx.net ([212.227.17.20])
+	by mxin012.mail.hostpoint.ch with esmtps (TLSv1.3:TLS_AES_256_GCM_SHA384:256)
+	(Exim 4.92.3 (FreeBSD))
+	(envelope-from <lama50@gmx.ch>)
+	id 1l1VZ9-000IVs-At
+	for mail@marclandolt.ch; Mon, 18 Jan 2021 15:31:35 +0100
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=gmx.net;
+	s=badeba3b8450; t=1610980295;
+	bh=5K4JTZRwsnKEjh5c11njnQp8rYKuyZsIOEcvKDOHZpk=;
+	h=X-UI-Sender-Class:Subject:To:References:From:Date:In-Reply-To;
+	b=kcOCDKfS6oZcPR0HRqJr5QsEhqs331yXI1HA0jfOZp/t+cKVLP5SOz4mFg7UNQXZQ
+	 AEpXaNrHKYjQ0FUaPM/thJURrpWfw/11bO3E4Ghlq4F3rRlQ9x2JBjes5dskmPKSMS
+	 gbWbwM1cT1lD4nFeExjg4Qkw10Hw/8wsaXYIY0Zs=
+X-UI-Sender-Class: 01bb95c1-4bf8-414a-932a-4f6e2808ef9c
+Received: from [192.168.0.106] ([91.138.4.204]) by mail.gmx.com (mrgmx104
+ [212.227.17.168]) with ESMTPSA (Nemesis) id 1MmULx-1lj7rD3PYP-00iUYi; Mon, 18
+ Jan 2021 15:31:34 +0100
+Subject: Re: Telefon
+To: "Marc jr. Landolt" <mail@marclandolt.ch>
+References: <deb03651-4171-52cb-340b-7a8647636e28@gmx.ch>
+ <fc600a77-1614-96d3-5bc7-440f98f49b51@marclandolt.ch>
+From: lama50 <lama50@gmx.ch>
+Message-ID: <10d1d2c0-f378-05d7-5da7-147377e4c844@gmx.ch>
+Disposition-Notification-To: lama50 <lama50@gmx.ch>
+Date: Mon, 18 Jan 2021 15:31:34 +0100
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101
+ Thunderbird/78.6.1
+MIME-Version: 1.0
+In-Reply-To: <fc600a77-1614-96d3-5bc7-440f98f49b51@marclandolt.ch>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: quoted-printable
+X-Provags-ID: V03:K1:nPGh3UNt7IREGwXKcQQdumOircigl1OgyAy6fCBkUY2GOtXCUDD
+ 0UIdlAmLOwnJezUMulnMUqsOKv7gjo8PxO9PbaHFD/lzdgiIz23VJ0PJKqVS1HVNTrNycHT
+ WpJaIZbR4ZIQT1AXkQ5srzLXIOwLvP8ChlSMCsOr/8c4BGEDAsigmxbfhmNooWnbCz25HZu
+ j6L+u1BYVkVvLkm63RFAQ==
+X-Spam-Flag: NO
+X-UI-Out-Filterresults: notjunk:1;V03:K0:it2SF7rMvPg=:ClOJsm7EDe6WIAF0XlKbzp
+ 64GrFX1rM2EyWz+Rd0wVKGmcKp4jL9to8ls8Cr+qtTIc8eWfOjcESH/dVsH9xLCBSodUALlgu
+ 7KfF3OeyOWUmBn5Le+Z69Z2UcaKTR7WfN/cDWc2hlM3kl0p3LA2Nq4VC8RhG+g4XhRW4+qt/4
+ waxH19pTdsunRd6DOu7aqrEIzypJTzpH/o5hW6kLK3YdMSAUZjQ1rwJsRGlYl+5WuFsidNPoc
+ dN7mBrTQlK2h/OGdAqoUAVnILUuh3a8hxSd0N+oOAdF6XbKo9Rj0l1vcvKFzk9tXuWKx6BINN
+ CRfilJKngVhN/SB2Tl/1a3eN5XJ6xAgcRQveFM69f3Inm498HWy6OG3W2HeKeeFGjBufHRM/q
+ l8VUtLvJ3AZzjyiipXcIn0cAf7P8GUy5i/5W79wQhGaubWPHz07ZbhtuY55+/rKrYImNFqnww
+ fN5EGKnmYnoF0cDmF7ttg+juB3TMx2NYMDNz5Maw6qV0yXMnKlWgYjfJPCK0c2j0O6HQal5z8
+ v4LTXWLYjoIcv3sjl2z2NdtDn91Ybko6OIhgug5UST+MRRQaFGNgohZLTiUYoZIUFMEeEx8Fc
+ LOsNAAW52vvVRab/1iUPK9PqQFYQ6IGnHmYy0cfKge9ctu6/03T++D7K/SHfSD1uRYG98S5Ps
+ 1iA2n7p2Rmb8ikujg3r4YkVsA96p6a7hzOeW0G2jpFgzZbP3Lj2yGBPnv/OOaBtKxXS5UglJx
+ mpbZNRX3yUwZ1Gy+tX7yGcFK2FE5Bs/3ALzB8TvGiqUOISCI6jSpOBuK6bLtNUvRr0Sue6F+C
+ Jf5KE+pxcIbY/KPxty3KK/dbDS5BRxwYndjeDPc+CZ+gR2VhX30fTZ0eTZ2+feHGXJlyMHgNx
+ ftF3Ruw0ZaZGc2tWYhgA==
+X-Vs-State: LEGIT
+X-Hostpoint-Spambox: NO
+
+Hallo Marc:
+
+Wir haben mit dem Hauswart gesprochen.
+
+Der Umbau im 13 Stock ist bald fertig.
+
+Dass das Wasser immer wieder mal nicht ganz sauber ist, ist normal und
+kommt von den alten Leitungen.
+
+Die Siebe bei den H=C3=A4hnen m=C3=BCssen halt ab und zu gereinigt werden
+
+Den Text =C3=BCber Pisterer usw. lesen wir gar nicht mehr.
+
+Bitte verschone uns mit diesen Texten, wir haben das schon oft von Dir
+gew=C3=BCnscht!
+
+
+Gruss Mama und Papa
+
+
+Am 18.01.2021 um 14:07 schrieb Marc jr. Landolt:
+> Halli Hallo
+>
+> also im Moment ist es echt m=C3=BChsahm mit dem Herr Bohrhammer im 13 St=
+ock.
+>
+> Kommt auch seit 3 Jahren immer wieder braune Br=C3=BChe mit Metall-Split=
+ern
+> / Pulver raus... und meiner Meinung nach kommt das auch nicht von der
+> Baustelle im 13. Stock, w=C3=A4re unlogisch wenn das Wasser von unten he=
+r
+> eingespiesen wird dass das dann wegen den Bauarbeiten im 13 Stock ist.
+>
+> Pfisterer ist der unbegabteste (Euphemismus) Psychiater den es gibt.
+>
+> In der Pfadi Adler Aarau heisst er Leu, man sollte den Typen in
+>
+> Hr Dr. Dr. Dr. Hansj=C3=BCrg =C3=96dipus Bettvorlger Pfisterer
+>
+> umtaufen.
+>
+> Das habt ihr ja mitbekommen, Pfisterer hat ja damals ohne wirklich
+> irgendwelche diagnostischen Dinge zu fragen oder einen MMPI2 zu machen
+> einfach einen auf kam sah und siegte gemacht mit seinem "hahaha, sie
+> haben ja Schizophrenie".
+>
+> Ich gehe davon aus, dass er da ein Gef=C3=A4lligkeits-Gutachten gemacht =
+hat
+> um mir die Glaubw=C3=BCrdigkeit zu rauben. Vermutlich weil ich einer der
+> wenigen war der im Alter von 20 schon ein 50-100 Mann Windows Client
+> Netzwerk geschmissen habe, ohne R=C3=BCckhalt, ohne jemanden den ich h=
+=C3=A4tte
+> um Hilfe fragen k=C3=B6nnen.
+>
+> Und das steht auch ungef=C3=A4hr so in Psychiatrie-Protokollen:
+> "Marc jr Landolt spinnt weil er denkt dass der Computer =C3=BCberwacht w=
+ird"
+>
+> Also w=C3=A4re ich einer der Informatik-Inselbegabten Autisten gewesen, =
+die
+> 13 Jahre vor Snowden schon Alarm geschlagen haben. Die haben damals
+> Footprinting/Ennumeration (Fachausdruck f=C3=BCr: "Was gibt es bei ABB z=
+u
+> holen") =C3=BCber die Netze gemacht. ca. 10 Jahre sp=C3=A4ter ist ja dan=
+n die
+> ABB fast drauf gegangen.
+>
+> Gruss
+>
+> Marc jr. Landolt
+> eidg. dipl. Informatiker HF
+> Neuenburgerstrasse 6
+> 5004 Aarau
+> 062 822 61 31
+> 078 674 15 32
+>
+>
+> Am 18.01.2021 um 09:47 schrieb lama50:
+>> Hallo Marc,
+>>
+>> soeben haben wir von der Realit Verwaltung ein Telefon erhalten
+>>
+>> - sie h=C3=A4tten von Dir eine Mail erhalten - irgendwas wegen der
+>> Waschk=C3=BCche?
+>>
+>> Ich habe dem Herrn gesagt, das verschw=C3=B6rerische Mail zu ignorieren=
+.
+>>
+>> Unser Sohn leide an einer schweren, paranoiden Schizofrenie und
+>>
+>> h=C3=A4ttest seit einem guten Jahr keine Medikamente mehr.
+>>
+>> Bitte unterlasse solche Mails an die Verwaltung.
+>>
+>> Wende Dich an uns, wenn es um ein konkretes Problem handelt.
+>>
+>>
+>> Liebe Gr=C3=BCsse,
+>>
+>> Mama und Papa
+>>
