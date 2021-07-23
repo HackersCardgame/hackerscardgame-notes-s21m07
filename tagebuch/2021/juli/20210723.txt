@@ -54,3 +54,23 @@ Fri Jul 23 04:34:22 CEST 2021
  1 file changed, 7 insertions(+), 5 deletions(-)
 d2aef703aef8e6de429aabdda54c1d1290a2e209dbe165303ceb8eb69ea6e2582883c5f81d704bdde476e510248687355486472267f7a7def7e8c6e3a8df45e7  20210723.txt
 
+
+ marc@DESKTOP-B99KF62:~$ figlet P R I O  :
+ ____    ____    ___    ___
+|  _ \  |  _ \  |_ _|  / _ \   _
+| |_) | | |_) |  | |  | | | | (_)
+|  __/  |  _ <   | |  | |_| |  _
+|_|     |_| \_\ |___|  \___/  (_)
+
+marc@DESKTOP-B99KF62:~$
+
+
+dann eine weitere kleinstmalware mit massiv einfluss auf die psyche:
+
+wenn ein gleichaltriges mädchen einem einen (virtuellen) Rettungsring zuwirft, wird dieser automatisch in eine Cyber-Sprengfalle umgewandelt.
+
+das sollten wir irgendwie patchen können
+
+
+
+
