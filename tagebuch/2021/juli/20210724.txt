@@ -103,4 +103,9 @@ nothing to commit, working tree clean
 
 remo huggler ist afaik auch offizier und sagt "man muss töten können (als offizier)" in anlehung an "man muss meschen mögen" aus dem buch das auch abhanden gekommen ist "gemeinsam zum ziel" was irgend so ein buch für schweizer offiziere ist... war, das wurde afaik auch von google zensoiert
 
+Sat Jul 24 00:25:16 CEST 2021
+ 106  860 6538 20210724.txt
+[main 028d6a93] save
+ 1 file changed, 3 insertions(+)
+660ee4b97d5c5fd03a6330e415874f0648bef14bbe024fc046f511a63831c6d2c4b6ab2c20314ac8198b55b8f60378b921cd0a8585205f1880536ffdb5185875  20210724.txt
 
