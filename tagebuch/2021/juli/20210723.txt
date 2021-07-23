@@ -96,4 +96,10 @@ Fri Jul 23 05:43:24 CEST 2021
 [main ea920104] save
  1 file changed, 13 insertions(+)
 1ce7ab6f4a64e91a9d9e4475993dfda876a9bd79dfa1089b3afb868d4b2bedc2a80cfad54038442f083bc3561b60bc7d1889cbe6ed35088dc6fdac4e2c979521  20210723.txt
+ 
+
+einbleudng:
+walther-merz-weg 6 ist teil der psychiatrie königsfelden
+astrid blum gibt sich als pfisterer aus
+
 
