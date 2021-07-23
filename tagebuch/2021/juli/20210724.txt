@@ -101,3 +101,6 @@ Your branch is ahead of 'origin/main' by 2 commits.
 nothing to commit, working tree clean
 5e7bd152a73f0ff3a86439cef5bbb09a1e9fc192b018548b3eb18139a51c13e8f2585555926b18aeaf4cfc8e8cbcd3c8c59a7152da9d57591f2ed7d42a78ad7f  20210724.txt
 
+remo huggler ist afaik auch offizier und sagt "man muss töten können (als offizier)" in anlehung an "man muss meschen mögen" aus dem buch das auch abhanden gekommen ist "gemeinsam zum ziel" was irgend so ein buch für schweizer offiziere ist... war, das wurde afaik auch von google zensoiert
+
+
