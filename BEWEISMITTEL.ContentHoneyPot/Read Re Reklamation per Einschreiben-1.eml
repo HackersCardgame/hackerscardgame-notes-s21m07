@@ -1,0 +1,101 @@
+Return-Path: <dominik.braendli@5001.ch>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.4.2.218])
+	by popimap018.mail.hostpoint.internal with LMTP
+	id INywOfny+GAbgAAApkpzRw
+	(envelope-from <dominik.braendli@5001.ch>)
+	for <mail@marclandolt.ch>; Thu, 22 Jul 2021 06:24:25 +0200
+Received: from mxin018.mail.hostpoint.ch ([10.4.2.218])
+	by mail-lb1.adm.hostpoint.ch with LMTP
+	id qPGGOfny+GDcYQEA9BAvQA
+	(envelope-from <dominik.braendli@5001.ch>)
+	for <mail@marclandolt.ch>; Thu, 22 Jul 2021 06:24:25 +0200
+Received: from mail.5001.ch ([83.144.230.28])
+	by mxin018.mail.hostpoint.ch with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2 (FreeBSD))
+	(envelope-from <dominik.braendli@5001.ch>)
+	id 1m6QG1-000O1V-Tp
+	for mail@marclandolt.ch; Thu, 22 Jul 2021 06:24:25 +0200
+Received: from SRV15-SRA.sra.local (192.168.50.235) by SRV15-SRA.sra.local
+ (192.168.50.235) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2308.14; Thu, 22 Jul
+ 2021 06:24:23 +0200
+Received: from SRV15-SRA.sra.local ([fe80::e1dc:f320:5cb4:c0f0]) by
+ SRV15-SRA.sra.local ([fe80::e1dc:f320:5cb4:c0f0%5]) with mapi id
+ 15.01.2308.014; Thu, 22 Jul 2021 06:24:23 +0200
+From: =?iso-8859-1?Q?Dominik_Br=E4ndli?= <dominik.braendli@5001.ch>
+To: "Marc jr. Landolt" <mail@marclandolt.ch>
+Subject: Read: Re: Reklamation per Einschreiben
+Thread-Topic: Reklamation per Einschreiben
+Thread-Index: AQHXflmVnWju7qe5Y0O2yFqrhazFbg==
+Date: Thu, 22 Jul 2021 04:24:23 +0000
+Message-ID: <02ccde44ef8c4dad92e832b6c6609c66@5001.ch>
+Accept-Language: de-CH, en-US
+Content-Language: de-CH
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Content-Type: multipart/report;
+	boundary="_000_02ccde44ef8c4dad92e832b6c6609c665001ch_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-Vs-State: LEGIT
+X-Hostpoint-Spambox: NO
+
+--_000_02ccde44ef8c4dad92e832b6c6609c665001ch_
+Content-Type: multipart/alternative;
+	boundary="_002_02ccde44ef8c4dad92e832b6c6609c665001ch_"
+
+--_002_02ccde44ef8c4dad92e832b6c6609c665001ch_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Ihre Nachricht
+
+   An: Dominik Br=E4ndli
+   Betreff: Re: Reklamation per Einschreiben
+   Gesendet: Mittwoch, 21. Juli 2021 19:54:51 (UTC+01:00) Amsterdam, Berlin=
+, Bern, Rom, Stockholm, Wien
+
+ wurde am Donnerstag, 22. Juli 2021 06:24:23 (UTC+01:00) Amsterdam, Berlin,=
+ Bern, Rom, Stockholm, Wien gelesen.
+
+--_002_02ccde44ef8c4dad92e832b6c6609c665001ch_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:10pt;">
+<div class=3D"PlainText">Ihre Nachricht <br>
+<br>
+&nbsp;&nbsp; An: Dominik Br=E4ndli<br>
+&nbsp;&nbsp; Betreff: Re: Reklamation per Einschreiben<br>
+&nbsp;&nbsp; Gesendet: Mittwoch, 21. Juli 2021 19:54:51 (UTC&#43;01:00) Ams=
+terdam, Berlin, Bern, Rom, Stockholm, Wien<br>
+<br>
+&nbsp;wurde am Donnerstag, 22. Juli 2021 06:24:23 (UTC&#43;01:00) Amsterdam=
+, Berlin, Bern, Rom, Stockholm, Wien gelesen.</div>
+</span></font>
+</body>
+</html>
+
+--_002_02ccde44ef8c4dad92e832b6c6609c665001ch_--
+
+--_000_02ccde44ef8c4dad92e832b6c6609c665001ch_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; dominik.braendli@5001.ch
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: Sl3BOb/hCE+2DiY9QebwZA==
+Original-Message-ID: <42fd7f31-2333-6669-2500-b9ef0e787dee@marclandolt.ch>
+X-Display-Name: =?iso-8859-1?Q?Dominik_Br=E4ndli?=
+
+
+--_000_02ccde44ef8c4dad92e832b6c6609c665001ch_--

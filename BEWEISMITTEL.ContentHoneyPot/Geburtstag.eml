@@ -1,0 +1,78 @@
+Return-Path: <lama50@gmx.ch>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.4.2.219])
+	by popimap018.mail.hostpoint.internal with LMTP
+	id gKgYALYfy2B3egEApkpzRw
+	(envelope-from <lama50@gmx.ch>)
+	for <mail@marclandolt.ch>; Thu, 17 Jun 2021 12:11:02 +0200
+Received: from mxin019.mail.hostpoint.ch ([10.4.2.219])
+	by mail-lb1.adm.hostpoint.ch with LMTP
+	id KPSEO7Ufy2CWEQAA9BAvQA
+	(envelope-from <lama50@gmx.ch>)
+	for <mail@marclandolt.ch>; Thu, 17 Jun 2021 12:11:01 +0200
+Received: from mout.gmx.net ([212.227.17.20])
+	by mxin019.mail.hostpoint.ch with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.94.2 (FreeBSD))
+	(envelope-from <lama50@gmx.ch>)
+	id 1ltozF-000O1y-EO
+	for mail@marclandolt.ch; Thu, 17 Jun 2021 12:11:01 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=gmx.net;
+	s=badeba3b8450; t=1623924660;
+	bh=Ta0Na99u3Fm8+VKrJXTBk2fqFMXucpp+2F3X8jSsTrs=;
+	h=X-UI-Sender-Class:To:From:Subject:Date;
+	b=D3xF3cNBQmvjXSbaFVj0l6w2sZp3AVCXj3+dcP+6fAzypqn/oGtTldTyPakvwN03J
+	 gKb6VPlLbU4N2YFcWT9jd/6FiroxqaWAwlf3ZrX8pVcCY+0brboJx4ipsL6TP8j6zJ
+	 bxYNcnNOsrPoDQg0N1jaBAMKXpmqmFdmpvbk4878=
+X-UI-Sender-Class: 01bb95c1-4bf8-414a-932a-4f6e2808ef9c
+Received: from [192.168.1.18] ([91.138.17.137]) by mail.gmx.net (mrgmx104
+ [212.227.17.168]) with ESMTPSA (Nemesis) id 1MUXpQ-1ll7p63MXY-00QPOT; Thu, 17
+ Jun 2021 12:11:00 +0200
+To: Marc jun Landolt <mail@marclandolt.ch>
+From: lama50 <lama50@gmx.ch>
+Subject: Geburtstag
+Message-ID: <c4d78897-454f-dd23-d2c5-2403f0620790@gmx.ch>
+Disposition-Notification-To: lama50 <lama50@gmx.ch>
+Date: Thu, 17 Jun 2021 12:11:01 +0200
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101
+ Thunderbird/78.11.0
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: quoted-printable
+X-Provags-ID: V03:K1:DasRzsfLH+Fe7tv1eetxEv0ypQ6dpTY0CW0REihWrG9jsjEZumn
+ VgNFLoXEtzeSSBEB3xT+QJ3Y75zO9C1r5xwTLaoXaxcYwrB+qLhI1wQfxLAgQCPbbzuQAX2
+ 2D2n+wH7LsCRplQMJRLwL+QGgSZ+eqGj57eMa3R9rt/kwYZjnmzMuoQusFJdy8MI6V1Oa21
+ yLKMgqdqxIzF22lrfj9tA==
+X-Spam-Flag: NO
+X-UI-Out-Filterresults: notjunk:1;V03:K0:+nAucpc1IaU=:c0T8CRiR6F066b+ePSeDSV
+ E1Cs0eCDsij4hr9VtZ5ASbHpw+NfU8r79YWAaJ34Bvjs8rtMQaD6F5XbOY5iOkS54lhWlcUWM
+ nhTw3rjvNPgZeGooIZA9DQRAFFgchf/1Tr6A/+R+YietZxxGqSw1FyxBOy0z3zsHPpTg/hUuD
+ uyd+vKOC9xxUEWuDBGzWAnK5iV477Fdb0eKRuwtZNJr+Ih3QHY7O0yPTVcCdh0V7LvwfzMSf0
+ UcFsxP3tVGjuI+B6AuuX3FZMoEBKGeyrJcvWmPXSPgc739zIKR1mo7KIygrJhXHddMhQwaxkF
+ TnzQgpbg6k5cTsRLlx630UKGSX8WqMLeUPEF/xnZOYaHI7ISBxS+dWzoduOBpVxeQ3PqHNsTB
+ czb3r2OZ/eTUZtrwZejCCwtC98l7sYV26KR2uNtLL+LEe3z31OxBFw78sqjPpK0SxZqSMjaeF
+ 03xuuLdjUMcVVrdun0gYuEx4Sbwu2mxTyxoYiTfLcprYg3AbvOMQWfo+qOXDvjP4X/YQe3MQ2
+ 30MrOHyFGYYE2v42ENawjsZbkV3oqpiaajepyQNUrdYORg0KHqVM0Y2ROwtmHtwdmTXrphwjg
+ FV2zeM164w7kZ5Lo+Kz+w8YPSHddfmq+hkcoZxKpjLNctcATRrJvC6J2pInP9weXHLOvj1GuI
+ To10l8L2nKHG5Y6BoISxLsMim/inkUi34vDzye7+UdjtkyOx1sZnVqqZ83unxvRwlvr81cDam
+ hlgcumcwp5kXk1nwFQgAFpWXyiKW7CjN7187eiFI2zbIpgo/JXBxIvJ5UiPimaYxLGzw0Z+NQ
+ biUg93L5/5kl5idKdmyHve5EMbxtbKUiKnOf11fGWiFu9SyvCoPHv5IKQDv+wC1NGa89ljvCj
+ AZvtEGv7cGj2JOnJIWsxyQJ7NXBRZldaqgQei79pwuEhEpO9QoBWYsk8aBuT7TPIjCDX2ofRA
+ mi2YNgrkICSPD7LyQ4IVpYrSdCLFVdXLYlHQb0+czzqS+6GhDosjF7Y9EIx9GQspytGcUXkIJ
+ nT3JSNq7dmO77WzXFA9I1AUCU4kYqi4HSogNAMZwCtUiXBNlbqv3dQZ9uP8VMI/IS9glYw59i
+ TB4x5Be/axj0DW8KSmeN+esT5t5S3IDRtes
+X-Vs-State: LEGIT
+X-Hostpoint-Spambox: NO
+
+Hallo Marc,
+
+wir gratulieren Dir zum Geburtstag.
+
+Der Geburtstagsbatzen liegt bereit, sage uns nur noch in welcher Form,
+
+wo und wann Du ihn in Empfang nehmen m=C3=B6chtest.
+
+Meld Dich einfach bei uns.
+
+
+Mama und Papa
+

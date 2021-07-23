@@ -1,0 +1,81 @@
+Return-Path: <elisabeth.bauhofer@ag.ch>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.4.2.218])
+	by popimap018.mail.hostpoint.internal with LMTP
+	id 0Nv/HO34+mDVKwEApkpzRw
+	(envelope-from <elisabeth.bauhofer@ag.ch>)
+	for <mail@marclandolt.ch>; Fri, 23 Jul 2021 19:14:21 +0200
+Received: from mxin018.mail.hostpoint.ch ([10.4.2.218])
+	by mail-lb1.adm.hostpoint.ch with LMTP
+	id uOOrHO34+mBHwwAA9BAvQA
+	(envelope-from <elisabeth.bauhofer@ag.ch>)
+	for <mail@marclandolt.ch>; Fri, 23 Jul 2021 19:14:21 +0200
+Received: from xmgw06.ag.ch ([193.47.120.63])
+	by mxin018.mail.hostpoint.ch with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2 (FreeBSD))
+	(envelope-from <elisabeth.bauhofer@ag.ch>)
+	id 1m6ykf-000P1Y-BF
+	for mail@marclandolt.ch; Fri, 23 Jul 2021 19:14:21 +0200
+IronPort-SDR: 303JmpyTp9p0LeXjzBHyvhzaJvMuI30nTjoyZn2B/5RmddXek9+AUBrcIYvQ6DT77TadI0Q1u1
+ 5xwKR+MUnspg==
+X-IronPort-AV: E=Sophos;i="5.84,264,1620684000"; 
+   d="scan'208";a="109490870"
+Received: from unknown (HELO xmgw51.ag.ch) ([193.47.120.51])
+  by xmgw06.ag.ch with ESMTP/TLS/ECDHE-RSA-AES128-GCM-SHA256; 23 Jul 2021 19:14:21 +0200
+Received: from xmgw06.ag.ch (xmgw06.ag.ch [193.47.120.63])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by xmgw51.ag.ch (Postfix) with ESMTPS
+	for <mail@marclandolt.ch>; Fri, 23 Jul 2021 19:14:20 +0200 (CEST)
+IronPort-SDR: vbzAA4CltlYKaAuydlXs/LRUv1JX+eyGX10216h7w6CjZL+M9qJjx3UZQzgXwcj+GdAKLdkr5N
+ jzyDQ3RBK+8g==
+X-IronPort-AV: E=Sophos;i="5.84,264,1620684000"; 
+   d="scan'208";a="109490868"
+Received: from unknown (HELO smtp.ktag.ch) ([10.116.181.141])
+  by xmgw06.ag.ch with ESMTP/TLS/ECDHE-RSA-AES128-GCM-SHA256; 23 Jul 2021 19:14:20 +0200
+Received: from spwex00033.ADS.KTAG.CH (10.116.181.140) by
+ spwex00034.ADS.KTAG.CH (10.116.181.141) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.1.2242.12; Fri, 23 Jul 2021 19:14:20 +0200
+Received: from spwex00033.ADS.KTAG.CH ([::1]) by spwex00033.ADS.KTAG.CH
+ ([fe80::d102:e6c6:c627:d6f4%5]) with Microsoft SMTP Server id 15.01.2242.012;
+ Fri, 23 Jul 2021 19:14:20 +0200
+From: "Bauhofer Elisabeth  GKAOG" <Elisabeth.Bauhofer@ag.ch>
+To: "Marc jr. Landolt" <mail@marclandolt.ch>
+Subject: AW: Reklamation per Einschreiben
+Thread-Topic: Reklamation per Einschreiben
+Thread-Index: AQHXflmQ8n5WzqsOd0SvobU1LUqd1atN5WEAgAF/woCAAUGUAIAABroAgAAAkoCAACGj6w==
+Date: Fri, 23 Jul 2021 17:14:20 +0000
+Message-ID: <7bf78f4c704b45cf8254eb22c8ef6683@spwex00033.ADS.KTAG.CH>
+References: <0e37dcc8-a34c-ed28-af3d-4ed8f34b3c85@gmx.ch>
+ <42fd7f31-2333-6669-2500-b9ef0e787dee@marclandolt.ch>
+ <1e721c07-728d-1bad-0ed8-fdeb26f22182@marclandolt.ch>
+ <2a49a4a1-f91c-065d-01ec-fb4adcc26df2@marclandolt.ch>
+ <8d708b7f-b7c1-d264-ceca-2758f1ce5d93@marclandolt.ch>
+ <c94faada-1655-b7a6-e8dc-1187bfdbc85e@marclandolt.ch>,<b0472dd9-0a51-bb40-a0dc-fb4bca185d74@marclandolt.ch>
+In-Reply-To: <b0472dd9-0a51-bb40-a0dc-fb4bca185d74@marclandolt.ch>
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: All
+X-MS-Exchange-Inbox-Rules-Loop: elisabeth.bauhofer@ag.ch
+X-MS-TNEF-Correlator:
+x-ms-exchange-parent-message-id: <b0472dd9-0a51-bb40-a0dc-fb4bca185d74@marclandolt.ch>
+auto-submitted: auto-generated
+x-ms-exchange-generated-message-source: Mailbox Rules Agent
+x-tm-as-product-ver: SMEX-14.0.0.3080-8.6.1018-26302.001
+x-tm-as-result: No-10--1.619300-8.000000
+x-tmase-matchedrid: 9TMMyn+RKSoMPDZrnvcM98CxC+PryYbToVCVk002x0OXBXaJoB9JZxRF
+	JJyf5BJeLRQqLm8CKauVnFteYovTDlb6+m8igkWQ5WeM6ukG9zOgKc3wkUSfKqGV0mYijVwnRdF
+	YJ6J9cggmhPHX9xO7/2A7bUFBqh2V
+x-tm-as-user-approved-sender: Yes
+x-tm-as-user-blocked-sender: No
+x-tmase-result: 10--1.619300-8.000000
+x-tmase-version: SMEX-14.0.0.3080-8.6.1018-26302.001
+x-tm-snts-smtp: 8D3036CFD002B95F9F2F6133607B3CDC5E94C2841071971E6D1EDC280C9C51FD2000:9
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-SM-outgoing: yes
+X-Vs-State: LEGIT
+X-Hostpoint-Spambox: NO
+
+

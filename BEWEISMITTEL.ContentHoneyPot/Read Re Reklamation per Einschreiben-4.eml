@@ -1,0 +1,119 @@
+Return-Path: <elisabeth.bauhofer@ag.ch>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.4.2.217])
+	by popimap018.mail.hostpoint.internal with LMTP
+	id UJdkNn/6+mBXXAEApkpzRw
+	(envelope-from <elisabeth.bauhofer@ag.ch>)
+	for <mail@marclandolt.ch>; Fri, 23 Jul 2021 19:21:03 +0200
+Received: from mxin017.mail.hostpoint.ch ([10.4.2.217])
+	by mail-lb1.adm.hostpoint.ch with LMTP
+	id wDsPNn/6+mCXhgAA9BAvQA
+	(envelope-from <elisabeth.bauhofer@ag.ch>)
+	for <mail@marclandolt.ch>; Fri, 23 Jul 2021 19:21:03 +0200
+Received: from xmgw06.ag.ch ([193.47.120.63])
+	by mxin017.mail.hostpoint.ch with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2 (FreeBSD))
+	(envelope-from <elisabeth.bauhofer@ag.ch>)
+	id 1m6yr9-000Fiy-Nm
+	for mail@marclandolt.ch; Fri, 23 Jul 2021 19:21:03 +0200
+IronPort-SDR: 4XzBg5ILpNKzMMdnkXs4W9ezcz0tEXZbWgaFrE58R2TBK49Qy5IFgz7vVwHa2MNVFcd3seKFFZ
+ a5LugI/bTm7g==
+X-IronPort-AV: E=Sophos;i="5.84,264,1620684000"; 
+   d="scan'208,217";a="109490934"
+Received: from unknown (HELO xmgw51.ag.ch) ([193.47.120.51])
+  by xmgw06.ag.ch with ESMTP/TLS/ECDHE-RSA-AES128-GCM-SHA256; 23 Jul 2021 19:21:03 +0200
+Received: from xmgw06.ag.ch (xmgw06.ag.ch [193.47.120.63])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by xmgw51.ag.ch (Postfix) with ESMTPS
+	for <mail@marclandolt.ch>; Fri, 23 Jul 2021 19:21:02 +0200 (CEST)
+IronPort-SDR: A5Op5sgZgfYKwjYqA8kf5S14AR8boWCmg7G92GR6daxcl27GzDKlH4W4Itghrp1jF1FHHL8613
+ hvKh4YYtg5+w==
+X-IronPort-AV: E=Sophos;i="5.84,264,1620684000"; 
+   d="scan'208,217";a="109490933"
+Received: from unknown (HELO smtp.ktag.ch) ([10.116.181.141])
+  by xmgw06.ag.ch with ESMTP/TLS/ECDHE-RSA-AES128-GCM-SHA256; 23 Jul 2021 19:21:02 +0200
+Received: from spwex00033.ADS.KTAG.CH (10.116.181.140) by
+ spwex00034.ADS.KTAG.CH (10.116.181.141) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.1.2242.12; Fri, 23 Jul 2021 19:21:02 +0200
+Received: from spwex00033.ADS.KTAG.CH ([fe80::d102:e6c6:c627:d6f4]) by
+ spwex00033.ADS.KTAG.CH ([fe80::d102:e6c6:c627:d6f4%5]) with mapi id
+ 15.01.2242.012; Fri, 23 Jul 2021 19:21:02 +0200
+From: "Bauhofer Elisabeth  GKAOG" <Elisabeth.Bauhofer@ag.ch>
+To: "Marc jr. Landolt" <mail@marclandolt.ch>
+Subject: Read: Re: Reklamation per Einschreiben
+Thread-Topic: Reklamation per Einschreiben
+Thread-Index: AQHXflmQ8n5WzqsOd0SvobU1LUqd1atN5WEAgAF/woCAAUGUAA==
+Date: Fri, 23 Jul 2021 17:21:02 +0000
+Message-ID: <3745464498834f1ca004a0a52f679fd6@ag.ch>
+Accept-Language: de-CH, en-US
+Content-Language: de-CH
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Content-Type: multipart/report;
+	boundary="_000_3745464498834f1ca004a0a52f679fd6agch_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-SM-outgoing: yes
+X-Vs-State: LEGIT
+X-Hostpoint-Spambox: NO
+
+--_000_3745464498834f1ca004a0a52f679fd6agch_
+Content-Type: multipart/alternative;
+	boundary="_002_3745464498834f1ca004a0a52f679fd6agch_"
+
+--_002_3745464498834f1ca004a0a52f679fd6agch_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Ihre Nachricht
+
+   An: Bauhofer Elisabeth  GKAOG
+   Betreff: Re: Reklamation per Einschreiben
+   Gesendet: Freitag, 23. Juli 2021 18:47:50 (UTC+01:00) Amsterdam, Berlin,=
+ Bern, Rom, Stockholm, Wien
+
+ wurde am Freitag, 23. Juli 2021 19:21:02 (UTC+01:00) Amsterdam, Berlin, Be=
+rn, Rom, Stockholm, Wien gelesen.
+
+--_002_3745464498834f1ca004a0a52f679fd6agch_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:10pt;">
+<div class=3D"PlainText">Ihre Nachricht <br>
+<br>
+&nbsp;&nbsp; An: Bauhofer Elisabeth&nbsp; GKAOG<br>
+&nbsp;&nbsp; Betreff: Re: Reklamation per Einschreiben<br>
+&nbsp;&nbsp; Gesendet: Freitag, 23. Juli 2021 18:47:50 (UTC&#43;01:00) Amst=
+erdam, Berlin, Bern, Rom, Stockholm, Wien<br>
+<br>
+&nbsp;wurde am Freitag, 23. Juli 2021 19:21:02 (UTC&#43;01:00) Amsterdam, B=
+erlin, Bern, Rom, Stockholm, Wien gelesen.</div>
+</span></font>
+</body>
+</html>
+
+--_002_3745464498834f1ca004a0a52f679fd6agch_--
+
+--_000_3745464498834f1ca004a0a52f679fd6agch_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; Elisabeth.Bauhofer@ag.ch
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: MX8gytOaK0+QYT9YOGz1fg==
+Original-Message-ID: <8d708b7f-b7c1-d264-ceca-2758f1ce5d93@marclandolt.ch>
+X-Display-Name: Bauhofer Elisabeth  GKAOG
+
+
+--_000_3745464498834f1ca004a0a52f679fd6agch_--

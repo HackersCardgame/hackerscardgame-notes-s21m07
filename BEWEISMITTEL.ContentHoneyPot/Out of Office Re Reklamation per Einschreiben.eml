@@ -1,0 +1,115 @@
+Return-Path: <nk@picturepark.com>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.4.2.217])
+	by popimap018.mail.hostpoint.internal with LMTP
+	id gIi+Adry+mBq7wAApkpzRw
+	(envelope-from <nk@picturepark.com>)
+	for <mail@marclandolt.ch>; Fri, 23 Jul 2021 18:48:26 +0200
+Received: from mxin017.mail.hostpoint.ch ([10.4.2.217])
+	by mail-lb1.adm.hostpoint.ch with LMTP
+	id 6L1YAdry+mA+EQAA9BAvQA
+	(envelope-from <nk@picturepark.com>)
+	for <mail@marclandolt.ch>; Fri, 23 Jul 2021 18:48:26 +0200
+Received: from mail-il1-f174.google.com ([209.85.166.174])
+	by mxin017.mail.hostpoint.ch with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.94.2 (FreeBSD))
+	(envelope-from <nk@picturepark.com>)
+	id 1m6yLZ-000NW9-6J
+	for mail@marclandolt.ch; Fri, 23 Jul 2021 18:48:25 +0200
+Received: by mail-il1-f174.google.com with SMTP id d10so2130749ils.7
+        for <mail@marclandolt.ch>; Fri, 23 Jul 2021 09:48:23 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=picturepark.com; s=google;
+        h=to:from:date:message-id:subject:mime-version:precedence
+         :auto-submitted:content-transfer-encoding:content-disposition;
+        bh=WuNpszBg1zyQhtZlZdaa55Fq3JZEdDUf2P6CrKsdLOM=;
+        b=fBxHPIVYdgNzxyrmYTjCphsWkBiXIghE+KKvXYeCw4R5rJHkBUmujEgZ9l2Xmkxz7s
+         D70PgicLNugCf7IS3IOPRiIlnnVluJI2s0ynvOyRbfSV1vIUIKc3En9E0s2GUPVEhpBZ
+         jUZF0VgUgjxIteaguXxgRfC1CtrdEfrcnuygU=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:to:from:date:message-id:subject:mime-version
+         :precedence:auto-submitted:content-transfer-encoding
+         :content-disposition;
+        bh=WuNpszBg1zyQhtZlZdaa55Fq3JZEdDUf2P6CrKsdLOM=;
+        b=Fppj4ylOuXjBr5mJ9f0UCMUuSkXx1W1fZADI0W6Va2/JnVnkzHcRqS/F38AlFbQoQ1
+         UQHRG5y5QEgX2AolwXc3qonRGNTopG+s6WBDTY2iapSOW4rxo4d8NwZBMehlQiSCRZkJ
+         0lV3aA9G49GHXHoX6nCBz6TRNpEBFbIIQSp/Zb0RzRNKf/y+FwrmoIciNcUDpLuKHIxW
+         an33CVzYDqvE3fj+KG3tZeG7va0RlGQZR+Z3pObEWcJXhdbMZmPg6X6/BsAxcXfVcFG7
+         8zd1ZPOjglyG/dcCqtCRJ3QTNgcnXeM/1nemqTyo2zqENQWFBTpsZ9RjsTRSHRDF9VYt
+         0o5g==
+X-Gm-Message-State: AOAM5306olpAFLicnqhCh4vW0D2Rollv6UxoUUh/S6FemleL88zM0VA4
+	rLF/WNj9bi3JYPuArJ7oHWB5iPhsQ9WTPt6dC/UjzigaTDaXrbFsDR+HHmXd0AcRgOimivzpefP
+	FEAxQCJGC8Jlh9zqYSwhWomPkzK/23VJXc7uP1u1HUHZt
+X-Google-Smtp-Source: ABdhPJw3Mp+2CG/bF7h5XkaXBJ7MfDCfWVWglPJlir3YJPawL28OMMLynQx7wLKHQPO9XIF1nJZMUUFTUHsrMdmNYSe9S/YzYYysW2O9xRoR
+X-Received: by 2002:a92:d8d2:: with SMTP id l18mr4038928ilo.165.1627058900952;
+        Fri, 23 Jul 2021 09:48:20 -0700 (PDT)
+To: mail@marclandolt.ch
+From: "Nicole Keil" <nk@picturepark.com>
+Date: Fri, 23 Jul 2021 09:48:20 -0700
+Message-ID: <CAKRS9eX+Xyuk7CvE=7A=ZVYWA98eJYUMZTjuQ-eT5A2+83TddA@mail.gmail.com>
+Subject: Out of Office Re: Reklamation per Einschreiben
+MIME-Version: 1.0
+Precedence: bulk
+X-Autoreply: yes
+Auto-Submitted: auto-replied
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+X-Vs-State: LEGIT
+X-Hostpoint-Spambox: NO
+
+<div dir=3D"ltr"><font face=3D"arial, sans-serif"><span style=3D"font-size:=
+16px">I will be out of the office from the 17/07/2021.=C2=A0 I will be back=
+ on the 2nd of August 2021. Emails will not be forwarded.</span></font></di=
+v><br/><br/>-- <br/><div dir=3D"ltr"><div><div dir=3D"ltr"><p><b><span lang=
+=3D"FR-CH">Kind
+regards / Freundliche Gr=C3=BCsse,</span></b></p>
+
+<p><b><span lang=3D"FR-CH">=C2=A0</span></b></p>
+
+<p><b><span lang=3D"FR-CH">Nicole
+Keil</span></b><b><span lang=3D"FR-CH"></span></b></p>
+
+<p><span lang=3D"FR-CH">QA Engineer</span></p>
+
+<p><span lang=3D"FR-CH">=C2=A0</span></p>
+
+<p><span lang=3D"FR-CH">Phone=C2=A0
++41 62 550 00 79</span></p>
+
+<p><span lang=3D"EN-GB">Email=C2=A0<span style=3D"color:#45667c"> <a href=
+=3D"mailto:nk@picturepark.com" target=3D"_blank"><span style=3D"color:#4566=
+7c">nk@picturepark.com</span></a></span></span></p>
+
+<p><span lang=3D"EN-GB">=C2=A0</span></p>
+
+<p><b><span lang=3D"EN-GB">Join
+Picturepark online via:</span></b></p>
+
+<p><span lang=3D"EN-GB" style=3D"color:#45667c"><a href=3D"http://picturepa=
+rk.com/" target=3D"_blank"><span style=3D"color:#45667c">picturepark.com</s=
+pan></a></span><span lang=3D"EN-GB"></span></p>
+
+<p><span lang=3D"EN-GB" style=3D"color:#45667c"><a href=3D"http://picturepa=
+rk.com/twitter" target=3D"_blank"><span style=3D"color:#45667c">picturepark=
+.com/twitter</span></a>
+</span></p>
+
+<p><span lang=3D"EN-GB" style=3D"color:#45667c"><a href=3D"http://picturepa=
+rk.com/youtube" target=3D"_blank"><span style=3D"color:#45667c">picturepark=
+.com/youtube</span></a></span><u><span lang=3D"EN-US" style=3D"color:#45667=
+c"></span></u></p></div></div></div><br/>
+
+<br>
+<div><span style=3D"color:rgb(166,166,166);font-family:Verdana,sans-serif;f=
+ont-size:10.6667px;font-style:normal;font-weight:400;letter-spacing:normal;=
+text-align:start;text-indent:0px;text-transform:none;white-space:normal;wor=
+d-spacing:0px;background-color:rgb(255,255,255);display:inline!important;fl=
+oat:none">The content of this message might be confidential. If you have re=
+ceived it by mistake then please immediately inform the sender and delete t=
+he message from your systems. It is forbidden to copy, forward, or in any w=
+ay reveal the contents of this message to anyone who is not an intended rec=
+ipient. All our correspondence is governed by our <a href=3D"https://pictur=
+epark.com/terms/privacy/" target=3D"_blank">Privacy Policy</a>.</span></div=
+>

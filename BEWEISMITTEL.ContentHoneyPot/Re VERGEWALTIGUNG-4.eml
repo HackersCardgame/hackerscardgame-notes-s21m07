@@ -1,0 +1,87 @@
+Return-Path: <mail@marclandolt.ch>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.0.0.105])
+	by popimap018.mail.hostpoint.internal with LMTP
+	id SBAeFo2YbWD4cgEApkpzRw
+	(envelope-from <mail@marclandolt.ch>)
+	for <mail@marclandolt.ch>; Wed, 07 Apr 2021 13:33:33 +0200
+Received: from asmtp014.mail.hostpoint.ch ([10.0.2.44])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits))
+	by mail-lb1.adm.hostpoint.ch with LMTPS
+	id yCz6FY2YbWDBEgEA9BAvQA
+	(envelope-from <mail@marclandolt.ch>)
+	for <mail@marclandolt.ch>; Wed, 07 Apr 2021 13:33:33 +0200
+Received: from 178-82-215-219.dynamic.hispeed.ch ([178.82.215.219] helo=[10.0.2.15])
+	by asmtp014.mail.hostpoint.ch with esmtpsa (TLSv1.3:TLS_AES_256_GCM_SHA384:256)
+	(Exim 4.92.3 (FreeBSD))
+	(envelope-from <mail@marclandolt.ch>)
+	id 1lU6RB-000DXu-1v; Wed, 07 Apr 2021 13:33:33 +0200
+X-Authenticated-Sender-Id: mail@marclandolt.ch
+Subject: Re: VERGEWALTIGUNG
+From: "Marc jr. Landolt" <mail@marclandolt.ch>
+To: Hanno Katrin <Katrin.Hanno@pdag.ch>, svaaargau@sva-ag.ch,
+ info@kapo.ag.ch, info@fedpol.admin.ch, Elisabeth.Bauhofer@ag.ch,
+ Schleusener Samer <Samer.Schleusener@pdag.ch>, marco.spring@ag.ch,
+ michael.ritter@kapo.ag.ch, AarauEPD <EPD.Aarau@pdag.ch>,
+ =?UTF-8?Q?K=c3=bcng_Walter_GKABGAAR?= <Walter.Kueng@ag.ch>,
+ Postmaster-VBS@gs-vbs.admin.ch, direktion@bger.ch,
+ "Kanzlei@bger.ch" <Kanzlei@bger.ch>, info@interpol.int, kb3.bern@helsana.ch,
+ 2009@marclandolt.ch, contact.center@ch.abb.com, info@oniko.ch,
+ interface@internil.net, Lama <lama50@gmx.ch>, support@hostpoint.ch
+References: <a23984c3-ae11-1cca-d74d-6802c513980d@marclandolt.ch>
+ <f47b2c3d-e8d4-9a73-87bb-44ccbfc5adcc@marclandolt.ch>
+ <b056b259-ab28-c0df-0f24-61e400f75f92@marclandolt.ch>
+ <57e28b0f-e4af-cc0f-c7ab-5a5f4d42090f@marclandolt.ch>
+ <bded30d9-797a-a9dc-e37f-8036ed020c63@marclandolt.ch>
+ <0e198ae0-6c61-1fae-8e0f-9e9165700946@marclandolt.ch>
+ <464da6ec-1698-eb46-db3f-22b39ee2e2a2@marclandolt.ch>
+ <b4418ba6-7a6e-62d3-3d95-bedf034d5d11@marclandolt.ch>
+ <6971c97e-3e3f-ddaa-8b92-5ee1951d76ad@marclandolt.ch>
+ <c232ec25-2e4c-b5f6-57bf-64253cc1b3de@marclandolt.ch>
+ <c9a32082-fdd7-e1a5-ed14-6cb7e08a3c28@marclandolt.ch>
+ <bd67eaf9-11fa-598c-e8f4-ae4be9dc08ca@marclandolt.ch>
+ <1876931f-a437-b245-8952-eb45dc90405f@marclandolt.ch>
+ <873d3714-0075-8573-8de0-4f610dc27940@marclandolt.ch>
+ <089bcc6e-4792-e3f6-d0fc-752831dc2c30@marclandolt.ch>
+ <a333c85a-02d5-1226-5035-8fdd52b81332@marclandolt.ch>
+ <90fb7257-d2f5-37ef-6925-577d3da60630@marclandolt.ch>
+ <ed7c2330-7a64-739a-110d-4251067cb569@marclandolt.ch>
+Message-ID: <7975ab64-1c3d-4f2c-ff87-e65cabe509a8@marclandolt.ch>
+Date: Wed, 7 Apr 2021 13:33:30 +0200
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101
+ Thunderbird/78.9.0
+MIME-Version: 1.0
+In-Reply-To: <ed7c2330-7a64-739a-110d-4251067cb569@marclandolt.ch>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Language: en-US
+Content-Transfer-Encoding: 8bit
+X-Forwarded-Original-Recipient: 2009@marclandolt.ch 
+X-Original-To: 2009@marclandolt.ch
+X-Hostpoint-Spambox: NO
+
+Nachtrag
+
+es wäre somit zu erwarten, dass der MILTER bei Hostpoint nicht nur Spam 
+erkennt sondern auch Leaks zu Straftätern die z.B. bei Behörden arbeiten.
+
+Das kommt per SMTP hinein und dann wird ab da entschieden dieses Mail 
+nicht im SENT zu speichern...
+
+@FEDPOL:
+ihr solltet allenfalls mal den MAIL Heinis bei Hostpoint ein bisschen 
+Hilfe anbieten...
+
+Falls die sich kaufen haben lassen wäre da logischerweise schon viele 
+Plausible Deniability ähm ausreden vorbereitet worden...
+
+@HOSTPOINT:
+Fehlersuche & Bugreport wäre meiner Meinung nach wichtig, gerne Dialog 
+mit mir...
+
+Mit freundlichen Grüssen
+Marc jr. Landolt
+eidg. dipl. Informatiker HF
+Neuenburgerstrasse 6
+5004 Aarau
+062 822 61 31
+078 674 15 32

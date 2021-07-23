@@ -1,0 +1,70 @@
+Return-Path: <lama50@gmx.ch>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.0.0.105])
+	by popimap018.mail.hostpoint.internal with LMTP
+	id o/6ZLZsVaGBYBAEApkpzRw
+	(envelope-from <lama50@gmx.ch>)
+	for <mail@marclandolt.ch>; Sat, 03 Apr 2021 09:13:31 +0200
+Received: from mxin016.mail.hostpoint.ch ([10.4.2.216])
+	by mail-lb1.adm.hostpoint.ch with LMTP
+	id AMxHLZsVaGCXfQEA9BAvQA
+	(envelope-from <lama50@gmx.ch>)
+	for <mail@marclandolt.ch>; Sat, 03 Apr 2021 09:13:31 +0200
+Received: from mout.gmx.net ([212.227.15.15])
+	by mxin016.mail.hostpoint.ch with esmtps (TLSv1.3:TLS_AES_256_GCM_SHA384:256)
+	(Exim 4.92.3 (FreeBSD))
+	(envelope-from <lama50@gmx.ch>)
+	id 1lSaTL-0002IZ-ML
+	for mail@marclandolt.ch; Sat, 03 Apr 2021 09:13:31 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=gmx.net;
+	s=badeba3b8450; t=1617434011;
+	bh=VqUWf4mlP5gMDCMbAQfhdHfvy/jHCMH1rd7XiqxblcA=;
+	h=X-UI-Sender-Class:From:Date:To;
+	b=BXy9EkjHTnatMLJp+FqAWvpj2x7l/1gcJqfoFQapl2IoKfzMPQP9z+TQjdcaTZo7Q
+	 0UKWYuACT+XmQnInRCEoBd9w232KiJF63auaRAYdg3DVmNgMIs3IE0MUPULhAu8aG4
+	 69J2kszO1gKT3xKsgFOLLw4bE40YLcVMPatTE8jQ=
+X-UI-Sender-Class: 01bb95c1-4bf8-414a-932a-4f6e2808ef9c
+Received: from [192.168.1.24] ([91.138.27.135]) by mail.gmx.net (mrgmx005
+ [212.227.17.190]) with ESMTPSA (Nemesis) id 1MnJlW-1luFjD0F9w-00jLLQ; Sat, 03
+ Apr 2021 09:13:31 +0200
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+From: Lama <lama50@gmx.ch>
+Mime-Version: 1.0 (1.0)
+Date: Sat, 3 Apr 2021 09:13:30 +0200
+Message-Id: <BB4E3CF5-8648-4359-B71F-F69325A399F0@gmx.ch>
+To: "Marc jr. Landolt" <mail@marclandolt.ch>
+X-Mailer: iPad Mail (18D61)
+X-Provags-ID: V03:K1:Otjy8019pRKL0hPFFEjlHeb0l3DE8/BY1RDguugz3XebORMGxWI
+ L145zz0A2oTts65R6YBylZ0g4A7KPTLWW1JjPoM9gwGm+Iaa1GG2B8Td1a2Ha24/R6qI+LC
+ q/dSWpLNmKTemLVuJGNpEBaC8ToJPiheChVw21bI/Zb2Tik4EYFNsyiBfwqP7PJEhfsT/Mg
+ lmhji2+8hS8IFpkC3gaYw==
+X-Spam-Flag: NO
+X-UI-Out-Filterresults: notjunk:1;V03:K0:60RonEuvilg=:9EOAsA8T9sualfJa5Nq/R0
+ 2eMRsk/DCfNSjK3qxU/4VjWhxXN64h0QGXkaEls/iQyGd9dpmUH2T2fVT1bazk04lamF49GHe
+ a93G/UzCh2r09rW44QLeTVlYugWmmrSZ5lawqtvsmhxbiVcIVHiC73+aEqMmUA2FZsJi82EED
+ fanVbTutFIS7T6GdjmIGJuCgCU3lgBiiA/oSL/mruNUm0NFXQb9L22g+eNFQca6PRsfo7GaUY
+ 0cx/38M93b1a5GQ5HyfIUE8/NdvcNG4vvuF/VGfn0JZpIC3XxZFWUosMAIMuT98SCNJ8o3N4X
+ 9Lp4ybYXpb86NfNRFiWI+irulx5VbBfgmEzIKpDTOwrjTwgSSHPcGeVB3MUnJhz+I0pH+F4jj
+ G3Ixp+CRSxz+31Yf8Gcb6iCOQizbaZYeBbtZd3Mywbo9/hBFjCob7h4qCqaIt/14xE5kLnEOz
+ Pliz8Y8/Qgk+FtS1TL1Xff/8wM2LxJ6l5mVINSsQMyHjmdtyUi7JSuiKyQPnnKbr7l2tKBDXP
+ lyo7jENWRUENSN2gqPhDYqVgO/2YpAaPhPZIgimKLbfwbT5TGNe6cZJadiAA2TBMjncC2oiKu
+ /WbIclFqMnIJVhsUmq6H8S5yTjqklxUDMPU7CCvuRWxT9G5oyNXQmkJdqdGLAVmVAseQ4v4n8
+ Pl9JU/CRyP4+DoD4+Ir/bcgpQ6crQZZMaKPQBm40rE2f+c6tOZCKIVmCHSe5iyChe1NxyebXO
+ jeo8yUl7+zEe1yUG5VjYKHSDhSsdbC5ZvKHXxBh1nE381x4XwZ2+TlyeVQL3LfakW5K8MYA/H
+ D1XCthjovkYvgeOGOLQ/xhAS6IHs6OZkehYl6r3etqpmAZeAoNlCv0I7v9UZn4L/qkxX5qkBG
+ 67/nvrV50fUeWuJTEMt6vxb8sqfZstBfGeTrrOx1L4ZtWN7zbuUTMw2ZaVe5YjxF8TyIhr6/h
+ sumZkuYEP01Di2eiwguksNXTJVhoACPTGNKcFwpKY6dq8NhSIOD+YJ5bJP8bhizwCQDhWdsdX
+ kdTFYBV4xNVOaXs/AqZFUvMALWQAPj3kJgCyAP6fBD+qjASZtPS0NE5a/BcoJub1aet2whErD
+ JJhANuz/BBPEBAab4f269xxtisrU2WtD6vr97dE+7ClN6coUnVH0JluYw7BTooLfcIEu4KBin
+ DQ+0v+9qrZXuR3AUJcovX0fsKC19ifvZ/5oqggar7ona4X395pK+kV8CTqmmBXQm/Xq4Q=
+X-Vs-State: SPAM
+X-Hostpoint-Spambox: NO
+
+Guten Tag Marc,
+wir w=C3=BCnschen Dir sch=C3=B6ne Ostern.
+Im Briefkasten ist noch ein Couvert von uns.
+
+Liebe Gr=C3=BCsse=20
+Mama und Papa=
+

@@ -1,0 +1,132 @@
+Return-Path: <lama50@gmx.ch>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.4.2.214])
+	by popimap018.mail.hostpoint.internal with LMTP
+	id EFMtGjED+2CscQAApkpzRw
+	(envelope-from <lama50@gmx.ch>)
+	for <mail@marclandolt.ch>; Fri, 23 Jul 2021 19:58:09 +0200
+Received: from mxin014.mail.hostpoint.ch ([10.4.2.214])
+	by mail-lb1.adm.hostpoint.ch with LMTP
+	id SNzkGTED+2DqSAAA9BAvQA
+	(envelope-from <lama50@gmx.ch>)
+	for <mail@marclandolt.ch>; Fri, 23 Jul 2021 19:58:09 +0200
+Received: from mout.gmx.net ([212.227.17.20])
+	by mxin014.mail.hostpoint.ch with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.94.2 (FreeBSD))
+	(envelope-from <lama50@gmx.ch>)
+	id 1m6zR3-0008CS-AX
+	for mail@marclandolt.ch; Fri, 23 Jul 2021 19:58:09 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=gmx.net;
+	s=badeba3b8450; t=1627063088;
+	bh=CgfJJ1VG21z9lGHDE1kVRwfGLyju8tGePDwtmJELqmU=;
+	h=X-UI-Sender-Class:To:From:Subject:Date;
+	b=JK9N+/4x34r+EGKuetpr7aySM2WIEhT5/CPPjeou/2JSFB89Zyg1ZHMG0/EkBf93t
+	 /wzZojPTl926P0Daomg/VPrP47EIjTyLl3kMBei8t2WotbVsIcnmm9QlkFITKD+GY7
+	 e900boLH15zW3SAB5gUWyrdeNdtjgr5q2JpU8u6I=
+X-UI-Sender-Class: 01bb95c1-4bf8-414a-932a-4f6e2808ef9c
+Received: from [192.168.1.18] ([91.138.17.137]) by mail.gmx.net (mrgmx104
+ [212.227.17.168]) with ESMTPSA (Nemesis) id 1Mwwdf-1l8zxT2aQF-00yML9; Fri, 23
+ Jul 2021 19:58:08 +0200
+To: Marc jun Landolt <mail@marclandolt.ch>
+From: lama50 <lama50@gmx.ch>
+Subject: Mails
+Message-ID: <4aeff2d8-916e-3b71-233d-80562572c1b4@gmx.ch>
+Disposition-Notification-To: lama50 <lama50@gmx.ch>
+Date: Fri, 23 Jul 2021 19:58:10 +0200
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101
+ Thunderbird/78.12.0
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="------------E6384FBEDA86653FE477A902"
+X-Provags-ID: V03:K1:wsyNBEDltYn8dX1YWLmm3zLOjJMG/+NGS1Y5oU7WwWG5RdyHl1a
+ ymPSFKTVX6Wz75xue+J53r2zRzKdgzBHNB/zoMcVuA8cFy2qGlBqsn4qg+DKZkpO6Gl2ezj
+ WxQTVOckS0LBkiVcRjnoucM//kbgRbbJEOY7jO4KtS+weG7MR916wOb5CNk7U+kJcJ+JeqY
+ sVSQfn5vJIhziaBXJ5y6g==
+X-Spam-Flag: NO
+X-UI-Out-Filterresults: notjunk:1;V03:K0:aZKyJECbHwA=:Dg20JtwlpSxAdzsCTWmhH9
+ UoA8PCiFbUzLmwMSMuyDMVUn37Ww+T63yevtlE1X6HV/pcY3QsT2UVAPI/Wv2waHKSZ9BBnhh
+ PfukGiiDwqjXIOj+ix6QNnphB3lQZXr/MQG69JSpmoTL73zKD+/a9SOM8rajLT5glFbODIY4D
+ VTVUUPtCve6/5tTzi/MIw1fxilfidQsGm3RAoibgx9fumiTUEtYD1XpukzrButRfouDKUqHgz
+ O/cd1Eql/r1VW6clthQ0wbJxUYxI6/sBfJTv+NXWv0Dj5ssKvpziM8z9OLLRVzGGmxNjGPWmc
+ aTz4SFJFGjF5EeP5eGW9iP3gad/ZFeqQXnCUNlJm310oy99NeYBaKcfLKrz9qWRexE7Tsf0SJ
+ zxQjKi5bAfhc/ATqa3pvx+2U+9JNfjG9odms4j4xm3KbKJQAXYZpBSjhuRnqMKTlua2mW9PrN
+ zezffKa4qqYf3Q290TtususIVCEi43eT5iBwkYq6+G0DSixJENB2wZ3IXWO9WnLjgXMTuZ/6e
+ FI4hqXIWVfkZa58gUGCBtTL3mf2E9ryL3pe7ZPQaUbuS6V6z1ZMxP5g/sjM5xkkHuLCFM8GN3
+ u6am4Uf1mLAuoTwNXgqFcWqW1pRUOZEP+1uyULkSEFw0nXitpuh7IQNirk761r+nfPgMPogPo
+ +50QVSdb1TXQQQ+tbio5QHW7TOAdgo0RitPC6sO45fMpKF6Z7JqP0AxQdln36S8dQK3tGgSKr
+ VIvWpKq1PPi2PLGjZMum9C/9Z5qdYKYmE+MBenkWqkXiTtcNbvQckzek7vGwBdPPrCMxMArlW
+ 9emAby6vUvYeI89eKSOJoBPKjO4yM8HiItDJKZYO8Kh4f1aEcfgleJS5/cv1rcugB71jRr4+w
+ mBi5QcxWNQmRrOx5UeX34rVIjpaN6sGguL/bjsulnZ8qtZP5boO2855l3DUIEErZUcqaOZLfJ
+ 4ZKft9ppFNVtvLxuDbyO9W53W+mRBRyxSGMWsRl1c8oET/CJT++oWM39RFoGVhBhieiseh43w
+ /J2nrMRGklVwYhblS06rj4kg2D11Z2asJNksI+tKN9QIP5EThhqx6okIVNdQdM0eVTDpTRh+K
+ gVNU2qGtC67063pzdQ87ByOFrol6uqTpEjD
+X-Vs-State: LEGIT
+X-Hostpoint-Spambox: NO
+
+This is a multi-part message in MIME format.
+--------------E6384FBEDA86653FE477A902
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: quoted-printable
+
+Hallo Marc,
+
+bitte unterlass es sofort uns mit Anschuldigungen per Mail zu terrorisiere=
+n.
+
+Wenn es etwas zu sagen gibt: nur direkte Mail an uns ohne diese elenden
+
+Verschw=C3=B6rungsgeschichten. Wir haben das schon einmal von Dir verlangt=
+,
+
+aber Du h=C3=A4lst dich nicht daran!!!!
+
+Wir wollen Dir immer noch in ein Normales Leben zur=C3=BCckhelfen und Du
+weisst es selbst, dass
+
+nur Du selbst etwas ver=C3=A4ndern kannst..
+
+Was zu sagen ist ist gesagt.
+
+_*Ab Sofort werden wir auf deine Mails nicht mehr antworten.*_
+
+
+Gruss
+
+
+--------------E6384FBEDA86653FE477A902
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <head>
+
+    <meta http-equiv=3D"content-type" content=3D"text/html; charset=3DUTF-=
+8">
+  </head>
+  <body>
+    <p>Hallo Marc,</p>
+    <p>bitte unterlass es sofort uns mit Anschuldigungen per Mail zu
+      terrorisieren.</p>
+    <p>Wenn es etwas zu sagen gibt: nur direkte Mail an uns ohne diese
+      elenden</p>
+    <p>Verschw=C3=B6rungsgeschichten. Wir haben das schon einmal von Dir
+      verlangt,</p>
+    <p>aber Du h=C3=A4lst dich nicht daran!!!!<br>
+    </p>
+    <p>Wir wollen Dir immer noch in ein Normales Leben zur=C3=BCckhelfen u=
+nd
+      Du weisst es selbst, dass <br>
+    </p>
+    <p>nur Du selbst etwas ver=C3=A4ndern kannst..</p>
+    <p>Was zu sagen ist ist gesagt.</p>
+    <p><u><b>Ab Sofort werden wir auf deine Mails nicht mehr antworten.</b=
+></u><br>
+    </p>
+    <p><br>
+    </p>
+    <p>Gruss<br>
+    </p>
+  </body>
+</html>
+
+--------------E6384FBEDA86653FE477A902--

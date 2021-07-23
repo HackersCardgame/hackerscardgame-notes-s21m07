@@ -1,0 +1,98 @@
+Return-Path: <lama50@gmx.ch>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.4.2.212])
+	by popimap018.mail.hostpoint.internal with LMTP
+	id XlnbLYnVzGANMgAApkpzRw
+	(envelope-from <lama50@gmx.ch>)
+	for <mail@marclandolt.ch>; Fri, 18 Jun 2021 19:19:05 +0200
+Received: from mxin012.mail.hostpoint.ch ([10.4.2.212])
+	by mail-lb1.adm.hostpoint.ch with LMTP
+	id YCV7LInVzGBJBwAA9BAvQA
+	(envelope-from <lama50@gmx.ch>)
+	for <mail@marclandolt.ch>; Fri, 18 Jun 2021 19:19:05 +0200
+Received: from mout.gmx.net ([212.227.15.18])
+	by mxin012.mail.hostpoint.ch with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.94.2 (FreeBSD))
+	(envelope-from <lama50@gmx.ch>)
+	id 1luI93-0006dQ-Lo
+	for mail@marclandolt.ch; Fri, 18 Jun 2021 19:19:05 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=gmx.net;
+	s=badeba3b8450; t=1624036745;
+	bh=SE190IhLttdQYe4n9en2PSMMJjbBVtSWyq6ZUV4Twbg=;
+	h=X-UI-Sender-Class:Subject:To:References:From:Date:In-Reply-To;
+	b=JwfK4tCeNkg04BgW3X+C+WiG2/UjdYTCcSHcRbC28YOT2y+r0EVVjzG0nWjV7EU2W
+	 pLkOfAqUs37Djf6tDPCnNgVYZt6s4RUiupztPNIEiM5znOKrliG9LK48P/CHiXVm5Y
+	 xZiYu9G0ZQeUQzf5e46TDWrk8vOWUTC2Ci+R5mPQ=
+X-UI-Sender-Class: 01bb95c1-4bf8-414a-932a-4f6e2808ef9c
+Received: from [192.168.1.18] ([91.138.17.137]) by mail.gmx.net (mrgmx005
+ [212.227.17.190]) with ESMTPSA (Nemesis) id 1N7QxL-1lDU2O06aj-017nti; Fri, 18
+ Jun 2021 19:19:05 +0200
+Subject: Re: Geburtstag
+To: "Marc jr. Landolt" <mail@marclandolt.ch>
+References: <c4d78897-454f-dd23-d2c5-2403f0620790@gmx.ch>
+ <251fa9c0-5152-e49f-930b-a0f160a3ec25@marclandolt.ch>
+From: lama50 <lama50@gmx.ch>
+Message-ID: <f5d277c1-18a8-aa7f-acf7-13e4a1d66c32@gmx.ch>
+Date: Fri, 18 Jun 2021 19:19:05 +0200
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101
+ Thunderbird/78.11.0
+MIME-Version: 1.0
+In-Reply-To: <251fa9c0-5152-e49f-930b-a0f160a3ec25@marclandolt.ch>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: quoted-printable
+X-Provags-ID: V03:K1:cd5HwGCXAtuLtkXZ+43Z1M6NhXOpeoBxzvI3IFA5VF1wDyTjT8I
+ tzgRQ8XcDEQvq1ngscmmZzNF5CZZcjYuP1fbF9dajN6VEglqRSrFJtBe5qUiVRCxr3WTbAT
+ XyAahPiOu7qVTjCllMTOWXclvWwJ/ZlrdeD0hqzFsCKZdA8FCl1KrvzwGjj+wULAsUDN9RI
+ sIXYyoRQ/lEDLTk8wkRdA==
+X-Spam-Flag: NO
+X-UI-Out-Filterresults: notjunk:1;V03:K0:kbRlVDvplBA=:H50PJduVrDWZYgOWb/fCcM
+ tccEjwW5w+JdmGSZIpgnlcoI45MmghuXSCeNF0SPirq7zeHcBZSb4u0hUBFhfl0LGpnCNmZ3s
+ GXjuFIerf9nHgq6CaYRzky08ThGuYxfu0zfyn3ZXgIhsn6gM1OiFisb4nb7uyhNYbxhMDH3bC
+ mo/JfDSxBe5S7wCVdtLyw8V4H9nJoYOLe4GMW38m0tsDjVwYVf0Mai1OUsAJDO3Q4muK1Fcsc
+ fo5uHzw81os53vvp4BxMWUxaJLzDzt/O2hsbdEAgwt9DUgPirTmdQwKWkIpAT74aR9tWC+PCS
+ ipuZe7U7j4FHIQLwpVpSmsRpwv+AJonp1ViLgYbKhlAgV7PjBMQsEZnyxlhKsRDDL7f4vFJ8w
+ RkevF2IU5HAMjFX7VbBLvO4hxZGjrrQDXJrKNOLi6TmUz3r1HQwKW1IGxsuVToKMbvHyWAMhe
+ IISsrzqUlyxsjlEZvOrZuilicnB91jCTW8iWWCUEV27SA9+oFilLOQCOVjgrHijHCCX53Df9C
+ YztuDtCzi//XzUdH5gfPrpXrd9AIeJxIabY8y7wXs4N6kbIdLXe7LiH1d8skoOfHnB/Hk44+O
+ eFoPNyGrg9mBWVmQOao+VRm+Gg3PCk2Qu1M1yJpcRKv2ckEqJSiG6KSSNLlTLGOzSaJ5V3cWx
+ Ut+qlLrp9kShDcxM5bg+/m2VvVkwCdLIPrFSrB1g/b32a+Qx3oziUATeS+QLmbLs1MkNPHkxx
+ 0eKQg4uBaCqcp3x8E+ccqi5NlQ0DGR5dnHXc27GgvAKAG85hpGNepkkb4n8ex2Ysl82/KWIQN
+ rTQzBczhsnXXgoa72GBBW6oxy+13lZyn4+XRIoKZSYhLvd5Xtt2Ue7BqHfKx92IHlQFivhl6O
+ S6mIk7JzDBeYgEuMuzyJzFWY+F1hgvBqqY92vjq8r/uPXnQNlDSW7MzgVb6QK/VcifZPjXSh0
+ v7R2Vui0CG3XhDCbc06AtsaiiFrIPSxMLHjAhwlZVpzalJlfMGTt04tA+INHVOjFQLB4LJRA8
+ pVXiyCOZnGiGpXEeBsF9uKMTnGrINSqNZ9cdph3I+3z8n5S8iP4s1X4NhYlDcTL3Y4fiseUiT
+ te+9r8uFGbiGcIT8/hUT77AM2O0q5JL7+kx
+X-Vs-State: LEGIT
+X-Hostpoint-Spambox: NO
+
+Hallo Marc.
+
+
+Deinem Mail nach entnehmen wir, dass Du den Geburtstagsbatzen in "Bar"
+m=C3=B6chtest.
+
+Ok - sage uns wann und wo wir ihn Dir pers=C3=B6nlich =C3=BCbegeben k=C3=
+=B6nnen.
+
+Gruss Mama und Papa
+
+
+
+Am 17.06.2021 um 20:06 schrieb Marc jr. Landolt:
+> also coop gutschein geht nicht, weil da hab ich hausverbot weil ich
+> einen epilepsie anfall im coop bahnhof aarau hatte...
+>
+> On 6/17/21 12:11 PM, lama50 wrote:
+>> Hallo Marc,
+>>
+>> wir gratulieren Dir zum Geburtstag.
+>>
+>> Der Geburtstagsbatzen liegt bereit, sage uns nur noch in welcher Form,
+>>
+>> wo und wann Du ihn in Empfang nehmen m=C3=B6chtest.
+>>
+>> Meld Dich einfach bei uns.
+>>
+>>
+>> Mama und Papa
+>>

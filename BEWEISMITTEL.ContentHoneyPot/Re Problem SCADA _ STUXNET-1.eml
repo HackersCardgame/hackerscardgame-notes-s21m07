@@ -1,0 +1,769 @@
+Subject: Re: Problem SCADA / STUXNET
+To: Brian Brown <brownbrian77@gmail.com>
+References: <d971582d-544e-c457-aff0-3c7807cc9c4a@marclandolt.ch>
+ <CADXEUo+tMSXALWEfaorhpeV6C-7PpKFxKzkpaf9PXPQMqdwQ3g@mail.gmail.com>
+From: "Marc jr. Landolt" <mail@marclandolt.ch>
+Message-ID: <9bb778b0-f473-e69c-e76e-b7b76dd9f80b@marclandolt.ch>
+Disposition-Notification-To: "Marc jr. Landolt" <mail@marclandolt.ch>
+Date: Fri, 28 May 2021 17:49:50 +0200
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101
+ Thunderbird/78.10.2
+MIME-Version: 1.0
+In-Reply-To: <CADXEUo+tMSXALWEfaorhpeV6C-7PpKFxKzkpaf9PXPQMqdwQ3g@mail.gmail.com>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Danke für die schnelle Antwort
+
+eine ganz wichtige Frage, man sagt ja im Volksmund "der Teufel steckt 
+fest ähm im Detail"
+
+
+... keine (wireless) Verbindungen mit den Produktionsanlagen
+
+- HOWLERMONKEY [1] => if you have an x-ray look for an additional chip
+- Prärequisit wäre dass das nicht-wireless Netzwerk sicher ist, ist es 
+das, denn gemäss Snowden leaks wäre es das nicht... [2]
+
+
+... jedes Mail über 3 Server
+- was wenn endpoint malware
+- parallel, seriell oder wie beim Tor-Browser?
+
+
+... IT Sicherheit ist ein riesiges Thema
+tönt wie wenn das der Häfliger formuliert hätte
+
+
+
+... dann hast Du ja gesagt dass Du genau beim Einkauf für diese 
+Dosier-Dinger zuständig bist, da würde ich gerne mal die öffentlichen 
+Specs lesen, hast Du die Namen / Lieferanten von einigen Beispielen?
+
+Dann da ich zwischendurch mal Medis nehmen muss, wird da einfach 
+sporatisch das z.B. mit dem Gaschromatograph getestet oder wie 
+funktioniert das mit der Qualitätssicherung
+
+
+hab Sprungmarken gemacht:
+
+[1] https://www.youtube.com/watch?v=JbUgODUPoJs#t=53m (seek to 53:00)
+[2] https://www.youtube.com/watch?v=JbUgODUPoJs#t=14m (seek to 14:00 - 
+16:00)
+
+Am 28.05.2021 um 16:21 schrieb Brian Brown:
+> Ciao Floppy
+> 
+> Die Nahrungsmittelindustrie  Industrie ist nicht so gut abgesichert. 
+> Aber trotzdem nicht so schlecht.
+> Die Pharma aber schon. Da gibt es keine wireless Verbindung mit den 
+> Produktionsanlagen. Auch sind bei vielen Firmen die USB Anschlüsse 
+> desaktviert oder ganz ausgebaut.
+> Bei meiner Firma geht jedes Mail über 3 Server.
+> IT Sicherheit ist ein riesiges Thema.
+> 
+> Gruss
+> 
+> Pädeli
+> 
+> Le ven. 28 mai 2021 à 16:03, Marc jr. Landolt <mail@marclandolt.ch 
+> <mailto:mail@marclandolt.ch>> a écrit :
+> 
+>     Halli Hallo Pädeli
+> 
+>     ich bin nicht so der Spezialist auf Chemie, bzw. hab keinen Plan davon.
+>     Aber von Produktions-Strassen habe ich so einigermassen eine Ahnung.
+> 
+>     Du hast ja sicher vom STUXNET Virus gehört, der angeblich "nur" die
+>     Iranischen Atom-Zentrifugen (irgend etwas zwischen Siemens S4 und S7)
+>     angegriffen haben soll. Ich denke dieser Presse Artikel wäre aber nur
+>     der HoneyPot der dann Personal aktiviert falls jemand z.B. von einer
+>     Schweizer Chemie Firma sich spekulativ mal fragen würde: "hmmmmm,
+>     könnte
+>     da meine Produktions-Strasse allenfalls auch betroffen sein"
+> 
+>     Egal ob beim überteuerte Coca Cola oder dem Billig-Zeugs von Denner,
+>     Migros, Coop, Aldi, Lidl ... wäre da ja vermutlich auch irgendwo eine
+>     Produktions-Strasse die das Zeugs zusammen mischt.
+> 
+>     Da ich mich damit nicht im Detail auskenne kenntzeichne ich das
+>     "vorerst
+>     Spekulation" ...
+> 
+>     ... aber es wäre zu erwarten, dass es da auch irgend ein Dosier-Gerät
+>     für das Koffein gibt, und wenn man jetzt mal die LD50 von Koffein
+>     googelt kommt man zum Schluss, dass egal ob Coop oder Migros das echt
+>     nicht so toll wäre, wenn z.B. ein ausländischer Aggressor dieses SCADA
+>     System gehackt hätte. Schlimmer wäre es, wenn das Logistik System auch
+>     noch gehackt ist, je nach dem mit der Auflösung
+> 
+>     DimensionsTabelle 1:
+>     - Spezifischer Laden
+>     - Spezifische Flasche
+> 
+>     DimensionsTabelle 2:
+>     - Mensch der sich mit Stimulus-Response-Habit's beeinflussen läst
+>     - Freier Mensch
+> 
+>     "vermutlich" gibt es weitere DimensionsTabellen
+> 
+>     Da Du Dich mit solchen Dingen ja einigermassen auskennst könnte man
+>     Synergien nutzen, bzw. als Autist ist mir auch bewusst, dass ich
+>     Menschen öfters mal überfordere ... ABER es wäre toll diese Thematik
+>     mal
+>     aus der Prespektive eines Menschen zu hören, der wirklich mit solchen
+>     Dingen arbeitet, weil in der Pharma werden Chemikalien verwendet, wo
+>     die
+>     LD50 vermutlich noch geromger sind ... ich vermute als Pharma würde man
+>     da sicher irgend vorkehrungen treffen, aber es wäre meiner MEINUNG nach
+>     nicht unerwartet, wenn man z.B. so Dinge wie Coca Cola zusamen
+>     pantschen
+>     versifft hätte ...
+> 
+> 
+> 
+>     Gruss
+>     Flöppel
+> 
+> 
+>     ============== SNIP ==============
+> 
+> 
+>     Guten Tag
+> 
+>     Addendum:
+> 
+>     Herleitung:
+>     1 => 2 => 3
+> 
+>     1. Empfehlungsschreiben für Philipp Lüscher @ Uni Basel für solche
+>     Thematiken, aber so etwas könnte auch er nicht alleine lösen
+> 
+>     2. dabei fällt uns auf, dass ein Elektromechaniker (heute Automatiker)
+>     viel schneller den im Kopf den Link zwischen Produktionsstrasse,
+>     Informatik und Stuxnet machen würde weil Automatiker schon "Hands on"
+>     mit so Dingen gemacht haben und z.B. wüssten was CANBUS, INTERBUS oder
+>     PROFIBUS ist / wie es funktioniert und somit auch auf deren
+>     Abschussliste stehen könnten
+> 
+>     3. was dann allenfalls (Maximale Ertrag Karte Satans) auch erkläeren
+>     würde weshalb gerade die drei Administratoren mit Admin Passwort der
+>     ABB
+>     Flexiblen Automation AG in der Lavine umkamen
+> 
+>     => falls man da noch die Logs / Daten hat, Zugriffe auf
+>     Lavinen-Gefahren-Berichte etc KöNNTEN indizien liefern aber allenfalls
+>     auch Sackgasse
+> 
+>     Mit freundlichen Grüssen
+>     Marc jr. Landolt
+>     eidg. dipl. Informatiker HF
+> 
+>     Am 28.05.2021 um 06:27 schrieb Marc jr. Landolt:
+>       > Guten Morgen
+>       >
+>       > @ Jüngere:
+>       > 1. drei Katzen hinter Sofa
+>       > 2. solltet Ihr auch in diese
+>     Informatik-Inselbegabten-Autisten-Vernichtungs-Mühle kommen kontaktiert
+>     mich allenfalls besser
+>       >
+>       > ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+>       > ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+>       >
+>       > ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+>       > ☆★★★★★★☆☆★★★★★★☆☆☆☆★★★★★★★☆
+>       > ☆★☆☆☆☆☆★☆★☆☆☆☆☆★☆★☆★☆☆☆☆☆★☆
+>       > ☆★☆☆☆☆☆★☆★☆☆☆☆☆★☆★☆★☆☆☆☆☆★☆
+>       > ☆★★★★★★☆☆★★★★★★☆☆☆☆★☆☆☆☆☆★☆
+>       > ☆★☆☆☆☆☆☆☆★☆☆☆★☆☆☆★☆★☆☆☆☆☆★☆
+>       > ☆★☆☆☆☆☆☆☆★☆☆☆☆★☆☆★☆★☆☆☆☆☆★☆
+>       > ☆★☆☆☆☆☆☆☆★☆☆☆☆☆★☆★☆★★★★★★★☆
+>       > ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+>       >
+>       > ProblemArchetyp #StuxNet:
+>       >
+>       > hacked #SCADA and eg, caffeine-amount-GPIO
+>       >
+>       > https://twitter.com/PainDef/status/1398121761552621569
+>     <https://twitter.com/PainDef/status/1398121761552621569>
+>       >
+>       > Herleitung [1]
+>       > ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+>       > ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+>       >
+>       >
+>       > Das will UNBEKANNT geheim halten daran wird [2] der Leak
+>     eingespielt:
+>       > Der Kanton hat massenhaft 20 jährige Informatiker auf dem Gewissen:
+>       >
+>       > Wenn das stimmt, würden diese Leute beim Kanton (weil schlechtes
+>     Gewissen) das eigentliche eigentliche Problem mit SCADA Systemen in
+>     Produktionslinien wo z.B. teilweise giftige Stoffe von einem GPIO
+>     gesteuert werden versiffen...
+>       >
+>       >
+>       > https://twitter.com/PainDef/status/1398123075711946754
+>     <https://twitter.com/PainDef/status/1398123075711946754>
+>       > https://twitter.com/PainDef/status/1398124090934890499
+>     <https://twitter.com/PainDef/status/1398124090934890499>
+>       > https://twitter.com/PainDef/status/1398125139502501891
+>     <https://twitter.com/PainDef/status/1398125139502501891>
+>       > (nicht hören sagen, das hat der Herr Laube gesagt)
+>       > https://twitter.com/PainDef/status/1398126215920328713
+>     <https://twitter.com/PainDef/status/1398126215920328713>
+>       >
+>       >
+>       > Mit freundlichen Grüssen trotz wieder mal induzierter Epil
+>     <https://www.google.com/maps/search/rotz+wieder+mal+induzierter+Epil?entry=gmail&source=g>epsie
+>       >
+>       > Marc jr. Landolt
+>       > eidg. dipl. Informatiker HF
+>       > Neuenburgerstrasse 6
+>       > 5004 Aarau
+>       > 062 822 61 31
+>       > 078 674 15 32
+>       >
+>       >
+>       > CRC [3]
+>       >
+>       >
+>       > [1]
+>       > https://twitter.com/PainDef/status/1396680839950385153
+>     <https://twitter.com/PainDef/status/1396680839950385153>
+>       > https://twitter.com/FailDef/status/1333425161996013568
+>     <https://twitter.com/FailDef/status/1333425161996013568>
+>       > https://twitter.com/FailDef/status/1386600946973691904
+>     <https://twitter.com/FailDef/status/1386600946973691904>
+>       >
+>       > Teilweise Auszug als CRC
+>       > Halli Hallo
+>       > @Bayer Könntet Ihr #SCADA für kleinen Bepanthen prüfen. Immer
+>     ca. in
+>     Mitte ein riesen Lufloch Meiner Meinnug nach seit #Stuxnet Hobby
+>     gewisser ungenannter Geheimdienste über SCADA Systeme unkoshere Dellen
+>     an Produkte zu hacksen = TraumaBased Mindcontrol
+>       > Die #weisse #Schokolade aus Lidl #Aarau #Schweiz scheint Verpackung
+>     nicht dicht zu sein
+>       > Ev.#SCADA/#NPC der für die #VerschweissZeit(?) des Plastiks
+>     zuständig
+>     ist kontrollieren
+>       > Grad jetzt nen additionalSelector(Option auf Applikation?) Urs Bl.
+>       > @schweizerarmee
+>       > ?
+>       > SCADA Leak aktiviert Leak über Morde durch Kantonale Behörden an 20
+>     Jährigen Informatikern um die Infiltration Schweizer Netzhwerk
+>       > SCADA Leak aktiviert Leak über Morde durch Kantonale Behörden an 20
+>     Jährigen Informatikern um die Infiltration Schweizer Netzhwerk
+>       >
+>       > [2] "vermutlich Urs Blum, Gabriel Riela und der Zürich Versichrung
+>     die ein Ableger dieser Sorte von Amerikanern sind" <- mitten im satz,
+>     also die Schweizer armee die jetzt usa bezichtigt?
+>       >
+>       > [3]
+>       >
+>       > Technoparties an ComputerMessen bevor ich gross genug war da hin zu
+>     gehen:
+>       >
+>       > -Ein Teil der Admins lernt dort die "Handhabung"
+>       >
+>       > -Ein Teil bekommt eine Option auf Blaming-the-User Karte "Selber
+>     Schuld"
+>       >
+>       > Szene wo der Paul Laube(Mellikon,Laube AG)mich in #Psychiatrie
+>     #Königsfelden @kantonaargau "grrr, ein Drögeler" nennt, obwohl ich da
+>     schon 7 Jahre nicht mehr gekifft habe, das wurde weder ausgewiesen noch
+>     in Krankenakte
+>       >
+>       > FORDERUNG:ich will diese Akten!
+>       >
+>       > @Kapo_Aargau / #Psychiatrie #Königsfelden @kantonaargau gibt
+>     Arbeitgeber Einsicht in zweite Akte die es scheinbar gibt, die erst
+>     noch
+>     falsch ist & mir nicht? *epilepsie & ich will mir jetzt wieder "selber"
+>     die Fäuste an meinen Kopf schlagen
+>       >
+>       >
+> 
+> 
+> 
+> 
+>     Guten Morgen
+> 
+>     @ Jüngere:
+>     1. drei Katzen hinter Sofa
+>     2. solltet Ihr auch in diese
+>     Informatik-Inselbegabten-Autisten-Vernichtungs-Mühle kommen kontaktiert
+>     mich allenfalls besser
+> 
+>     ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+>     ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+> 
+>     ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+>     ☆★★★★★★☆☆★★★★★★☆☆☆☆★★★★★★★☆
+>     ☆★☆☆☆☆☆★☆★☆☆☆☆☆★☆★☆★☆☆☆☆☆★☆
+>     ☆★☆☆☆☆☆★☆★☆☆☆☆☆★☆★☆★☆☆☆☆☆★☆
+>     ☆★★★★★★☆☆★★★★★★☆☆☆☆★☆☆☆☆☆★☆
+>     ☆★☆☆☆☆☆☆☆★☆☆☆★☆☆☆★☆★☆☆☆☆☆★☆
+>     ☆★☆☆☆☆☆☆☆★☆☆☆☆★☆☆★☆★☆☆☆☆☆★☆
+>     ☆★☆☆☆☆☆☆☆★☆☆☆☆☆★☆★☆★★★★★★★☆
+>     ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+> 
+>     ProblemArchetyp #StuxNet:
+> 
+>     hacked #SCADA and eg, caffeine-amount-GPIO
+> 
+>     https://twitter.com/PainDef/status/1398121761552621569
+>     <https://twitter.com/PainDef/status/1398121761552621569>
+> 
+>     Herleitung [1]
+>     ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+>     ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+> 
+> 
+>     Das will UNBEKANNT geheim halten daran wird [2] der Leak eingespielt:
+>     Der Kanton hat massenhaft 20 jährige Informatiker auf dem Gewissen:
+> 
+>     Wenn das stimmt, würden diese Leute beim Kanton (weil schlechtes
+>     Gewissen) das eigentliche eigentliche Problem mit SCADA Systemen in
+>     Produktionslinien wo z.B. teilweise giftige Stoffe von einem GPIO
+>     gesteuert werden versiffen...
+> 
+> 
+>     https://twitter.com/PainDef/status/1398123075711946754
+>     <https://twitter.com/PainDef/status/1398123075711946754>
+>     https://twitter.com/PainDef/status/1398124090934890499
+>     <https://twitter.com/PainDef/status/1398124090934890499>
+>     https://twitter.com/PainDef/status/1398125139502501891
+>     <https://twitter.com/PainDef/status/1398125139502501891>
+>     (nicht hören sagen, das hat der Herr Laube gesagt)
+>     https://twitter.com/PainDef/status/1398126215920328713
+>     <https://twitter.com/PainDef/status/1398126215920328713>
+> 
+> 
+>     Mit freundlichen Grüssen trotz wieder mal induzierter Epilepsie
+> 
+>     Marc jr. Landolt
+>     eidg. dipl. Informatiker HF
+>     Neuenburgerstrasse 6
+>     5004 Aarau
+>     062 822 61 31
+>     078 674 15 32
+> 
+> 
+>     CRC [3]
+> 
+> 
+>     [1]
+>     https://twitter.com/PainDef/status/1396680839950385153
+>     <https://twitter.com/PainDef/status/1396680839950385153>
+>     https://twitter.com/FailDef/status/1333425161996013568
+>     <https://twitter.com/FailDef/status/1333425161996013568>
+>     https://twitter.com/FailDef/status/1386600946973691904
+>     <https://twitter.com/FailDef/status/1386600946973691904>
+> 
+>     Teilweise Auszug als CRC
+>     Halli Hallo
+>     @Bayer Könntet Ihr #SCADA für kleinen Bepanthen prüfen. Immer ca. in
+>     Mitte ein riesen Lufloch Meiner Meinnug nach seit #Stuxnet Hobby
+>     gewisser ungenannter Geheimdienste über SCADA Systeme unkoshere Dellen
+>     an Produkte zu hacksen = TraumaBased Mindcontrol
+>     Die #weisse #Schokolade aus Lidl #Aarau #Schweiz scheint Verpackung
+>     nicht dicht zu sein
+>     Ev.#SCADA/#NPC der für die #VerschweissZeit(?) des Plastiks zuständig
+>     ist kontrollieren
+>     Grad jetzt nen additionalSelector(Option auf Applikation?) Urs Bl.
+>     @schweizerarmee
+>     ?
+>     SCADA Leak aktiviert Leak über Morde durch Kantonale Behörden an 20
+>     Jährigen Informatikern um die Infiltration Schweizer Netzhwerk
+>     SCADA Leak aktiviert Leak über Morde durch Kantonale Behörden an 20
+>     Jährigen Informatikern um die Infiltration Schweizer Netzhwerk
+> 
+>     [2] "vermutlich Urs Blum, Gabriel Riela und der Zürich Versichrung die
+>     ein Ableger dieser Sorte von Amerikanern sind" <- mitten im satz, also
+>     die Schweizer armee die jetzt usa bezichtigt?
+> 
+>     [3]
+> 
+>     Technoparties an ComputerMessen bevor ich gross genug war da hin zu
+>     gehen:
+> 
+>     -Ein Teil der Admins lernt dort die "Handhabung"
+> 
+>     -Ein Teil bekommt eine Option auf Blaming-the-User Karte "Selber Schuld"
+> 
+>     Szene wo der Paul Laube(Mellikon,Laube AG)mich in #Psychiatrie
+>     #Königsfelden @kantonaargau "grrr, ein Drögeler" nennt, obwohl ich da
+>     schon 7 Jahre nicht mehr gekifft habe, das wurde weder ausgewiesen noch
+>     in Krankenakte
+> 
+>     FORDERUNG:ich will diese Akten!
+> 
+>     @Kapo_Aargau / #Psychiatrie #Königsfelden @kantonaargau gibt
+>     Arbeitgeber
+>     Einsicht in zweite Akte die es scheinbar gibt, die erst noch falsch ist
+>     & mir nicht? *epilepsie & ich will mir jetzt wieder "selber" die Fäuste
+>     an meinen Kopf schlagen
+> 
+> 
+> 
+>     problem.JPG
+> 
+>     todo.jpg
+> 
+>     grrrrrrrrrrr.JPG
+> 
+> 
+> 
+>     ---------- Forwarded message ----------
+>     From: "Marc jr. Landolt" <mail@marclandolt.ch
+>     <mailto:mail@marclandolt.ch>>
+>     To: Hanno Katrin <Katrin.Hanno@pdag.ch
+>     <mailto:Katrin.Hanno@pdag.ch>>, svaaargau@sva-ag.ch
+>     <mailto:svaaargau@sva-ag.ch>, info@kapo.ag.ch
+>     <mailto:info@kapo.ag.ch>, info@fedpol.admin.ch
+>     <mailto:info@fedpol.admin.ch>, Elisabeth.Bauhofer@ag.ch
+>     <mailto:Elisabeth.Bauhofer@ag.ch>, Schleusener Samer
+>     <Samer.Schleusener@pdag.ch <mailto:Samer.Schleusener@pdag.ch>>,
+>     marco.spring@ag.ch <mailto:marco.spring@ag.ch>,
+>     michael.ritter@kapo.ag.ch <mailto:michael.ritter@kapo.ag.ch>,
+>     AarauEPD <EPD.Aarau@pdag.ch <mailto:EPD.Aarau@pdag.ch>>, "Küng
+>     Walter GKABGAAR" <Walter.Kueng@ag.ch <mailto:Walter.Kueng@ag.ch>>,
+>     Postmaster-VBS@gs-vbs.admin.ch
+>     <mailto:Postmaster-VBS@gs-vbs.admin.ch>, direktion@bger.ch
+>     <mailto:direktion@bger.ch>, "Kanzlei@bger.ch
+>     <mailto:Kanzlei@bger.ch>" <Kanzlei@bger.ch
+>     <mailto:Kanzlei@bger.ch>>, info@interpol.int
+>     <mailto:info@interpol.int>, kb3.bern@helsana.ch
+>     <mailto:kb3.bern@helsana.ch>, 2009@marclandolt.ch
+>     <mailto:2009@marclandolt.ch>, contact.center@ch.abb.com
+>     <mailto:contact.center@ch.abb.com>, info@oniko.ch
+>     <mailto:info@oniko.ch>, interface@internil.net
+>     <mailto:interface@internil.net>, Lama <lama50@gmx.ch
+>     <mailto:lama50@gmx.ch>>, support@hostpoint.ch
+>     <mailto:support@hostpoint.ch>, daniel.heilmann@kapo.ag.ch
+>     <mailto:daniel.heilmann@kapo.ag.ch>, marianne.gisi@pdag.ch
+>     <mailto:marianne.gisi@pdag.ch>, impressum@coop.ch
+>     <mailto:impressum@coop.ch>
+>     Cc:
+>     Bcc:
+>     Date: Fri, 28 May 2021 06:27:43 +0200
+>     Subject: SCADA Leak, STUXNET Part 2
+>     Guten Morgen
+> 
+>     @ Jüngere:
+>     1. drei Katzen hinter Sofa
+>     2. solltet Ihr auch in diese
+>     Informatik-Inselbegabten-Autisten-Vernichtungs-Mühle kommen kontaktiert
+>     mich allenfalls besser
+> 
+>     ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+>     ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+> 
+>     ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+>     ☆★★★★★★☆☆★★★★★★☆☆☆☆★★★★★★★☆
+>     ☆★☆☆☆☆☆★☆★☆☆☆☆☆★☆★☆★☆☆☆☆☆★☆
+>     ☆★☆☆☆☆☆★☆★☆☆☆☆☆★☆★☆★☆☆☆☆☆★☆
+>     ☆★★★★★★☆☆★★★★★★☆☆☆☆★☆☆☆☆☆★☆
+>     ☆★☆☆☆☆☆☆☆★☆☆☆★☆☆☆★☆★☆☆☆☆☆★☆
+>     ☆★☆☆☆☆☆☆☆★☆☆☆☆★☆☆★☆★☆☆☆☆☆★☆
+>     ☆★☆☆☆☆☆☆☆★☆☆☆☆☆★☆★☆★★★★★★★☆
+>     ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+> 
+>     ProblemArchetyp #StuxNet:
+> 
+>     hacked #SCADA and eg, caffeine-amount-GPIO
+> 
+>     https://twitter.com/PainDef/status/1398121761552621569
+>     <https://twitter.com/PainDef/status/1398121761552621569>
+> 
+>     Herleitung [1]
+>     ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+>     ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+> 
+> 
+>     Das will UNBEKANNT geheim halten daran wird [2] der Leak eingespielt:
+>     Der Kanton hat massenhaft 20 jährige Informatiker auf dem Gewissen:
+> 
+>     Wenn das stimmt, würden diese Leute beim Kanton (weil schlechtes
+>     Gewissen) das eigentliche eigentliche Problem mit SCADA Systemen in
+>     Produktionslinien wo z.B. teilweise giftige Stoffe von einem GPIO
+>     gesteuert werden versiffen...
+> 
+> 
+>     https://twitter.com/PainDef/status/1398123075711946754
+>     <https://twitter.com/PainDef/status/1398123075711946754>
+>     https://twitter.com/PainDef/status/1398124090934890499
+>     <https://twitter.com/PainDef/status/1398124090934890499>
+>     https://twitter.com/PainDef/status/1398125139502501891
+>     <https://twitter.com/PainDef/status/1398125139502501891>
+>     (nicht hören sagen, das hat der Herr Laube gesagt)
+>     https://twitter.com/PainDef/status/1398126215920328713
+>     <https://twitter.com/PainDef/status/1398126215920328713>
+> 
+> 
+>     Mit freundlichen Grüssen trotz wieder mal induzierter Epilepsie
+> 
+>     Marc jr. Landolt
+>     eidg. dipl. Informatiker HF
+>     Neuenburgerstrasse 6
+>     5004 Aarau
+>     062 822 61 31
+>     078 674 15 32
+> 
+> 
+>     CRC [3]
+> 
+> 
+>     [1]
+>     https://twitter.com/PainDef/status/1396680839950385153
+>     <https://twitter.com/PainDef/status/1396680839950385153>
+>     https://twitter.com/FailDef/status/1333425161996013568
+>     <https://twitter.com/FailDef/status/1333425161996013568>
+>     https://twitter.com/FailDef/status/1386600946973691904
+>     <https://twitter.com/FailDef/status/1386600946973691904>
+> 
+>     Teilweise Auszug als CRC
+>     Halli Hallo
+>     @Bayer Könntet Ihr #SCADA für kleinen Bepanthen prüfen. Immer ca. in
+>     Mitte ein riesen Lufloch Meiner Meinnug nach seit #Stuxnet Hobby
+>     gewisser ungenannter Geheimdienste über SCADA Systeme unkoshere Dellen
+>     an Produkte zu hacksen = TraumaBased Mindcontrol
+>     Die #weisse #Schokolade aus Lidl #Aarau #Schweiz scheint Verpackung
+>     nicht dicht zu sein
+>     Ev.#SCADA/#NPC der für die #VerschweissZeit(?) des Plastiks zuständig
+>     ist kontrollieren
+>     Grad jetzt nen additionalSelector(Option auf Applikation?) Urs Bl.
+>     @schweizerarmee
+>     ?
+>     SCADA Leak aktiviert Leak über Morde durch Kantonale Behörden an 20
+>     Jährigen Informatikern um die Infiltration Schweizer Netzhwerk
+>     SCADA Leak aktiviert Leak über Morde durch Kantonale Behörden an 20
+>     Jährigen Informatikern um die Infiltration Schweizer Netzhwerk
+> 
+>     [2] "vermutlich Urs Blum, Gabriel Riela und der Zürich Versichrung die
+>     ein Ableger dieser Sorte von Amerikanern sind" <- mitten im satz, also
+>     die Schweizer armee die jetzt usa bezichtigt?
+> 
+>     [3]
+> 
+>     Technoparties an ComputerMessen bevor ich gross genug war da hin zu
+>     gehen:
+> 
+>     -Ein Teil der Admins lernt dort die "Handhabung"
+> 
+>     -Ein Teil bekommt eine Option auf Blaming-the-User Karte "Selber Schuld"
+> 
+>     Szene wo der Paul Laube(Mellikon,Laube AG)mich in #Psychiatrie
+>     #Königsfelden @kantonaargau "grrr, ein Drögeler" nennt, obwohl ich da
+>     schon 7 Jahre nicht mehr gekifft habe, das wurde weder ausgewiesen noch
+>     in Krankenakte
+> 
+>     FORDERUNG:ich will diese Akten!
+> 
+>     @Kapo_Aargau / #Psychiatrie #Königsfelden @kantonaargau gibt
+>     Arbeitgeber
+>     Einsicht in zweite Akte die es scheinbar gibt, die erst noch falsch ist
+>     & mir nicht? *epilepsie & ich will mir jetzt wieder "selber" die Fäuste
+>     an meinen Kopf schlagen
+> 
+> 
+> 
+> 
+> 
+>     ---------- Forwarded message ----------
+>     From: "Marc jr. Landolt" <mail@marclandolt.ch
+>     <mailto:mail@marclandolt.ch>>
+>     To: Hanno Katrin <Katrin.Hanno@pdag.ch
+>     <mailto:Katrin.Hanno@pdag.ch>>, svaaargau@sva-ag.ch
+>     <mailto:svaaargau@sva-ag.ch>, info@kapo.ag.ch
+>     <mailto:info@kapo.ag.ch>, info@fedpol.admin.ch
+>     <mailto:info@fedpol.admin.ch>, Elisabeth.Bauhofer@ag.ch
+>     <mailto:Elisabeth.Bauhofer@ag.ch>, Schleusener Samer
+>     <Samer.Schleusener@pdag.ch <mailto:Samer.Schleusener@pdag.ch>>,
+>     marco.spring@ag.ch <mailto:marco.spring@ag.ch>,
+>     michael.ritter@kapo.ag.ch <mailto:michael.ritter@kapo.ag.ch>,
+>     AarauEPD <EPD.Aarau@pdag.ch <mailto:EPD.Aarau@pdag.ch>>, "Küng
+>     Walter GKABGAAR" <Walter.Kueng@ag.ch <mailto:Walter.Kueng@ag.ch>>,
+>     Postmaster-VBS@gs-vbs.admin.ch
+>     <mailto:Postmaster-VBS@gs-vbs.admin.ch>, direktion@bger.ch
+>     <mailto:direktion@bger.ch>, "Kanzlei@bger.ch
+>     <mailto:Kanzlei@bger.ch>" <Kanzlei@bger.ch
+>     <mailto:Kanzlei@bger.ch>>, info@interpol.int
+>     <mailto:info@interpol.int>, kb3.bern@helsana.ch
+>     <mailto:kb3.bern@helsana.ch>, 2009@marclandolt.ch
+>     <mailto:2009@marclandolt.ch>, contact.center@ch.abb.com
+>     <mailto:contact.center@ch.abb.com>, info@oniko.ch
+>     <mailto:info@oniko.ch>, interface@internil.net
+>     <mailto:interface@internil.net>, Lama <lama50@gmx.ch
+>     <mailto:lama50@gmx.ch>>, support@hostpoint.ch
+>     <mailto:support@hostpoint.ch>, daniel.heilmann@kapo.ag.ch
+>     <mailto:daniel.heilmann@kapo.ag.ch>, marianne.gisi@pdag.ch
+>     <mailto:marianne.gisi@pdag.ch>, impressum@coop.ch
+>     <mailto:impressum@coop.ch>
+>     Cc:
+>     Bcc:
+>     Date: Fri, 28 May 2021 06:41:12 +0200
+>     Subject: Re: SCADA Leak, STUXNET Part 2
+>     Guten Tag
+> 
+>     Addendum:
+> 
+>     Herleitung:
+>     1 => 2 => 3
+> 
+>     1. Empfehlungsschreiben für Philipp Lüscher @ Uni Basel für solche
+>     Thematiken, aber so etwas könnte auch er nicht alleine lösen
+> 
+>     2. dabei fällt uns auf, dass ein Elektromechaniker (heute Automatiker)
+>     viel schneller den im Kopf den Link zwischen Produktionsstrasse,
+>     Informatik und Stuxnet machen würde weil Automatiker schon "Hands on"
+>     mit so Dingen gemacht haben und z.B. wüssten was CANBUS, INTERBUS oder
+>     PROFIBUS ist / wie es funktioniert und somit auch auf deren
+>     Abschussliste stehen könnten
+> 
+>     3. was dann allenfalls (Maximale Ertrag Karte Satans) auch erkläeren
+>     würde weshalb gerade die drei Administratoren mit Admin Passwort der
+>     ABB
+>     Flexiblen Automation AG in der Lavine umkamen
+> 
+>     => falls man da noch die Logs / Daten hat, Zugriffe auf
+>     Lavinen-Gefahren-Berichte etc KöNNTEN indizien liefern aber allenfalls
+>     auch Sackgasse
+> 
+>     Mit freundlichen Grüssen
+>     Marc jr. Landolt
+>     eidg. dipl. Informatiker HF
+> 
+>     Am 28.05.2021 um 06:27 schrieb Marc jr. Landolt:
+>      > Guten Morgen
+>      >
+>      > @ Jüngere:
+>      > 1. drei Katzen hinter Sofa
+>      > 2. solltet Ihr auch in diese
+>      > Informatik-Inselbegabten-Autisten-Vernichtungs-Mühle kommen
+>     kontaktiert
+>      > mich allenfalls besser
+>      >
+>      > ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+>      > ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+>      >
+>      > ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+>      > ☆★★★★★★☆☆★★★★★★☆☆☆☆★★★★★★★☆
+>      > ☆★☆☆☆☆☆★☆★☆☆☆☆☆★☆★☆★☆☆☆☆☆★☆
+>      > ☆★☆☆☆☆☆★☆★☆☆☆☆☆★☆★☆★☆☆☆☆☆★☆
+>      > ☆★★★★★★☆☆★★★★★★☆☆☆☆★☆☆☆☆☆★☆
+>      > ☆★☆☆☆☆☆☆☆★☆☆☆★☆☆☆★☆★☆☆☆☆☆★☆
+>      > ☆★☆☆☆☆☆☆☆★☆☆☆☆★☆☆★☆★☆☆☆☆☆★☆
+>      > ☆★☆☆☆☆☆☆☆★☆☆☆☆☆★☆★☆★★★★★★★☆
+>      > ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+>      >
+>      > ProblemArchetyp #StuxNet:
+>      >
+>      > hacked #SCADA and eg, caffeine-amount-GPIO
+>      >
+>      > https://twitter.com/PainDef/status/1398121761552621569
+>     <https://twitter.com/PainDef/status/1398121761552621569>
+>      >
+>      > Herleitung [1]
+>      > ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+>      > ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+>      >
+>      >
+>      > Das will UNBEKANNT geheim halten daran wird [2] der Leak eingespielt:
+>      > Der Kanton hat massenhaft 20 jährige Informatiker auf dem Gewissen:
+>      >
+>      > Wenn das stimmt, würden diese Leute beim Kanton (weil schlechtes
+>      > Gewissen) das eigentliche eigentliche Problem mit SCADA Systemen in
+>      > Produktionslinien wo z.B. teilweise giftige Stoffe von einem GPIO
+>      > gesteuert werden versiffen...
+>      >
+>      >
+>      > https://twitter.com/PainDef/status/1398123075711946754
+>     <https://twitter.com/PainDef/status/1398123075711946754>
+>      > https://twitter.com/PainDef/status/1398124090934890499
+>     <https://twitter.com/PainDef/status/1398124090934890499>
+>      > https://twitter.com/PainDef/status/1398125139502501891
+>     <https://twitter.com/PainDef/status/1398125139502501891>
+>      > (nicht hören sagen, das hat der Herr Laube gesagt)
+>      > https://twitter.com/PainDef/status/1398126215920328713
+>     <https://twitter.com/PainDef/status/1398126215920328713>
+>      >
+>      >
+>      > Mit freundlichen Grüssen trotz wieder mal induzierter Epilepsie
+>      >
+>      > Marc jr. Landolt
+>      > eidg. dipl. Informatiker HF
+>      > Neuenburgerstrasse 6
+>      > 5004 Aarau
+>      > 062 822 61 31
+>      > 078 674 15 32
+>      >
+>      >
+>      > CRC [3]
+>      >
+>      >
+>      > [1]
+>      > https://twitter.com/PainDef/status/1396680839950385153
+>     <https://twitter.com/PainDef/status/1396680839950385153>
+>      > https://twitter.com/FailDef/status/1333425161996013568
+>     <https://twitter.com/FailDef/status/1333425161996013568>
+>      > https://twitter.com/FailDef/status/1386600946973691904
+>     <https://twitter.com/FailDef/status/1386600946973691904>
+>      >
+>      > Teilweise Auszug als CRC
+>      > Halli Hallo
+>      > @Bayer Könntet Ihr #SCADA für kleinen Bepanthen prüfen. Immer ca. in
+>      > Mitte ein riesen Lufloch Meiner Meinnug nach seit #Stuxnet Hobby
+>      > gewisser ungenannter Geheimdienste über SCADA Systeme unkoshere
+>     Dellen
+>      > an Produkte zu hacksen = TraumaBased Mindcontrol
+>      > Die #weisse #Schokolade aus Lidl #Aarau #Schweiz scheint Verpackung
+>      > nicht dicht zu sein
+>      > Ev.#SCADA/#NPC der für die #VerschweissZeit(?) des Plastiks
+>     zuständig
+>      > ist kontrollieren
+>      > Grad jetzt nen additionalSelector(Option auf Applikation?) Urs Bl.
+>      > @schweizerarmee
+>      > ?
+>      > SCADA Leak aktiviert Leak über Morde durch Kantonale Behörden an 20
+>      > Jährigen Informatikern um die Infiltration Schweizer Netzhwerk
+>      > SCADA Leak aktiviert Leak über Morde durch Kantonale Behörden an 20
+>      > Jährigen Informatikern um die Infiltration Schweizer Netzhwerk
+>      >
+>      > [2] "vermutlich Urs Blum, Gabriel Riela und der Zürich
+>     Versichrung die
+>      > ein Ableger dieser Sorte von Amerikanern sind" <- mitten im satz,
+>     also
+>      > die Schweizer armee die jetzt usa bezichtigt?
+>      >
+>      > [3]
+>      >
+>      > Technoparties an ComputerMessen bevor ich gross genug war da hin
+>     zu gehen:
+>      >
+>      > -Ein Teil der Admins lernt dort die "Handhabung"
+>      >
+>      > -Ein Teil bekommt eine Option auf Blaming-the-User Karte "Selber
+>     Schuld"
+>      >
+>      > Szene wo der Paul Laube(Mellikon,Laube AG)mich in #Psychiatrie
+>      > #Königsfelden @kantonaargau "grrr, ein Drögeler" nennt, obwohl
+>     ich da
+>      > schon 7 Jahre nicht mehr gekifft habe, das wurde weder
+>     ausgewiesen noch
+>      > in Krankenakte
+>      >
+>      > FORDERUNG:ich will diese Akten!
+>      >
+>      > @Kapo_Aargau / #Psychiatrie #Königsfelden @kantonaargau gibt
+>     Arbeitgeber
+>      > Einsicht in zweite Akte die es scheinbar gibt, die erst noch
+>     falsch ist
+>      > & mir nicht? *epilepsie & ich will mir jetzt wieder "selber" die
+>     Fäuste
+>      > an meinen Kopf schlagen
+>      >
+>      >
+> 

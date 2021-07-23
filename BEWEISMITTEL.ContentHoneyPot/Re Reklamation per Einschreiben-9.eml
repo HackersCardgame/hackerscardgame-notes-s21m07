@@ -1,0 +1,79 @@
+Return-Path: <elisabeth.bauhofer@ag.ch>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.4.2.212])
+	by popimap018.mail.hostpoint.internal with LMTP
+	id UBvmCM/y+mA9/AAApkpzRw
+	(envelope-from <elisabeth.bauhofer@ag.ch>)
+	for <mail@marclandolt.ch>; Fri, 23 Jul 2021 18:48:15 +0200
+Received: from mxin012.mail.hostpoint.ch ([10.4.2.212])
+	by mail-lb1.adm.hostpoint.ch with LMTP
+	id EPqSCM/y+mAyPwAA9BAvQA
+	(envelope-from <elisabeth.bauhofer@ag.ch>)
+	for <mail@marclandolt.ch>; Fri, 23 Jul 2021 18:48:15 +0200
+Received: from xmgw06.ag.ch ([193.47.120.63])
+	by mxin012.mail.hostpoint.ch with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2 (FreeBSD))
+	(envelope-from <elisabeth.bauhofer@ag.ch>)
+	id 1m6yLO-000Bkw-WC
+	for mail@marclandolt.ch; Fri, 23 Jul 2021 18:48:15 +0200
+IronPort-SDR: uJlAQXH3egiCgdgvHYK0sY85/zRLB1KmmHcQ1z97hSpogeSsS5wGVsdIhnnVhT0Up+uUkSum4Y
+ QWYSFjhAQ0Ig==
+X-IronPort-AV: E=Sophos;i="5.84,264,1620684000"; 
+   d="scan'208";a="109490518"
+Received: from unknown (HELO xmgw51.ag.ch) ([193.47.120.51])
+  by xmgw06.ag.ch with ESMTP/TLS/ECDHE-RSA-AES128-GCM-SHA256; 23 Jul 2021 18:48:14 +0200
+Received: from xmgw06.ag.ch (xmgw06.ag.ch [193.47.120.63])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by xmgw51.ag.ch (Postfix) with ESMTPS
+	for <mail@marclandolt.ch>; Fri, 23 Jul 2021 18:48:12 +0200 (CEST)
+IronPort-SDR: 1LOhm/Uxr60GuBLQ/MY7loDBvmhqidCdXXI85r/0CDUas2iuEGpIO20ielTzh6jkeZepjAyGxz
+ 098O6bXKyihA==
+X-IronPort-AV: E=Sophos;i="5.84,264,1620684000"; 
+   d="scan'208";a="109490516"
+Received: from unknown (HELO smtp.ktag.ch) ([10.116.181.146])
+  by xmgw06.ag.ch with ESMTP/TLS/ECDHE-RSA-AES128-GCM-SHA256; 23 Jul 2021 18:48:11 +0200
+Received: from spwex00033.ADS.KTAG.CH (10.116.181.140) by
+ SPWEX00027.ADS.KTAG.CH (10.116.181.146) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.1.2242.12; Fri, 23 Jul 2021 18:48:11 +0200
+Received: from spwex00033.ADS.KTAG.CH ([::1]) by spwex00033.ADS.KTAG.CH
+ ([fe80::d102:e6c6:c627:d6f4%5]) with Microsoft SMTP Server id 15.01.2242.012;
+ Fri, 23 Jul 2021 18:48:11 +0200
+From: "Bauhofer Elisabeth  GKAOG" <Elisabeth.Bauhofer@ag.ch>
+To: "Marc jr. Landolt" <mail@marclandolt.ch>
+Subject: AW: Reklamation per Einschreiben
+Thread-Topic: Reklamation per Einschreiben
+Thread-Index: AQHXflmQ8n5WzqsOd0SvobU1LUqd1atN5WEAgAF/woCAAUGUAIAAIaEL
+Date: Fri, 23 Jul 2021 16:48:11 +0000
+Message-ID: <92a82091259d47d5b0b9919221986a56@spwex00033.ADS.KTAG.CH>
+References: <0e37dcc8-a34c-ed28-af3d-4ed8f34b3c85@gmx.ch>
+ <42fd7f31-2333-6669-2500-b9ef0e787dee@marclandolt.ch>
+ <1e721c07-728d-1bad-0ed8-fdeb26f22182@marclandolt.ch>
+ <2a49a4a1-f91c-065d-01ec-fb4adcc26df2@marclandolt.ch>,<8d708b7f-b7c1-d264-ceca-2758f1ce5d93@marclandolt.ch>
+In-Reply-To: <8d708b7f-b7c1-d264-ceca-2758f1ce5d93@marclandolt.ch>
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: All
+X-MS-Exchange-Inbox-Rules-Loop: elisabeth.bauhofer@ag.ch
+X-MS-TNEF-Correlator:
+x-ms-exchange-parent-message-id: <8d708b7f-b7c1-d264-ceca-2758f1ce5d93@marclandolt.ch>
+auto-submitted: auto-generated
+x-ms-exchange-generated-message-source: Mailbox Rules Agent
+x-tm-as-product-ver: SMEX-14.0.0.3080-8.6.1018-26302.000
+x-tm-as-result: No-10--1.619300-8.000000
+x-tmase-matchedrid: 9TMMyn+RKSoMPDZrnvcM98CxC+PryYbToVCVk002x0OXBXaJoB9JZxRF
+	JJyf5BJeLRQqLm8CKauVnFteYovTDlb6+m8igkWQ5WeM6ukG9zOgKc3wkUSfKqGV0mYijVwnRdF
+	YJ6J9cggmhPHX9xO7/2A7bUFBqh2V
+x-tm-as-user-approved-sender: Yes
+x-tm-as-user-blocked-sender: No
+x-tmase-result: 10--1.619300-8.000000
+x-tmase-version: SMEX-14.0.0.3080-8.6.1018-26302.000
+x-tm-snts-smtp: 71B0B7942AD5EC31B4097A293C646FE6417A37AAE9A500C56981B55F96B25B452000:9
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-SM-outgoing: yes
+X-Vs-State: LEGIT
+X-Hostpoint-Spambox: NO
+
+
