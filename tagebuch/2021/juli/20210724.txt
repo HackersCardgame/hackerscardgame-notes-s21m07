@@ -305,11 +305,30 @@ Sat Jul 24 08:28:10 CEST 2021
  1 file changed, 11 insertions(+)
 9673232e0f6d0db704c558ef912852ff4e81d2117e2f7bba93fcad082f7e23443023416c4ea8806363a347dc3e721f28d5c955f9f1e294359a26de4f336fae47  20210724.txt
 
-also die linux pingu software wurde so zu sagen mit sprengfallen verkotzt von urs blum und pfisterer, bzw. von dem hans ueli thut mit seiner poulet abschlacht maschine...
-bzw. hat die einen modus: go tux go und einen modus: stirb tux stirb
+
+marc@DESKTOP-B99KF62:~$ figlet PRIO :
+ ____  ____  ___ ___      
+|  _ \|  _ \|_ _/ _ \   _ 
+| |_) | |_) || | | | | (_)
+|  __/|  _ < | | |_| |  _ 
+|_|   |_| \_\___\___/  (_)
+                          
+marc@DESKTOP-B99KF62:~$ 
+
+
+
+also die linux pingu software wurde so zu sagen mit sprengfallen verkotzt von urs blum und pfisterer, bzw. von dem hans ueli thut mit seiner poulet abschlacht state maschine...
+bzw. hat mindestens zwei modi
+
+modus: go tux go
+modus: stirb tux stirb
+modus: ???
 
 dy/dt karte <<<- explizit vorgesheen um menschen in den suizid zu treiben... allenfalls wenn jemand daten zu ian murdoch hatte oder ihn sogar gekannt hat mal besprechen... (vorschlag, ich will nicht so ein mongo sein der andere herum kommandiert)
 
 dann dass ich das höre auf den kopfhörern wenn das medulla oblangata ths terror macht ist vermutlcih gar ncith vorgeshen, würde auch implzieren dass das eher eine grosse sendeleistung ist mit dem der mist sendet
+
+dann zur zeit wird exzessiv das medulla spinalis ths super-duper-obiwan-error für keystrokes missbraucht...
+
 
 
