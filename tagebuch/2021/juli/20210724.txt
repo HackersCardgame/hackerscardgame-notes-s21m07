@@ -244,4 +244,9 @@ vertrauen zu gleichaltrigen aufbauen, dann übernimmt david utz, pfsitereer oder
 [2] (david utz droht gegen seine töchter mit stichwaffe?) <- mitten im satz, somit ist david utz nur die vorhut von urs blum und urs blum ist die vorhut von pfisterers?
 
 
+Sat Jul 24 08:00:24 CEST 2021
+  247  1901 14819 20210724.txt
+[main f7a9b82f] save
+ 1 file changed, 7 insertions(+)
+cf93fef20202f31a59b5ddfcad9d172203106ddda7b6eadd27d6979ab21472cbd912d4107f1d7af90d7c097c4205b9b10cabbf55acb7825806722885bbc287fe  20210724.txt
 
