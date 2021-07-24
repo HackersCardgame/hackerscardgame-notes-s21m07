@@ -271,3 +271,7 @@ Sat Jul 24 08:11:29 CEST 2021
  1 file changed, 3 insertions(+)
 bc392d8e5ff44aad79c0ff12c6850b37639faf889223488a9a1500e199191b84233bc27777af0e61f3676410cac72526f1dd1adefbad66464cde9cebc11ac389  20210724.txt
 
+
+action prediction (die haben vermutlcih auch ncith unbegrenzt rechenkapazität) für musik einfach mal eine andere trackliste ... random suchwort wie z.B. 1980 oder haus oder bettvorleger
+
+
