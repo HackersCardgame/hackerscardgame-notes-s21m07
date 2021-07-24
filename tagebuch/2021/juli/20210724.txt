@@ -280,3 +280,7 @@ Sat Jul 24 08:13:20 CEST 2021
  1 file changed, 4 insertions(+)
 67f7b9e8e7a321818a8c4deec9732476e126854904d136b5ac814fd0b69c6d9347e3ec6541bf4fa0aded7d3e0ec1c2d3705782dd11c957b8e943d019a1f2abc6  20210724.txt
 
+
+dann jedesmal wenn die z.B. meinen raspi zercybern machen die das um aus dem vorgang "raspi neu aufsetzen" deren action recognition software laufen zu lassen und dann mit action prediction cybersprengfallen hinein zu rendern in den task
+
+
