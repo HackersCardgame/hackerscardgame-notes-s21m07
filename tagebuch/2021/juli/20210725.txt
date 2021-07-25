@@ -32,4 +32,9 @@ simpsons szene: mr. burns: "ich komme aus lieeeebe" <- was eigentlich egoismus u
 
 03:29 <- fishung crusade durch, brainjacking durch udn urs blum hat angefangen kinder an ihre eltern zu verfüttern um eine falsche spur zu legen um das kind ermroden zu können ohne dass es mit der grossflächigen wirtschaftsspionage in zusammenhang gebracht werden kann ---- zumindest wenn wir 1980er genug blöd wären...
 
+Sun Jul 25 03:30:50 CEST 2021
+  35  244 1728 20210725.txt
+[main 3146170e] save
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+15b9d5a63bed0032bbc8a1b82ea108f0717a8714fe85cf2cc033b470f0371d5dde4c167ee8872b7de6b5f17332c1d6a47c70c0d20514c052f7c9a5dbb6ddeef6  20210725.txt
 
