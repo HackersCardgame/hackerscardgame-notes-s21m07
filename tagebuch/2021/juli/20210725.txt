@@ -170,4 +170,9 @@ beim aufquellen werden die sich vermutlcih mit der haut verbinden...
 
 udn am anfang hat es auch keine so kugel ganz unten / innen in der haut...
 
+Sun Jul 25 04:56:48 CEST 2021
+  173  1409 10647 20210725.txt
+[main a3065b88] save
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+4988332e43b05ff09a5b08e9e54b0dff76bf5c8f2201dd8f6171e77600f52affc3d7a1b5a2797631e7971ba0d8058bb651bc74076db7d77bb7c353247e8a8c16  20210725.txt
 
