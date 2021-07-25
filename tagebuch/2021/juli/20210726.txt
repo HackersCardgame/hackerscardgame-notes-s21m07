@@ -5,4 +5,11 @@ auf jedem usecase (auch auf dem handy) sind sabotage und cybersprengfallen vorbe
 
 Mon Jul 26 00:02:20 CEST 2021
   6  41 264 20210726.txt
+[main f2845e31] save
+ 1 file changed, 8 insertions(+)
+ create mode 100644 tagebuch/2021/juli/20210726.txt
+8dad1cafe793722bb125ce9043209db75f94512f4d7eb85f6fd4741963c27caf444dbbb2b2bd78421a3f5294db4a132193aeda3cd3eb736610ef4be85afbe425  20210726.txt
+
+vollständig über medulla spinalis ths gesteuert, und dann wird immer geschaut dass es so aussieht dass man selber der depp ist der etwas falsch gemacht, also da wird schon jeweils eine falsche problemursache injected über das sprachzenturm ths
+
 
