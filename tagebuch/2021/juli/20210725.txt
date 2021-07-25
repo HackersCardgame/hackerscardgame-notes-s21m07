@@ -289,4 +289,9 @@ gerog landolt in mansplaining modus
 georg landolt hat astrid blum versprochen dann marc jr landolt vergewaltigen zu dürfen? <- aber das ist rechtlcih nichtig weil sklaverei 
 
 
+Sun Jul 25 05:56:56 CEST 2021
+  292  2097 16625 20210725.txt
+[main 0d2ce61e] save
+ 1 file changed, 6 insertions(+)
+fa4bd6602e777ddfcfb4f51657c1d6e61ba3ce52d10edd5ed0a38b4b5b021cc8ba3dc0a3692841cdd91968a29e556c07203972da616850840cb506d436f1b9e8  20210725.txt
 
