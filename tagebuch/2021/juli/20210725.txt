@@ -228,3 +228,6 @@ Sun Jul 25 05:31:23 CEST 2021
  1 file changed, 5 insertions(+)
 9c0e556e91a045ae3724b6373192cb128241857942c2675c01698b79d43e51db25469f235f840132c5b49fce544ed96ff5b9e5987207d0f404abd342b67f5bda  20210725.txt
 
+technisch gesprochen wäre das die philo1 karte die astrid blum-truffer so missbraucht und schändet so den ruf aller frauen...
+
+
