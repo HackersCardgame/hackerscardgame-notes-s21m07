@@ -73,4 +73,9 @@ aus der sicht der offiziere sind patienten und kinder so ungefähr das selbe und
 
 direkte frage an tonetto: kannst du nciht schauen in die andere richtung zu terrorisieren richtung pfisterer der ja vermutlcih die wurzel des übels ist und euch das angetan hat?
 
+Sun Jul 25 03:50:35 CEST 2021
+  76  694 4910 20210725.txt
+[main 4d8f8b60] save
+ 1 file changed, 6 insertions(+)
+2a8e605134ac464833abcd50066a77a40ccd9d7f9f213e81aac4d35603d49209f04fca0b9664cb344a2717c93f0b58dacf2420bb2941fa437c9b8d18d6802fed  20210725.txt
 
