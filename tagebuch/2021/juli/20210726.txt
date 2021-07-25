@@ -106,4 +106,9 @@ und drumm wollen die nicht, dass der präzedenzfall der mutmasslich drei morde a
 
 PS: ich hab ncoh nie soviele warn symbole in einem dokument verwendet...
 
+Mon Jul 26 00:30:34 CEST 2021
+ 109  402 7260 20210726.txt
+[main 581338f0] save
+ 1 file changed, 14 insertions(+)
+c6399c64ab753820939c75ab47984f7d170f2787992fb08b71b369e2dbf647907ef92cc5f35b2b6dec9f7bb28262bada31169c3a600f26a5c8565f3adb1f824f  20210726.txt
 
