@@ -270,3 +270,17 @@ Sun Jul 25 05:53:06 CEST 2021
  1 file changed, 8 insertions(+)
 3cb09674600ba0b68faf51cdf4bd87712cba082011f734ab22e586fbe1e2868697fb0cd7bf2708bb13be6133dcce7f867d3cc67c4d865e59e1a4a8e481bbc1bd  20210725.txt
 
+[1]
+nächste malware
+linux-brprinter-installer-2.2.2-2.gz: gzip compressed data, was "linux-brprinter-installer-2.2.2-2", last modified: Wed Apr  8 02:31:13 2020, from Unix
+            ^                                                                   ^
+            |                                                                   |
+        schau hier                                                         schau hier  <- cyberleuchtsitft <- astrid hält auch ncoh mindestens einen anderne linux pingin als hostage
+
+
+und rall nicht dass du auf gzip schauen musst
+
+
+[2]
+
+
