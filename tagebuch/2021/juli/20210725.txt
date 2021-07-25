@@ -36,4 +36,9 @@ der urs blum spielt die dy/dt karte auch bei orlando martins oder georg landolt 
 
  >> herren <<  <- pfisterer formulierung, somit sobald die unteren ränge aufgelfolgen sind ist urs und die zürich versichrung auch aufgeflogen und dann hab ich den mongo pfisterer wieder am hals...
 
+Sun Jul 25 03:32:40 CEST 2021
+  39  313 2154 20210725.txt
+[main 97d24329] save
+ 1 file changed, 4 insertions(+), 5 deletions(-)
+a5cdcae134dbe844bab6dd716c47b405ad550ceacc253f5f37badf45cb2619ef3c34e066010509972446f855bbfb472f26aaeb4f9d890e3dfcdda932f3b13d45  20210725.txt
 
