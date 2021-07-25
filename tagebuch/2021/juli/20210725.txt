@@ -38,4 +38,9 @@ der urs blum spielt die dy/dt karte auch bei orlando martins oder georg landolt 
 
 ORLANDO und GEORG werden lernen, dass selbst wenn befohlen wird mich anzugreifen, zu stalken, zu sabotieren es dann ein straftatbestand darstellt und ORLANDO und GEORG weitere Haftdauer auf sich laden
 
+Sun Jul 25 03:33:35 CEST 2021
+  41  343 2356 20210725.txt
+[main f13dd98b] save
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+a7b727dd09942c4731c14853a92f7e5a24760b748a840dff9159403ad37b400418797c7f5bedc962b240e9a102610081d7c3dcd81df2bf7c7674ace012340466  20210725.txt
 
