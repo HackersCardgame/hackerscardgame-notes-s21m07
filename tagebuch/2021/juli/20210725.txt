@@ -367,4 +367,9 @@ Moin Cyber
 
 also für die Täterschaft wenn die ein TOOOOOOOOOOOR schiessen haben die das gefühl sie seien noch überlegen und würden nciht in den knast kommen?
 
+Sun Jul 25 22:33:00 CEST 2021
+  370  2723 21189 20210725.txt
+[main 670af2f1] save
+ 1 file changed, 7 insertions(+)
+6c9302e61d94ed42ed23264d68eb613f2cb9eabc4821a14a73c348f548f029f80744cc66ed4e1c01ee549bce59a6d4bc964b3c4cd330db785c08c1e2aaf28a4e  20210725.txt
 
