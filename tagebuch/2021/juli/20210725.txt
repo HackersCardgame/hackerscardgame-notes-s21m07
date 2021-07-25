@@ -346,4 +346,9 @@ Sun Jul 25 11:03:22 CEST 2021
 UND JA  ICH WERDE AMOK LAUFEN, aber nicht mit einer waffe oder etwas was blut erzuegt, ich werde solange herum nerven bis alle täter auch die mit einem sheriff stern oder einem von mami gekauften DR titel im knast sitzen für das was sie mir oder z.B. der Cornelia Utz angetan haben...
 
 
+Sun Jul 25 11:12:18 CEST 2021
+  349  2578 19994 20210725.txt
+[main 30deae04] save
+ 1 file changed, 5 insertions(+)
+4c88e346ef45eab835808aa4615d07ea3f753eb46daad6cbceaf91cc8210a656e32b351ee910fcb096e0bbda4e9829697493c393ea62e85cc266b33ebeec8d01  20210725.txt
 
