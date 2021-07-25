@@ -168,4 +168,9 @@ also bevor die aufgequollen und schwarz sind wären die hellbraun-grau...
 
 beim aufquellen werden die sich vermutlcih mit der haut verbinden...
 
+Sun Jul 25 04:56:02 CEST 2021
+  171  1393 10571 20210725.txt
+[main 0cf8a4d1] save
+ 1 file changed, 4 insertions(+), 5 deletions(-)
+ecb792c2249f5220e0cecff7555cd1fe2628624c40d13eae8c298e42a5838c99fdb179ecea9956b3d5aeae273a8dc1e729f493f1d2e6dba9d2b52bf162ab702e  20210725.txt
 
