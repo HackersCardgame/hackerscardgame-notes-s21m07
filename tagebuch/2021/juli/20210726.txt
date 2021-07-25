@@ -12,4 +12,66 @@ Mon Jul 26 00:02:20 CEST 2021
 
 vollständig über medulla spinalis ths gesteuert, und dann wird immer geschaut dass es so aussieht dass man selber der depp ist der etwas falsch gemacht, also da wird schon jeweils eine falsche problemursache injected über das sprachzenturm ths
 
+Mon Jul 26 00:05:36 CEST 2021
+ 15 103 817 20210726.txt
+[main a720ad13] save
+ 1 file changed, 7 insertions(+)
+c5b97a44754cab4be936a67650c1a96462d14ea0f679c3a1d902a55d27b6f10e4168a511e194a6f2fc5a68e1334e686f18bf13accbf11c565b18985bc883e6f2  20210726.txt
+
+
+   32152191..2e17f3a1  main -> main
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m07$ figlet -f banner " P " -w 200 | sed -e "s/ /☆/g" | sed -e "s/#/★/g"
+☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★★★★★★☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆
+☆☆☆★★★★★★☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆
+☆☆☆☆★★★★★☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★★★★★★★☆☆☆
+☆☆☆☆☆☆☆☆★☆☆☆☆
+☆☆☆☆☆☆☆★☆☆☆☆☆
+☆☆☆☆☆☆★☆☆☆☆☆☆
+☆☆☆☆☆★☆☆☆☆☆☆☆
+☆☆☆☆★☆☆☆☆☆☆☆☆
+☆☆☆★★★★★★★☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★★★★★★★☆☆☆
+☆☆☆☆☆☆☆☆★☆☆☆☆
+☆☆☆☆☆☆☆★☆☆☆☆☆
+☆☆☆☆☆☆★☆☆☆☆☆☆
+☆☆☆☆☆★☆☆☆☆☆☆☆
+☆☆☆☆★☆☆☆☆☆☆☆☆
+☆☆☆★★★★★★★☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆
+☆☆☆★★★★★★★☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★★★★★★☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆
+☆☆☆★★★★★☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆
+☆☆☆★★★★★★☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆
+
+
+zwischengespeichert, allenfalls nützlcih
+
 
