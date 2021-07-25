@@ -100,4 +100,9 @@ risky shift an der FHA gehäuchelt und tarnung
 [2] claude henchoz: den ruedi müller haben wir als kind zusammen fertig gemacht <- ähnlcihkeit, jaro winkler für nemaed entiteis
 [3] blah zu frehener <- semantisches web, bzw jemand hat sematisches web in mein tagebuch gehäckst
 
+Sun Jul 25 04:11:16 CEST 2021
+ 103  875 6325 20210725.txt
+[main 01bc176c] save
+ 1 file changed, 10 insertions(+)
+8b59acd80348dc26e2795365a91856be01ef8c107f0faa1047be93ac20e703848ae5b2072fb553eaef673beb011b3450a3a93c728a4c9602df4aaebd35e5cb9b  20210725.txt
 
