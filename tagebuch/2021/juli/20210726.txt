@@ -221,4 +221,9 @@ de1fc9da662ef90324de5a3b24821c66fb702da4b7c617cfa9acd3d7569e6ba1253bbb857ac8ce17
 
 dann bitte an die behörden: bitte die namen welche georg landolt zurück hält mit gerichtsbeschluss einfordern, das sind wichtige puzzle teile...
 
+Mon Jul 26 15:41:41 CEST 2021
+  224  1414 14805 20210726.txt
+[main 555a370b] save
+ 1 file changed, 4 insertions(+)
+69c5e40fc6690e734844446b6d0ecfc5671d3a80f21a73996ec7e6980d8fbe1b68a305257b47290eb3256c09b58913d5aed5a1da608ef938022d5891ec5600ef  20210726.txt
 
