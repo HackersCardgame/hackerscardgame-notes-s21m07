@@ -203,4 +203,13 @@ wenn urs blum schachmatt ist und die zürcih versichrung somit wegen massenmord 
 
 Mon Jul 26 15:36:01 CEST 2021
   204  1272 13610 20210726.txt
+[main 5196a3ae] save
+ 1 file changed, 31 insertions(+)
+81f924a11ae559dca8caad2c141b51e3b88f784ff45a802052cd09f1ab0dd32e9a85e544e6b9335ed27196f05c6cd2d442fa5363aa906dafd256040f500acb27  20210726.txt
+
+
+dann das mit dem "Sprengfallen aktivieren" wenn marc jr landolt aus dem haus geht ist reproduzierbar <- code fingerpreinting müsste sowieso urs oder astrid blum gewesen sein, sonst hätten die nichtd dem minderjährigen phillip blum beigebracht uz bellen "ich will spengmeister werden"
+
+-> da wäre es interssant zu wissen ob dieser code auch andere familie brauchen, ob es ander kinder wie philip blum gibt mit dem Pfadinamen "Funken" die von ihren eltern als sündenböcke für sprengfallen drohungen mit a14 karte sind?
+
 
