@@ -212,4 +212,9 @@ dann das mit dem "Sprengfallen aktivieren" wenn marc jr landolt aus dem haus geh
 
 -> da wäre es interssant zu wissen ob dieser code auch andere familie brauchen, ob es ander kinder wie philip blum gibt mit dem Pfadinamen "Funken" die von ihren eltern als sündenböcke für sprengfallen drohungen mit a14 karte sind?
 
+Mon Jul 26 15:39:04 CEST 2021
+  215  1373 14396 20210726.txt
+[main 2855ed06] save
+ 1 file changed, 9 insertions(+)
+de1fc9da662ef90324de5a3b24821c66fb702da4b7c617cfa9acd3d7569e6ba1253bbb857ac8ce1708851d3a2ba73c689ef8907fcc892d77a9bfe6be8b406ad2  20210726.txt
 
