@@ -348,10 +348,15 @@ grrrr, hat jetzt "nur" 10h gedauert bis dieses chemitroden ding draussen ist, un
  │  │  │  ║  ║  ║ │  │  │ ║  ║  ║
  └──┴──┘  ╚══╩══╝ ╘══╧══╛ ╙──╨──╜
 
-╭──────╮┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄ <-- weich, schlecht zum greifen mit der pinzette
-┃      │───────────────────────────
-┃      │
-┃      │───────────────────────────
-╰──────╯┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+    ganz rund aber finde den passenden unicode viertelbogen nicht
+    |                          
+    v                          nicht weicher teilt reisst weiter hinten <- also da ist vermutlcih genau dann wenn man es das erste mal greifft wird über medulla spinalis ths 
+                               |                                                                                                               auf mich eingeschlagen so dass das reisst...
+╭──────╮┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄v┄┄┄\ <-- weich, verdeckt dann den nciht weichen teil und man kann das kaum greifen mit der pinzette            dieser sorte von triebgesteuerten tätern
+┃      │───────────────────────v                                                                                                               würde das für 7h ... shoot first strategie, "fair" Play
+┃      │                       ┋
+┃      │───────────────────────^
+╰──────╯┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄/
+
 
 
