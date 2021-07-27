@@ -285,13 +285,14 @@ Tue Jul 27 19:52:00 CEST 2021
 htl:
 die parameter lassen sich scheinbar auch während des behebens der chemitrode / einschusswunde light noch ändern, somit jeweils chattr +a auf dne vorgang -> eth comint/sigint -> christorph rösli
 
-auch im kontext informatik allenfalls ähnliche altorithmen um menschen zu rage-quitten und in den suizid oder amoklauf zu schicken...
+auch im kontext informatik [] allenfalls ähnliche altorithmen um menschen zu rage-quitten und in den suizid oder amoklauf zu schicken...
 
 eth wird von htl verpetzt, finde ich toll
 
-Tue Jul 27 19:59:41 CEST 2021
-  292  2249 17076 20210727.txt
-[main 190a9dba] save
- 1 file changed, 9 insertions(+)
-f1ad3ec4403ef0d17449b7ed44789c58f7196c07cce4c2b5aad2e95cc4a27c6c08da054835fa44a84c489875840b9a0407822eeed51a9c42022677c661579c96  20210727.txt
+Retourkutche der ETH:
+die vorgänge das zu beheben wie auch das sobotieren z.B. der schneidkante sind auch prerendered [1] somit sind die sabotage design pattern mit welchen ärzte dazu gesteuert werden patienten während einer operation nicht retten zu können von der HTL
+
+
+[1] und da gibt es auch so etwesas wie eine <- blablabla
+
 
