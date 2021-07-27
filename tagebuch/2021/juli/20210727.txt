@@ -289,4 +289,9 @@ auch im kontext informatik allenfalls ähnliche altorithmen um menschen zu rage-
 
 eth wird von htl verpetzt, finde ich toll
 
+Tue Jul 27 19:59:41 CEST 2021
+  292  2249 17076 20210727.txt
+[main 190a9dba] save
+ 1 file changed, 9 insertions(+)
+f1ad3ec4403ef0d17449b7ed44789c58f7196c07cce4c2b5aad2e95cc4a27c6c08da054835fa44a84c489875840b9a0407822eeed51a9c42022677c661579c96  20210727.txt
 
