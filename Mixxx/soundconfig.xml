@@ -1,6 +1,6 @@
 <!DOCTYPE SoundManagerConfig>
-<SoundManagerConfig deck_count="4" latency="7" api="Windows DirectSound" sync_buffers="2" samplerate="48000" force_network_clock="0">
- <SoundDevice portAudioIndex="36" name="CABLE-B Input (VB-Audio Cable B)">
-  <output channel_count="2" index="0" channel="0" type="Master"/>
+<SoundManagerConfig samplerate="48000" deck_count="4" force_network_clock="0" latency="7" api="Windows DirectSound" sync_buffers="2">
+ <SoundDevice name="CABLE-B Input (VB-Audio Cable B)" portAudioIndex="36">
+  <output type="Master" channel="0" index="0" channel_count="2"/>
  </SoundDevice>
 </SoundManagerConfig>
