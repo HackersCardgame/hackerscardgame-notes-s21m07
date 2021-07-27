@@ -190,4 +190,9 @@ Tue Jul 27 18:33:55 CEST 2021
 beim stop and go fällt mir auf, dass diese chemitrode noch eine substanz ausschüttet die brennt womit man das sofort beheben würde... <- einwirkungsdauer => somit wenn das der vater von urs blum ist wäre der vater von urs blum ein konsument von designer drogen -> falls das verifiziert werdne kann müsste da dann der lieferant und hersteller [1,2,3,4,5] identifiiert werdne
 
  [1,2,3,4,5] diverse dorhungen...
+Tue Jul 27 18:36:23 CEST 2021
+  193  1570 11933 20210727.txt
+[main b37e721f] save
+ 1 file changed, 5 insertions(+)
+7e44e661202a3d92e6af1264a6f8f169f61a0671cee6287937f48eecf9d7ef3357bf88e49ab170e02196a98e3f1a79a54239a3b89f358e0e03d3b8119e021acb  20210727.txt
 
