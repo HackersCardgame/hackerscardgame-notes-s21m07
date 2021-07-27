@@ -193,4 +193,9 @@ beim stop and go fällt mir auf, dass diese chemitrode noch eine substanz aussch
 
 bzw. das "wer mir etwas unterschieben kann" wäre allenfalls falsch, wer mich hätte könnnte ermorden können bekommt incentives... falls aquila das sieht, kann es sein dass grossvater schwerstabhängiger drogensüchtger ist?
 
+Tue Jul 27 18:39:44 CEST 2021
+  196  1600 12162 20210727.txt
+[main 56fed002] save
+ 1 file changed, 3 insertions(+), 5 deletions(-)
+d226291a93972bb636f28f124b9d1f4b9e83421ba3b731c2e269c197445031912590a1bfd5f0e8e40e15e22075a5b308b93a972a37cc20d85f5aa1e5699464ae  20210727.txt
 
