@@ -96,4 +96,9 @@ auf "naked-security ist allenfalls ein honeypot" schaltet mein medula spinalis t
 thomas zuber war so fan von sophos...
 
 
+Tue Jul 27 17:38:59 CEST 2021
+  99  894 6606 20210727.txt
+[main 747dd746] save
+ 1 file changed, 7 insertions(+)
+8f5f5cd268f14dcf8219b540ad4c0f309dc267757cd01de34039d4b02c3646e4e3700b9cf3a323715bfdb1eca63acfca93e1d86cece11235a04778a894c913b1  20210727.txt
 
