@@ -123,3 +123,17 @@ Tue Jul 27 17:49:22 CEST 2021
  create mode 100755 tagebuch/20210724.txt
 b066931f7fb0c4e3d6d5351d608cd360fb0f641e5164dea81e56a585e12496592ddec060084216544cabcb2dc4f51aac3e01cb41e9a1800a344e031b1d63e693  20210727.txt
 
+
+unlocks beim beheben der chemitroden
+
+marc weber körper telemetrie <- da wäre weber vermutlcih nicht blod genug
+telnet session in telnet session in telnet session in 
+davoid utz -> markus belser -> marc weber (übermittlungs npc, vermutlcih von belser gesteuert worden)
+
+unlock:
+bodyfling [1] ist crypto, action based autentication system, im "Zeitstrohm" (doctor who) bzw im luftsrom akrobatik machen ist vermutlcih ein eindeutiger authentication
+--> enum bodyflying anlagen weltweit...
+
+[1] fallschirmspringen somit vermutlcih auch...
+
+
