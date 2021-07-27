@@ -38,4 +38,9 @@ dann kommt  noch medulla spinalis ths malware dazu welche beim richtgen winke de
 
 der konsument der dazu in den kanal geschaltet wird ist eingentilch ein volldepp und lenkt nur vorsätzlich vom disassemblieren und beheben des problems ab, jetzt da ihr das wisst ist vorsatz auch gliehc konsum ... have fun ...
 
+Tue Jul 27 20:26:20 CEST 2021
+  41  384 2961 allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
+[main 90003fd4] save
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+a48094d56ab311f1610c04fcb3f8bc6d27a8eaf4c97877a81b237b3d83da2cedac6d8d76735030cd1c83282fa2c5f507f5e2cc136520ef7d64911a8b00840bc7  allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
 
