@@ -226,4 +226,9 @@ e2a8c0b47940ec7cb4f0bbda379a699e902b24805b7e19c2bc43a3070961ffc3145b31aa172194ff
 
 relevanter wäre eigentlich das mit "wo gibt es überall bodyfloying stationen" also pfisterer / utz liefert somit den grossvater von auqila ans messer um das geheim zu halten wenn das jetzt nicht wieder "nur" eine virtuelle 3D simulation war...
 
+Tue Jul 27 18:55:12 CEST 2021
+  229  1854 14103 20210727.txt
+[main 8401ce5e] save
+ 1 file changed, 4 insertions(+)
+7d3da626a99c17f122ebd7bf432879e912887aebe79c726bfff1365c316a2c77f77913d675d934dfd6f1fa3e381a8e5c7f05a725aaa8a2d735fd29f52086ba36  20210727.txt
 
