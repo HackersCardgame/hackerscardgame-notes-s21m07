@@ -275,4 +275,9 @@ urs blum: sprgenfallen kativere <- severity <- das ist vermutlich dann wenn irge
 
 [1] fade now auf urs blums sprachsynthese <- beides sind täter, der der grad am meisten auffliegt oder dort wo grad die grösste tätergruppe auffliegt wird dann ein einzelner als der einzige täter genannt, organisiertes verbrechen mit sigint / comint ...
 
+Tue Jul 27 19:52:00 CEST 2021
+  278  2172 16433 20210727.txt
+[main 01836277] save
+ 1 file changed, 16 insertions(+)
+0ad2d77e3678eb0f9422fc8b117e5e47578fa1a84688662834d5455c0345cf2bf5a871d7689358482fb2a1ce7b4572a0ea670d5bc80c7887016abbdcfe3af13d  20210727.txt
 
