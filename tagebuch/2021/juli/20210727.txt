@@ -281,3 +281,12 @@ Tue Jul 27 19:52:00 CEST 2021
  1 file changed, 16 insertions(+)
 0ad2d77e3678eb0f9422fc8b117e5e47578fa1a84688662834d5455c0345cf2bf5a871d7689358482fb2a1ce7b4572a0ea670d5bc80c7887016abbdcfe3af13d  20210727.txt
 
+
+htl:
+die parameter lassen sich scheinbar auch während des behebens der chemitrode / einschusswunde light noch ändern, somit jeweils chattr +a auf dne vorgang -> eth comint/sigint -> christorph rösli
+
+auch im kontext informatik allenfalls ähnliche altorithmen um menschen zu rage-quitten und in den suizid oder amoklauf zu schicken...
+
+eth wird von htl verpetzt, finde ich toll
+
+
