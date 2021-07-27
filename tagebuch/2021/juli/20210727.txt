@@ -142,3 +142,7 @@ Tue Jul 27 18:00:53 CEST 2021
  1 file changed, 14 insertions(+)
 26cff2d655b04df98244562359046767c99f0a0467c3e407b0cc3877b2ff35b5f15a7fb7ea5a521b41202a3a458218df41d9e24d152851baeabf5542492b7770  20210727.txt
 
+unknown:
+beat schmid (pfadiname jojo), militär vorkurs falschimrspringen, vater hat einen elektronik keller im haus im zelgli, david utz und markus belser wollte dass ich die schwester von beat (schakal, rahel schmid) mit drogen anfüttere, ich hab mich aber geweigert und den kontakt zu david utz (pfadiname idefix -> chickolino) abgebrochen und die schwester von [David schmid <- off by one] beat nicht angefüttert
+
+
