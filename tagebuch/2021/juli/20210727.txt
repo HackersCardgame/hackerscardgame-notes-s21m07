@@ -297,4 +297,15 @@ die vorgänge das zu beheben wie auch das sobotieren z.B. der schneidkante sind 
 
 [2] blabla wurde jetzt nahcgerendert mit belsers sprachsynthese, ca 1min später <- belser versucht zwnaghaft den guten straffälligen cop uz spieen?
 
+Tue Jul 27 20:03:14 CEST 2021
+  300  2326 17568 20210727.txt
+[main 176d5caf] save
+ 1 file changed, 3 insertions(+), 6 deletions(-)
+bc15a476bfafdfd270819cf8ca522c0acef9f3accaa760b15ebef8ae2e1c18dd122b1245166fd3cd1ace3178d2ae5e00098864796f40c4ed2758078924e93348  20210727.txt
+
+select * from opration wo der pationent nicht gerettet werden konnte && menschen aus dem umfeld der htl
+
+simon härdi: atomwaffen aktivierne
+es blendet jetzt ein die 6 särge im neuen htl / fhnw brugg gebeäude innenhof seine atom waffen <- vermutlich gestaltungspsychologie und dann wären die sowieso nicht do sondern das nur psy-war...
+
 
