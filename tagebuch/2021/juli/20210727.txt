@@ -293,11 +293,8 @@ Retourkutche der ETH:
 die vorgänge das zu beheben wie auch das sobotieren z.B. der schneidkante sind auch prerendered [1] somit sind die sabotage design pattern mit welchen ärzte dazu gesteuert werden patienten während einer operation nicht retten zu können von der HTL
 
 
-[1] und da gibt es auch so etwesas wie eine <- blablabla
+[1] und da gibt es auch so etwesas wie eine <- blablabla [2]
 
-Tue Jul 27 20:01:43 CEST 2021
-  298  2304 17413 20210727.txt
-[main 75a66087] save
- 1 file changed, 7 insertions(+), 6 deletions(-)
-6d315f2603ad5c8cf11e4b2b20137a6c96315ba41339a35c8977cfaa7daec138acd5151db8ff02cce04941f1bca171af3557f07061aa9d8e43bcc1f78af4b4f6  20210727.txt
+[2] blabla wurde jetzt nahcgerendert mit belsers sprachsynthese, ca 1min später <- belser versucht zwnaghaft den guten straffälligen cop uz spieen?
+
 
