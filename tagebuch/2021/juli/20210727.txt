@@ -254,4 +254,9 @@ dann die chemitroden ist eingentlich ein primitives preismodell und die kunden w
 
 1/reissfestigkeit * stärke des ankers * konstante = Einwirkungsdauer = Preis
 
+Tue Jul 27 19:24:25 CEST 2021
+  257  1997 15208 20210727.txt
+[main feeb3673] save
+ 1 file changed, 23 insertions(+)
+68b2beeba52524e71655b991aad8a0b884ad6dc1ddb428eac5fe6b085a80c53baa931226719c0ef1f9d57dedb0ec4b6d43e12547dc7af187d58f8b4558c946bc  20210727.txt
 
