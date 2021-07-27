@@ -39,4 +39,9 @@ der konsument der dazu in den kanal geschaltet wird ist eingentilch ein VOLLDEPP
 
 have fun ...
 
+Tue Jul 27 20:42:43 CEST 2021
+  42  424 3411 allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
+[main 7d536c11] save
+ 1 file changed, 17 insertions(+), 21 deletions(-)
+895ce4713f31ff21026fddab2e461acb5682afd952ff6c2db1a5f98c75873dbf519d70b254b3aef957a0e9ea0e26750cfb5fa3866ae0669247c96e284e0a3e1c  allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
 
