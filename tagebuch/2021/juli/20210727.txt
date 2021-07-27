@@ -112,4 +112,14 @@ dann wird jeweils jemand auf "wenn du diese chemitrode nciht enfernst [1] stimms
 
 also "Chemitrode = Parametrisierbares /Medikament/" wäre nciht so komplett falsch <- vorlesung datenstrukturen...
 
+Tue Jul 27 17:49:22 CEST 2021
+ 115 1068 7720 20210727.txt
+[main d7004858] save
+ 7 files changed, 528 insertions(+), 5 deletions(-)
+ create mode 100755 TODO/aussage-brandstiftung-mord-an-dora-landolt-epilepsie-kebeserzeugende-geraete-neuenburgerstrasse.txt
+ create mode 100755 TODO/persoenlichkeitsrecht.png
+ create mode 100755 TODO/persoenlichkeitsrecht.svg
+ create mode 100755 rC3/RiskyShift.PNG
+ create mode 100755 tagebuch/20210724.txt
+b066931f7fb0c4e3d6d5351d608cd360fb0f641e5164dea81e56a585e12496592ddec060084216544cabcb2dc4f51aac3e01cb41e9a1800a344e031b1d63e693  20210727.txt
 
