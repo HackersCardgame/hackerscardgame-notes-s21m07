@@ -131,4 +131,9 @@ stichwaffe offen, stichwaffe oberschenkel => unterlassene aller behörden die da
 
 einwirkungsdauer 10h + 5h => vergewhaltugnsnadnrohung durch unbekannt aber auftrags urs blum... *epielpsie bei marc jr landolt eingeschaltet worden* urs blum hat im darknet einen mordauftrag in auftrag gegeben und er höht fast wöchtenlich die summe
 
+Wed Jul 28 04:43:00 CEST 2021
+  134  1253 10737 allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
+[main 2ff2b7e4] save
+ 1 file changed, 6 insertions(+)
+dd1b003a76847b4ebaac7592a702268f175018e0ec8b70410c407edb098259f1ae03316bffad28e954d089298d0c077e42b357e40e56d804fd9b41e68974c049  allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
 
