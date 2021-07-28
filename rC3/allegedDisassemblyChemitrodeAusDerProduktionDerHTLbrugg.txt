@@ -148,4 +148,9 @@ einwirkugnsdauaer <- eventTrigger auf langen einwirkungsdauern, da wären dann d
 notfallpläne aufbrauchen / choosen plaintexten
 global satans croud sourced  chemitroden cnotent?
 
+Wed Jul 28 04:50:37 CEST 2021
+  151  1356 11698 allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
+[main a6268cbc] save
+ 1 file changed, 12 insertions(+)
+c6a8a1fc44e96ea299494ffabd04de9aafc66cedbe42ab0a8c62e1bd16f48641224e423aa655af4c5f38c60838303140b2d756447f0878c39696f5532d33766d  allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
 
