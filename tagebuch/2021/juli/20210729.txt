@@ -30,11 +30,12 @@ Thu Jul 29 00:34:53 CEST 2021
 7b3945a853a301f28821e534d2e5c372dc427236ee7a397d6105003427e8230d04dda1cbd33731dd26c596305c539070bd33f07698f4c4f29659e54b62dfd712  20210729.txt
 
 
-ja und da war noch mehr, ich musste halb nakt in einem rosa mini röckchen in den coop gehen, demütigend, ... aber das ist inhaltlich eher weniger relevant, aber demütigen...
+ja und da war noch mehr, ich musste halb nakt in einem rosa mini röckchen in den coop gehen, demütigend, ... aber das ist inhaltlich eher weniger relevant, [aber demütigen...] [1]
 
-Thu Jul 29 00:55:18 CEST 2021
-  35  204 1487 20210729.txt
-[main 2d2812ef] save
- 1 file changed, 4 insertions(+)
-02e212c2ebd62557be1cb39d8ca9c8ff19a95264efb3eaa27affe4dae3632f6888580a5219ca0094c0b123f063acc7d2ea67ef625a1491bd634f8e799d16f22e  20210729.txt
+
+
+[1] das wurde jetzt irgend wie 1 sek später mit der sprachsynthese von pfisterer nachgesprochen / umdefiniert (GUID Theft) um der pionte den witz zu nehmen mit einem offender archetypen...
+
+
+
 
