@@ -180,4 +180,9 @@ bei dem dokument sieht man auch wieder gut wie jetzt hier die meschen mehr und m
 
 => meiner meinung gehören all die beteiligten in sicherheitsverwahrung, aber zum glück muss ich das nicht entscheiden
 
+Wed Jul 28 05:11:36 CEST 2021
+  183  1841 15300 allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
+[main ff3e0f0a] save
+ 1 file changed, 10 insertions(+)
+76c8956039cc9f9937b98c2f1288922be542e52ffef3d8784402e279de5f2ae4f7fb10823931902302c36418d155aed84f64f3d76b1cc171e7b2d0cc05e19347  allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
 
