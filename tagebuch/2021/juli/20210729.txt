@@ -19,4 +19,13 @@ WARNUNG Coop ist nicht die selbe Firma wie Wallmart
 [1] satan würde das jetzt gerne auf einen "mullholland street" film umdefinieren <- der film ist aber nicht gemeind, sorry satan
 
 
+Thu Jul 29 00:34:53 CEST 2021
+ 22 136 813 20210729.txt
+[main caf48ded] save
+ 7 files changed, 13699 insertions(+), 10 deletions(-)
+ create mode 100755 TODO/MEHkorrekt.svg
+ create mode 100755 TODO/selbstwirksamkeits-erwartung.txt
+ create mode 100755 TODO/ueberschwemmungDeutschland-part2-mit-url.png
+ create mode 100644 tagebuch/2021/juli/20210729.txt
+7b3945a853a301f28821e534d2e5c372dc427236ee7a397d6105003427e8230d04dda1cbd33731dd26c596305c539070bd33f07698f4c4f29659e54b62dfd712  20210729.txt
 
