@@ -191,4 +191,9 @@ YAY, dieses blöde ding ist jetzt auch draussen...
 
 und jetzt bekommt das file einen anderen nahmen und die ursprünlgiche datei wird wiederhergestellt + die sinnvollen ergänzugne von den 3ten 5h
 
+Wed Jul 28 05:14:15 CEST 2021
+  194  1891 15853 allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
+[main 34695c1e] save
+ 1 file changed, 6 insertions(+)
+0b347c35ae0d4934f994dbef2fe309eaa4b0007387a4127ae864928ecd4c060d826663b23e24914e6f2def942cbc4700629eb5f900c952066ee61c5fb1918374  allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
 
