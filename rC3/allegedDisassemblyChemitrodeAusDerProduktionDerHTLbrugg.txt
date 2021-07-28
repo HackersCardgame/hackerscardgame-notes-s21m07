@@ -82,3 +82,4 @@ Wed Jul 28 02:22:34 CEST 2021
  1 file changed, 1 insertion(+), 9 deletions(-)
 e39c1e177dbaeea8ef6d07920546dc9ed84feac233a4ae7b606377ffec42879f0d20a2e9a0a9a5989ee6a3f0264961cfea507228a75ec94cfec145b261b1e4a9  allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
 
+dann ist das ganze ja irgend eine state machine, ein state change funiktion ist die zugfestigkeit <-> pain recognition im eeg
