@@ -78,4 +78,10 @@ grrrr, hat jetzt "nur" 10h gedauert bis dieses chemitroden ding draussen ist, un
 have fun ...
 
 
+Wed Jul 28 02:21:27 CEST 2021
+  81  688 6529 allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
+[main 7b231d37] save
+ 2 files changed, 39 insertions(+), 5 deletions(-)
+ create mode 100644 tagebuch/2021/juli/20210728.txt
+2a80060608ec56f79ae3aea37e4ebde105410e9d18277fcbd1b4bbe9f0036999e1d1982ec2c9fc0bebb44b61570c7e0dc6133ef0ea2079e958c203ac7de72380  allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
 
