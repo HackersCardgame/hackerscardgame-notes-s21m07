@@ -89,4 +89,10 @@ dann beim richtige greif position des tool centerpoints macht macht die ksa neur
 
 jeder state hat substates, mit mehr und mehr müll der aktiviert wird, dann hat es dinge in allen states wie zb der "automatismus" die pinzette so zu nehmen dass die falscje kante die nicht spitzig genug ist am an der greifposition ist
 
+dann winken die immer 1x richtig greifen durch damit man weiter macht
+
+die andere hand welche das gewebe festhält ist auch in deren 3d modell
+
+dann obfuscaten sich die substates gegenseitig
+
 
