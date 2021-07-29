@@ -214,4 +214,11 @@ andri margo allenfalls zeuge der auch einen Mia konzern im Nacken hat, die versu
 
 [1] bin nicht sicher ob das ein Künstlername ist, Screenshot
 
+Thu Jul 29 10:50:19 CEST 2021
+  217  1706 12819 20210729.txt
+[main 2e595201] save
+ 3 files changed, 4 insertions(+)
+ create mode 100755 TODO/esIstZuErwartenDassDieSchweizerArmeeAndriMargoGerneZumAmoklaeuferAbgerichtetHaetteMOS_Rosenkreuzer-02.PNG
+ create mode 100755 TODO/esIstZuErwartenDassDieSchweizerArmeeAndriMargoGerneZumAmoklaeuferAbgerichtetHaetteMOS_Rosenkreuzer.PNG
+5efce995e1d045f7f95628b7531009c87fff258ae97413ae18d992dfd819627dcb300d618a39254dc6e47c329aec7284adbe22b923319fe44a3cff1aa5b16992  20210729.txt
 
