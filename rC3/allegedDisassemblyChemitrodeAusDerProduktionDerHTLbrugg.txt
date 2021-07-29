@@ -142,4 +142,9 @@ dann code fingerprinting gesucht irgend eine verdammte 3d app für körper telem
 
 [1] fade zu pfisterer sprachsynthese, selbstbezichtung um sagen zu können dass er ja nicht so blöd wäre?
 
+Thu Jul 29 15:55:58 CEST 2021
+  145  1411 11642 allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
+[main 83ae611c] save
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+b6b66dc184f6da84bac24f1ebe786cb4250f5c8274352b7d0f6c12b8a8d39b432b9affe97a4a3b879457c962f38e4299db1756b394be5d21da5c4e9c38c3fe7d  allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
 
