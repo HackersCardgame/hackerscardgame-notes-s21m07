@@ -255,4 +255,9 @@ kind mit diesem spiel wo man mit dem hammer drauf schlagen muss, abrichten, stim
 ein konto wo jeder drauf buchen kann hat jemand mal bei abb flexibler automation ag gesagt, was dann (allenfalls auch später) auf marc jr landolt ist der dem man alle straftaten anhängen kann umdefiniert wurde, bzw. wurde so verucht an das karcher oder landolt vermögen zu kommen <- geld bla stelle ich immer schon mal in frage...
 
 
+Thu Jul 29 16:46:17 CEST 2021
+  258  2039 15466 20210729.txt
+[main 4ea8bd6b] save
+ 1 file changed, 3 insertions(+)
+eca67c91ca79b12971e9db453478749ac6fee31195a8c4ab64a215ed3a6d0a742720fe2710de4b2cbdd659b7222da5db23b61fed22235ee895eb593550d1fbf5  20210729.txt
 
