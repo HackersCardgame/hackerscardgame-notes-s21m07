@@ -197,4 +197,9 @@ ich:
 
 ich hätte gesagt es gibt einen gatekeeper bei Facebook der schweizer armee der da schaut welcher stream freigeschaltet wird und welcher nicht
 
+Thu Jul 29 08:44:43 CEST 2021
+  200  1530 11485 20210729.txt
+[main 397e2f2c] save
+ 1 file changed, 17 insertions(+)
+1124221902c490d56cb05617f5aef8cc8d216afb979422169cfda1624090fb973da136ce02c663a81bba4829d4e39a8c0c7202915651b5f1e09598d695bc17f5  20210729.txt
 
