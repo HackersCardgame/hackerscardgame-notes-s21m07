@@ -134,4 +134,9 @@ dann wenn man den richtigen winkel hat verstellen die einem irgendwie die stirnl
 
 uasserdem wird im 1 sekunden takt der kopf so z.B. nach unten gesteuert dass man die 2cm pro sekunde ncith merken würde
 
+Thu Jul 29 15:48:45 CEST 2021
+  137  1291 10818 allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
+[main 5f3d9c1b] save
+ 1 file changed, 4 insertions(+), 5 deletions(-)
+f2b97876b6d5529dfbcca5fc79a60eb5e0870413b5dbbcabd8f413ee2fd2547d511fbdae2a0308ca314aa47d326edafe33db4257f701f8175403d29efbe710b1  allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
 
