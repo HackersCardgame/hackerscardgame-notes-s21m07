@@ -359,14 +359,11 @@ p5 => p8: vorratsdaten && sozionentzwerk graph
 
 p10: bei allen fragen: war ein allfälligses implantat non-invasiv
 !p10 => p11: war es elektronik die sich z.B. innerhalb eines monats selber auflöst um die spuren zu vertuschen 
-p11 => p12: was treiben diese leute für ein behindetes spiel und war die zielperson allenfalls z.B. ein wichtiger zeuge oder der vater/muter der so permanent und endgültig traumatisiert werden sollte
+p11 => p12: was treiben diese leute für ein behindetes "spiel" [2] und war die zielperson allenfalls z.B. ein wichtiger zeuge oder der vater/muter der so permanent und endgültig traumatisiert werden sollte
 
 
 [1] einbelndung film: manchirian candidate -> die spitäler irgendwo in der wüste
 
-Thu Jul 29 20:30:36 CEST 2021
-  367  2740 21620 20210729.txt
-[main 8a63f095] save
- 1 file changed, 25 insertions(+)
-e6b9174521c1f2865439b991190e5b7365b0cc6652006e47c66b7ce75728280cd04405b5cbe926353a8c94779b8d3fa80cb1376aa68dddd6d037662becdc5fe9  20210729.txt
+[2] etwas wie ein schach mit realen menschen mit richtigen toten als wetteinsatz?
+
 
