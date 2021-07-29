@@ -366,4 +366,9 @@ p11 => p12: was treiben diese leute für ein behindetes "spiel" [2] und war die 
 
 [2] etwas wie ein schach mit realen menschen mit richtigen toten als wetteinsatz?
 
+Thu Jul 29 20:32:05 CEST 2021
+  369  2754 21709 20210729.txt
+[main c1eb18ee] save
+ 1 file changed, 3 insertions(+), 6 deletions(-)
+10ad30d8ce4231f591ccd01c2fba9fe9603dff88207a18a273d6a62b17bb0b24d0bf49f3d7400e5707f8e1c336a89551d9cae404d1ae2e8a2f4e4f715b6d60e4  20210729.txt
 
