@@ -380,9 +380,6 @@ deatil algorithmus: über stunden oder tage wird mit ganz kurzen bursts auf dem 
 
 raumüberwachung, 3d modell, objekte werden mit vektor zum ziel versehen, also da baut jemand solche kenttenreaktions dinger wie wir beim lehrer keusch im phyiskpraktium gebastelt haben oder das sind generische algorithmen
 
-Thu Jul 29 20:53:36 CEST 2021
-  383  2860 22585 20210729.txt
-[main 25939abe] save
- 1 file changed, 9 insertions(+)
-1d74f8b560ab5b6e725df670939140796895b87a0ed1c3e8bbe376d114a7a718182a5762d85c5521d7656264f06e30d0145eea68675414c384ec1480d1b4d942  20210729.txt
+da findet jemand weil das die idee von simpsons sei müsse ich jetzt lizenzgebühren an simpsons zahlen, aber der unterricht beim lehrer keusch vordatiert die folge also müsste simpsons an keusch zahlen...
+
 
