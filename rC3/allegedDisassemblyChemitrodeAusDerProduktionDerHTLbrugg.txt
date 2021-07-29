@@ -136,4 +136,9 @@ uasserdem wird im 1 sekunden takt der kopf so z.B. nach unten gesteuert dass man
 
 und wenn man dann das alles berücksichtige wäre das blöde projektil das jetzt draussen ist viel schneller draussen...
 
+Thu Jul 29 15:50:43 CEST 2021
+  139  1309 10940 allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
+[main 57ac3f2f] save
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+f0d28d8cc0375ac7288f7577445eb57a650abd63daf600cd7622cee357171dcae07fcd8b3f488873d54ffbba44425b61c7868b39b3c141842cd0c9f664dba46e  allegedDisassemblyChemitrodeAusDerProduktionDerHTLbrugg.txt
 
