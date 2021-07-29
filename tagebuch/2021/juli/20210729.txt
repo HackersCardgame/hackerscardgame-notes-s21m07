@@ -77,4 +77,9 @@ somit wäre dasd eine verschlüsselung: vater off by one zu nenen (den kleinen d
  
 [6] pfisterer: insert: schon
 
+Thu Jul 29 03:09:40 CEST 2021
+  80  563 4115 20210729.txt
+[main ab73ea37] save
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+20c582ffc407cbc2099916636b98d8ff63746a5f06bb66f2521e073d2a3e0aa8cba9a2e0aaba04942ad39346c346c7d6ec80dd04ec8daff7810aaa50d0925709  20210729.txt
 
