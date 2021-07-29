@@ -59,4 +59,9 @@ CC: @fedpolCH @Kapo_Aargau
 
 irgend ein hochrangiger der armee hocht im P&O des @kantonaargau  <-- das wäre das relevante
 
+Thu Jul 29 03:04:15 CEST 2021
+  62  359 2638 20210729.txt
+[main be58b3df] save
+ 1 file changed, 16 insertions(+)
+c3251d2190207c026f3f1a698256cd594810030f54e3a3141d7962b3a0e6d1c7078b23b3548ac0d4e0e067a7fc0f10e5bd5fee4e593862713f166f48a935655b  20210729.txt
 
