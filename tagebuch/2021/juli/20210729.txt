@@ -135,4 +135,9 @@ beim ausdruck fehlt jetzt genau die seite wo pfisterers & hindermanns drauf steh
 
 [7] margrit landolt <--> aare schuhaus <-> hindermanns <-> elektrowindel für beat ingold als beat 5 jahre alt war ??? <- [0] weiter verschleiern die herren psychiater/innen?
 
+Thu Jul 29 06:00:04 CEST 2021
+ 138 1073 7951 20210729.txt
+[main 0f324871] save
+ 1 file changed, 20 insertions(+)
+0f2e85827c23e307e700b85bde0f5169f4dbcad014d70752a09aa6e2c806747454eda3e38decf1a09ffefea8c99c3403bb0f8e05734ad128b7d349732f4b0a04  20210729.txt
 
