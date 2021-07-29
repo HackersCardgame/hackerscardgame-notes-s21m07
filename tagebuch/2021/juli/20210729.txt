@@ -70,7 +70,7 @@ mehrfach obfuscation pattern: [2,3,4] <- ereigniss horizon dominik landolt???
 
 [2] mein keliner bruder fasse frauen an den ...
 [3] meine keline schwester löse das aus 
-[4] blablabal
-
+[4] blablabal [5]
+[5] das jetzt mit david utz sprachsynthese nachgerendert worden <- ebd. GUID theft
 
 
