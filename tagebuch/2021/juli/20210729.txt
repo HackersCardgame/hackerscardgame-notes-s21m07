@@ -333,4 +333,10 @@ stellt man das jetzt auf dem Balkon hin kann man es als Ding brauchen dass die F
 
 bild selber git commit './TODO/ichFragMichWasDieMargritDaDranGestrichenHat.PNG'
 
+Thu Jul 29 20:00:44 CEST 2021
+  336  2539 20150 20210729.txt
+[main b3c1888a] save
+ 2 files changed, 10 insertions(+)
+ create mode 100755 TODO/ichFragMichWasDieMargritDaDranGestrichenHat.PNG
+fc6432d3bdcead80dcc449c56ed8e206e740678a4fd723d35324c0dc335431673ab19caa6d4b5e2777fad51158ea2d25a334116bbd639ccd2148b7d45390a4b0  20210729.txt
 
