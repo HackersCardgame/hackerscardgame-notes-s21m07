@@ -231,4 +231,10 @@ wir hätten in der lehre / berufsmatura so ein casio basic taschenrechner kaufen
 
 -> logischerweise waren all die programme und anleitungen und vorlagen für BASIC, also musste ich das auf der PRogrammeirsprache von dem HP taschenrechner alles selber erarbeiten was eigentlich förderlich ist und man so noch neben dem normalen unterricht eine weitere programmiersprache lernt
 
+Thu Jul 29 13:14:49 CEST 2021
+  234  1838 13989 20210729.txt
+[main 3d7725be] save
+ 2 files changed, 10 insertions(+)
+ create mode 100755 rC3/hp48gaur.pdf
+612c9bdf47eb2c71d4431892a2f21acf897132f8d4653606ab48085c2e081776a2aa8f9ff7760aaaee7e0c452d6fbb737707ab6f3b8e7f94758ed28d01da831a  20210729.txt
 
