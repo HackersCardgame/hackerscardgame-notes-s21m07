@@ -324,3 +324,13 @@ Thu Jul 29 17:48:27 CEST 2021
  1 file changed, 11 insertions(+)
 027afe7d752d3896ac2845758629c9bf81fe31ce7297fbbd826c2e35b7585296ccfede433ec28cef37109ff5115761fba6b0992890a9eae11c369c332816f9de  20210729.txt
 
+
+
+ich frag mich was die Margrit da dran gestrichen hat, dass sich all die Fliegen genau auf dem Ding sammel dass sie mir für die Küche fast aufgedrängt hat.
+
+Mitigation:
+stellt man das jetzt auf dem Balkon hin kann man es als Ding brauchen dass die Fliegen statt in meine Wohung gehen da daruf bleiben...
+
+bild selber git commit './TODO/ichFragMichWasDieMargritDaDranGestrichenHat.PNG'
+
+
