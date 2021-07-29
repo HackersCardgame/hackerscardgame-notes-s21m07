@@ -222,3 +222,13 @@ Thu Jul 29 10:50:19 CEST 2021
  create mode 100755 TODO/esIstZuErwartenDassDieSchweizerArmeeAndriMargoGerneZumAmoklaeuferAbgerichtetHaetteMOS_Rosenkreuzer.PNG
 5efce995e1d045f7f95628b7531009c87fff258ae97413ae18d992dfd819627dcb300d618a39254dc6e47c329aec7284adbe22b923319fe44a3cff1aa5b16992  20210729.txt
 
+
+dann allenfalls etwas was ein anti-sinnfreier tipp ist
+
+im selben git commit ist das handbuch zum hp 48gx
+
+wir hätten in der lehre / berufsmatura so ein casio basic taschenrechner kaufen müssen. der 16 jährige marc jr landolt hat aber gedacht er sei etwas besseres weil er basic schon seit 8 jahren vom c64 her kannte und hat dann ein hp48gx gekauft
+
+-> logischerweise waren all die programme und anleitungen und vorlagen für BASIC, also musste ich das auf der PRogrammeirsprache von dem HP taschenrechner alles selber erarbeiten was eigentlich förderlich ist und man so noch neben dem normalen unterricht eine weitere programmiersprache lernt
+
+
