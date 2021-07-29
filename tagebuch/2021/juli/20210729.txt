@@ -280,4 +280,9 @@ astird blum: das wird gelscht <- recog vorm ins bett gehen ncoh ein paar cybersp
 
 -> full screening aller verdächtingen und auch bei daniel turkier ein full screening...
 
+Thu Jul 29 17:21:42 CEST 2021
+  283  2261 17079 20210729.txt
+[main 5cb51a78] save
+ 1 file changed, 20 insertions(+)
+5c1725ae45ef9703c868be8a9c2852d50e9ec114c781b36f86eee89fe1e33ce93b697de25c4a12a0af56c310cf49bffa4cac82aa69c9a9bce892011a8b9427b4  20210729.txt
 
