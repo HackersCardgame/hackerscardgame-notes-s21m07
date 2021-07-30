@@ -259,4 +259,9 @@ unibasel hasset die unizürich <- [1]  was dann acuh irgendwie verallgemeindernd
 
 [1] klage: ich würde verallgemeintern <- auch schon wieder unlogisch; klage: ich hätte vorher verallgemeinert <- also hat schon mal jemand mit dem schleusener geredet von euch, der ist jetzt wirklcih nicht gerade begabt mit psychologie, also was macht der mensch dort, menschenexperimente oder straftaten vertuschenb?
 
+Fri Jul 30 22:26:06 CEST 2021
+  262  2004 14600 20210730.txt
+[main d879ff3d] save
+ 1 file changed, 23 insertions(+)
+4103f49053c3056fc6f3c6aceecd15e1cae0467538b325bdce81e621e1c70978fe2ebbe80946c93c3897d9dc6bc0925443ea849952b24aa1544207da831e51e1  20210730.txt
 
