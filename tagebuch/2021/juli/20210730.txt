@@ -108,4 +108,9 @@ State-Machine Truppen-koch-moral [1] ist jetzt glaub weider böse auf mich...
 
 [1] action prediction -> und da würde die statemachine dann das so abändern wollen für den truppenkoch (kannibale)
 
+Fri Jul 30 11:35:09 CEST 2021
+ 111  625 5081 20210730.txt
+[main 93dbb380] save
+ 1 file changed, 5 insertions(+)
+5af567ff247a1f304725b4cb614b7ec949b2a4d2a3a7280681ba028e3bf0690b3cd39858947762e5b62b275c7126c490c617241076c27f1ceca39474088bee50  20210730.txt
 
