@@ -267,4 +267,9 @@ Fri Jul 30 22:26:06 CEST 2021
 
 dann war auch noch eine frage, das mit dem "concentrig circles" von aversions-archetpyen-mongos (immer die die am meisten triebgstehert sind wo ich am wenigsten ertrage und am meisten triggerer) ob das allenfalls deep learing algi war der diese concentric circles so "organic" produzieirt hat?
 
+Fri Jul 30 22:28:08 CEST 2021
+  270  2068 15155 20210730.txt
+[main fa019b4b] save
+ 1 file changed, 3 insertions(+)
+4f4b74e22493d0cf9bfeecd252db283066bc29fd4a2d04a8f3fdb704b4274e0cb7ed95c439056db3ee24459d2fe11ad0f28b54d14474248ff726c0501dc4c0b9  20210730.txt
 
