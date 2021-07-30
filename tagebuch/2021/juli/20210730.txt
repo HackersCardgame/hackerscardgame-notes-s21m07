@@ -5,4 +5,11 @@ goodmoring cybervietnam
 
 ich glaub es #EnemyTerritory zu nennen ist ultimately correct -> siehe selber git commit
 
+Fri Jul 30 07:02:24 CEST 2021
+  8  26 166 20210730.txt
+[main 19b8bbce] save
+ 2 files changed, 565 insertions(+)
+ create mode 100755 rC3/Re  Reklamation per Einschreiben---das-wollt-ihr-nicht-wissen-aber-muss-man-wissen.eml
+ create mode 100644 tagebuch/2021/juli/20210730.txt
+1d6d3aff5addb95c2b1615ab1af58f33d64edd3701c78866b8687a17fb2b4e23065ce37fc23abb074b27f5d7c66b6a3a45f1efb8089b1e4770182c7859191d06  20210730.txt
 
