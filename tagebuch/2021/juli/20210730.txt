@@ -13,3 +13,17 @@ Fri Jul 30 07:02:24 CEST 2021
  create mode 100644 tagebuch/2021/juli/20210730.txt
 1d6d3aff5addb95c2b1615ab1af58f33d64edd3701c78866b8687a17fb2b4e23065ce37fc23abb074b27f5d7c66b6a3a45f1efb8089b1e4770182c7859191d06  20210730.txt
 
+
+
+ marc@DESKTOP-B99KF62:~$ figlet DEFCON 2
+ ____  _____ _____ ____ ___  _   _   ____
+|  _ \| ____|  ___/ ___/ _ \| \ | | |___ \
+| | | |  _| | |_ | |  | | | |  \| |   __) |
+| |_| | |___|  _|| |__| |_| | |\  |  / __/
+|____/|_____|_|   \____\___/|_| \_| |_____|
+
+
+medulla spinals ths hackt, ganze t41 firmware ausgewechselt / infiziert worden based on action recognition
+
+[DELETED] [REBUILT] nach dem etwas wie ien militär helikoter oben druch geflgen ist, military grade backdoors?
+
