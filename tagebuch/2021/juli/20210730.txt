@@ -49,4 +49,9 @@ nothing to commit, working tree clean
 
 footprinting / ennumeration durch das täternetwerk um die offiziere urs blum, simon härdi und allenfalls auch georg landolt
 
+Fri Jul 30 11:08:56 CEST 2021
+  52  253 2024 20210730.txt
+[main 046142df] save
+ 1 file changed, 3 insertions(+)
+9bd4514ab73c2a95fa13cc7a65c4db8fc2019fc85c25c0c1f7e8338eb8dd86fdd18c86506079e9376e1eb058658bf782423af2443268fcdddb21a8b1541be0c4  20210730.txt
 
