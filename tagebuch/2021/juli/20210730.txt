@@ -73,4 +73,9 @@ leak: die formulierung [1] "fishing crusade" verschleiert militär helikopter mi
 [1] biberstufe <-> kettensäge tobias moser im letzte sola der pfadi adler aarau spass an der kettensäge gehabt => revicitimizing derer die jetzt kidner haben und die in die pfadi gehen wie z.B. der marc haldimann v/o okapi?
 
 
+Fri Jul 30 11:24:35 CEST 2021
+  76  406 3305 20210730.txt
+[main ae09b32d] save
+ 1 file changed, 7 deletions(-)
+30a43b59da3093c373284aecd67c1369fe2bd5b07c5e165fdae7feead5cee56957f43aa7e0c90e51a64a05eb8991fb749be01234776d9645be3b20c30e4a1feb  20210730.txt
 
