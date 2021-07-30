@@ -275,6 +275,6 @@ Fri Jul 30 22:28:08 CEST 2021
 
 
 "innere" stimme: geh jetzt schlafen
-ich: ja genau, ich bin ja doooooof
+ich: ja genau, ich bin ja doooooof; FailDef += 2 energydrink
 
 
