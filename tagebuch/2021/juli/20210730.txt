@@ -126,4 +126,9 @@ Fri Jul 30 11:35:09 CEST 2021
  -> und alle ca 2 minuten beldet es jetzt ein ich soll den part6 der für morgen gedacht ist weil das sonst den part mit dem ermordeten knaben in detuschland übertünchen würde 
  -> und alle ca 2 minuten beldet es jetzt ein ich soll den part6 der für morgen gedacht ist weil das sonst den part mit dem ermordeten knaben in detuschland übertünchen würde 
 
+Fri Jul 30 11:36:13 CEST 2021
+ 129  933 6960 20210730.txt
+[main 3c1c86e3] save
+ 1 file changed, 13 insertions(+)
+e46ba87b29d91097e3cb87c94225e2f2a8b3389531e1378b9bd9ecada7ee6815f15f5cc58df350cff2a686a28fbca75231abaaa97e268326c8b5d4f3f00ba930  20210730.txt
 
