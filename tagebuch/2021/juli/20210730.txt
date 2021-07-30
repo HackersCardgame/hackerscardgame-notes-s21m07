@@ -47,3 +47,6 @@ Your branch is ahead of 'origin/main' by 1 commit.
 nothing to commit, working tree clean
 8ca0dc853faa0ff9e83e15373934a632b5758d7f7828f74cf13f979670ccde847db8ce6f5fa7599ec6a06b2fe71048a0e18171574a0ff29ad50488ef2bb3d515  20210730.txt
 
+footprinting / ennumeration durch das täternetwerk um die offiziere urs blum, simon härdi und allenfalls auch georg landolt
+
+
