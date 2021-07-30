@@ -89,3 +89,13 @@ Fri Jul 30 11:29:50 CEST 2021
  1 file changed, 5 insertions(+)
 08a562975a3fb6a262d519120b742f523f32a9aabbd391cab7ace8d5f21e2f48f13633cf496bee35254371b82063e275f4b6c7595c4ed408fe4d837cf687cdfb  20210730.txt
 
+
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m07$ figlet DEFCON 3
+ ____  _____ _____ ____ ___  _   _   _____
+|  _ \| ____|  ___/ ___/ _ \| \ | | |___ /
+| | | |  _| | |_ | |  | | | |  \| |   |_ \
+| |_| | |___|  _|| |__| |_| | |\  |  ___) |
+|____/|_____|_|   \____\___/|_| \_| |____/
+
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m07$
+
