@@ -1,0 +1,48 @@
+Sun Aug  1 00:00:50 CEST 2021
+0 0 0 20210801.txt
+
+gefahren-quellen
+gefahren-zonen
+gefahren-zeiten
+
+... ist haben (buchhaltung) für die täterschaft, z.B. am 1. August wo Feuerwerk abgelassen wird kann die KSA Neurologie Aarau tun und machen was sie will weil die KSA droht dann vermutlich damit Kinder abzufackeln oder Häuser oder Wälter abzufackeln, apropos 400 fehlenden Panzer der Schweizer Armee.
+
+positives: dieser 1. August ist wieder mal komplett verschifft, also Wälder abfackeln geht vermutlich nur mässig toll ->>>> massleak
+
+
+marc@DESKTOP-B99KF62:~$ figlet -f banner " . " -w 200 | sed -e "s/ /☆/g" | sed -e "s/#/★/g"
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★★★☆☆☆☆☆☆☆☆
+☆☆☆★★★☆☆☆☆☆☆☆☆
+☆☆☆★★★☆☆☆☆☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆☆
+☆☆☆★★☆☆☆☆★☆☆☆☆
+☆☆☆★☆★☆☆☆★☆☆☆☆
+☆☆☆★☆☆★☆☆★☆☆☆☆
+☆☆☆★☆☆☆★☆★☆☆☆☆
+☆☆☆★☆☆☆☆★★☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★★★★★★★☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆☆
+☆☆☆★★★★★☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★★★★★★★☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆☆
+☆☆☆★★★★★★★☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+
+
